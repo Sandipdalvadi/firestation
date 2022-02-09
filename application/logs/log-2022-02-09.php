@@ -6930,3 +6930,466 @@ DEBUG - 2022-02-09 15:58:11 --> Global POST, GET and COOKIE data sanitized
 INFO - 2022-02-09 15:58:11 --> Input Class Initialized
 INFO - 2022-02-09 15:58:11 --> Language Class Initialized
 ERROR - 2022-02-09 15:58:11 --> 404 Page Not Found: Assets/images
+INFO - 2022-02-09 16:03:18 --> Config Class Initialized
+INFO - 2022-02-09 16:03:18 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:03:18 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:03:18 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:03:18 --> URI Class Initialized
+INFO - 2022-02-09 16:03:18 --> Router Class Initialized
+INFO - 2022-02-09 16:03:18 --> Output Class Initialized
+INFO - 2022-02-09 16:03:18 --> Security Class Initialized
+DEBUG - 2022-02-09 16:03:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:03:18 --> Input Class Initialized
+INFO - 2022-02-09 16:03:18 --> Language Class Initialized
+INFO - 2022-02-09 16:03:18 --> Loader Class Initialized
+INFO - 2022-02-09 16:03:18 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:03:18 --> Helper loaded: file_helper
+INFO - 2022-02-09 16:03:18 --> Helper loaded: idex_helper
+INFO - 2022-02-09 16:03:18 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:03:18 --> Email Class Initialized
+INFO - 2022-02-09 16:03:18 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 16:03:18 --> Controller Class Initialized
+INFO - 2022-02-09 16:03:18 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:03:18 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:03:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 16:03:18 --> Model Class Initialized
+DEBUG - 2022-02-09 16:03:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 16:03:18 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
+INFO - 2022-02-09 16:03:18 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
+INFO - 2022-02-09 16:03:18 --> File loaded: C:\xampp\htdocs\firestation\application\views\exitingvhlists.php
+INFO - 2022-02-09 16:03:18 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
+INFO - 2022-02-09 16:03:18 --> Final output sent to browser
+DEBUG - 2022-02-09 16:03:18 --> Total execution time: 0.7210
+INFO - 2022-02-09 16:03:19 --> Config Class Initialized
+INFO - 2022-02-09 16:03:19 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:03:20 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:03:20 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:03:20 --> Config Class Initialized
+INFO - 2022-02-09 16:03:20 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:03:20 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:03:20 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:03:20 --> URI Class Initialized
+INFO - 2022-02-09 16:03:20 --> URI Class Initialized
+INFO - 2022-02-09 16:03:20 --> Router Class Initialized
+INFO - 2022-02-09 16:03:20 --> Router Class Initialized
+INFO - 2022-02-09 16:03:20 --> Output Class Initialized
+INFO - 2022-02-09 16:03:20 --> Output Class Initialized
+INFO - 2022-02-09 16:03:20 --> Security Class Initialized
+INFO - 2022-02-09 16:03:20 --> Security Class Initialized
+DEBUG - 2022-02-09 16:03:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-02-09 16:03:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:03:20 --> Input Class Initialized
+INFO - 2022-02-09 16:03:20 --> Input Class Initialized
+INFO - 2022-02-09 16:03:20 --> Language Class Initialized
+ERROR - 2022-02-09 16:03:20 --> 404 Page Not Found: Assetsadmin/vendor_components
+INFO - 2022-02-09 16:03:20 --> Language Class Initialized
+ERROR - 2022-02-09 16:03:20 --> 404 Page Not Found: Assets/vendor_components
+INFO - 2022-02-09 16:03:21 --> Config Class Initialized
+INFO - 2022-02-09 16:03:21 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:03:21 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:03:21 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:03:21 --> URI Class Initialized
+INFO - 2022-02-09 16:03:21 --> Router Class Initialized
+INFO - 2022-02-09 16:03:21 --> Output Class Initialized
+INFO - 2022-02-09 16:03:21 --> Security Class Initialized
+DEBUG - 2022-02-09 16:03:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:03:21 --> Input Class Initialized
+INFO - 2022-02-09 16:03:21 --> Language Class Initialized
+ERROR - 2022-02-09 16:03:21 --> 404 Page Not Found: Assets/images
+INFO - 2022-02-09 16:03:22 --> Config Class Initialized
+INFO - 2022-02-09 16:03:22 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:03:22 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:03:22 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:03:22 --> URI Class Initialized
+INFO - 2022-02-09 16:03:22 --> Router Class Initialized
+INFO - 2022-02-09 16:03:22 --> Output Class Initialized
+INFO - 2022-02-09 16:03:22 --> Security Class Initialized
+DEBUG - 2022-02-09 16:03:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:03:22 --> Input Class Initialized
+INFO - 2022-02-09 16:03:22 --> Language Class Initialized
+ERROR - 2022-02-09 16:03:22 --> 404 Page Not Found: Assetsadmin/vendor_components
+INFO - 2022-02-09 16:03:22 --> Config Class Initialized
+INFO - 2022-02-09 16:03:22 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:03:22 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:03:22 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:03:22 --> URI Class Initialized
+INFO - 2022-02-09 16:03:22 --> Router Class Initialized
+INFO - 2022-02-09 16:03:22 --> Output Class Initialized
+INFO - 2022-02-09 16:03:22 --> Security Class Initialized
+DEBUG - 2022-02-09 16:03:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:03:22 --> Input Class Initialized
+INFO - 2022-02-09 16:03:22 --> Language Class Initialized
+ERROR - 2022-02-09 16:03:22 --> 404 Page Not Found: Assets/vendor_components
+INFO - 2022-02-09 16:03:39 --> Config Class Initialized
+INFO - 2022-02-09 16:03:39 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:03:39 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:03:39 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:03:39 --> URI Class Initialized
+INFO - 2022-02-09 16:03:39 --> Router Class Initialized
+INFO - 2022-02-09 16:03:39 --> Output Class Initialized
+INFO - 2022-02-09 16:03:39 --> Security Class Initialized
+DEBUG - 2022-02-09 16:03:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:03:39 --> Input Class Initialized
+INFO - 2022-02-09 16:03:39 --> Language Class Initialized
+INFO - 2022-02-09 16:03:39 --> Loader Class Initialized
+INFO - 2022-02-09 16:03:39 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:03:39 --> Helper loaded: file_helper
+INFO - 2022-02-09 16:03:39 --> Helper loaded: idex_helper
+INFO - 2022-02-09 16:03:39 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:03:39 --> Email Class Initialized
+INFO - 2022-02-09 16:03:39 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 16:03:39 --> Controller Class Initialized
+INFO - 2022-02-09 16:03:39 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:03:39 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:03:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 16:03:39 --> Model Class Initialized
+DEBUG - 2022-02-09 16:03:39 --> Session class already loaded. Second attempt ignored.
+ERROR - 2022-02-09 16:03:39 --> Query error: Table 'tsp_logistics.login_history' doesn't exist - Invalid query: UPDATE `login_history` SET `logout_time` = '2022-02-09 16:03:39'
+WHERE (login_id='89' AND emp_id='89')
+INFO - 2022-02-09 16:03:39 --> Config Class Initialized
+INFO - 2022-02-09 16:03:39 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:03:39 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:03:39 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:03:39 --> URI Class Initialized
+DEBUG - 2022-02-09 16:03:39 --> No URI present. Default controller set.
+INFO - 2022-02-09 16:03:39 --> Router Class Initialized
+INFO - 2022-02-09 16:03:39 --> Output Class Initialized
+INFO - 2022-02-09 16:03:39 --> Security Class Initialized
+DEBUG - 2022-02-09 16:03:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:03:39 --> Input Class Initialized
+INFO - 2022-02-09 16:03:39 --> Language Class Initialized
+INFO - 2022-02-09 16:03:39 --> Loader Class Initialized
+INFO - 2022-02-09 16:03:39 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:03:39 --> Helper loaded: file_helper
+INFO - 2022-02-09 16:03:39 --> Helper loaded: idex_helper
+INFO - 2022-02-09 16:03:39 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:03:39 --> Email Class Initialized
+INFO - 2022-02-09 16:03:39 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 16:03:39 --> Controller Class Initialized
+INFO - 2022-02-09 16:03:39 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:03:39 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:03:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 16:03:39 --> Model Class Initialized
+DEBUG - 2022-02-09 16:03:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 16:03:39 --> Config Class Initialized
+INFO - 2022-02-09 16:03:39 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:03:39 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:03:39 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:03:39 --> URI Class Initialized
+INFO - 2022-02-09 16:03:39 --> Router Class Initialized
+INFO - 2022-02-09 16:03:39 --> Output Class Initialized
+INFO - 2022-02-09 16:03:39 --> Security Class Initialized
+DEBUG - 2022-02-09 16:03:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:03:39 --> Input Class Initialized
+INFO - 2022-02-09 16:03:39 --> Language Class Initialized
+INFO - 2022-02-09 16:03:39 --> Loader Class Initialized
+INFO - 2022-02-09 16:03:39 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:03:39 --> Helper loaded: file_helper
+INFO - 2022-02-09 16:03:39 --> Helper loaded: idex_helper
+INFO - 2022-02-09 16:03:39 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:03:39 --> Email Class Initialized
+INFO - 2022-02-09 16:03:39 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 16:03:39 --> Controller Class Initialized
+INFO - 2022-02-09 16:03:39 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:03:39 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:03:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 16:03:39 --> Model Class Initialized
+DEBUG - 2022-02-09 16:03:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 16:03:39 --> File loaded: C:\xampp\htdocs\firestation\application\views\login.php
+INFO - 2022-02-09 16:03:39 --> Final output sent to browser
+DEBUG - 2022-02-09 16:03:39 --> Total execution time: 0.1493
+INFO - 2022-02-09 16:03:40 --> Config Class Initialized
+INFO - 2022-02-09 16:03:40 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:03:40 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:03:40 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:03:40 --> URI Class Initialized
+INFO - 2022-02-09 16:03:40 --> Router Class Initialized
+INFO - 2022-02-09 16:03:40 --> Output Class Initialized
+INFO - 2022-02-09 16:03:40 --> Security Class Initialized
+DEBUG - 2022-02-09 16:03:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:03:40 --> Input Class Initialized
+INFO - 2022-02-09 16:03:40 --> Language Class Initialized
+ERROR - 2022-02-09 16:03:40 --> 404 Page Not Found: Assets/img
+INFO - 2022-02-09 16:03:53 --> Config Class Initialized
+INFO - 2022-02-09 16:03:53 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:03:53 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:03:53 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:03:53 --> URI Class Initialized
+INFO - 2022-02-09 16:03:53 --> Router Class Initialized
+INFO - 2022-02-09 16:03:53 --> Output Class Initialized
+INFO - 2022-02-09 16:03:53 --> Security Class Initialized
+DEBUG - 2022-02-09 16:03:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:03:53 --> Input Class Initialized
+INFO - 2022-02-09 16:03:53 --> Language Class Initialized
+INFO - 2022-02-09 16:03:53 --> Loader Class Initialized
+INFO - 2022-02-09 16:03:53 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:03:53 --> Helper loaded: file_helper
+INFO - 2022-02-09 16:03:53 --> Helper loaded: idex_helper
+INFO - 2022-02-09 16:03:53 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:03:53 --> Email Class Initialized
+INFO - 2022-02-09 16:03:53 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 16:03:53 --> Controller Class Initialized
+INFO - 2022-02-09 16:03:53 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:03:53 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:03:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 16:03:53 --> Model Class Initialized
+DEBUG - 2022-02-09 16:03:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 16:03:53 --> Config Class Initialized
+INFO - 2022-02-09 16:03:53 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:03:53 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:03:53 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:03:53 --> URI Class Initialized
+DEBUG - 2022-02-09 16:03:53 --> No URI present. Default controller set.
+INFO - 2022-02-09 16:03:53 --> Router Class Initialized
+INFO - 2022-02-09 16:03:53 --> Output Class Initialized
+INFO - 2022-02-09 16:03:53 --> Security Class Initialized
+DEBUG - 2022-02-09 16:03:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:03:53 --> Input Class Initialized
+INFO - 2022-02-09 16:03:53 --> Language Class Initialized
+INFO - 2022-02-09 16:03:53 --> Loader Class Initialized
+INFO - 2022-02-09 16:03:53 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:03:53 --> Helper loaded: file_helper
+INFO - 2022-02-09 16:03:53 --> Helper loaded: idex_helper
+INFO - 2022-02-09 16:03:53 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:03:53 --> Email Class Initialized
+INFO - 2022-02-09 16:03:53 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 16:03:53 --> Controller Class Initialized
+INFO - 2022-02-09 16:03:53 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:03:53 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:03:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 16:03:53 --> Model Class Initialized
+DEBUG - 2022-02-09 16:03:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 16:03:53 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
+INFO - 2022-02-09 16:03:53 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
+INFO - 2022-02-09 16:03:53 --> File loaded: C:\xampp\htdocs\firestation\application\views\dashboard.php
+INFO - 2022-02-09 16:03:53 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
+INFO - 2022-02-09 16:03:53 --> Final output sent to browser
+DEBUG - 2022-02-09 16:03:53 --> Total execution time: 0.1977
+INFO - 2022-02-09 16:03:54 --> Config Class Initialized
+INFO - 2022-02-09 16:03:54 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:03:54 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:03:54 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:03:54 --> URI Class Initialized
+INFO - 2022-02-09 16:03:54 --> Router Class Initialized
+INFO - 2022-02-09 16:03:54 --> Config Class Initialized
+INFO - 2022-02-09 16:03:54 --> Output Class Initialized
+INFO - 2022-02-09 16:03:54 --> Hooks Class Initialized
+INFO - 2022-02-09 16:03:54 --> Security Class Initialized
+DEBUG - 2022-02-09 16:03:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-02-09 16:03:54 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:03:54 --> Input Class Initialized
+INFO - 2022-02-09 16:03:54 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:03:54 --> Language Class Initialized
+INFO - 2022-02-09 16:03:54 --> URI Class Initialized
+ERROR - 2022-02-09 16:03:54 --> 404 Page Not Found: Assetsadmin/vendor_components
+INFO - 2022-02-09 16:03:54 --> Router Class Initialized
+INFO - 2022-02-09 16:03:54 --> Output Class Initialized
+INFO - 2022-02-09 16:03:54 --> Security Class Initialized
+DEBUG - 2022-02-09 16:03:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:03:54 --> Input Class Initialized
+INFO - 2022-02-09 16:03:54 --> Language Class Initialized
+ERROR - 2022-02-09 16:03:54 --> 404 Page Not Found: Assets/vendor_components
+INFO - 2022-02-09 16:03:55 --> Config Class Initialized
+INFO - 2022-02-09 16:03:55 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:03:55 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:03:55 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:03:55 --> URI Class Initialized
+INFO - 2022-02-09 16:03:55 --> Router Class Initialized
+INFO - 2022-02-09 16:03:55 --> Output Class Initialized
+INFO - 2022-02-09 16:03:55 --> Security Class Initialized
+DEBUG - 2022-02-09 16:03:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:03:55 --> Input Class Initialized
+INFO - 2022-02-09 16:03:55 --> Language Class Initialized
+ERROR - 2022-02-09 16:03:55 --> 404 Page Not Found: Assets/images
+INFO - 2022-02-09 16:03:56 --> Config Class Initialized
+INFO - 2022-02-09 16:03:56 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:03:56 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:03:56 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:03:56 --> URI Class Initialized
+INFO - 2022-02-09 16:03:56 --> Router Class Initialized
+INFO - 2022-02-09 16:03:56 --> Output Class Initialized
+INFO - 2022-02-09 16:03:56 --> Security Class Initialized
+DEBUG - 2022-02-09 16:03:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:03:56 --> Input Class Initialized
+INFO - 2022-02-09 16:03:56 --> Language Class Initialized
+ERROR - 2022-02-09 16:03:56 --> 404 Page Not Found: Assets/vendor_components
+INFO - 2022-02-09 16:04:04 --> Config Class Initialized
+INFO - 2022-02-09 16:04:04 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:04:04 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:04:04 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:04:04 --> URI Class Initialized
+INFO - 2022-02-09 16:04:04 --> Router Class Initialized
+INFO - 2022-02-09 16:04:04 --> Output Class Initialized
+INFO - 2022-02-09 16:04:04 --> Security Class Initialized
+DEBUG - 2022-02-09 16:04:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:04:04 --> Input Class Initialized
+INFO - 2022-02-09 16:04:04 --> Language Class Initialized
+INFO - 2022-02-09 16:04:04 --> Loader Class Initialized
+INFO - 2022-02-09 16:04:04 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:04:04 --> Helper loaded: file_helper
+INFO - 2022-02-09 16:04:04 --> Helper loaded: idex_helper
+INFO - 2022-02-09 16:04:04 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:04:04 --> Email Class Initialized
+INFO - 2022-02-09 16:04:04 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 16:04:04 --> Controller Class Initialized
+INFO - 2022-02-09 16:04:04 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:04:04 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:04:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 16:04:04 --> Model Class Initialized
+DEBUG - 2022-02-09 16:04:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 16:04:04 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
+INFO - 2022-02-09 16:04:04 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
+INFO - 2022-02-09 16:04:04 --> File loaded: C:\xampp\htdocs\firestation\application\views\exitingvhlistsfs.php
+INFO - 2022-02-09 16:04:04 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
+INFO - 2022-02-09 16:04:04 --> Final output sent to browser
+DEBUG - 2022-02-09 16:04:04 --> Total execution time: 0.3765
+INFO - 2022-02-09 16:04:05 --> Config Class Initialized
+INFO - 2022-02-09 16:04:05 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:04:05 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:04:05 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:04:05 --> URI Class Initialized
+INFO - 2022-02-09 16:04:05 --> Config Class Initialized
+INFO - 2022-02-09 16:04:05 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:04:05 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:04:05 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:04:05 --> URI Class Initialized
+INFO - 2022-02-09 16:04:05 --> Router Class Initialized
+INFO - 2022-02-09 16:04:05 --> Router Class Initialized
+INFO - 2022-02-09 16:04:05 --> Output Class Initialized
+INFO - 2022-02-09 16:04:05 --> Security Class Initialized
+DEBUG - 2022-02-09 16:04:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:04:05 --> Input Class Initialized
+INFO - 2022-02-09 16:04:05 --> Language Class Initialized
+ERROR - 2022-02-09 16:04:05 --> 404 Page Not Found: Assetsadmin/vendor_components
+INFO - 2022-02-09 16:04:05 --> Output Class Initialized
+INFO - 2022-02-09 16:04:05 --> Security Class Initialized
+DEBUG - 2022-02-09 16:04:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:04:05 --> Input Class Initialized
+INFO - 2022-02-09 16:04:05 --> Language Class Initialized
+ERROR - 2022-02-09 16:04:05 --> 404 Page Not Found: Assets/vendor_components
+INFO - 2022-02-09 16:04:05 --> Config Class Initialized
+INFO - 2022-02-09 16:04:05 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:04:05 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:04:05 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:04:05 --> URI Class Initialized
+INFO - 2022-02-09 16:04:05 --> Router Class Initialized
+INFO - 2022-02-09 16:04:05 --> Output Class Initialized
+INFO - 2022-02-09 16:04:05 --> Security Class Initialized
+DEBUG - 2022-02-09 16:04:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:04:05 --> Input Class Initialized
+INFO - 2022-02-09 16:04:05 --> Language Class Initialized
+ERROR - 2022-02-09 16:04:05 --> 404 Page Not Found: Assets/images
+INFO - 2022-02-09 16:04:05 --> Config Class Initialized
+INFO - 2022-02-09 16:04:05 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:04:05 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:04:05 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:04:05 --> URI Class Initialized
+INFO - 2022-02-09 16:04:05 --> Router Class Initialized
+INFO - 2022-02-09 16:04:05 --> Output Class Initialized
+INFO - 2022-02-09 16:04:05 --> Security Class Initialized
+DEBUG - 2022-02-09 16:04:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:04:05 --> Input Class Initialized
+INFO - 2022-02-09 16:04:05 --> Language Class Initialized
+ERROR - 2022-02-09 16:04:05 --> 404 Page Not Found: Assetsadmin/vendor_components
+INFO - 2022-02-09 16:04:05 --> Config Class Initialized
+INFO - 2022-02-09 16:04:05 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:04:05 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:04:05 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:04:05 --> URI Class Initialized
+INFO - 2022-02-09 16:04:05 --> Router Class Initialized
+INFO - 2022-02-09 16:04:05 --> Output Class Initialized
+INFO - 2022-02-09 16:04:05 --> Security Class Initialized
+DEBUG - 2022-02-09 16:04:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:04:05 --> Input Class Initialized
+INFO - 2022-02-09 16:04:06 --> Language Class Initialized
+ERROR - 2022-02-09 16:04:06 --> 404 Page Not Found: Assets/vendor_components
+INFO - 2022-02-09 16:08:39 --> Config Class Initialized
+INFO - 2022-02-09 16:08:39 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:08:39 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:08:39 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:08:39 --> URI Class Initialized
+INFO - 2022-02-09 16:08:39 --> Router Class Initialized
+INFO - 2022-02-09 16:08:39 --> Output Class Initialized
+INFO - 2022-02-09 16:08:39 --> Security Class Initialized
+DEBUG - 2022-02-09 16:08:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:08:39 --> Input Class Initialized
+INFO - 2022-02-09 16:08:39 --> Language Class Initialized
+INFO - 2022-02-09 16:08:39 --> Loader Class Initialized
+INFO - 2022-02-09 16:08:39 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:08:39 --> Helper loaded: file_helper
+INFO - 2022-02-09 16:08:39 --> Helper loaded: idex_helper
+INFO - 2022-02-09 16:08:39 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:08:39 --> Email Class Initialized
+INFO - 2022-02-09 16:08:39 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 16:08:39 --> Controller Class Initialized
+INFO - 2022-02-09 16:08:39 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:08:39 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:08:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 16:08:39 --> Model Class Initialized
+DEBUG - 2022-02-09 16:08:39 --> Session class already loaded. Second attempt ignored.
+ERROR - 2022-02-09 16:08:39 --> Query error: Table 'tsp_logistics.login_history' doesn't exist - Invalid query: UPDATE `login_history` SET `logout_time` = '2022-02-09 16:08:39'
+WHERE (login_id='89' AND emp_id='89')
+INFO - 2022-02-09 16:08:39 --> Config Class Initialized
+INFO - 2022-02-09 16:08:39 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:08:39 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:08:39 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:08:39 --> URI Class Initialized
+DEBUG - 2022-02-09 16:08:39 --> No URI present. Default controller set.
+INFO - 2022-02-09 16:08:39 --> Router Class Initialized
+INFO - 2022-02-09 16:08:39 --> Output Class Initialized
+INFO - 2022-02-09 16:08:39 --> Security Class Initialized
+DEBUG - 2022-02-09 16:08:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:08:39 --> Input Class Initialized
+INFO - 2022-02-09 16:08:39 --> Language Class Initialized
+INFO - 2022-02-09 16:08:39 --> Loader Class Initialized
+INFO - 2022-02-09 16:08:39 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:08:39 --> Helper loaded: file_helper
+INFO - 2022-02-09 16:08:39 --> Helper loaded: idex_helper
+INFO - 2022-02-09 16:08:39 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:08:39 --> Email Class Initialized
+INFO - 2022-02-09 16:08:39 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 16:08:39 --> Controller Class Initialized
+INFO - 2022-02-09 16:08:39 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:08:39 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:08:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 16:08:39 --> Model Class Initialized
+DEBUG - 2022-02-09 16:08:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 16:08:39 --> Config Class Initialized
+INFO - 2022-02-09 16:08:39 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:08:39 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:08:39 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:08:39 --> URI Class Initialized
+INFO - 2022-02-09 16:08:39 --> Router Class Initialized
+INFO - 2022-02-09 16:08:39 --> Output Class Initialized
+INFO - 2022-02-09 16:08:39 --> Security Class Initialized
+DEBUG - 2022-02-09 16:08:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:08:39 --> Input Class Initialized
+INFO - 2022-02-09 16:08:39 --> Language Class Initialized
+INFO - 2022-02-09 16:08:39 --> Loader Class Initialized
+INFO - 2022-02-09 16:08:39 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:08:39 --> Helper loaded: file_helper
+INFO - 2022-02-09 16:08:39 --> Helper loaded: idex_helper
+INFO - 2022-02-09 16:08:39 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:08:39 --> Email Class Initialized
+INFO - 2022-02-09 16:08:39 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 16:08:39 --> Controller Class Initialized
+INFO - 2022-02-09 16:08:39 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:08:39 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:08:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 16:08:39 --> Model Class Initialized
+DEBUG - 2022-02-09 16:08:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 16:08:39 --> File loaded: C:\xampp\htdocs\firestation\application\views\login.php
+INFO - 2022-02-09 16:08:39 --> Final output sent to browser
+DEBUG - 2022-02-09 16:08:39 --> Total execution time: 0.1465
+INFO - 2022-02-09 16:08:40 --> Config Class Initialized
+INFO - 2022-02-09 16:08:40 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:08:40 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:08:40 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:08:40 --> URI Class Initialized
+INFO - 2022-02-09 16:08:40 --> Router Class Initialized
+INFO - 2022-02-09 16:08:40 --> Output Class Initialized
+INFO - 2022-02-09 16:08:40 --> Security Class Initialized
+DEBUG - 2022-02-09 16:08:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:08:40 --> Input Class Initialized
+INFO - 2022-02-09 16:08:40 --> Language Class Initialized
+ERROR - 2022-02-09 16:08:40 --> 404 Page Not Found: Assets/img
