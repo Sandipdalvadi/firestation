@@ -322,7 +322,7 @@ die;
 	         $tender_id2 = $row2["tender_id"];
 	         if($tender_id != $tender_id2 )
 	         {
-	             $pending_main_stock = $pending_main_stock + $main_stock;
+	             $pending_main_stock = $main_stock;
 	         }
 	         else
 	         {
