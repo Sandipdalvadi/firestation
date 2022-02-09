@@ -170,9 +170,16 @@
 						<label class="col-sm-6 col-form-label" class="">RC registration Date *</label>
                         <div class="form-group row">
 						<input type="date" class="form-control datepicker" name="dlrDate" value="<?php if (!empty($_POST['dlrDate']))  echo $_POST['dlrDate']; ?>" placeholder="Please choose a date..." required>
+                            
                         </div>  
 						<div class="error"><?php if(!empty($error["dlrDate"])) echo $error["dlrDate"]; ?>
 						</div></div> 
+                        <div class="input-group">
+                            <label class="col-sm-6 col-form-label" class="">RC Upload</label>
+                            <div class="form-group row">
+                                <input type="file" name="rc_upload" class="form-control">
+                            </div>
+                        </div>
 						
 						<div class="input-group">
 						<label class="col-sm-6 col-form-label" class="">RC Expiry Date </label>
@@ -188,7 +195,12 @@
 						<div class="input-group">
 						<label class="col-sm-6 col-form-label" class="">Present Condition of Vehicles</label>
                         <div class="form-group row">
-						<input type="text" class="form-control" name="present_condition" value="<?php if (!empty($_POST['present_condition']))  echo $_POST['present_condition']; ?>" >
+                            <select class="form-control" name="present_condition">
+                                <option value="">Select Present Condition of Vehicles</option>
+                                <option value="1">Road worthy</option>
+                                <option value="2">un roadworthy</option>
+                            </select>
+						
                         </div>  
 						<div class="error"><?php if(!empty($error["slNo"])) echo $error["slNo"]; ?>
 						</div></div> 	

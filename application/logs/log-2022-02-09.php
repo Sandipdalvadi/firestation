@@ -3452,6002 +3452,12 @@ INFO - 2022-02-09 13:55:33 --> Form Validation Class Initialized
 DEBUG - 2022-02-09 13:55:33 --> Session class already loaded. Second attempt ignored.
 INFO - 2022-02-09 13:55:33 --> Model Class Initialized
 DEBUG - 2022-02-09 13:55:33 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:03:28 --> Config Class Initialized
-INFO - 2022-02-09 15:03:28 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:03:28 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:03:28 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:03:28 --> URI Class Initialized
-INFO - 2022-02-09 15:03:28 --> Router Class Initialized
-INFO - 2022-02-09 15:03:28 --> Output Class Initialized
-INFO - 2022-02-09 15:03:28 --> Security Class Initialized
-DEBUG - 2022-02-09 15:03:28 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:03:28 --> Input Class Initialized
-INFO - 2022-02-09 15:03:28 --> Language Class Initialized
-INFO - 2022-02-09 15:03:28 --> Loader Class Initialized
-INFO - 2022-02-09 15:03:28 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:03:28 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:03:28 --> Database Driver Class Initialized
-ERROR - 2022-02-09 15:03:28 --> Severity: error --> Exception: Access denied for user 'root'@'localhost' (using password: YES) C:\xampp\htdocs\fire\system\database\drivers\mysqli\mysqli_driver.php 201
-INFO - 2022-02-09 15:03:37 --> Config Class Initialized
-INFO - 2022-02-09 15:03:37 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:03:37 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:03:37 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:03:37 --> URI Class Initialized
-DEBUG - 2022-02-09 15:03:37 --> No URI present. Default controller set.
-INFO - 2022-02-09 15:03:37 --> Router Class Initialized
-INFO - 2022-02-09 15:03:37 --> Output Class Initialized
-INFO - 2022-02-09 15:03:37 --> Security Class Initialized
-DEBUG - 2022-02-09 15:03:37 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:03:37 --> Input Class Initialized
-INFO - 2022-02-09 15:03:37 --> Language Class Initialized
-INFO - 2022-02-09 15:03:37 --> Loader Class Initialized
-INFO - 2022-02-09 15:03:37 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:03:37 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:03:37 --> Database Driver Class Initialized
-ERROR - 2022-02-09 15:03:37 --> Severity: error --> Exception: Access denied for user 'root'@'localhost' (using password: YES) C:\xampp\htdocs\fire\system\database\drivers\mysqli\mysqli_driver.php 201
-INFO - 2022-02-09 15:04:29 --> Config Class Initialized
-INFO - 2022-02-09 15:04:29 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:04:29 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:04:29 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:04:29 --> URI Class Initialized
-INFO - 2022-02-09 15:04:29 --> Router Class Initialized
-INFO - 2022-02-09 15:04:29 --> Output Class Initialized
-INFO - 2022-02-09 15:04:29 --> Security Class Initialized
-DEBUG - 2022-02-09 15:04:29 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:04:29 --> Input Class Initialized
-INFO - 2022-02-09 15:04:29 --> Language Class Initialized
-INFO - 2022-02-09 15:04:29 --> Loader Class Initialized
-INFO - 2022-02-09 15:04:29 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:04:29 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:04:29 --> Database Driver Class Initialized
-ERROR - 2022-02-09 15:04:30 --> Severity: error --> Exception: Access denied for user 'root'@'localhost' (using password: YES) C:\xampp\htdocs\fire\system\database\drivers\mysqli\mysqli_driver.php 201
-INFO - 2022-02-09 15:05:03 --> Config Class Initialized
-INFO - 2022-02-09 15:05:03 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:05:03 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:05:03 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:05:03 --> URI Class Initialized
-INFO - 2022-02-09 15:05:03 --> Router Class Initialized
-INFO - 2022-02-09 15:05:03 --> Output Class Initialized
-INFO - 2022-02-09 15:05:03 --> Security Class Initialized
-DEBUG - 2022-02-09 15:05:03 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:05:03 --> Input Class Initialized
-INFO - 2022-02-09 15:05:03 --> Language Class Initialized
-INFO - 2022-02-09 15:05:03 --> Loader Class Initialized
-INFO - 2022-02-09 15:05:03 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:05:03 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:05:03 --> Database Driver Class Initialized
-ERROR - 2022-02-09 15:05:03 --> Severity: error --> Exception: Access denied for user 'root'@'localhost' (using password: YES) C:\xampp\htdocs\fire\system\database\drivers\mysqli\mysqli_driver.php 201
-INFO - 2022-02-09 15:05:25 --> Config Class Initialized
-INFO - 2022-02-09 15:05:25 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:05:25 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:05:25 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:05:25 --> URI Class Initialized
-INFO - 2022-02-09 15:05:25 --> Router Class Initialized
-INFO - 2022-02-09 15:05:25 --> Output Class Initialized
-INFO - 2022-02-09 15:05:25 --> Security Class Initialized
-DEBUG - 2022-02-09 15:05:25 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:05:25 --> Input Class Initialized
-INFO - 2022-02-09 15:05:25 --> Language Class Initialized
-INFO - 2022-02-09 15:05:25 --> Loader Class Initialized
-INFO - 2022-02-09 15:05:25 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:05:25 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:05:25 --> Database Driver Class Initialized
-ERROR - 2022-02-09 15:05:25 --> Severity: error --> Exception: Access denied for user 'root'@'localhost' (using password: YES) C:\xampp\htdocs\fire\system\database\drivers\mysqli\mysqli_driver.php 201
-INFO - 2022-02-09 15:08:54 --> Config Class Initialized
-INFO - 2022-02-09 15:08:54 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:54 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:54 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:54 --> URI Class Initialized
-INFO - 2022-02-09 15:08:54 --> Router Class Initialized
-INFO - 2022-02-09 15:08:54 --> Output Class Initialized
-INFO - 2022-02-09 15:08:54 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:54 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:54 --> Input Class Initialized
-INFO - 2022-02-09 15:08:54 --> Language Class Initialized
-INFO - 2022-02-09 15:08:54 --> Loader Class Initialized
-INFO - 2022-02-09 15:08:54 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:08:54 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:08:54 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:08:54 --> Email Class Initialized
-INFO - 2022-02-09 15:08:54 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:08:54 --> Controller Class Initialized
-INFO - 2022-02-09 15:08:54 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:08:54 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:08:54 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:08:54 --> Model Class Initialized
-DEBUG - 2022-02-09 15:08:54 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:08:54 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:08:54 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:08:54 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:08:55 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-INFO - 2022-02-09 15:08:55 --> File loaded: C:\xampp\htdocs\firestation\application\views\distributiontodist.php
-INFO - 2022-02-09 15:08:55 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
-INFO - 2022-02-09 15:08:55 --> Final output sent to browser
-DEBUG - 2022-02-09 15:08:55 --> Total execution time: 0.2253
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/img
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/img
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assetsadmin/vendor_components
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/vendor_components
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:55 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-DEBUG - 2022-02-09 15:08:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:55 --> Input Class Initialized
-INFO - 2022-02-09 15:08:55 --> Language Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-ERROR - 2022-02-09 15:08:55 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:55 --> Router Class Initialized
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:08:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> URI Class Initialized
-INFO - 2022-02-09 15:08:55 --> Output Class Initialized
-INFO - 2022-02-09 15:08:55 --> Config Class Initialized
-INFO - 2022-02-09 15:08:55 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assetscustom/libs
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:56 --> Config Class Initialized
-INFO - 2022-02-09 15:08:56 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Config Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-INFO - 2022-02-09 15:08:56 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:56 --> Config Class Initialized
-INFO - 2022-02-09 15:08:56 --> Hooks Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Config Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-INFO - 2022-02-09 15:08:56 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Config Class Initialized
-INFO - 2022-02-09 15:08:56 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:56 --> Config Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:56 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assetscustom/js
-INFO - 2022-02-09 15:08:56 --> Config Class Initialized
-INFO - 2022-02-09 15:08:56 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:56 --> Config Class Initialized
-INFO - 2022-02-09 15:08:56 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:56 --> Config Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:56 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:56 --> Config Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-INFO - 2022-02-09 15:08:56 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:56 --> Config Class Initialized
-INFO - 2022-02-09 15:08:56 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-INFO - 2022-02-09 15:08:56 --> Config Class Initialized
-INFO - 2022-02-09 15:08:56 --> Config Class Initialized
-INFO - 2022-02-09 15:08:56 --> Hooks Class Initialized
-INFO - 2022-02-09 15:08:56 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assets/img
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-INFO - 2022-02-09 15:08:56 --> Config Class Initialized
-INFO - 2022-02-09 15:08:56 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:56 --> Config Class Initialized
-INFO - 2022-02-09 15:08:56 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:56 --> Config Class Initialized
-INFO - 2022-02-09 15:08:56 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:56 --> Config Class Initialized
-INFO - 2022-02-09 15:08:56 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:56 --> Config Class Initialized
-INFO - 2022-02-09 15:08:56 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:56 --> Config Class Initialized
-INFO - 2022-02-09 15:08:56 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:56 --> Config Class Initialized
-INFO - 2022-02-09 15:08:56 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:56 --> Config Class Initialized
-INFO - 2022-02-09 15:08:56 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:56 --> Config Class Initialized
-INFO - 2022-02-09 15:08:56 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:56 --> Config Class Initialized
-INFO - 2022-02-09 15:08:56 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:56 --> Config Class Initialized
-INFO - 2022-02-09 15:08:56 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assetsadmin/vendor_components
-INFO - 2022-02-09 15:08:56 --> Config Class Initialized
-INFO - 2022-02-09 15:08:56 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assets/vendor_components
-INFO - 2022-02-09 15:08:56 --> Config Class Initialized
-INFO - 2022-02-09 15:08:56 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:56 --> URI Class Initialized
-INFO - 2022-02-09 15:08:56 --> Router Class Initialized
-INFO - 2022-02-09 15:08:56 --> Output Class Initialized
-INFO - 2022-02-09 15:08:56 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:56 --> Input Class Initialized
-INFO - 2022-02-09 15:08:56 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:56 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:57 --> Config Class Initialized
-INFO - 2022-02-09 15:08:57 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:57 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:57 --> URI Class Initialized
-INFO - 2022-02-09 15:08:57 --> Router Class Initialized
-INFO - 2022-02-09 15:08:57 --> Output Class Initialized
-INFO - 2022-02-09 15:08:57 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:57 --> Input Class Initialized
-INFO - 2022-02-09 15:08:57 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:57 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:57 --> Config Class Initialized
-INFO - 2022-02-09 15:08:57 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:57 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:57 --> URI Class Initialized
-INFO - 2022-02-09 15:08:57 --> Router Class Initialized
-INFO - 2022-02-09 15:08:57 --> Output Class Initialized
-INFO - 2022-02-09 15:08:57 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:57 --> Input Class Initialized
-INFO - 2022-02-09 15:08:57 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:57 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:57 --> Config Class Initialized
-INFO - 2022-02-09 15:08:57 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:57 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:57 --> URI Class Initialized
-INFO - 2022-02-09 15:08:57 --> Router Class Initialized
-INFO - 2022-02-09 15:08:57 --> Output Class Initialized
-INFO - 2022-02-09 15:08:57 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:57 --> Input Class Initialized
-INFO - 2022-02-09 15:08:57 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:57 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:57 --> Config Class Initialized
-INFO - 2022-02-09 15:08:57 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:57 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:57 --> URI Class Initialized
-INFO - 2022-02-09 15:08:57 --> Router Class Initialized
-INFO - 2022-02-09 15:08:57 --> Output Class Initialized
-INFO - 2022-02-09 15:08:57 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:57 --> Input Class Initialized
-INFO - 2022-02-09 15:08:57 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:57 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:57 --> Config Class Initialized
-INFO - 2022-02-09 15:08:57 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:57 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:57 --> URI Class Initialized
-INFO - 2022-02-09 15:08:57 --> Router Class Initialized
-INFO - 2022-02-09 15:08:57 --> Output Class Initialized
-INFO - 2022-02-09 15:08:57 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:57 --> Input Class Initialized
-INFO - 2022-02-09 15:08:57 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:57 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:57 --> Config Class Initialized
-INFO - 2022-02-09 15:08:57 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:57 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:57 --> URI Class Initialized
-INFO - 2022-02-09 15:08:57 --> Router Class Initialized
-INFO - 2022-02-09 15:08:57 --> Output Class Initialized
-INFO - 2022-02-09 15:08:57 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:57 --> Input Class Initialized
-INFO - 2022-02-09 15:08:57 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:57 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:57 --> Config Class Initialized
-INFO - 2022-02-09 15:08:57 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:57 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:57 --> URI Class Initialized
-INFO - 2022-02-09 15:08:57 --> Router Class Initialized
-INFO - 2022-02-09 15:08:57 --> Output Class Initialized
-INFO - 2022-02-09 15:08:57 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:57 --> Input Class Initialized
-INFO - 2022-02-09 15:08:57 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:57 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:08:57 --> Config Class Initialized
-INFO - 2022-02-09 15:08:57 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:57 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:57 --> URI Class Initialized
-INFO - 2022-02-09 15:08:57 --> Router Class Initialized
-INFO - 2022-02-09 15:08:57 --> Output Class Initialized
-INFO - 2022-02-09 15:08:57 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:57 --> Input Class Initialized
-INFO - 2022-02-09 15:08:57 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:57 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:57 --> Config Class Initialized
-INFO - 2022-02-09 15:08:57 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:57 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:57 --> URI Class Initialized
-INFO - 2022-02-09 15:08:57 --> Router Class Initialized
-INFO - 2022-02-09 15:08:57 --> Output Class Initialized
-INFO - 2022-02-09 15:08:57 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:57 --> Input Class Initialized
-INFO - 2022-02-09 15:08:57 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:57 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:57 --> Config Class Initialized
-INFO - 2022-02-09 15:08:57 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:57 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:57 --> URI Class Initialized
-INFO - 2022-02-09 15:08:57 --> Router Class Initialized
-INFO - 2022-02-09 15:08:57 --> Output Class Initialized
-INFO - 2022-02-09 15:08:57 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:57 --> Input Class Initialized
-INFO - 2022-02-09 15:08:57 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:57 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:57 --> Config Class Initialized
-INFO - 2022-02-09 15:08:57 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:57 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:57 --> URI Class Initialized
-INFO - 2022-02-09 15:08:57 --> Router Class Initialized
-INFO - 2022-02-09 15:08:57 --> Output Class Initialized
-INFO - 2022-02-09 15:08:57 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:57 --> Input Class Initialized
-INFO - 2022-02-09 15:08:57 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:57 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:57 --> Config Class Initialized
-INFO - 2022-02-09 15:08:57 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:57 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:57 --> URI Class Initialized
-INFO - 2022-02-09 15:08:57 --> Router Class Initialized
-INFO - 2022-02-09 15:08:57 --> Output Class Initialized
-INFO - 2022-02-09 15:08:57 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:57 --> Input Class Initialized
-INFO - 2022-02-09 15:08:57 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:57 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:57 --> Config Class Initialized
-INFO - 2022-02-09 15:08:57 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:57 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:57 --> URI Class Initialized
-INFO - 2022-02-09 15:08:57 --> Router Class Initialized
-INFO - 2022-02-09 15:08:57 --> Output Class Initialized
-INFO - 2022-02-09 15:08:57 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:57 --> Input Class Initialized
-INFO - 2022-02-09 15:08:57 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:57 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:57 --> Config Class Initialized
-INFO - 2022-02-09 15:08:57 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:57 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:57 --> URI Class Initialized
-INFO - 2022-02-09 15:08:57 --> Router Class Initialized
-INFO - 2022-02-09 15:08:57 --> Output Class Initialized
-INFO - 2022-02-09 15:08:57 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:57 --> Input Class Initialized
-INFO - 2022-02-09 15:08:57 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:57 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:57 --> Config Class Initialized
-INFO - 2022-02-09 15:08:57 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:57 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:57 --> URI Class Initialized
-INFO - 2022-02-09 15:08:57 --> Router Class Initialized
-INFO - 2022-02-09 15:08:57 --> Output Class Initialized
-INFO - 2022-02-09 15:08:57 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:57 --> Input Class Initialized
-INFO - 2022-02-09 15:08:57 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:57 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:57 --> Config Class Initialized
-INFO - 2022-02-09 15:08:57 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:57 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:57 --> URI Class Initialized
-INFO - 2022-02-09 15:08:57 --> Router Class Initialized
-INFO - 2022-02-09 15:08:57 --> Output Class Initialized
-INFO - 2022-02-09 15:08:57 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:57 --> Input Class Initialized
-INFO - 2022-02-09 15:08:57 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:57 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:57 --> Config Class Initialized
-INFO - 2022-02-09 15:08:57 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:57 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:57 --> URI Class Initialized
-INFO - 2022-02-09 15:08:57 --> Router Class Initialized
-INFO - 2022-02-09 15:08:57 --> Output Class Initialized
-INFO - 2022-02-09 15:08:57 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:57 --> Input Class Initialized
-INFO - 2022-02-09 15:08:57 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:57 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:57 --> Config Class Initialized
-INFO - 2022-02-09 15:08:57 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:57 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:57 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:57 --> URI Class Initialized
-INFO - 2022-02-09 15:08:57 --> Router Class Initialized
-INFO - 2022-02-09 15:08:58 --> Output Class Initialized
-INFO - 2022-02-09 15:08:58 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:58 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:58 --> Input Class Initialized
-INFO - 2022-02-09 15:08:58 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:58 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:58 --> Config Class Initialized
-INFO - 2022-02-09 15:08:58 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:58 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:58 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:58 --> URI Class Initialized
-INFO - 2022-02-09 15:08:58 --> Router Class Initialized
-INFO - 2022-02-09 15:08:58 --> Output Class Initialized
-INFO - 2022-02-09 15:08:58 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:58 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:58 --> Input Class Initialized
-INFO - 2022-02-09 15:08:58 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:58 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:58 --> Config Class Initialized
-INFO - 2022-02-09 15:08:58 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:58 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:58 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:58 --> URI Class Initialized
-INFO - 2022-02-09 15:08:58 --> Router Class Initialized
-INFO - 2022-02-09 15:08:58 --> Output Class Initialized
-INFO - 2022-02-09 15:08:58 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:58 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:58 --> Input Class Initialized
-INFO - 2022-02-09 15:08:58 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:58 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:58 --> Config Class Initialized
-INFO - 2022-02-09 15:08:58 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:58 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:58 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:58 --> URI Class Initialized
-INFO - 2022-02-09 15:08:58 --> Router Class Initialized
-INFO - 2022-02-09 15:08:58 --> Output Class Initialized
-INFO - 2022-02-09 15:08:58 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:58 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:58 --> Input Class Initialized
-INFO - 2022-02-09 15:08:58 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:58 --> 404 Page Not Found: Assetscustom/js
-INFO - 2022-02-09 15:08:58 --> Config Class Initialized
-INFO - 2022-02-09 15:08:58 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:58 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:58 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:58 --> URI Class Initialized
-INFO - 2022-02-09 15:08:58 --> Router Class Initialized
-INFO - 2022-02-09 15:08:58 --> Output Class Initialized
-INFO - 2022-02-09 15:08:58 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:58 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:58 --> Input Class Initialized
-INFO - 2022-02-09 15:08:58 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:58 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:58 --> Config Class Initialized
-INFO - 2022-02-09 15:08:58 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:58 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:58 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:58 --> URI Class Initialized
-INFO - 2022-02-09 15:08:58 --> Router Class Initialized
-INFO - 2022-02-09 15:08:58 --> Output Class Initialized
-INFO - 2022-02-09 15:08:58 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:58 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:58 --> Input Class Initialized
-INFO - 2022-02-09 15:08:58 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:58 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:58 --> Config Class Initialized
-INFO - 2022-02-09 15:08:58 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:58 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:58 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:58 --> URI Class Initialized
-INFO - 2022-02-09 15:08:58 --> Router Class Initialized
-INFO - 2022-02-09 15:08:58 --> Output Class Initialized
-INFO - 2022-02-09 15:08:58 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:58 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:58 --> Input Class Initialized
-INFO - 2022-02-09 15:08:58 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:58 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:08:58 --> Config Class Initialized
-INFO - 2022-02-09 15:08:58 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:08:58 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:08:58 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:08:58 --> URI Class Initialized
-INFO - 2022-02-09 15:08:58 --> Router Class Initialized
-INFO - 2022-02-09 15:08:58 --> Output Class Initialized
-INFO - 2022-02-09 15:08:58 --> Security Class Initialized
-DEBUG - 2022-02-09 15:08:58 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:08:58 --> Input Class Initialized
-INFO - 2022-02-09 15:08:58 --> Language Class Initialized
-ERROR - 2022-02-09 15:08:58 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:11 --> Config Class Initialized
-INFO - 2022-02-09 15:09:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:11 --> URI Class Initialized
-INFO - 2022-02-09 15:09:11 --> Router Class Initialized
-INFO - 2022-02-09 15:09:11 --> Output Class Initialized
-INFO - 2022-02-09 15:09:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:11 --> Input Class Initialized
-INFO - 2022-02-09 15:09:11 --> Language Class Initialized
-INFO - 2022-02-09 15:09:11 --> Loader Class Initialized
-INFO - 2022-02-09 15:09:11 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:09:11 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:09:11 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:09:11 --> Email Class Initialized
-INFO - 2022-02-09 15:09:11 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:09:11 --> Controller Class Initialized
-INFO - 2022-02-09 15:09:11 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:09:11 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:09:11 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:09:11 --> Model Class Initialized
-DEBUG - 2022-02-09 15:09:11 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:09:11 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:09:11 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:11 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-INFO - 2022-02-09 15:09:11 --> File loaded: C:\xampp\htdocs\firestation\application\views\distributiontodist.php
-INFO - 2022-02-09 15:09:11 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
-INFO - 2022-02-09 15:09:11 --> Final output sent to browser
-DEBUG - 2022-02-09 15:09:11 --> Total execution time: 0.1955
-INFO - 2022-02-09 15:09:13 --> Config Class Initialized
-INFO - 2022-02-09 15:09:13 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:13 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:13 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:13 --> URI Class Initialized
-INFO - 2022-02-09 15:09:13 --> Router Class Initialized
-INFO - 2022-02-09 15:09:13 --> Output Class Initialized
-INFO - 2022-02-09 15:09:13 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:13 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:13 --> Input Class Initialized
-INFO - 2022-02-09 15:09:13 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:13 --> 404 Page Not Found: Images/favicon.ico
-INFO - 2022-02-09 15:09:47 --> Config Class Initialized
-INFO - 2022-02-09 15:09:47 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:47 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:47 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:47 --> URI Class Initialized
-INFO - 2022-02-09 15:09:47 --> Router Class Initialized
-INFO - 2022-02-09 15:09:47 --> Output Class Initialized
-INFO - 2022-02-09 15:09:47 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:47 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:47 --> Input Class Initialized
-INFO - 2022-02-09 15:09:47 --> Language Class Initialized
-INFO - 2022-02-09 15:09:47 --> Loader Class Initialized
-INFO - 2022-02-09 15:09:47 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:09:47 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:09:47 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:09:47 --> Email Class Initialized
-INFO - 2022-02-09 15:09:47 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:09:47 --> Controller Class Initialized
-INFO - 2022-02-09 15:09:47 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:09:47 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:09:47 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:09:47 --> Model Class Initialized
-DEBUG - 2022-02-09 15:09:47 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:09:47 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:09:47 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:09:47 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-INFO - 2022-02-09 15:09:47 --> File loaded: C:\xampp\htdocs\firestation\application\views\distributiontodist.php
-INFO - 2022-02-09 15:09:47 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
-INFO - 2022-02-09 15:09:47 --> Final output sent to browser
-DEBUG - 2022-02-09 15:09:47 --> Total execution time: 0.2300
-INFO - 2022-02-09 15:09:47 --> Config Class Initialized
-INFO - 2022-02-09 15:09:47 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:47 --> Config Class Initialized
-INFO - 2022-02-09 15:09:47 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:47 --> Config Class Initialized
-INFO - 2022-02-09 15:09:47 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:47 --> UTF-8 Support Enabled
-DEBUG - 2022-02-09 15:09:47 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:47 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:47 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:47 --> URI Class Initialized
-INFO - 2022-02-09 15:09:47 --> URI Class Initialized
-DEBUG - 2022-02-09 15:09:47 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:47 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:47 --> Router Class Initialized
-INFO - 2022-02-09 15:09:47 --> Config Class Initialized
-INFO - 2022-02-09 15:09:47 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:47 --> URI Class Initialized
-INFO - 2022-02-09 15:09:47 --> Router Class Initialized
-INFO - 2022-02-09 15:09:47 --> Router Class Initialized
-DEBUG - 2022-02-09 15:09:47 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:47 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:47 --> Output Class Initialized
-INFO - 2022-02-09 15:09:47 --> URI Class Initialized
-INFO - 2022-02-09 15:09:47 --> Output Class Initialized
-INFO - 2022-02-09 15:09:47 --> Security Class Initialized
-INFO - 2022-02-09 15:09:47 --> Router Class Initialized
-INFO - 2022-02-09 15:09:47 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:47 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:47 --> Input Class Initialized
-DEBUG - 2022-02-09 15:09:47 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:47 --> Input Class Initialized
-INFO - 2022-02-09 15:09:47 --> Output Class Initialized
-INFO - 2022-02-09 15:09:47 --> Language Class Initialized
-INFO - 2022-02-09 15:09:47 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:47 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:47 --> Security Class Initialized
-ERROR - 2022-02-09 15:09:47 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:09:47 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:47 --> Input Class Initialized
-INFO - 2022-02-09 15:09:47 --> Language Class Initialized
-INFO - 2022-02-09 15:09:47 --> Config Class Initialized
-INFO - 2022-02-09 15:09:47 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:47 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:47 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:47 --> URI Class Initialized
-INFO - 2022-02-09 15:09:47 --> Router Class Initialized
-INFO - 2022-02-09 15:09:47 --> Output Class Initialized
-INFO - 2022-02-09 15:09:47 --> Output Class Initialized
-INFO - 2022-02-09 15:09:47 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:47 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:47 --> Input Class Initialized
-INFO - 2022-02-09 15:09:47 --> Security Class Initialized
-INFO - 2022-02-09 15:09:47 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:47 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:47 --> Config Class Initialized
-DEBUG - 2022-02-09 15:09:47 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:47 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:47 --> Input Class Initialized
-ERROR - 2022-02-09 15:09:47 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:47 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:47 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:09:47 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:47 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:47 --> URI Class Initialized
-INFO - 2022-02-09 15:09:47 --> Router Class Initialized
-INFO - 2022-02-09 15:09:47 --> Output Class Initialized
-INFO - 2022-02-09 15:09:47 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:47 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:47 --> Input Class Initialized
-INFO - 2022-02-09 15:09:47 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:47 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:47 --> Config Class Initialized
-INFO - 2022-02-09 15:09:47 --> Config Class Initialized
-INFO - 2022-02-09 15:09:47 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:47 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:47 --> UTF-8 Support Enabled
-DEBUG - 2022-02-09 15:09:47 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:47 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:47 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:47 --> URI Class Initialized
-INFO - 2022-02-09 15:09:47 --> URI Class Initialized
-INFO - 2022-02-09 15:09:47 --> Router Class Initialized
-INFO - 2022-02-09 15:09:47 --> Router Class Initialized
-INFO - 2022-02-09 15:09:47 --> Output Class Initialized
-INFO - 2022-02-09 15:09:47 --> Output Class Initialized
-INFO - 2022-02-09 15:09:47 --> Security Class Initialized
-INFO - 2022-02-09 15:09:47 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:47 --> Global POST, GET and COOKIE data sanitized
-DEBUG - 2022-02-09 15:09:47 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:47 --> Input Class Initialized
-INFO - 2022-02-09 15:09:47 --> Input Class Initialized
-INFO - 2022-02-09 15:09:47 --> Config Class Initialized
-INFO - 2022-02-09 15:09:47 --> Language Class Initialized
-INFO - 2022-02-09 15:09:47 --> Language Class Initialized
-INFO - 2022-02-09 15:09:47 --> Hooks Class Initialized
-ERROR - 2022-02-09 15:09:47 --> 404 Page Not Found: Assets/admin
-ERROR - 2022-02-09 15:09:47 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:09:47 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:47 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:47 --> URI Class Initialized
-INFO - 2022-02-09 15:09:47 --> Router Class Initialized
-INFO - 2022-02-09 15:09:47 --> Output Class Initialized
-INFO - 2022-02-09 15:09:47 --> Config Class Initialized
-INFO - 2022-02-09 15:09:47 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:47 --> Security Class Initialized
-INFO - 2022-02-09 15:09:47 --> Config Class Initialized
-INFO - 2022-02-09 15:09:47 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:47 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:47 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:09:47 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:47 --> Input Class Initialized
-INFO - 2022-02-09 15:09:47 --> URI Class Initialized
-INFO - 2022-02-09 15:09:47 --> Config Class Initialized
-INFO - 2022-02-09 15:09:47 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:47 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:47 --> Language Class Initialized
-INFO - 2022-02-09 15:09:47 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:47 --> Router Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assets/admin
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assets/img
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assets/img
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assets/vendor_components
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assetsadmin/vendor_components
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assetscustom/libs
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assetscustom/libs
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assetscustom/libs
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assetscustom/js
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-INFO - 2022-02-09 15:09:48 --> Config Class Initialized
-INFO - 2022-02-09 15:09:48 --> Hooks Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> URI Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Router Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Output Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-INFO - 2022-02-09 15:09:48 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-DEBUG - 2022-02-09 15:09:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Input Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-INFO - 2022-02-09 15:09:48 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assets/img
-ERROR - 2022-02-09 15:09:48 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:49 --> Config Class Initialized
-INFO - 2022-02-09 15:09:49 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:49 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:49 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:49 --> URI Class Initialized
-INFO - 2022-02-09 15:09:49 --> Router Class Initialized
-INFO - 2022-02-09 15:09:49 --> Output Class Initialized
-INFO - 2022-02-09 15:09:49 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:49 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:49 --> Input Class Initialized
-INFO - 2022-02-09 15:09:49 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:49 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:49 --> Config Class Initialized
-INFO - 2022-02-09 15:09:49 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:49 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:49 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:49 --> URI Class Initialized
-INFO - 2022-02-09 15:09:49 --> Router Class Initialized
-INFO - 2022-02-09 15:09:49 --> Output Class Initialized
-INFO - 2022-02-09 15:09:49 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:49 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:49 --> Input Class Initialized
-INFO - 2022-02-09 15:09:49 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:49 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:49 --> Config Class Initialized
-INFO - 2022-02-09 15:09:49 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:49 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:49 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:49 --> URI Class Initialized
-INFO - 2022-02-09 15:09:49 --> Router Class Initialized
-INFO - 2022-02-09 15:09:49 --> Output Class Initialized
-INFO - 2022-02-09 15:09:49 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:49 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:49 --> Input Class Initialized
-INFO - 2022-02-09 15:09:49 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:49 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:49 --> Config Class Initialized
-INFO - 2022-02-09 15:09:49 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:49 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:49 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:49 --> URI Class Initialized
-INFO - 2022-02-09 15:09:49 --> Router Class Initialized
-INFO - 2022-02-09 15:09:49 --> Output Class Initialized
-INFO - 2022-02-09 15:09:49 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:49 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:49 --> Input Class Initialized
-INFO - 2022-02-09 15:09:49 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:49 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:49 --> Config Class Initialized
-INFO - 2022-02-09 15:09:49 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:49 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:49 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:49 --> URI Class Initialized
-INFO - 2022-02-09 15:09:49 --> Router Class Initialized
-INFO - 2022-02-09 15:09:49 --> Output Class Initialized
-INFO - 2022-02-09 15:09:49 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:49 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:49 --> Input Class Initialized
-INFO - 2022-02-09 15:09:49 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:49 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:49 --> Config Class Initialized
-INFO - 2022-02-09 15:09:49 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:49 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:49 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:49 --> URI Class Initialized
-INFO - 2022-02-09 15:09:49 --> Router Class Initialized
-INFO - 2022-02-09 15:09:49 --> Output Class Initialized
-INFO - 2022-02-09 15:09:49 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:49 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:49 --> Input Class Initialized
-INFO - 2022-02-09 15:09:49 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:49 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:49 --> Config Class Initialized
-INFO - 2022-02-09 15:09:49 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:49 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:49 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:49 --> URI Class Initialized
-INFO - 2022-02-09 15:09:49 --> Router Class Initialized
-INFO - 2022-02-09 15:09:49 --> Output Class Initialized
-INFO - 2022-02-09 15:09:49 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:49 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:49 --> Input Class Initialized
-INFO - 2022-02-09 15:09:49 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:49 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:49 --> Config Class Initialized
-INFO - 2022-02-09 15:09:49 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:49 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:49 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:49 --> URI Class Initialized
-INFO - 2022-02-09 15:09:49 --> Router Class Initialized
-INFO - 2022-02-09 15:09:49 --> Output Class Initialized
-INFO - 2022-02-09 15:09:49 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:49 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:49 --> Input Class Initialized
-INFO - 2022-02-09 15:09:49 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:49 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:49 --> Config Class Initialized
-INFO - 2022-02-09 15:09:49 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:49 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:49 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:49 --> URI Class Initialized
-INFO - 2022-02-09 15:09:49 --> Router Class Initialized
-INFO - 2022-02-09 15:09:49 --> Output Class Initialized
-INFO - 2022-02-09 15:09:49 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:49 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:49 --> Input Class Initialized
-INFO - 2022-02-09 15:09:49 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:49 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:49 --> Config Class Initialized
-INFO - 2022-02-09 15:09:49 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:49 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:49 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:49 --> URI Class Initialized
-INFO - 2022-02-09 15:09:49 --> Router Class Initialized
-INFO - 2022-02-09 15:09:49 --> Output Class Initialized
-INFO - 2022-02-09 15:09:49 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:49 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:49 --> Input Class Initialized
-INFO - 2022-02-09 15:09:49 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:49 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:49 --> Config Class Initialized
-INFO - 2022-02-09 15:09:49 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:49 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:49 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:49 --> URI Class Initialized
-INFO - 2022-02-09 15:09:49 --> Router Class Initialized
-INFO - 2022-02-09 15:09:49 --> Output Class Initialized
-INFO - 2022-02-09 15:09:49 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:49 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:49 --> Input Class Initialized
-INFO - 2022-02-09 15:09:49 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:49 --> 404 Page Not Found: Assetsadmin/vendor_components
-INFO - 2022-02-09 15:09:49 --> Config Class Initialized
-INFO - 2022-02-09 15:09:49 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:49 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:49 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:49 --> URI Class Initialized
-INFO - 2022-02-09 15:09:49 --> Router Class Initialized
-INFO - 2022-02-09 15:09:49 --> Output Class Initialized
-INFO - 2022-02-09 15:09:50 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:50 --> Input Class Initialized
-INFO - 2022-02-09 15:09:50 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:50 --> 404 Page Not Found: Assets/vendor_components
-INFO - 2022-02-09 15:09:50 --> Config Class Initialized
-INFO - 2022-02-09 15:09:50 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:50 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:50 --> URI Class Initialized
-INFO - 2022-02-09 15:09:50 --> Router Class Initialized
-INFO - 2022-02-09 15:09:50 --> Output Class Initialized
-INFO - 2022-02-09 15:09:50 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:50 --> Input Class Initialized
-INFO - 2022-02-09 15:09:50 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:50 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:50 --> Config Class Initialized
-INFO - 2022-02-09 15:09:50 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:50 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:50 --> URI Class Initialized
-INFO - 2022-02-09 15:09:50 --> Router Class Initialized
-INFO - 2022-02-09 15:09:50 --> Output Class Initialized
-INFO - 2022-02-09 15:09:50 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:50 --> Input Class Initialized
-INFO - 2022-02-09 15:09:50 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:50 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:50 --> Config Class Initialized
-INFO - 2022-02-09 15:09:50 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:50 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:50 --> URI Class Initialized
-INFO - 2022-02-09 15:09:50 --> Router Class Initialized
-INFO - 2022-02-09 15:09:50 --> Output Class Initialized
-INFO - 2022-02-09 15:09:50 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:50 --> Input Class Initialized
-INFO - 2022-02-09 15:09:50 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:50 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:50 --> Config Class Initialized
-INFO - 2022-02-09 15:09:50 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:50 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:50 --> URI Class Initialized
-INFO - 2022-02-09 15:09:50 --> Router Class Initialized
-INFO - 2022-02-09 15:09:50 --> Output Class Initialized
-INFO - 2022-02-09 15:09:50 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:50 --> Input Class Initialized
-INFO - 2022-02-09 15:09:50 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:50 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:50 --> Config Class Initialized
-INFO - 2022-02-09 15:09:50 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:50 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:50 --> URI Class Initialized
-INFO - 2022-02-09 15:09:50 --> Router Class Initialized
-INFO - 2022-02-09 15:09:50 --> Output Class Initialized
-INFO - 2022-02-09 15:09:50 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:50 --> Input Class Initialized
-INFO - 2022-02-09 15:09:50 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:50 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:50 --> Config Class Initialized
-INFO - 2022-02-09 15:09:50 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:50 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:50 --> URI Class Initialized
-INFO - 2022-02-09 15:09:50 --> Router Class Initialized
-INFO - 2022-02-09 15:09:50 --> Output Class Initialized
-INFO - 2022-02-09 15:09:50 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:50 --> Input Class Initialized
-INFO - 2022-02-09 15:09:50 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:50 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:50 --> Config Class Initialized
-INFO - 2022-02-09 15:09:50 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:50 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:50 --> URI Class Initialized
-INFO - 2022-02-09 15:09:50 --> Router Class Initialized
-INFO - 2022-02-09 15:09:50 --> Output Class Initialized
-INFO - 2022-02-09 15:09:50 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:50 --> Input Class Initialized
-INFO - 2022-02-09 15:09:50 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:50 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:50 --> Config Class Initialized
-INFO - 2022-02-09 15:09:50 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:50 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:50 --> URI Class Initialized
-INFO - 2022-02-09 15:09:50 --> Router Class Initialized
-INFO - 2022-02-09 15:09:50 --> Output Class Initialized
-INFO - 2022-02-09 15:09:50 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:50 --> Input Class Initialized
-INFO - 2022-02-09 15:09:50 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:50 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:09:50 --> Config Class Initialized
-INFO - 2022-02-09 15:09:50 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:50 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:50 --> URI Class Initialized
-INFO - 2022-02-09 15:09:50 --> Router Class Initialized
-INFO - 2022-02-09 15:09:50 --> Output Class Initialized
-INFO - 2022-02-09 15:09:50 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:50 --> Input Class Initialized
-INFO - 2022-02-09 15:09:50 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:50 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:50 --> Config Class Initialized
-INFO - 2022-02-09 15:09:50 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:50 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:50 --> URI Class Initialized
-INFO - 2022-02-09 15:09:50 --> Router Class Initialized
-INFO - 2022-02-09 15:09:50 --> Output Class Initialized
-INFO - 2022-02-09 15:09:50 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:50 --> Input Class Initialized
-INFO - 2022-02-09 15:09:50 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:50 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:50 --> Config Class Initialized
-INFO - 2022-02-09 15:09:50 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:50 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:50 --> URI Class Initialized
-INFO - 2022-02-09 15:09:50 --> Router Class Initialized
-INFO - 2022-02-09 15:09:50 --> Output Class Initialized
-INFO - 2022-02-09 15:09:50 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:50 --> Input Class Initialized
-INFO - 2022-02-09 15:09:50 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:50 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:50 --> Config Class Initialized
-INFO - 2022-02-09 15:09:50 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:50 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:50 --> URI Class Initialized
-INFO - 2022-02-09 15:09:50 --> Router Class Initialized
-INFO - 2022-02-09 15:09:50 --> Output Class Initialized
-INFO - 2022-02-09 15:09:50 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:50 --> Input Class Initialized
-INFO - 2022-02-09 15:09:50 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:50 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:50 --> Config Class Initialized
-INFO - 2022-02-09 15:09:50 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:50 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:50 --> URI Class Initialized
-INFO - 2022-02-09 15:09:50 --> Router Class Initialized
-INFO - 2022-02-09 15:09:50 --> Output Class Initialized
-INFO - 2022-02-09 15:09:50 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:50 --> Input Class Initialized
-INFO - 2022-02-09 15:09:50 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:50 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:50 --> Config Class Initialized
-INFO - 2022-02-09 15:09:50 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:50 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:50 --> URI Class Initialized
-INFO - 2022-02-09 15:09:50 --> Router Class Initialized
-INFO - 2022-02-09 15:09:50 --> Output Class Initialized
-INFO - 2022-02-09 15:09:50 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:50 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:50 --> Input Class Initialized
-INFO - 2022-02-09 15:09:50 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:50 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:51 --> Config Class Initialized
-INFO - 2022-02-09 15:09:51 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:51 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:51 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:51 --> URI Class Initialized
-INFO - 2022-02-09 15:09:51 --> Router Class Initialized
-INFO - 2022-02-09 15:09:51 --> Output Class Initialized
-INFO - 2022-02-09 15:09:51 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:51 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:51 --> Input Class Initialized
-INFO - 2022-02-09 15:09:51 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:51 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:51 --> Config Class Initialized
-INFO - 2022-02-09 15:09:51 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:51 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:51 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:51 --> URI Class Initialized
-INFO - 2022-02-09 15:09:51 --> Router Class Initialized
-INFO - 2022-02-09 15:09:51 --> Output Class Initialized
-INFO - 2022-02-09 15:09:51 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:51 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:51 --> Input Class Initialized
-INFO - 2022-02-09 15:09:51 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:51 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:51 --> Config Class Initialized
-INFO - 2022-02-09 15:09:51 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:51 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:51 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:51 --> URI Class Initialized
-INFO - 2022-02-09 15:09:51 --> Router Class Initialized
-INFO - 2022-02-09 15:09:51 --> Output Class Initialized
-INFO - 2022-02-09 15:09:51 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:51 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:51 --> Input Class Initialized
-INFO - 2022-02-09 15:09:51 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:51 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:51 --> Config Class Initialized
-INFO - 2022-02-09 15:09:51 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:51 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:51 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:51 --> URI Class Initialized
-INFO - 2022-02-09 15:09:51 --> Router Class Initialized
-INFO - 2022-02-09 15:09:51 --> Output Class Initialized
-INFO - 2022-02-09 15:09:51 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:51 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:51 --> Input Class Initialized
-INFO - 2022-02-09 15:09:51 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:51 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:51 --> Config Class Initialized
-INFO - 2022-02-09 15:09:51 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:51 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:51 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:51 --> URI Class Initialized
-INFO - 2022-02-09 15:09:51 --> Router Class Initialized
-INFO - 2022-02-09 15:09:51 --> Output Class Initialized
-INFO - 2022-02-09 15:09:51 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:51 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:51 --> Input Class Initialized
-INFO - 2022-02-09 15:09:51 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:51 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:51 --> Config Class Initialized
-INFO - 2022-02-09 15:09:51 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:51 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:51 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:51 --> URI Class Initialized
-INFO - 2022-02-09 15:09:51 --> Router Class Initialized
-INFO - 2022-02-09 15:09:51 --> Output Class Initialized
-INFO - 2022-02-09 15:09:51 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:51 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:51 --> Input Class Initialized
-INFO - 2022-02-09 15:09:51 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:51 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:51 --> Config Class Initialized
-INFO - 2022-02-09 15:09:51 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:51 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:51 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:51 --> URI Class Initialized
-INFO - 2022-02-09 15:09:51 --> Router Class Initialized
-INFO - 2022-02-09 15:09:51 --> Output Class Initialized
-INFO - 2022-02-09 15:09:51 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:51 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:51 --> Input Class Initialized
-INFO - 2022-02-09 15:09:51 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:51 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:51 --> Config Class Initialized
-INFO - 2022-02-09 15:09:51 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:51 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:51 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:51 --> URI Class Initialized
-INFO - 2022-02-09 15:09:51 --> Router Class Initialized
-INFO - 2022-02-09 15:09:51 --> Output Class Initialized
-INFO - 2022-02-09 15:09:51 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:51 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:51 --> Input Class Initialized
-INFO - 2022-02-09 15:09:51 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:51 --> 404 Page Not Found: Assetscustom/js
-INFO - 2022-02-09 15:09:51 --> Config Class Initialized
-INFO - 2022-02-09 15:09:51 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:51 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:51 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:51 --> URI Class Initialized
-INFO - 2022-02-09 15:09:51 --> Router Class Initialized
-INFO - 2022-02-09 15:09:51 --> Output Class Initialized
-INFO - 2022-02-09 15:09:51 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:51 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:51 --> Input Class Initialized
-INFO - 2022-02-09 15:09:51 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:51 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:51 --> Config Class Initialized
-INFO - 2022-02-09 15:09:51 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:51 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:51 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:51 --> URI Class Initialized
-INFO - 2022-02-09 15:09:51 --> Router Class Initialized
-INFO - 2022-02-09 15:09:51 --> Output Class Initialized
-INFO - 2022-02-09 15:09:51 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:51 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:51 --> Input Class Initialized
-INFO - 2022-02-09 15:09:51 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:51 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:51 --> Config Class Initialized
-INFO - 2022-02-09 15:09:51 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:51 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:51 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:51 --> URI Class Initialized
-INFO - 2022-02-09 15:09:51 --> Router Class Initialized
-INFO - 2022-02-09 15:09:51 --> Output Class Initialized
-INFO - 2022-02-09 15:09:51 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:51 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:51 --> Input Class Initialized
-INFO - 2022-02-09 15:09:51 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:51 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:51 --> Config Class Initialized
-INFO - 2022-02-09 15:09:51 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:51 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:51 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:51 --> URI Class Initialized
-INFO - 2022-02-09 15:09:51 --> Router Class Initialized
-INFO - 2022-02-09 15:09:51 --> Output Class Initialized
-INFO - 2022-02-09 15:09:51 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:51 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:51 --> Input Class Initialized
-INFO - 2022-02-09 15:09:51 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:51 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:09:51 --> Config Class Initialized
-INFO - 2022-02-09 15:09:51 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:51 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:51 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:51 --> URI Class Initialized
-INFO - 2022-02-09 15:09:51 --> Router Class Initialized
-INFO - 2022-02-09 15:09:51 --> Output Class Initialized
-INFO - 2022-02-09 15:09:51 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:51 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:51 --> Input Class Initialized
-INFO - 2022-02-09 15:09:51 --> Language Class Initialized
-ERROR - 2022-02-09 15:09:51 --> 404 Page Not Found: Images/favicon.ico
-INFO - 2022-02-09 15:09:56 --> Config Class Initialized
-INFO - 2022-02-09 15:09:56 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:09:56 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:09:56 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:09:56 --> URI Class Initialized
-INFO - 2022-02-09 15:09:56 --> Router Class Initialized
-INFO - 2022-02-09 15:09:56 --> Output Class Initialized
-INFO - 2022-02-09 15:09:56 --> Security Class Initialized
-DEBUG - 2022-02-09 15:09:56 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:09:56 --> Input Class Initialized
-INFO - 2022-02-09 15:09:56 --> Language Class Initialized
-INFO - 2022-02-09 15:09:56 --> Loader Class Initialized
-INFO - 2022-02-09 15:09:56 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:09:56 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:09:56 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:09:56 --> Email Class Initialized
-INFO - 2022-02-09 15:09:56 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:09:56 --> Controller Class Initialized
-INFO - 2022-02-09 15:09:56 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:09:56 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:09:56 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:09:56 --> Model Class Initialized
-DEBUG - 2022-02-09 15:09:56 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:10:02 --> Config Class Initialized
-INFO - 2022-02-09 15:10:02 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:10:02 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:10:02 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:10:02 --> URI Class Initialized
-INFO - 2022-02-09 15:10:02 --> Router Class Initialized
-INFO - 2022-02-09 15:10:02 --> Output Class Initialized
-INFO - 2022-02-09 15:10:02 --> Security Class Initialized
-DEBUG - 2022-02-09 15:10:02 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:10:02 --> Input Class Initialized
-INFO - 2022-02-09 15:10:02 --> Language Class Initialized
-INFO - 2022-02-09 15:10:02 --> Loader Class Initialized
-INFO - 2022-02-09 15:10:02 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:10:02 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:10:02 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:10:02 --> Email Class Initialized
-INFO - 2022-02-09 15:10:02 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:10:02 --> Controller Class Initialized
-INFO - 2022-02-09 15:10:02 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:10:02 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:10:02 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:10:02 --> Model Class Initialized
-DEBUG - 2022-02-09 15:10:02 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:10:05 --> Config Class Initialized
-INFO - 2022-02-09 15:10:05 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:10:05 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:10:05 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:10:05 --> URI Class Initialized
-INFO - 2022-02-09 15:10:05 --> Router Class Initialized
-INFO - 2022-02-09 15:10:05 --> Output Class Initialized
-INFO - 2022-02-09 15:10:05 --> Security Class Initialized
-DEBUG - 2022-02-09 15:10:05 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:10:05 --> Input Class Initialized
-INFO - 2022-02-09 15:10:05 --> Language Class Initialized
-INFO - 2022-02-09 15:10:05 --> Loader Class Initialized
-INFO - 2022-02-09 15:10:05 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:10:05 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:10:05 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:10:05 --> Email Class Initialized
-INFO - 2022-02-09 15:10:05 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:10:05 --> Controller Class Initialized
-INFO - 2022-02-09 15:10:05 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:10:05 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:10:05 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:10:05 --> Model Class Initialized
-DEBUG - 2022-02-09 15:10:05 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:13:08 --> Config Class Initialized
-INFO - 2022-02-09 15:13:08 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:08 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:08 --> URI Class Initialized
-INFO - 2022-02-09 15:13:08 --> Router Class Initialized
-INFO - 2022-02-09 15:13:08 --> Output Class Initialized
-INFO - 2022-02-09 15:13:08 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:08 --> Input Class Initialized
-INFO - 2022-02-09 15:13:08 --> Language Class Initialized
-INFO - 2022-02-09 15:13:08 --> Loader Class Initialized
-INFO - 2022-02-09 15:13:08 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:13:08 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:13:08 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:13:08 --> Email Class Initialized
-INFO - 2022-02-09 15:13:08 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:13:08 --> Controller Class Initialized
-INFO - 2022-02-09 15:13:08 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:13:08 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:13:08 --> Model Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:13:08 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:13:08 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:13:08 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-INFO - 2022-02-09 15:13:08 --> File loaded: C:\xampp\htdocs\firestation\application\views\distributiontodist.php
-INFO - 2022-02-09 15:13:08 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
-INFO - 2022-02-09 15:13:08 --> Final output sent to browser
-DEBUG - 2022-02-09 15:13:08 --> Total execution time: 0.1730
-INFO - 2022-02-09 15:13:08 --> Config Class Initialized
-INFO - 2022-02-09 15:13:08 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:08 --> Config Class Initialized
-INFO - 2022-02-09 15:13:08 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:08 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:08 --> URI Class Initialized
-INFO - 2022-02-09 15:13:08 --> Config Class Initialized
-INFO - 2022-02-09 15:13:08 --> Router Class Initialized
-INFO - 2022-02-09 15:13:08 --> Config Class Initialized
-INFO - 2022-02-09 15:13:08 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:08 --> Output Class Initialized
-INFO - 2022-02-09 15:13:08 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:08 --> Config Class Initialized
-INFO - 2022-02-09 15:13:08 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:08 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:08 --> Input Class Initialized
-INFO - 2022-02-09 15:13:08 --> Language Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:08 --> Utf8 Class Initialized
-ERROR - 2022-02-09 15:13:08 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:08 --> URI Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:08 --> Router Class Initialized
-INFO - 2022-02-09 15:13:08 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:08 --> Output Class Initialized
-INFO - 2022-02-09 15:13:08 --> URI Class Initialized
-INFO - 2022-02-09 15:13:08 --> Security Class Initialized
-INFO - 2022-02-09 15:13:08 --> Router Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:08 --> Input Class Initialized
-INFO - 2022-02-09 15:13:08 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:08 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:08 --> Output Class Initialized
-INFO - 2022-02-09 15:13:08 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:08 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:08 --> URI Class Initialized
-INFO - 2022-02-09 15:13:08 --> Input Class Initialized
-INFO - 2022-02-09 15:13:08 --> Language Class Initialized
-INFO - 2022-02-09 15:13:08 --> Router Class Initialized
-ERROR - 2022-02-09 15:13:08 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:08 --> Output Class Initialized
-INFO - 2022-02-09 15:13:08 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:08 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:08 --> Input Class Initialized
-INFO - 2022-02-09 15:13:08 --> URI Class Initialized
-INFO - 2022-02-09 15:13:08 --> Config Class Initialized
-INFO - 2022-02-09 15:13:08 --> Language Class Initialized
-INFO - 2022-02-09 15:13:08 --> Hooks Class Initialized
-ERROR - 2022-02-09 15:13:08 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:08 --> Router Class Initialized
-INFO - 2022-02-09 15:13:08 --> Output Class Initialized
-INFO - 2022-02-09 15:13:08 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:08 --> Input Class Initialized
-INFO - 2022-02-09 15:13:08 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:08 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:08 --> Config Class Initialized
-INFO - 2022-02-09 15:13:08 --> Config Class Initialized
-INFO - 2022-02-09 15:13:08 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:08 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:08 --> Config Class Initialized
-INFO - 2022-02-09 15:13:08 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> UTF-8 Support Enabled
-DEBUG - 2022-02-09 15:13:08 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:08 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:08 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:08 --> URI Class Initialized
-INFO - 2022-02-09 15:13:08 --> URI Class Initialized
-INFO - 2022-02-09 15:13:08 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:08 --> Router Class Initialized
-INFO - 2022-02-09 15:13:08 --> Router Class Initialized
-INFO - 2022-02-09 15:13:08 --> Output Class Initialized
-INFO - 2022-02-09 15:13:08 --> Output Class Initialized
-INFO - 2022-02-09 15:13:08 --> URI Class Initialized
-INFO - 2022-02-09 15:13:08 --> Security Class Initialized
-INFO - 2022-02-09 15:13:08 --> Security Class Initialized
-INFO - 2022-02-09 15:13:08 --> Router Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> Global POST, GET and COOKIE data sanitized
-DEBUG - 2022-02-09 15:13:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:08 --> Input Class Initialized
-INFO - 2022-02-09 15:13:08 --> Input Class Initialized
-INFO - 2022-02-09 15:13:08 --> Language Class Initialized
-INFO - 2022-02-09 15:13:08 --> Language Class Initialized
-INFO - 2022-02-09 15:13:08 --> Output Class Initialized
-INFO - 2022-02-09 15:13:08 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> UTF-8 Support Enabled
-DEBUG - 2022-02-09 15:13:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:08 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:08 --> Input Class Initialized
-INFO - 2022-02-09 15:13:08 --> Language Class Initialized
-INFO - 2022-02-09 15:13:08 --> URI Class Initialized
-ERROR - 2022-02-09 15:13:08 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:08 --> Router Class Initialized
-INFO - 2022-02-09 15:13:08 --> Output Class Initialized
-INFO - 2022-02-09 15:13:08 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:08 --> Input Class Initialized
-INFO - 2022-02-09 15:13:08 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:08 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:08 --> Config Class Initialized
-INFO - 2022-02-09 15:13:08 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:08 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:08 --> URI Class Initialized
-ERROR - 2022-02-09 15:13:08 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:08 --> Router Class Initialized
-INFO - 2022-02-09 15:13:08 --> Config Class Initialized
-INFO - 2022-02-09 15:13:08 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:08 --> Output Class Initialized
-INFO - 2022-02-09 15:13:08 --> Config Class Initialized
-INFO - 2022-02-09 15:13:08 --> Hooks Class Initialized
-ERROR - 2022-02-09 15:13:08 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:13:08 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:08 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:08 --> URI Class Initialized
-INFO - 2022-02-09 15:13:08 --> Config Class Initialized
-INFO - 2022-02-09 15:13:08 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:08 --> Router Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:08 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:08 --> URI Class Initialized
-INFO - 2022-02-09 15:13:08 --> Router Class Initialized
-INFO - 2022-02-09 15:13:08 --> Config Class Initialized
-INFO - 2022-02-09 15:13:08 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:08 --> Output Class Initialized
-INFO - 2022-02-09 15:13:08 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:08 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:08 --> URI Class Initialized
-INFO - 2022-02-09 15:13:08 --> Input Class Initialized
-INFO - 2022-02-09 15:13:08 --> Language Class Initialized
-INFO - 2022-02-09 15:13:08 --> Router Class Initialized
-ERROR - 2022-02-09 15:13:08 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:08 --> Output Class Initialized
-INFO - 2022-02-09 15:13:08 --> Output Class Initialized
-INFO - 2022-02-09 15:13:08 --> Security Class Initialized
-INFO - 2022-02-09 15:13:08 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:08 --> Input Class Initialized
-INFO - 2022-02-09 15:13:08 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:08 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:08 --> Config Class Initialized
-INFO - 2022-02-09 15:13:08 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:08 --> Input Class Initialized
-INFO - 2022-02-09 15:13:08 --> Language Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:08 --> Utf8 Class Initialized
-ERROR - 2022-02-09 15:13:08 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:08 --> URI Class Initialized
-INFO - 2022-02-09 15:13:08 --> Router Class Initialized
-INFO - 2022-02-09 15:13:08 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:08 --> Output Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:08 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:08 --> Config Class Initialized
-INFO - 2022-02-09 15:13:08 --> Config Class Initialized
-INFO - 2022-02-09 15:13:08 --> Input Class Initialized
-INFO - 2022-02-09 15:13:08 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:08 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:08 --> Language Class Initialized
-INFO - 2022-02-09 15:13:08 --> Input Class Initialized
-ERROR - 2022-02-09 15:13:08 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:13:08 --> UTF-8 Support Enabled
-DEBUG - 2022-02-09 15:13:08 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:08 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:08 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:08 --> URI Class Initialized
-INFO - 2022-02-09 15:13:08 --> Router Class Initialized
-INFO - 2022-02-09 15:13:08 --> URI Class Initialized
-INFO - 2022-02-09 15:13:08 --> Output Class Initialized
-INFO - 2022-02-09 15:13:08 --> Security Class Initialized
-INFO - 2022-02-09 15:13:08 --> Router Class Initialized
-INFO - 2022-02-09 15:13:08 --> Language Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:08 --> Input Class Initialized
-INFO - 2022-02-09 15:13:08 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:08 --> 404 Page Not Found: Assets/admin
-ERROR - 2022-02-09 15:13:08 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:08 --> Output Class Initialized
-INFO - 2022-02-09 15:13:08 --> Config Class Initialized
-INFO - 2022-02-09 15:13:08 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:08 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:08 --> Input Class Initialized
-INFO - 2022-02-09 15:13:08 --> Language Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:08 --> Config Class Initialized
-INFO - 2022-02-09 15:13:08 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:08 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:08 --> URI Class Initialized
-INFO - 2022-02-09 15:13:08 --> Config Class Initialized
-INFO - 2022-02-09 15:13:08 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:08 --> Router Class Initialized
-ERROR - 2022-02-09 15:13:08 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:13:08 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:08 --> Config Class Initialized
-INFO - 2022-02-09 15:13:08 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:08 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:08 --> Output Class Initialized
-INFO - 2022-02-09 15:13:08 --> URI Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:08 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:08 --> Security Class Initialized
-INFO - 2022-02-09 15:13:08 --> Router Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:08 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:08 --> URI Class Initialized
-INFO - 2022-02-09 15:13:08 --> Output Class Initialized
-INFO - 2022-02-09 15:13:08 --> URI Class Initialized
-INFO - 2022-02-09 15:13:08 --> Router Class Initialized
-INFO - 2022-02-09 15:13:08 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:08 --> Security Class Initialized
-INFO - 2022-02-09 15:13:08 --> Router Class Initialized
-INFO - 2022-02-09 15:13:08 --> Output Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:08 --> URI Class Initialized
-INFO - 2022-02-09 15:13:08 --> Input Class Initialized
-INFO - 2022-02-09 15:13:08 --> Output Class Initialized
-INFO - 2022-02-09 15:13:08 --> Security Class Initialized
-INFO - 2022-02-09 15:13:08 --> Language Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:08 --> Input Class Initialized
-INFO - 2022-02-09 15:13:08 --> Security Class Initialized
-ERROR - 2022-02-09 15:13:08 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:08 --> Language Class Initialized
-DEBUG - 2022-02-09 15:13:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:08 --> Input Class Initialized
-ERROR - 2022-02-09 15:13:08 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:08 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assets/vendor_components
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assetsadmin/vendor_components
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assets/img
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assets/img
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assetscustom/libs
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assetscustom/libs
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assetscustom/libs
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assetscustom/libs
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assets/img
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assetscustom/libs
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assetscustom/js
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-INFO - 2022-02-09 15:13:09 --> Config Class Initialized
-INFO - 2022-02-09 15:13:09 --> Hooks Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> URI Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> Router Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Output Class Initialized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-INFO - 2022-02-09 15:13:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-DEBUG - 2022-02-09 15:13:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:09 --> Input Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-INFO - 2022-02-09 15:13:09 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assetscustom/libs
-ERROR - 2022-02-09 15:13:09 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:13:10 --> Config Class Initialized
-INFO - 2022-02-09 15:13:10 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:10 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:10 --> URI Class Initialized
-INFO - 2022-02-09 15:13:10 --> Router Class Initialized
-INFO - 2022-02-09 15:13:10 --> Output Class Initialized
-INFO - 2022-02-09 15:13:10 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:10 --> Input Class Initialized
-INFO - 2022-02-09 15:13:10 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:10 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:10 --> Config Class Initialized
-INFO - 2022-02-09 15:13:10 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:10 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:10 --> URI Class Initialized
-INFO - 2022-02-09 15:13:10 --> Router Class Initialized
-INFO - 2022-02-09 15:13:10 --> Output Class Initialized
-INFO - 2022-02-09 15:13:10 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:10 --> Input Class Initialized
-INFO - 2022-02-09 15:13:10 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:10 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:10 --> Config Class Initialized
-INFO - 2022-02-09 15:13:10 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:10 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:10 --> URI Class Initialized
-INFO - 2022-02-09 15:13:10 --> Router Class Initialized
-INFO - 2022-02-09 15:13:10 --> Output Class Initialized
-INFO - 2022-02-09 15:13:10 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:10 --> Input Class Initialized
-INFO - 2022-02-09 15:13:10 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:10 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:10 --> Config Class Initialized
-INFO - 2022-02-09 15:13:10 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:10 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:10 --> URI Class Initialized
-INFO - 2022-02-09 15:13:10 --> Router Class Initialized
-INFO - 2022-02-09 15:13:10 --> Output Class Initialized
-INFO - 2022-02-09 15:13:10 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:10 --> Input Class Initialized
-INFO - 2022-02-09 15:13:10 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:10 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:10 --> Config Class Initialized
-INFO - 2022-02-09 15:13:10 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:10 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:10 --> URI Class Initialized
-INFO - 2022-02-09 15:13:10 --> Router Class Initialized
-INFO - 2022-02-09 15:13:10 --> Output Class Initialized
-INFO - 2022-02-09 15:13:10 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:10 --> Input Class Initialized
-INFO - 2022-02-09 15:13:10 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:10 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:10 --> Config Class Initialized
-INFO - 2022-02-09 15:13:10 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:10 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:10 --> URI Class Initialized
-INFO - 2022-02-09 15:13:10 --> Router Class Initialized
-INFO - 2022-02-09 15:13:10 --> Output Class Initialized
-INFO - 2022-02-09 15:13:10 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:10 --> Input Class Initialized
-INFO - 2022-02-09 15:13:10 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:10 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:10 --> Config Class Initialized
-INFO - 2022-02-09 15:13:10 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:10 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:10 --> URI Class Initialized
-INFO - 2022-02-09 15:13:10 --> Router Class Initialized
-INFO - 2022-02-09 15:13:10 --> Output Class Initialized
-INFO - 2022-02-09 15:13:10 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:10 --> Input Class Initialized
-INFO - 2022-02-09 15:13:10 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:10 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:10 --> Config Class Initialized
-INFO - 2022-02-09 15:13:10 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:10 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:10 --> URI Class Initialized
-INFO - 2022-02-09 15:13:10 --> Router Class Initialized
-INFO - 2022-02-09 15:13:10 --> Output Class Initialized
-INFO - 2022-02-09 15:13:10 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:10 --> Input Class Initialized
-INFO - 2022-02-09 15:13:10 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:10 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:10 --> Config Class Initialized
-INFO - 2022-02-09 15:13:10 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:10 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:10 --> URI Class Initialized
-INFO - 2022-02-09 15:13:10 --> Router Class Initialized
-INFO - 2022-02-09 15:13:10 --> Output Class Initialized
-INFO - 2022-02-09 15:13:10 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:10 --> Input Class Initialized
-INFO - 2022-02-09 15:13:10 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:10 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:10 --> Config Class Initialized
-INFO - 2022-02-09 15:13:10 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:10 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:10 --> URI Class Initialized
-INFO - 2022-02-09 15:13:10 --> Router Class Initialized
-INFO - 2022-02-09 15:13:10 --> Output Class Initialized
-INFO - 2022-02-09 15:13:10 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:10 --> Input Class Initialized
-INFO - 2022-02-09 15:13:10 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:10 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:10 --> Config Class Initialized
-INFO - 2022-02-09 15:13:10 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:10 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:10 --> URI Class Initialized
-INFO - 2022-02-09 15:13:10 --> Router Class Initialized
-INFO - 2022-02-09 15:13:10 --> Output Class Initialized
-INFO - 2022-02-09 15:13:10 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:10 --> Input Class Initialized
-INFO - 2022-02-09 15:13:10 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:10 --> 404 Page Not Found: Assetsadmin/vendor_components
-INFO - 2022-02-09 15:13:10 --> Config Class Initialized
-INFO - 2022-02-09 15:13:10 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:10 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:10 --> URI Class Initialized
-INFO - 2022-02-09 15:13:10 --> Router Class Initialized
-INFO - 2022-02-09 15:13:10 --> Output Class Initialized
-INFO - 2022-02-09 15:13:10 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:10 --> Input Class Initialized
-INFO - 2022-02-09 15:13:10 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:10 --> 404 Page Not Found: Assets/vendor_components
-INFO - 2022-02-09 15:13:10 --> Config Class Initialized
-INFO - 2022-02-09 15:13:10 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:10 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:10 --> URI Class Initialized
-INFO - 2022-02-09 15:13:10 --> Router Class Initialized
-INFO - 2022-02-09 15:13:10 --> Output Class Initialized
-INFO - 2022-02-09 15:13:10 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:10 --> Input Class Initialized
-INFO - 2022-02-09 15:13:10 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:10 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:10 --> Config Class Initialized
-INFO - 2022-02-09 15:13:10 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:10 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:10 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:10 --> URI Class Initialized
-INFO - 2022-02-09 15:13:10 --> Router Class Initialized
-INFO - 2022-02-09 15:13:10 --> Output Class Initialized
-INFO - 2022-02-09 15:13:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:11 --> Input Class Initialized
-INFO - 2022-02-09 15:13:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:11 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:11 --> Config Class Initialized
-INFO - 2022-02-09 15:13:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:11 --> URI Class Initialized
-INFO - 2022-02-09 15:13:11 --> Router Class Initialized
-INFO - 2022-02-09 15:13:11 --> Output Class Initialized
-INFO - 2022-02-09 15:13:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:11 --> Input Class Initialized
-INFO - 2022-02-09 15:13:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:11 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:11 --> Config Class Initialized
-INFO - 2022-02-09 15:13:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:11 --> URI Class Initialized
-INFO - 2022-02-09 15:13:11 --> Router Class Initialized
-INFO - 2022-02-09 15:13:11 --> Output Class Initialized
-INFO - 2022-02-09 15:13:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:11 --> Input Class Initialized
-INFO - 2022-02-09 15:13:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:11 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:11 --> Config Class Initialized
-INFO - 2022-02-09 15:13:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:11 --> URI Class Initialized
-INFO - 2022-02-09 15:13:11 --> Router Class Initialized
-INFO - 2022-02-09 15:13:11 --> Output Class Initialized
-INFO - 2022-02-09 15:13:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:11 --> Input Class Initialized
-INFO - 2022-02-09 15:13:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:11 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:11 --> Config Class Initialized
-INFO - 2022-02-09 15:13:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:11 --> URI Class Initialized
-INFO - 2022-02-09 15:13:11 --> Router Class Initialized
-INFO - 2022-02-09 15:13:11 --> Output Class Initialized
-INFO - 2022-02-09 15:13:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:11 --> Input Class Initialized
-INFO - 2022-02-09 15:13:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:11 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:11 --> Config Class Initialized
-INFO - 2022-02-09 15:13:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:11 --> URI Class Initialized
-INFO - 2022-02-09 15:13:11 --> Router Class Initialized
-INFO - 2022-02-09 15:13:11 --> Output Class Initialized
-INFO - 2022-02-09 15:13:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:11 --> Input Class Initialized
-INFO - 2022-02-09 15:13:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:11 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:11 --> Config Class Initialized
-INFO - 2022-02-09 15:13:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:11 --> URI Class Initialized
-INFO - 2022-02-09 15:13:11 --> Router Class Initialized
-INFO - 2022-02-09 15:13:11 --> Output Class Initialized
-INFO - 2022-02-09 15:13:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:11 --> Input Class Initialized
-INFO - 2022-02-09 15:13:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:11 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:13:11 --> Config Class Initialized
-INFO - 2022-02-09 15:13:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:11 --> URI Class Initialized
-INFO - 2022-02-09 15:13:11 --> Router Class Initialized
-INFO - 2022-02-09 15:13:11 --> Output Class Initialized
-INFO - 2022-02-09 15:13:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:11 --> Input Class Initialized
-INFO - 2022-02-09 15:13:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:11 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:13:11 --> Config Class Initialized
-INFO - 2022-02-09 15:13:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:11 --> URI Class Initialized
-INFO - 2022-02-09 15:13:11 --> Router Class Initialized
-INFO - 2022-02-09 15:13:11 --> Output Class Initialized
-INFO - 2022-02-09 15:13:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:11 --> Input Class Initialized
-INFO - 2022-02-09 15:13:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:11 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:13:11 --> Config Class Initialized
-INFO - 2022-02-09 15:13:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:11 --> URI Class Initialized
-INFO - 2022-02-09 15:13:11 --> Router Class Initialized
-INFO - 2022-02-09 15:13:11 --> Output Class Initialized
-INFO - 2022-02-09 15:13:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:11 --> Input Class Initialized
-INFO - 2022-02-09 15:13:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:11 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:13:11 --> Config Class Initialized
-INFO - 2022-02-09 15:13:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:11 --> URI Class Initialized
-INFO - 2022-02-09 15:13:11 --> Router Class Initialized
-INFO - 2022-02-09 15:13:11 --> Output Class Initialized
-INFO - 2022-02-09 15:13:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:11 --> Input Class Initialized
-INFO - 2022-02-09 15:13:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:11 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:13:11 --> Config Class Initialized
-INFO - 2022-02-09 15:13:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:11 --> URI Class Initialized
-INFO - 2022-02-09 15:13:11 --> Router Class Initialized
-INFO - 2022-02-09 15:13:11 --> Output Class Initialized
-INFO - 2022-02-09 15:13:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:11 --> Input Class Initialized
-INFO - 2022-02-09 15:13:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:11 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:13:11 --> Config Class Initialized
-INFO - 2022-02-09 15:13:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:11 --> URI Class Initialized
-INFO - 2022-02-09 15:13:11 --> Router Class Initialized
-INFO - 2022-02-09 15:13:11 --> Output Class Initialized
-INFO - 2022-02-09 15:13:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:11 --> Input Class Initialized
-INFO - 2022-02-09 15:13:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:11 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:13:11 --> Config Class Initialized
-INFO - 2022-02-09 15:13:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:11 --> URI Class Initialized
-INFO - 2022-02-09 15:13:11 --> Router Class Initialized
-INFO - 2022-02-09 15:13:11 --> Output Class Initialized
-INFO - 2022-02-09 15:13:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:11 --> Input Class Initialized
-INFO - 2022-02-09 15:13:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:11 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:13:11 --> Config Class Initialized
-INFO - 2022-02-09 15:13:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:11 --> URI Class Initialized
-INFO - 2022-02-09 15:13:11 --> Router Class Initialized
-INFO - 2022-02-09 15:13:11 --> Output Class Initialized
-INFO - 2022-02-09 15:13:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:11 --> Input Class Initialized
-INFO - 2022-02-09 15:13:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:11 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:13:11 --> Config Class Initialized
-INFO - 2022-02-09 15:13:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:11 --> URI Class Initialized
-INFO - 2022-02-09 15:13:11 --> Router Class Initialized
-INFO - 2022-02-09 15:13:11 --> Output Class Initialized
-INFO - 2022-02-09 15:13:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:11 --> Input Class Initialized
-INFO - 2022-02-09 15:13:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:11 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:13:11 --> Config Class Initialized
-INFO - 2022-02-09 15:13:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:11 --> URI Class Initialized
-INFO - 2022-02-09 15:13:11 --> Router Class Initialized
-INFO - 2022-02-09 15:13:11 --> Output Class Initialized
-INFO - 2022-02-09 15:13:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:11 --> Input Class Initialized
-INFO - 2022-02-09 15:13:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:11 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:13:11 --> Config Class Initialized
-INFO - 2022-02-09 15:13:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:11 --> URI Class Initialized
-INFO - 2022-02-09 15:13:11 --> Router Class Initialized
-INFO - 2022-02-09 15:13:11 --> Output Class Initialized
-INFO - 2022-02-09 15:13:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:11 --> Input Class Initialized
-INFO - 2022-02-09 15:13:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:11 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:13:11 --> Config Class Initialized
-INFO - 2022-02-09 15:13:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:11 --> URI Class Initialized
-INFO - 2022-02-09 15:13:11 --> Router Class Initialized
-INFO - 2022-02-09 15:13:11 --> Output Class Initialized
-INFO - 2022-02-09 15:13:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:11 --> Input Class Initialized
-INFO - 2022-02-09 15:13:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:11 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:13:11 --> Config Class Initialized
-INFO - 2022-02-09 15:13:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:11 --> URI Class Initialized
-INFO - 2022-02-09 15:13:11 --> Router Class Initialized
-INFO - 2022-02-09 15:13:11 --> Output Class Initialized
-INFO - 2022-02-09 15:13:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:11 --> Input Class Initialized
-INFO - 2022-02-09 15:13:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:11 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:13:11 --> Config Class Initialized
-INFO - 2022-02-09 15:13:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:11 --> URI Class Initialized
-INFO - 2022-02-09 15:13:11 --> Router Class Initialized
-INFO - 2022-02-09 15:13:11 --> Output Class Initialized
-INFO - 2022-02-09 15:13:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:11 --> Input Class Initialized
-INFO - 2022-02-09 15:13:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:11 --> 404 Page Not Found: Assetscustom/js
-INFO - 2022-02-09 15:13:12 --> Config Class Initialized
-INFO - 2022-02-09 15:13:12 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:12 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:12 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:12 --> URI Class Initialized
-INFO - 2022-02-09 15:13:12 --> Router Class Initialized
-INFO - 2022-02-09 15:13:12 --> Output Class Initialized
-INFO - 2022-02-09 15:13:12 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:12 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:12 --> Input Class Initialized
-INFO - 2022-02-09 15:13:12 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:12 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:13:12 --> Config Class Initialized
-INFO - 2022-02-09 15:13:12 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:12 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:12 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:12 --> URI Class Initialized
-INFO - 2022-02-09 15:13:12 --> Router Class Initialized
-INFO - 2022-02-09 15:13:12 --> Output Class Initialized
-INFO - 2022-02-09 15:13:12 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:12 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:12 --> Input Class Initialized
-INFO - 2022-02-09 15:13:12 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:12 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:13:12 --> Config Class Initialized
-INFO - 2022-02-09 15:13:12 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:12 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:12 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:12 --> URI Class Initialized
-INFO - 2022-02-09 15:13:12 --> Router Class Initialized
-INFO - 2022-02-09 15:13:12 --> Output Class Initialized
-INFO - 2022-02-09 15:13:12 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:12 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:12 --> Input Class Initialized
-INFO - 2022-02-09 15:13:12 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:12 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:13:12 --> Config Class Initialized
-INFO - 2022-02-09 15:13:12 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:12 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:12 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:12 --> URI Class Initialized
-INFO - 2022-02-09 15:13:12 --> Router Class Initialized
-INFO - 2022-02-09 15:13:12 --> Output Class Initialized
-INFO - 2022-02-09 15:13:12 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:12 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:12 --> Input Class Initialized
-INFO - 2022-02-09 15:13:12 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:12 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:13:12 --> Config Class Initialized
-INFO - 2022-02-09 15:13:12 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:12 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:12 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:12 --> URI Class Initialized
-INFO - 2022-02-09 15:13:12 --> Router Class Initialized
-INFO - 2022-02-09 15:13:12 --> Output Class Initialized
-INFO - 2022-02-09 15:13:12 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:12 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:12 --> Input Class Initialized
-INFO - 2022-02-09 15:13:12 --> Language Class Initialized
-ERROR - 2022-02-09 15:13:12 --> 404 Page Not Found: Images/favicon.ico
-INFO - 2022-02-09 15:13:20 --> Config Class Initialized
-INFO - 2022-02-09 15:13:20 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:20 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:20 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:20 --> URI Class Initialized
-INFO - 2022-02-09 15:13:20 --> Router Class Initialized
-INFO - 2022-02-09 15:13:20 --> Output Class Initialized
-INFO - 2022-02-09 15:13:20 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:20 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:20 --> Input Class Initialized
-INFO - 2022-02-09 15:13:20 --> Language Class Initialized
-INFO - 2022-02-09 15:13:20 --> Loader Class Initialized
-INFO - 2022-02-09 15:13:20 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:13:20 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:13:20 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:13:20 --> Email Class Initialized
-INFO - 2022-02-09 15:13:20 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:13:20 --> Controller Class Initialized
-INFO - 2022-02-09 15:13:20 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:13:20 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:13:20 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:13:20 --> Model Class Initialized
-DEBUG - 2022-02-09 15:13:20 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:13:22 --> Config Class Initialized
-INFO - 2022-02-09 15:13:22 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:22 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:22 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:22 --> URI Class Initialized
-INFO - 2022-02-09 15:13:22 --> Router Class Initialized
-INFO - 2022-02-09 15:13:22 --> Output Class Initialized
-INFO - 2022-02-09 15:13:22 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:22 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:22 --> Input Class Initialized
-INFO - 2022-02-09 15:13:22 --> Language Class Initialized
-INFO - 2022-02-09 15:13:22 --> Loader Class Initialized
-INFO - 2022-02-09 15:13:22 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:13:22 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:13:22 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:13:22 --> Email Class Initialized
-INFO - 2022-02-09 15:13:22 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:13:22 --> Controller Class Initialized
-INFO - 2022-02-09 15:13:22 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:13:22 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:13:22 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:13:22 --> Model Class Initialized
-DEBUG - 2022-02-09 15:13:22 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:13:25 --> Config Class Initialized
-INFO - 2022-02-09 15:13:25 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:13:25 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:13:25 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:13:25 --> URI Class Initialized
-INFO - 2022-02-09 15:13:25 --> Router Class Initialized
-INFO - 2022-02-09 15:13:25 --> Output Class Initialized
-INFO - 2022-02-09 15:13:25 --> Security Class Initialized
-DEBUG - 2022-02-09 15:13:25 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:13:25 --> Input Class Initialized
-INFO - 2022-02-09 15:13:25 --> Language Class Initialized
-INFO - 2022-02-09 15:13:25 --> Loader Class Initialized
-INFO - 2022-02-09 15:13:25 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:13:25 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:13:25 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:13:25 --> Email Class Initialized
-INFO - 2022-02-09 15:13:25 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:13:25 --> Controller Class Initialized
-INFO - 2022-02-09 15:13:25 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:13:25 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:13:25 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:13:25 --> Model Class Initialized
-DEBUG - 2022-02-09 15:13:25 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:14:13 --> Config Class Initialized
-INFO - 2022-02-09 15:14:13 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:13 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:13 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:13 --> URI Class Initialized
-INFO - 2022-02-09 15:14:13 --> Router Class Initialized
-INFO - 2022-02-09 15:14:13 --> Output Class Initialized
-INFO - 2022-02-09 15:14:13 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:13 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:13 --> Input Class Initialized
-INFO - 2022-02-09 15:14:13 --> Language Class Initialized
-INFO - 2022-02-09 15:14:13 --> Loader Class Initialized
-INFO - 2022-02-09 15:14:13 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:14:13 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:14:13 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:14:13 --> Email Class Initialized
-INFO - 2022-02-09 15:14:13 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:14:13 --> Controller Class Initialized
-INFO - 2022-02-09 15:14:13 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:14:13 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:14:13 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:14:13 --> Model Class Initialized
-DEBUG - 2022-02-09 15:14:13 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:14:13 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:14:13 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:13 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-INFO - 2022-02-09 15:14:13 --> File loaded: C:\xampp\htdocs\firestation\application\views\distributiontodist.php
-INFO - 2022-02-09 15:14:13 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
-INFO - 2022-02-09 15:14:13 --> Final output sent to browser
-DEBUG - 2022-02-09 15:14:13 --> Total execution time: 0.1869
-INFO - 2022-02-09 15:14:13 --> Config Class Initialized
-INFO - 2022-02-09 15:14:13 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:13 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:13 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:13 --> URI Class Initialized
-INFO - 2022-02-09 15:14:13 --> Router Class Initialized
-INFO - 2022-02-09 15:14:13 --> Config Class Initialized
-INFO - 2022-02-09 15:14:13 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:13 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:13 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:13 --> URI Class Initialized
-INFO - 2022-02-09 15:14:13 --> Router Class Initialized
-INFO - 2022-02-09 15:14:13 --> Output Class Initialized
-INFO - 2022-02-09 15:14:13 --> Security Class Initialized
-INFO - 2022-02-09 15:14:13 --> Config Class Initialized
-DEBUG - 2022-02-09 15:14:13 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:13 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:13 --> Input Class Initialized
-INFO - 2022-02-09 15:14:13 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:13 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:14:13 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:13 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:13 --> URI Class Initialized
-INFO - 2022-02-09 15:14:13 --> Router Class Initialized
-INFO - 2022-02-09 15:14:13 --> Output Class Initialized
-INFO - 2022-02-09 15:14:13 --> Config Class Initialized
-INFO - 2022-02-09 15:14:13 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:13 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:13 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:13 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:13 --> Output Class Initialized
-INFO - 2022-02-09 15:14:13 --> Config Class Initialized
-INFO - 2022-02-09 15:14:13 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:13 --> Security Class Initialized
-INFO - 2022-02-09 15:14:13 --> Config Class Initialized
-DEBUG - 2022-02-09 15:14:13 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:13 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:13 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:14:13 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:13 --> Input Class Initialized
-INFO - 2022-02-09 15:14:13 --> URI Class Initialized
-DEBUG - 2022-02-09 15:14:13 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:13 --> Input Class Initialized
-INFO - 2022-02-09 15:14:13 --> Language Class Initialized
-DEBUG - 2022-02-09 15:14:13 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:13 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:13 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:13 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:13 --> URI Class Initialized
-ERROR - 2022-02-09 15:14:13 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:13 --> Router Class Initialized
-INFO - 2022-02-09 15:14:13 --> Config Class Initialized
-INFO - 2022-02-09 15:14:13 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:13 --> Output Class Initialized
-DEBUG - 2022-02-09 15:14:13 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:13 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:13 --> URI Class Initialized
-INFO - 2022-02-09 15:14:13 --> Router Class Initialized
-INFO - 2022-02-09 15:14:13 --> Output Class Initialized
-INFO - 2022-02-09 15:14:13 --> Security Class Initialized
-INFO - 2022-02-09 15:14:13 --> Config Class Initialized
-INFO - 2022-02-09 15:14:13 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:13 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:13 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:13 --> Input Class Initialized
-DEBUG - 2022-02-09 15:14:13 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:13 --> Language Class Initialized
-INFO - 2022-02-09 15:14:13 --> Utf8 Class Initialized
-ERROR - 2022-02-09 15:14:13 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:14:13 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:13 --> Router Class Initialized
-INFO - 2022-02-09 15:14:13 --> URI Class Initialized
-INFO - 2022-02-09 15:14:13 --> Input Class Initialized
-INFO - 2022-02-09 15:14:13 --> Language Class Initialized
-INFO - 2022-02-09 15:14:13 --> Router Class Initialized
-ERROR - 2022-02-09 15:14:13 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:13 --> Output Class Initialized
-INFO - 2022-02-09 15:14:13 --> Output Class Initialized
-INFO - 2022-02-09 15:14:13 --> Security Class Initialized
-INFO - 2022-02-09 15:14:13 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:13 --> Global POST, GET and COOKIE data sanitized
-DEBUG - 2022-02-09 15:14:13 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:13 --> Input Class Initialized
-INFO - 2022-02-09 15:14:13 --> Input Class Initialized
-INFO - 2022-02-09 15:14:13 --> Language Class Initialized
-INFO - 2022-02-09 15:14:13 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:13 --> 404 Page Not Found: Assets/admin
-ERROR - 2022-02-09 15:14:13 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:13 --> URI Class Initialized
-INFO - 2022-02-09 15:14:13 --> Router Class Initialized
-INFO - 2022-02-09 15:14:13 --> Config Class Initialized
-INFO - 2022-02-09 15:14:13 --> Output Class Initialized
-INFO - 2022-02-09 15:14:13 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:13 --> Config Class Initialized
-INFO - 2022-02-09 15:14:13 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:13 --> Config Class Initialized
-INFO - 2022-02-09 15:14:13 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:13 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:13 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:13 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:14:13 --> Global POST, GET and COOKIE data sanitized
-DEBUG - 2022-02-09 15:14:13 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:13 --> URI Class Initialized
-INFO - 2022-02-09 15:14:13 --> Input Class Initialized
-INFO - 2022-02-09 15:14:13 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:13 --> Language Class Initialized
-INFO - 2022-02-09 15:14:13 --> URI Class Initialized
-INFO - 2022-02-09 15:14:13 --> Router Class Initialized
-ERROR - 2022-02-09 15:14:13 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:13 --> Router Class Initialized
-INFO - 2022-02-09 15:14:13 --> Output Class Initialized
-INFO - 2022-02-09 15:14:13 --> Output Class Initialized
-INFO - 2022-02-09 15:14:13 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:13 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:13 --> Security Class Initialized
-INFO - 2022-02-09 15:14:13 --> Input Class Initialized
-INFO - 2022-02-09 15:14:13 --> Language Class Initialized
-DEBUG - 2022-02-09 15:14:13 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:13 --> Input Class Initialized
-INFO - 2022-02-09 15:14:13 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:13 --> 404 Page Not Found: Assets/admin
-ERROR - 2022-02-09 15:14:13 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assets/img
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assets/admin
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assets/img
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assets/vendor_components
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assetsadmin/vendor_components
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assets/admin
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assets/admin
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assets/admin
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assetscustom/libs
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-INFO - 2022-02-09 15:14:14 --> Config Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-INFO - 2022-02-09 15:14:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-ERROR - 2022-02-09 15:14:14 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:14 --> Router Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-INFO - 2022-02-09 15:14:14 --> Output Class Initialized
-DEBUG - 2022-02-09 15:14:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:14 --> Input Class Initialized
-INFO - 2022-02-09 15:14:14 --> URI Class Initialized
-INFO - 2022-02-09 15:14:14 --> Security Class Initialized
-INFO - 2022-02-09 15:14:14 --> Language Class Initialized
-INFO - 2022-02-09 15:14:15 --> Router Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> Global POST, GET and COOKIE data sanitized
-ERROR - 2022-02-09 15:14:15 --> 404 Page Not Found: Assetscustom/libs
-ERROR - 2022-02-09 15:14:15 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:15 --> Input Class Initialized
-INFO - 2022-02-09 15:14:15 --> Output Class Initialized
-INFO - 2022-02-09 15:14:15 --> Language Class Initialized
-INFO - 2022-02-09 15:14:15 --> Security Class Initialized
-ERROR - 2022-02-09 15:14:15 --> 404 Page Not Found: Assetscustom/js
-DEBUG - 2022-02-09 15:14:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:15 --> Input Class Initialized
-INFO - 2022-02-09 15:14:15 --> Language Class Initialized
-INFO - 2022-02-09 15:14:15 --> Config Class Initialized
-INFO - 2022-02-09 15:14:15 --> Hooks Class Initialized
-ERROR - 2022-02-09 15:14:15 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:14:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:15 --> URI Class Initialized
-INFO - 2022-02-09 15:14:15 --> Config Class Initialized
-INFO - 2022-02-09 15:14:15 --> Config Class Initialized
-INFO - 2022-02-09 15:14:15 --> Config Class Initialized
-INFO - 2022-02-09 15:14:15 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:15 --> Hooks Class Initialized
-INFO - 2022-02-09 15:14:15 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> UTF-8 Support Enabled
-DEBUG - 2022-02-09 15:14:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:15 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:15 --> URI Class Initialized
-INFO - 2022-02-09 15:14:15 --> URI Class Initialized
-INFO - 2022-02-09 15:14:15 --> Router Class Initialized
-INFO - 2022-02-09 15:14:15 --> Router Class Initialized
-INFO - 2022-02-09 15:14:15 --> Output Class Initialized
-INFO - 2022-02-09 15:14:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:15 --> Input Class Initialized
-INFO - 2022-02-09 15:14:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:15 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:15 --> URI Class Initialized
-INFO - 2022-02-09 15:14:15 --> Router Class Initialized
-INFO - 2022-02-09 15:14:15 --> Router Class Initialized
-INFO - 2022-02-09 15:14:15 --> Output Class Initialized
-INFO - 2022-02-09 15:14:15 --> Output Class Initialized
-INFO - 2022-02-09 15:14:15 --> Security Class Initialized
-INFO - 2022-02-09 15:14:15 --> Security Class Initialized
-INFO - 2022-02-09 15:14:15 --> Output Class Initialized
-INFO - 2022-02-09 15:14:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:15 --> Input Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:15 --> Language Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:15 --> Input Class Initialized
-INFO - 2022-02-09 15:14:15 --> Input Class Initialized
-INFO - 2022-02-09 15:14:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:15 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:15 --> 404 Page Not Found: Assetscustom/libs
-ERROR - 2022-02-09 15:14:15 --> 404 Page Not Found: Assets/img
-INFO - 2022-02-09 15:14:15 --> Config Class Initialized
-INFO - 2022-02-09 15:14:15 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:15 --> URI Class Initialized
-INFO - 2022-02-09 15:14:15 --> Router Class Initialized
-INFO - 2022-02-09 15:14:15 --> Output Class Initialized
-INFO - 2022-02-09 15:14:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:15 --> Input Class Initialized
-INFO - 2022-02-09 15:14:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:15 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:15 --> Config Class Initialized
-INFO - 2022-02-09 15:14:15 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:15 --> URI Class Initialized
-INFO - 2022-02-09 15:14:15 --> Router Class Initialized
-INFO - 2022-02-09 15:14:15 --> Output Class Initialized
-INFO - 2022-02-09 15:14:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:15 --> Input Class Initialized
-INFO - 2022-02-09 15:14:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:15 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:15 --> Config Class Initialized
-INFO - 2022-02-09 15:14:15 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:15 --> URI Class Initialized
-INFO - 2022-02-09 15:14:15 --> Router Class Initialized
-INFO - 2022-02-09 15:14:15 --> Output Class Initialized
-INFO - 2022-02-09 15:14:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:15 --> Input Class Initialized
-INFO - 2022-02-09 15:14:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:15 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:15 --> Config Class Initialized
-INFO - 2022-02-09 15:14:15 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:15 --> URI Class Initialized
-INFO - 2022-02-09 15:14:15 --> Router Class Initialized
-INFO - 2022-02-09 15:14:15 --> Output Class Initialized
-INFO - 2022-02-09 15:14:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:15 --> Input Class Initialized
-INFO - 2022-02-09 15:14:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:15 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:15 --> Config Class Initialized
-INFO - 2022-02-09 15:14:15 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:15 --> URI Class Initialized
-INFO - 2022-02-09 15:14:15 --> Router Class Initialized
-INFO - 2022-02-09 15:14:15 --> Output Class Initialized
-INFO - 2022-02-09 15:14:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:15 --> Input Class Initialized
-INFO - 2022-02-09 15:14:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:15 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:15 --> Config Class Initialized
-INFO - 2022-02-09 15:14:15 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:15 --> URI Class Initialized
-INFO - 2022-02-09 15:14:15 --> Router Class Initialized
-INFO - 2022-02-09 15:14:15 --> Output Class Initialized
-INFO - 2022-02-09 15:14:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:15 --> Input Class Initialized
-INFO - 2022-02-09 15:14:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:15 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:15 --> Config Class Initialized
-INFO - 2022-02-09 15:14:15 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:15 --> URI Class Initialized
-INFO - 2022-02-09 15:14:15 --> Router Class Initialized
-INFO - 2022-02-09 15:14:15 --> Output Class Initialized
-INFO - 2022-02-09 15:14:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:15 --> Input Class Initialized
-INFO - 2022-02-09 15:14:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:15 --> 404 Page Not Found: Assetsadmin/vendor_components
-INFO - 2022-02-09 15:14:15 --> Config Class Initialized
-INFO - 2022-02-09 15:14:15 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:15 --> URI Class Initialized
-INFO - 2022-02-09 15:14:15 --> Router Class Initialized
-INFO - 2022-02-09 15:14:15 --> Output Class Initialized
-INFO - 2022-02-09 15:14:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:15 --> Input Class Initialized
-INFO - 2022-02-09 15:14:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:15 --> 404 Page Not Found: Assets/vendor_components
-INFO - 2022-02-09 15:14:15 --> Config Class Initialized
-INFO - 2022-02-09 15:14:15 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:15 --> URI Class Initialized
-INFO - 2022-02-09 15:14:15 --> Router Class Initialized
-INFO - 2022-02-09 15:14:15 --> Output Class Initialized
-INFO - 2022-02-09 15:14:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:15 --> Input Class Initialized
-INFO - 2022-02-09 15:14:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:15 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:15 --> Config Class Initialized
-INFO - 2022-02-09 15:14:15 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:15 --> URI Class Initialized
-INFO - 2022-02-09 15:14:15 --> Router Class Initialized
-INFO - 2022-02-09 15:14:15 --> Output Class Initialized
-INFO - 2022-02-09 15:14:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:15 --> Input Class Initialized
-INFO - 2022-02-09 15:14:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:15 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:15 --> Config Class Initialized
-INFO - 2022-02-09 15:14:15 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:15 --> URI Class Initialized
-INFO - 2022-02-09 15:14:15 --> Router Class Initialized
-INFO - 2022-02-09 15:14:15 --> Output Class Initialized
-INFO - 2022-02-09 15:14:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:15 --> Input Class Initialized
-INFO - 2022-02-09 15:14:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:15 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:15 --> Config Class Initialized
-INFO - 2022-02-09 15:14:15 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:15 --> URI Class Initialized
-INFO - 2022-02-09 15:14:15 --> Router Class Initialized
-INFO - 2022-02-09 15:14:15 --> Output Class Initialized
-INFO - 2022-02-09 15:14:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:15 --> Input Class Initialized
-INFO - 2022-02-09 15:14:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:15 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:15 --> Config Class Initialized
-INFO - 2022-02-09 15:14:15 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:15 --> URI Class Initialized
-INFO - 2022-02-09 15:14:15 --> Router Class Initialized
-INFO - 2022-02-09 15:14:15 --> Output Class Initialized
-INFO - 2022-02-09 15:14:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:15 --> Input Class Initialized
-INFO - 2022-02-09 15:14:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:15 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:15 --> Config Class Initialized
-INFO - 2022-02-09 15:14:15 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:15 --> URI Class Initialized
-INFO - 2022-02-09 15:14:15 --> Router Class Initialized
-INFO - 2022-02-09 15:14:15 --> Output Class Initialized
-INFO - 2022-02-09 15:14:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:15 --> Input Class Initialized
-INFO - 2022-02-09 15:14:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:15 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:15 --> Config Class Initialized
-INFO - 2022-02-09 15:14:15 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:15 --> URI Class Initialized
-INFO - 2022-02-09 15:14:15 --> Router Class Initialized
-INFO - 2022-02-09 15:14:15 --> Output Class Initialized
-INFO - 2022-02-09 15:14:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:15 --> Input Class Initialized
-INFO - 2022-02-09 15:14:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:15 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:15 --> Config Class Initialized
-INFO - 2022-02-09 15:14:15 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:15 --> URI Class Initialized
-INFO - 2022-02-09 15:14:15 --> Router Class Initialized
-INFO - 2022-02-09 15:14:15 --> Output Class Initialized
-INFO - 2022-02-09 15:14:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:15 --> Input Class Initialized
-INFO - 2022-02-09 15:14:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:15 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:14:15 --> Config Class Initialized
-INFO - 2022-02-09 15:14:15 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:15 --> URI Class Initialized
-INFO - 2022-02-09 15:14:15 --> Router Class Initialized
-INFO - 2022-02-09 15:14:15 --> Output Class Initialized
-INFO - 2022-02-09 15:14:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:15 --> Input Class Initialized
-INFO - 2022-02-09 15:14:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:15 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:15 --> Config Class Initialized
-INFO - 2022-02-09 15:14:15 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:16 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:16 --> URI Class Initialized
-INFO - 2022-02-09 15:14:16 --> Router Class Initialized
-INFO - 2022-02-09 15:14:16 --> Output Class Initialized
-INFO - 2022-02-09 15:14:16 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:16 --> Input Class Initialized
-INFO - 2022-02-09 15:14:16 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:16 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:16 --> Config Class Initialized
-INFO - 2022-02-09 15:14:16 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:16 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:16 --> URI Class Initialized
-INFO - 2022-02-09 15:14:16 --> Router Class Initialized
-INFO - 2022-02-09 15:14:16 --> Output Class Initialized
-INFO - 2022-02-09 15:14:16 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:16 --> Input Class Initialized
-INFO - 2022-02-09 15:14:16 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:16 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:16 --> Config Class Initialized
-INFO - 2022-02-09 15:14:16 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:16 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:16 --> URI Class Initialized
-INFO - 2022-02-09 15:14:16 --> Router Class Initialized
-INFO - 2022-02-09 15:14:16 --> Output Class Initialized
-INFO - 2022-02-09 15:14:16 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:16 --> Input Class Initialized
-INFO - 2022-02-09 15:14:16 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:16 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:16 --> Config Class Initialized
-INFO - 2022-02-09 15:14:16 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:16 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:16 --> URI Class Initialized
-INFO - 2022-02-09 15:14:16 --> Router Class Initialized
-INFO - 2022-02-09 15:14:16 --> Output Class Initialized
-INFO - 2022-02-09 15:14:16 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:16 --> Input Class Initialized
-INFO - 2022-02-09 15:14:16 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:16 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:16 --> Config Class Initialized
-INFO - 2022-02-09 15:14:16 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:16 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:16 --> URI Class Initialized
-INFO - 2022-02-09 15:14:16 --> Router Class Initialized
-INFO - 2022-02-09 15:14:16 --> Output Class Initialized
-INFO - 2022-02-09 15:14:16 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:16 --> Input Class Initialized
-INFO - 2022-02-09 15:14:16 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:16 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:16 --> Config Class Initialized
-INFO - 2022-02-09 15:14:16 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:16 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:16 --> URI Class Initialized
-INFO - 2022-02-09 15:14:16 --> Router Class Initialized
-INFO - 2022-02-09 15:14:16 --> Output Class Initialized
-INFO - 2022-02-09 15:14:16 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:16 --> Input Class Initialized
-INFO - 2022-02-09 15:14:16 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:16 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:16 --> Config Class Initialized
-INFO - 2022-02-09 15:14:16 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:16 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:16 --> URI Class Initialized
-INFO - 2022-02-09 15:14:16 --> Router Class Initialized
-INFO - 2022-02-09 15:14:16 --> Output Class Initialized
-INFO - 2022-02-09 15:14:16 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:16 --> Input Class Initialized
-INFO - 2022-02-09 15:14:16 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:16 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:16 --> Config Class Initialized
-INFO - 2022-02-09 15:14:16 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:16 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:16 --> URI Class Initialized
-INFO - 2022-02-09 15:14:16 --> Router Class Initialized
-INFO - 2022-02-09 15:14:16 --> Output Class Initialized
-INFO - 2022-02-09 15:14:16 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:16 --> Input Class Initialized
-INFO - 2022-02-09 15:14:16 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:16 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:16 --> Config Class Initialized
-INFO - 2022-02-09 15:14:16 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:16 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:16 --> URI Class Initialized
-INFO - 2022-02-09 15:14:16 --> Router Class Initialized
-INFO - 2022-02-09 15:14:16 --> Output Class Initialized
-INFO - 2022-02-09 15:14:16 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:16 --> Input Class Initialized
-INFO - 2022-02-09 15:14:16 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:16 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:16 --> Config Class Initialized
-INFO - 2022-02-09 15:14:16 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:16 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:16 --> URI Class Initialized
-INFO - 2022-02-09 15:14:16 --> Router Class Initialized
-INFO - 2022-02-09 15:14:16 --> Output Class Initialized
-INFO - 2022-02-09 15:14:16 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:16 --> Input Class Initialized
-INFO - 2022-02-09 15:14:16 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:16 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:16 --> Config Class Initialized
-INFO - 2022-02-09 15:14:16 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:16 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:16 --> URI Class Initialized
-INFO - 2022-02-09 15:14:16 --> Router Class Initialized
-INFO - 2022-02-09 15:14:16 --> Output Class Initialized
-INFO - 2022-02-09 15:14:16 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:16 --> Input Class Initialized
-INFO - 2022-02-09 15:14:16 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:16 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:16 --> Config Class Initialized
-INFO - 2022-02-09 15:14:16 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:16 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:16 --> URI Class Initialized
-INFO - 2022-02-09 15:14:16 --> Router Class Initialized
-INFO - 2022-02-09 15:14:16 --> Output Class Initialized
-INFO - 2022-02-09 15:14:16 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:16 --> Input Class Initialized
-INFO - 2022-02-09 15:14:16 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:16 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:16 --> Config Class Initialized
-INFO - 2022-02-09 15:14:16 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:16 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:16 --> URI Class Initialized
-INFO - 2022-02-09 15:14:16 --> Router Class Initialized
-INFO - 2022-02-09 15:14:16 --> Output Class Initialized
-INFO - 2022-02-09 15:14:16 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:16 --> Input Class Initialized
-INFO - 2022-02-09 15:14:16 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:16 --> 404 Page Not Found: Assetscustom/js
-INFO - 2022-02-09 15:14:16 --> Config Class Initialized
-INFO - 2022-02-09 15:14:16 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:16 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:16 --> URI Class Initialized
-INFO - 2022-02-09 15:14:16 --> Router Class Initialized
-INFO - 2022-02-09 15:14:16 --> Output Class Initialized
-INFO - 2022-02-09 15:14:16 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:16 --> Input Class Initialized
-INFO - 2022-02-09 15:14:16 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:16 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:16 --> Config Class Initialized
-INFO - 2022-02-09 15:14:16 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:16 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:16 --> URI Class Initialized
-INFO - 2022-02-09 15:14:16 --> Router Class Initialized
-INFO - 2022-02-09 15:14:16 --> Output Class Initialized
-INFO - 2022-02-09 15:14:16 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:16 --> Input Class Initialized
-INFO - 2022-02-09 15:14:16 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:16 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:16 --> Config Class Initialized
-INFO - 2022-02-09 15:14:16 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:16 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:16 --> URI Class Initialized
-INFO - 2022-02-09 15:14:16 --> Router Class Initialized
-INFO - 2022-02-09 15:14:16 --> Output Class Initialized
-INFO - 2022-02-09 15:14:16 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:16 --> Input Class Initialized
-INFO - 2022-02-09 15:14:16 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:16 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:16 --> Config Class Initialized
-INFO - 2022-02-09 15:14:16 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:16 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:16 --> URI Class Initialized
-INFO - 2022-02-09 15:14:16 --> Router Class Initialized
-INFO - 2022-02-09 15:14:16 --> Output Class Initialized
-INFO - 2022-02-09 15:14:16 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:16 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:16 --> Input Class Initialized
-INFO - 2022-02-09 15:14:16 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:16 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:14:39 --> Config Class Initialized
-INFO - 2022-02-09 15:14:39 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:39 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:39 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:39 --> URI Class Initialized
-INFO - 2022-02-09 15:14:39 --> Router Class Initialized
-INFO - 2022-02-09 15:14:39 --> Output Class Initialized
-INFO - 2022-02-09 15:14:39 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:39 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:39 --> Input Class Initialized
-INFO - 2022-02-09 15:14:39 --> Language Class Initialized
-INFO - 2022-02-09 15:14:39 --> Loader Class Initialized
-INFO - 2022-02-09 15:14:39 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:14:39 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:14:39 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:14:39 --> Email Class Initialized
-INFO - 2022-02-09 15:14:39 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:14:39 --> Controller Class Initialized
-INFO - 2022-02-09 15:14:39 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:14:39 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:14:39 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:14:39 --> Model Class Initialized
-DEBUG - 2022-02-09 15:14:39 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:14:39 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:14:39 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 88
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 89
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 147
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "qty_recieved" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 153
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "iv_number" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 157
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "iv_date" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 158
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 229
-ERROR - 2022-02-09 15:14:39 --> Severity: Warning --> Undefined array key "vehicle_make_masters_id" C:\xampp\htdocs\firestation\application\views\distributiontodist.php 230
-INFO - 2022-02-09 15:14:39 --> File loaded: C:\xampp\htdocs\firestation\application\views\distributiontodist.php
-INFO - 2022-02-09 15:14:39 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
-INFO - 2022-02-09 15:14:39 --> Final output sent to browser
-DEBUG - 2022-02-09 15:14:39 --> Total execution time: 0.2072
-INFO - 2022-02-09 15:14:41 --> Config Class Initialized
-INFO - 2022-02-09 15:14:41 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:41 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:41 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:41 --> URI Class Initialized
-INFO - 2022-02-09 15:14:41 --> Router Class Initialized
-INFO - 2022-02-09 15:14:41 --> Output Class Initialized
-INFO - 2022-02-09 15:14:41 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:41 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:41 --> Input Class Initialized
-INFO - 2022-02-09 15:14:41 --> Language Class Initialized
-ERROR - 2022-02-09 15:14:41 --> 404 Page Not Found: Images/favicon.ico
-INFO - 2022-02-09 15:14:51 --> Config Class Initialized
-INFO - 2022-02-09 15:14:51 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:14:51 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:14:51 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:14:51 --> URI Class Initialized
-INFO - 2022-02-09 15:14:51 --> Router Class Initialized
-INFO - 2022-02-09 15:14:51 --> Output Class Initialized
-INFO - 2022-02-09 15:14:51 --> Security Class Initialized
-DEBUG - 2022-02-09 15:14:51 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:14:51 --> Input Class Initialized
-INFO - 2022-02-09 15:14:51 --> Language Class Initialized
-INFO - 2022-02-09 15:14:51 --> Loader Class Initialized
-INFO - 2022-02-09 15:14:51 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:14:51 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:14:51 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:14:51 --> Email Class Initialized
-INFO - 2022-02-09 15:14:51 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:14:51 --> Controller Class Initialized
-INFO - 2022-02-09 15:14:51 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:14:51 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:14:51 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:14:51 --> Model Class Initialized
-DEBUG - 2022-02-09 15:14:51 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:14:51 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:14:51 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-ERROR - 2022-02-09 15:14:51 --> Severity: Warning --> Undefined variable $count C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 92
-ERROR - 2022-02-09 15:14:51 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 93
-ERROR - 2022-02-09 15:14:51 --> Severity: Warning --> Undefined variable $tot C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 93
-ERROR - 2022-02-09 15:14:51 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 120
-ERROR - 2022-02-09 15:14:51 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 128
-ERROR - 2022-02-09 15:14:51 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 131
-ERROR - 2022-02-09 15:14:51 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 93
-ERROR - 2022-02-09 15:14:51 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 120
-ERROR - 2022-02-09 15:14:51 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 131
-ERROR - 2022-02-09 15:14:51 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 93
-ERROR - 2022-02-09 15:14:51 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 120
-ERROR - 2022-02-09 15:14:51 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 131
-ERROR - 2022-02-09 15:14:51 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 93
-ERROR - 2022-02-09 15:14:51 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 120
-ERROR - 2022-02-09 15:14:51 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 131
-ERROR - 2022-02-09 15:14:51 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 93
-ERROR - 2022-02-09 15:14:51 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 120
-ERROR - 2022-02-09 15:14:51 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 131
-ERROR - 2022-02-09 15:14:51 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 93
-ERROR - 2022-02-09 15:14:51 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 120
-ERROR - 2022-02-09 15:14:51 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 131
-ERROR - 2022-02-09 15:14:51 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 93
-ERROR - 2022-02-09 15:14:51 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 120
-ERROR - 2022-02-09 15:14:51 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 131
-INFO - 2022-02-09 15:14:51 --> File loaded: C:\xampp\htdocs\firestation\application\views\receieveStockReport.php
-INFO - 2022-02-09 15:14:51 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
-INFO - 2022-02-09 15:14:51 --> Final output sent to browser
-DEBUG - 2022-02-09 15:14:51 --> Total execution time: 0.1547
-INFO - 2022-02-09 15:19:14 --> Config Class Initialized
-INFO - 2022-02-09 15:19:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:19:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:19:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:19:14 --> URI Class Initialized
-INFO - 2022-02-09 15:19:14 --> Router Class Initialized
-INFO - 2022-02-09 15:19:14 --> Output Class Initialized
-INFO - 2022-02-09 15:19:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:19:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:19:14 --> Input Class Initialized
-INFO - 2022-02-09 15:19:14 --> Language Class Initialized
-INFO - 2022-02-09 15:19:14 --> Loader Class Initialized
-INFO - 2022-02-09 15:19:14 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:19:14 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:19:14 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:19:14 --> Email Class Initialized
-INFO - 2022-02-09 15:19:14 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:19:14 --> Controller Class Initialized
-INFO - 2022-02-09 15:19:14 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:19:14 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:19:14 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:19:14 --> Model Class Initialized
-DEBUG - 2022-02-09 15:19:14 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:19:14 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:19:14 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-ERROR - 2022-02-09 15:19:14 --> Severity: Warning --> Undefined variable $count C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 92
-ERROR - 2022-02-09 15:19:14 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 93
-ERROR - 2022-02-09 15:19:14 --> Severity: Warning --> Undefined variable $tot C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 93
-ERROR - 2022-02-09 15:19:14 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 120
-ERROR - 2022-02-09 15:19:14 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 128
-ERROR - 2022-02-09 15:19:14 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 131
-ERROR - 2022-02-09 15:19:14 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 93
-ERROR - 2022-02-09 15:19:14 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 120
-ERROR - 2022-02-09 15:19:14 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 131
-ERROR - 2022-02-09 15:19:14 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 93
-ERROR - 2022-02-09 15:19:14 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 120
-ERROR - 2022-02-09 15:19:14 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 131
-ERROR - 2022-02-09 15:19:14 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 93
-ERROR - 2022-02-09 15:19:14 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 120
-ERROR - 2022-02-09 15:19:14 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 131
-ERROR - 2022-02-09 15:19:14 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 93
-ERROR - 2022-02-09 15:19:14 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 120
-ERROR - 2022-02-09 15:19:14 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 131
-ERROR - 2022-02-09 15:19:14 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 93
-ERROR - 2022-02-09 15:19:14 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 120
-ERROR - 2022-02-09 15:19:14 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 131
-ERROR - 2022-02-09 15:19:14 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 93
-ERROR - 2022-02-09 15:19:14 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 120
-ERROR - 2022-02-09 15:19:14 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 131
-INFO - 2022-02-09 15:19:14 --> File loaded: C:\xampp\htdocs\firestation\application\views\receieveStockReport.php
-INFO - 2022-02-09 15:19:14 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
-INFO - 2022-02-09 15:19:14 --> Final output sent to browser
-DEBUG - 2022-02-09 15:19:14 --> Total execution time: 0.1548
-INFO - 2022-02-09 15:19:16 --> Config Class Initialized
-INFO - 2022-02-09 15:19:16 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:19:16 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:19:16 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:19:16 --> URI Class Initialized
-INFO - 2022-02-09 15:19:16 --> Router Class Initialized
-INFO - 2022-02-09 15:19:16 --> Output Class Initialized
-INFO - 2022-02-09 15:19:16 --> Security Class Initialized
-DEBUG - 2022-02-09 15:19:16 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:19:16 --> Input Class Initialized
-INFO - 2022-02-09 15:19:16 --> Language Class Initialized
-ERROR - 2022-02-09 15:19:16 --> 404 Page Not Found: Images/favicon.ico
-INFO - 2022-02-09 15:19:57 --> Config Class Initialized
-INFO - 2022-02-09 15:19:57 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:19:57 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:19:57 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:19:57 --> URI Class Initialized
-INFO - 2022-02-09 15:19:57 --> Router Class Initialized
-INFO - 2022-02-09 15:19:57 --> Output Class Initialized
-INFO - 2022-02-09 15:19:57 --> Security Class Initialized
-DEBUG - 2022-02-09 15:19:57 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:19:57 --> Input Class Initialized
-INFO - 2022-02-09 15:19:57 --> Language Class Initialized
-INFO - 2022-02-09 15:19:57 --> Loader Class Initialized
-INFO - 2022-02-09 15:19:57 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:19:57 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:19:57 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:19:57 --> Email Class Initialized
-INFO - 2022-02-09 15:19:57 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:19:57 --> Controller Class Initialized
-INFO - 2022-02-09 15:19:57 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:19:57 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:19:57 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:19:57 --> Model Class Initialized
-DEBUG - 2022-02-09 15:19:57 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:19:57 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:19:57 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-ERROR - 2022-02-09 15:19:57 --> Severity: Warning --> Undefined variable $count C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 94
-ERROR - 2022-02-09 15:19:57 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 95
-ERROR - 2022-02-09 15:19:57 --> Severity: Warning --> Undefined variable $tot C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 95
-ERROR - 2022-02-09 15:19:57 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 122
-ERROR - 2022-02-09 15:19:57 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 130
-ERROR - 2022-02-09 15:19:57 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:19:57 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 95
-ERROR - 2022-02-09 15:19:57 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 122
-ERROR - 2022-02-09 15:19:57 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:19:57 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 95
-ERROR - 2022-02-09 15:19:57 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 122
-ERROR - 2022-02-09 15:19:57 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:19:57 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 95
-ERROR - 2022-02-09 15:19:57 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 122
-ERROR - 2022-02-09 15:19:57 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:19:57 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 95
-ERROR - 2022-02-09 15:19:57 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 122
-ERROR - 2022-02-09 15:19:57 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:19:57 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 95
-ERROR - 2022-02-09 15:19:57 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 122
-ERROR - 2022-02-09 15:19:57 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:19:57 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 95
-ERROR - 2022-02-09 15:19:57 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 122
-ERROR - 2022-02-09 15:19:57 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-INFO - 2022-02-09 15:19:57 --> File loaded: C:\xampp\htdocs\firestation\application\views\receieveStockReport.php
-INFO - 2022-02-09 15:19:57 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
-INFO - 2022-02-09 15:19:57 --> Final output sent to browser
-DEBUG - 2022-02-09 15:19:57 --> Total execution time: 0.1467
-INFO - 2022-02-09 15:19:59 --> Config Class Initialized
-INFO - 2022-02-09 15:19:59 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:19:59 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:19:59 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:19:59 --> URI Class Initialized
-INFO - 2022-02-09 15:19:59 --> Router Class Initialized
-INFO - 2022-02-09 15:19:59 --> Output Class Initialized
-INFO - 2022-02-09 15:19:59 --> Security Class Initialized
-DEBUG - 2022-02-09 15:19:59 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:19:59 --> Input Class Initialized
-INFO - 2022-02-09 15:19:59 --> Language Class Initialized
-ERROR - 2022-02-09 15:19:59 --> 404 Page Not Found: Images/favicon.ico
-INFO - 2022-02-09 15:20:08 --> Config Class Initialized
-INFO - 2022-02-09 15:20:08 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:20:08 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:20:08 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:20:08 --> URI Class Initialized
-INFO - 2022-02-09 15:20:08 --> Router Class Initialized
-INFO - 2022-02-09 15:20:08 --> Output Class Initialized
-INFO - 2022-02-09 15:20:08 --> Security Class Initialized
-DEBUG - 2022-02-09 15:20:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:20:08 --> Input Class Initialized
-INFO - 2022-02-09 15:20:08 --> Language Class Initialized
-INFO - 2022-02-09 15:20:08 --> Loader Class Initialized
-INFO - 2022-02-09 15:20:08 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:20:08 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:20:08 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:20:08 --> Email Class Initialized
-INFO - 2022-02-09 15:20:08 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:20:08 --> Controller Class Initialized
-INFO - 2022-02-09 15:20:08 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:20:08 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:20:08 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:20:08 --> Model Class Initialized
-DEBUG - 2022-02-09 15:20:08 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:20:08 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:20:08 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-ERROR - 2022-02-09 15:20:08 --> Severity: Warning --> Undefined variable $count C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 94
-ERROR - 2022-02-09 15:20:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 95
-ERROR - 2022-02-09 15:20:08 --> Severity: Warning --> Undefined variable $tot C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 95
-ERROR - 2022-02-09 15:20:08 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 122
-ERROR - 2022-02-09 15:20:08 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 130
-ERROR - 2022-02-09 15:20:08 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:20:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 95
-ERROR - 2022-02-09 15:20:08 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 122
-ERROR - 2022-02-09 15:20:08 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:20:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 95
-ERROR - 2022-02-09 15:20:08 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 122
-ERROR - 2022-02-09 15:20:08 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:20:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 95
-ERROR - 2022-02-09 15:20:08 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 122
-ERROR - 2022-02-09 15:20:08 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:20:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 95
-ERROR - 2022-02-09 15:20:09 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 122
-ERROR - 2022-02-09 15:20:09 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:20:09 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 95
-ERROR - 2022-02-09 15:20:09 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 122
-ERROR - 2022-02-09 15:20:09 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:20:09 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 95
-ERROR - 2022-02-09 15:20:09 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 122
-ERROR - 2022-02-09 15:20:09 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-INFO - 2022-02-09 15:20:09 --> File loaded: C:\xampp\htdocs\firestation\application\views\receieveStockReport.php
-INFO - 2022-02-09 15:20:09 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
-INFO - 2022-02-09 15:20:09 --> Final output sent to browser
-DEBUG - 2022-02-09 15:20:09 --> Total execution time: 0.1352
-INFO - 2022-02-09 15:20:11 --> Config Class Initialized
-INFO - 2022-02-09 15:20:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:20:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:20:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:20:11 --> URI Class Initialized
-INFO - 2022-02-09 15:20:11 --> Router Class Initialized
-INFO - 2022-02-09 15:20:11 --> Output Class Initialized
-INFO - 2022-02-09 15:20:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:20:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:20:11 --> Input Class Initialized
-INFO - 2022-02-09 15:20:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:20:11 --> 404 Page Not Found: Images/favicon.ico
-INFO - 2022-02-09 15:21:00 --> Config Class Initialized
-INFO - 2022-02-09 15:21:00 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:21:00 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:21:00 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:21:00 --> URI Class Initialized
-INFO - 2022-02-09 15:21:00 --> Router Class Initialized
-INFO - 2022-02-09 15:21:00 --> Output Class Initialized
-INFO - 2022-02-09 15:21:00 --> Security Class Initialized
-DEBUG - 2022-02-09 15:21:00 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:21:00 --> Input Class Initialized
-INFO - 2022-02-09 15:21:00 --> Language Class Initialized
-INFO - 2022-02-09 15:21:00 --> Loader Class Initialized
-INFO - 2022-02-09 15:21:00 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:21:00 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:21:00 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:21:00 --> Email Class Initialized
-INFO - 2022-02-09 15:21:00 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:21:00 --> Controller Class Initialized
-INFO - 2022-02-09 15:21:00 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:21:00 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:21:00 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:21:00 --> Model Class Initialized
-DEBUG - 2022-02-09 15:21:00 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:21:00 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:21:00 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-ERROR - 2022-02-09 15:21:00 --> Severity: Warning --> Undefined variable $count C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 102
-ERROR - 2022-02-09 15:21:00 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 103
-ERROR - 2022-02-09 15:21:00 --> Severity: Warning --> Undefined variable $tot C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 103
-ERROR - 2022-02-09 15:21:00 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 130
-ERROR - 2022-02-09 15:21:00 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 138
-ERROR - 2022-02-09 15:21:00 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 141
-ERROR - 2022-02-09 15:21:00 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 103
-ERROR - 2022-02-09 15:21:00 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 130
-ERROR - 2022-02-09 15:21:00 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 141
-ERROR - 2022-02-09 15:21:00 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 103
-ERROR - 2022-02-09 15:21:00 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 130
-ERROR - 2022-02-09 15:21:00 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 141
-ERROR - 2022-02-09 15:21:00 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 103
-ERROR - 2022-02-09 15:21:00 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 130
-ERROR - 2022-02-09 15:21:00 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 141
-ERROR - 2022-02-09 15:21:00 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 103
-ERROR - 2022-02-09 15:21:00 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 130
-ERROR - 2022-02-09 15:21:00 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 141
-ERROR - 2022-02-09 15:21:00 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 103
-ERROR - 2022-02-09 15:21:00 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 130
-ERROR - 2022-02-09 15:21:00 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 141
-ERROR - 2022-02-09 15:21:00 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 103
-ERROR - 2022-02-09 15:21:00 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 130
-ERROR - 2022-02-09 15:21:00 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 141
-INFO - 2022-02-09 15:21:00 --> File loaded: C:\xampp\htdocs\firestation\application\views\receieveStockReport.php
-INFO - 2022-02-09 15:21:00 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
-INFO - 2022-02-09 15:21:00 --> Final output sent to browser
-DEBUG - 2022-02-09 15:21:00 --> Total execution time: 0.1264
-INFO - 2022-02-09 15:21:02 --> Config Class Initialized
-INFO - 2022-02-09 15:21:02 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:21:02 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:21:02 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:21:02 --> URI Class Initialized
-INFO - 2022-02-09 15:21:02 --> Router Class Initialized
-INFO - 2022-02-09 15:21:02 --> Output Class Initialized
-INFO - 2022-02-09 15:21:02 --> Security Class Initialized
-DEBUG - 2022-02-09 15:21:02 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:21:02 --> Input Class Initialized
-INFO - 2022-02-09 15:21:02 --> Language Class Initialized
-ERROR - 2022-02-09 15:21:02 --> 404 Page Not Found: Images/favicon.ico
-INFO - 2022-02-09 15:21:23 --> Config Class Initialized
-INFO - 2022-02-09 15:21:23 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:21:23 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:21:23 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:21:23 --> URI Class Initialized
-INFO - 2022-02-09 15:21:23 --> Router Class Initialized
-INFO - 2022-02-09 15:21:23 --> Output Class Initialized
-INFO - 2022-02-09 15:21:23 --> Security Class Initialized
-DEBUG - 2022-02-09 15:21:23 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:21:23 --> Input Class Initialized
-INFO - 2022-02-09 15:21:23 --> Language Class Initialized
-INFO - 2022-02-09 15:21:23 --> Loader Class Initialized
-INFO - 2022-02-09 15:21:23 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:21:23 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:21:23 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:21:23 --> Email Class Initialized
-INFO - 2022-02-09 15:21:23 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:21:23 --> Controller Class Initialized
-INFO - 2022-02-09 15:21:23 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:21:23 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:21:23 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:21:23 --> Model Class Initialized
-DEBUG - 2022-02-09 15:21:23 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:21:23 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:21:23 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-ERROR - 2022-02-09 15:21:24 --> Severity: Warning --> Undefined variable $count C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 105
-ERROR - 2022-02-09 15:21:24 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:21:24 --> Severity: Warning --> Undefined variable $tot C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:21:24 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:21:24 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 141
-ERROR - 2022-02-09 15:21:24 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-ERROR - 2022-02-09 15:21:24 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:21:24 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:21:24 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-ERROR - 2022-02-09 15:21:24 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:21:24 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:21:24 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-ERROR - 2022-02-09 15:21:24 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:21:24 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:21:24 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-ERROR - 2022-02-09 15:21:24 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:21:24 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:21:24 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-ERROR - 2022-02-09 15:21:24 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:21:24 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:21:24 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-ERROR - 2022-02-09 15:21:24 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:21:24 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:21:24 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-INFO - 2022-02-09 15:21:24 --> File loaded: C:\xampp\htdocs\firestation\application\views\receieveStockReport.php
-INFO - 2022-02-09 15:21:24 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
-INFO - 2022-02-09 15:21:24 --> Final output sent to browser
-DEBUG - 2022-02-09 15:21:24 --> Total execution time: 0.1329
-INFO - 2022-02-09 15:21:26 --> Config Class Initialized
-INFO - 2022-02-09 15:21:26 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:21:26 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:21:26 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:21:26 --> URI Class Initialized
-INFO - 2022-02-09 15:21:26 --> Router Class Initialized
-INFO - 2022-02-09 15:21:26 --> Output Class Initialized
-INFO - 2022-02-09 15:21:26 --> Security Class Initialized
-DEBUG - 2022-02-09 15:21:26 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:21:26 --> Input Class Initialized
-INFO - 2022-02-09 15:21:26 --> Language Class Initialized
-ERROR - 2022-02-09 15:21:26 --> 404 Page Not Found: Images/favicon.ico
-INFO - 2022-02-09 15:21:53 --> Config Class Initialized
-INFO - 2022-02-09 15:21:53 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:21:53 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:21:53 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:21:53 --> URI Class Initialized
-INFO - 2022-02-09 15:21:53 --> Router Class Initialized
-INFO - 2022-02-09 15:21:53 --> Output Class Initialized
-INFO - 2022-02-09 15:21:53 --> Security Class Initialized
-DEBUG - 2022-02-09 15:21:53 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:21:53 --> Input Class Initialized
-INFO - 2022-02-09 15:21:53 --> Language Class Initialized
-INFO - 2022-02-09 15:21:53 --> Loader Class Initialized
-INFO - 2022-02-09 15:21:53 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:21:53 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:21:53 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:21:53 --> Email Class Initialized
-INFO - 2022-02-09 15:21:53 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:21:53 --> Controller Class Initialized
-INFO - 2022-02-09 15:21:53 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:21:53 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:21:53 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:21:53 --> Model Class Initialized
-DEBUG - 2022-02-09 15:21:53 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:21:53 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:21:53 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-ERROR - 2022-02-09 15:21:53 --> Severity: Warning --> Undefined variable $count C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 105
-ERROR - 2022-02-09 15:21:53 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:21:53 --> Severity: Warning --> Undefined variable $tot C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:21:53 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:21:53 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 141
-ERROR - 2022-02-09 15:21:53 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-ERROR - 2022-02-09 15:21:53 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:21:53 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:21:53 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-ERROR - 2022-02-09 15:21:53 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:21:53 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:21:53 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-ERROR - 2022-02-09 15:21:53 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:21:53 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:21:53 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-ERROR - 2022-02-09 15:21:53 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:21:53 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:21:53 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-ERROR - 2022-02-09 15:21:53 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:21:53 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:21:53 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-ERROR - 2022-02-09 15:21:53 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:21:53 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:21:53 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-INFO - 2022-02-09 15:21:53 --> File loaded: C:\xampp\htdocs\firestation\application\views\receieveStockReport.php
-INFO - 2022-02-09 15:21:53 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
-INFO - 2022-02-09 15:21:53 --> Final output sent to browser
-DEBUG - 2022-02-09 15:21:53 --> Total execution time: 0.1364
-INFO - 2022-02-09 15:21:55 --> Config Class Initialized
-INFO - 2022-02-09 15:21:55 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:21:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:21:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:21:55 --> URI Class Initialized
-INFO - 2022-02-09 15:21:55 --> Router Class Initialized
-INFO - 2022-02-09 15:21:55 --> Output Class Initialized
-INFO - 2022-02-09 15:21:55 --> Security Class Initialized
-DEBUG - 2022-02-09 15:21:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:21:55 --> Input Class Initialized
-INFO - 2022-02-09 15:21:55 --> Language Class Initialized
-ERROR - 2022-02-09 15:21:55 --> 404 Page Not Found: Images/favicon.ico
-INFO - 2022-02-09 15:22:08 --> Config Class Initialized
-INFO - 2022-02-09 15:22:08 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:22:08 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:22:08 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:22:08 --> URI Class Initialized
-INFO - 2022-02-09 15:22:08 --> Router Class Initialized
-INFO - 2022-02-09 15:22:08 --> Output Class Initialized
-INFO - 2022-02-09 15:22:08 --> Security Class Initialized
-DEBUG - 2022-02-09 15:22:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:22:08 --> Input Class Initialized
-INFO - 2022-02-09 15:22:08 --> Language Class Initialized
-INFO - 2022-02-09 15:22:08 --> Loader Class Initialized
-INFO - 2022-02-09 15:22:08 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:22:08 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:22:08 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:22:08 --> Email Class Initialized
-INFO - 2022-02-09 15:22:08 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:22:08 --> Controller Class Initialized
-INFO - 2022-02-09 15:22:08 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:22:08 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:22:08 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:22:08 --> Model Class Initialized
-DEBUG - 2022-02-09 15:22:08 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:22:08 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:22:08 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-ERROR - 2022-02-09 15:22:08 --> Severity: Warning --> Undefined variable $count C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 105
-ERROR - 2022-02-09 15:22:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:22:08 --> Severity: Warning --> Undefined variable $tot C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:22:08 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:22:08 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 141
-ERROR - 2022-02-09 15:22:08 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-ERROR - 2022-02-09 15:22:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:22:08 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:22:08 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-ERROR - 2022-02-09 15:22:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:22:08 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:22:08 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-ERROR - 2022-02-09 15:22:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:22:08 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:22:08 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-ERROR - 2022-02-09 15:22:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:22:08 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:22:08 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-ERROR - 2022-02-09 15:22:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:22:08 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:22:08 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-ERROR - 2022-02-09 15:22:08 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:22:08 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:22:08 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-INFO - 2022-02-09 15:22:08 --> File loaded: C:\xampp\htdocs\firestation\application\views\receieveStockReport.php
-INFO - 2022-02-09 15:22:08 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
-INFO - 2022-02-09 15:22:08 --> Final output sent to browser
-DEBUG - 2022-02-09 15:22:08 --> Total execution time: 0.1517
-INFO - 2022-02-09 15:22:10 --> Config Class Initialized
-INFO - 2022-02-09 15:22:10 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:22:10 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:22:10 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:22:10 --> URI Class Initialized
-INFO - 2022-02-09 15:22:10 --> Router Class Initialized
-INFO - 2022-02-09 15:22:10 --> Output Class Initialized
-INFO - 2022-02-09 15:22:10 --> Security Class Initialized
-DEBUG - 2022-02-09 15:22:10 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:22:10 --> Input Class Initialized
-INFO - 2022-02-09 15:22:10 --> Language Class Initialized
-ERROR - 2022-02-09 15:22:10 --> 404 Page Not Found: Images/favicon.ico
-INFO - 2022-02-09 15:22:33 --> Config Class Initialized
-INFO - 2022-02-09 15:22:33 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:22:33 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:22:33 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:22:33 --> URI Class Initialized
-INFO - 2022-02-09 15:22:33 --> Router Class Initialized
-INFO - 2022-02-09 15:22:33 --> Output Class Initialized
-INFO - 2022-02-09 15:22:33 --> Security Class Initialized
-DEBUG - 2022-02-09 15:22:33 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:22:33 --> Input Class Initialized
-INFO - 2022-02-09 15:22:33 --> Language Class Initialized
-INFO - 2022-02-09 15:22:33 --> Loader Class Initialized
-INFO - 2022-02-09 15:22:33 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:22:33 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:22:33 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:22:33 --> Email Class Initialized
-INFO - 2022-02-09 15:22:33 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:22:33 --> Controller Class Initialized
-INFO - 2022-02-09 15:22:33 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:22:33 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:22:33 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:22:33 --> Model Class Initialized
-DEBUG - 2022-02-09 15:22:33 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:22:33 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:22:33 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-ERROR - 2022-02-09 15:22:33 --> Severity: Warning --> Undefined variable $count C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 105
-ERROR - 2022-02-09 15:22:33 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:22:33 --> Severity: Warning --> Undefined variable $tot C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:22:33 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:22:33 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 141
-ERROR - 2022-02-09 15:22:33 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-ERROR - 2022-02-09 15:22:33 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:22:33 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:22:33 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-ERROR - 2022-02-09 15:22:33 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:22:33 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:22:33 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-ERROR - 2022-02-09 15:22:33 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:22:33 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:22:33 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-ERROR - 2022-02-09 15:22:33 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:22:33 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:22:33 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-ERROR - 2022-02-09 15:22:33 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:22:33 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:22:33 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-ERROR - 2022-02-09 15:22:33 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 106
-ERROR - 2022-02-09 15:22:33 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 133
-ERROR - 2022-02-09 15:22:33 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 144
-INFO - 2022-02-09 15:22:33 --> File loaded: C:\xampp\htdocs\firestation\application\views\receieveStockReport.php
-INFO - 2022-02-09 15:22:33 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
-INFO - 2022-02-09 15:22:33 --> Final output sent to browser
-DEBUG - 2022-02-09 15:22:33 --> Total execution time: 0.1206
-INFO - 2022-02-09 15:22:35 --> Config Class Initialized
-INFO - 2022-02-09 15:22:35 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:22:35 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:22:35 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:22:35 --> URI Class Initialized
-INFO - 2022-02-09 15:22:35 --> Router Class Initialized
-INFO - 2022-02-09 15:22:35 --> Output Class Initialized
-INFO - 2022-02-09 15:22:35 --> Security Class Initialized
-DEBUG - 2022-02-09 15:22:35 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:22:35 --> Input Class Initialized
-INFO - 2022-02-09 15:22:35 --> Language Class Initialized
-ERROR - 2022-02-09 15:22:35 --> 404 Page Not Found: Images/favicon.ico
-INFO - 2022-02-09 15:28:39 --> Config Class Initialized
-INFO - 2022-02-09 15:28:39 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:28:39 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:28:39 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:28:39 --> URI Class Initialized
-INFO - 2022-02-09 15:28:39 --> Router Class Initialized
-INFO - 2022-02-09 15:28:39 --> Output Class Initialized
-INFO - 2022-02-09 15:28:39 --> Security Class Initialized
-DEBUG - 2022-02-09 15:28:39 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:28:39 --> Input Class Initialized
-INFO - 2022-02-09 15:28:39 --> Language Class Initialized
-INFO - 2022-02-09 15:28:39 --> Loader Class Initialized
-INFO - 2022-02-09 15:28:39 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:28:39 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:28:39 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:28:39 --> Email Class Initialized
-INFO - 2022-02-09 15:28:39 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:28:39 --> Controller Class Initialized
-INFO - 2022-02-09 15:28:39 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:28:39 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:28:39 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:28:39 --> Model Class Initialized
-DEBUG - 2022-02-09 15:28:39 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:28:39 --> File loaded: C:\xampp\htdocs\firestation\application\views\login.php
-INFO - 2022-02-09 15:28:39 --> Final output sent to browser
-DEBUG - 2022-02-09 15:28:39 --> Total execution time: 0.0615
-INFO - 2022-02-09 15:28:51 --> Config Class Initialized
-INFO - 2022-02-09 15:28:51 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:28:51 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:28:51 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:28:51 --> URI Class Initialized
-INFO - 2022-02-09 15:28:51 --> Router Class Initialized
-INFO - 2022-02-09 15:28:51 --> Output Class Initialized
-INFO - 2022-02-09 15:28:51 --> Security Class Initialized
-DEBUG - 2022-02-09 15:28:51 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:28:51 --> Input Class Initialized
-INFO - 2022-02-09 15:28:51 --> Language Class Initialized
-INFO - 2022-02-09 15:28:51 --> Loader Class Initialized
-INFO - 2022-02-09 15:28:51 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:28:51 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:28:51 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:28:51 --> Email Class Initialized
-INFO - 2022-02-09 15:28:51 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:28:51 --> Controller Class Initialized
-INFO - 2022-02-09 15:28:51 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:28:51 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:28:51 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:28:51 --> Model Class Initialized
-DEBUG - 2022-02-09 15:28:51 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:28:51 --> File loaded: C:\xampp\htdocs\firestation\application\views\login.php
-INFO - 2022-02-09 15:28:51 --> Final output sent to browser
-DEBUG - 2022-02-09 15:28:51 --> Total execution time: 0.0776
-INFO - 2022-02-09 15:29:16 --> Config Class Initialized
-INFO - 2022-02-09 15:29:16 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:29:16 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:29:16 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:29:16 --> URI Class Initialized
-INFO - 2022-02-09 15:29:16 --> Router Class Initialized
-INFO - 2022-02-09 15:29:16 --> Output Class Initialized
-INFO - 2022-02-09 15:29:16 --> Security Class Initialized
-DEBUG - 2022-02-09 15:29:16 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:29:16 --> Input Class Initialized
-INFO - 2022-02-09 15:29:16 --> Language Class Initialized
-INFO - 2022-02-09 15:29:16 --> Loader Class Initialized
-INFO - 2022-02-09 15:29:16 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:29:16 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:29:16 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:29:16 --> Email Class Initialized
-INFO - 2022-02-09 15:29:16 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:29:16 --> Controller Class Initialized
-INFO - 2022-02-09 15:29:16 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:29:16 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:29:16 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:29:16 --> Model Class Initialized
-DEBUG - 2022-02-09 15:29:16 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:29:16 --> Config Class Initialized
-INFO - 2022-02-09 15:29:16 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:29:16 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:29:16 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:29:16 --> URI Class Initialized
-DEBUG - 2022-02-09 15:29:16 --> No URI present. Default controller set.
-INFO - 2022-02-09 15:29:16 --> Router Class Initialized
-INFO - 2022-02-09 15:29:16 --> Output Class Initialized
-INFO - 2022-02-09 15:29:16 --> Security Class Initialized
-DEBUG - 2022-02-09 15:29:16 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:29:16 --> Input Class Initialized
-INFO - 2022-02-09 15:29:16 --> Language Class Initialized
-INFO - 2022-02-09 15:29:16 --> Loader Class Initialized
-INFO - 2022-02-09 15:29:16 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:29:16 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:29:16 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:29:16 --> Email Class Initialized
-INFO - 2022-02-09 15:29:16 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:29:16 --> Controller Class Initialized
-INFO - 2022-02-09 15:29:16 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:29:16 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:29:16 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:29:16 --> Model Class Initialized
-DEBUG - 2022-02-09 15:29:16 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:29:16 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:29:16 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-INFO - 2022-02-09 15:29:16 --> File loaded: C:\xampp\htdocs\firestation\application\views\dashboard.php
-INFO - 2022-02-09 15:29:16 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
-INFO - 2022-02-09 15:29:16 --> Final output sent to browser
-DEBUG - 2022-02-09 15:29:16 --> Total execution time: 0.1008
 INFO - 2022-02-09 15:29:50 --> Config Class Initialized
 INFO - 2022-02-09 15:29:50 --> Hooks Class Initialized
 DEBUG - 2022-02-09 15:29:50 --> UTF-8 Support Enabled
 INFO - 2022-02-09 15:29:50 --> Utf8 Class Initialized
 INFO - 2022-02-09 15:29:50 --> URI Class Initialized
+DEBUG - 2022-02-09 15:29:50 --> No URI present. Default controller set.
 INFO - 2022-02-09 15:29:50 --> Router Class Initialized
 INFO - 2022-02-09 15:29:50 --> Output Class Initialized
 INFO - 2022-02-09 15:29:50 --> Security Class Initialized
@@ -9457,7 +3467,10 @@ INFO - 2022-02-09 15:29:50 --> Language Class Initialized
 INFO - 2022-02-09 15:29:50 --> Loader Class Initialized
 INFO - 2022-02-09 15:29:50 --> Helper loaded: url_helper
 INFO - 2022-02-09 15:29:50 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:29:50 --> Helper loaded: idex_helper
 INFO - 2022-02-09 15:29:50 --> Database Driver Class Initialized
+ERROR - 2022-02-09 15:29:50 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) C:\xampp\htdocs\firestation\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2022-02-09 15:29:50 --> Unable to connect to the database
 INFO - 2022-02-09 15:29:50 --> Email Class Initialized
 INFO - 2022-02-09 15:29:50 --> Session: Class initialized using 'files' driver.
 INFO - 2022-02-09 15:29:50 --> Controller Class Initialized
@@ -9466,314 +3479,3454 @@ INFO - 2022-02-09 15:29:50 --> Form Validation Class Initialized
 DEBUG - 2022-02-09 15:29:50 --> Session class already loaded. Second attempt ignored.
 INFO - 2022-02-09 15:29:50 --> Model Class Initialized
 DEBUG - 2022-02-09 15:29:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:29:50 --> Database Driver Class Initialized
+ERROR - 2022-02-09 15:29:50 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) C:\xampp\htdocs\firestation\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2022-02-09 15:29:50 --> Unable to connect to the database
 INFO - 2022-02-09 15:29:50 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:29:50 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-ERROR - 2022-02-09 15:29:50 --> Severity: Warning --> Undefined variable $count C:\xampp\htdocs\firestation\application\views\fsavailableStock.php 281
-ERROR - 2022-02-09 15:29:50 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\fsavailableStock.php 282
-ERROR - 2022-02-09 15:29:50 --> Severity: Warning --> Undefined variable $tot C:\xampp\htdocs\firestation\application\views\fsavailableStock.php 282
-ERROR - 2022-02-09 15:29:50 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\fsavailableStock.php 282
-ERROR - 2022-02-09 15:29:50 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\fsavailableStock.php 282
-ERROR - 2022-02-09 15:29:50 --> Severity: Warning --> Undefined variable $v1 C:\xampp\htdocs\firestation\application\views\fsavailableStock.php 445
-ERROR - 2022-02-09 15:29:50 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\firestation\application\views\fsavailableStock.php 445
-ERROR - 2022-02-09 15:29:50 --> Severity: Warning --> Undefined variable $v1 C:\xampp\htdocs\firestation\application\views\fsavailableStock.php 446
-ERROR - 2022-02-09 15:29:50 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\firestation\application\views\fsavailableStock.php 446
-ERROR - 2022-02-09 15:29:50 --> Severity: Warning --> Undefined variable $v1 C:\xampp\htdocs\firestation\application\views\fsavailableStock.php 447
-ERROR - 2022-02-09 15:29:50 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\firestation\application\views\fsavailableStock.php 447
-INFO - 2022-02-09 15:29:50 --> File loaded: C:\xampp\htdocs\firestation\application\views\fsavailableStock.php
-INFO - 2022-02-09 15:29:50 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
-INFO - 2022-02-09 15:29:50 --> Final output sent to browser
-DEBUG - 2022-02-09 15:29:50 --> Total execution time: 0.2650
-INFO - 2022-02-09 15:30:40 --> Config Class Initialized
-INFO - 2022-02-09 15:30:40 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:30:40 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:30:40 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:30:40 --> URI Class Initialized
-DEBUG - 2022-02-09 15:30:40 --> No URI present. Default controller set.
-INFO - 2022-02-09 15:30:40 --> Router Class Initialized
-INFO - 2022-02-09 15:30:40 --> Output Class Initialized
-INFO - 2022-02-09 15:30:40 --> Security Class Initialized
-DEBUG - 2022-02-09 15:30:40 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:30:40 --> Input Class Initialized
-INFO - 2022-02-09 15:30:40 --> Language Class Initialized
-INFO - 2022-02-09 15:30:40 --> Loader Class Initialized
-INFO - 2022-02-09 15:30:40 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:30:40 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:30:40 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:30:40 --> Email Class Initialized
-INFO - 2022-02-09 15:30:40 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:30:40 --> Controller Class Initialized
-INFO - 2022-02-09 15:30:40 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:30:40 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:30:40 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:30:40 --> Model Class Initialized
-DEBUG - 2022-02-09 15:30:40 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:30:40 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:30:40 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-INFO - 2022-02-09 15:30:40 --> File loaded: C:\xampp\htdocs\firestation\application\views\dashboard.php
-INFO - 2022-02-09 15:30:40 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
-INFO - 2022-02-09 15:30:40 --> Final output sent to browser
-DEBUG - 2022-02-09 15:30:40 --> Total execution time: 0.1006
-INFO - 2022-02-09 15:30:55 --> Config Class Initialized
-INFO - 2022-02-09 15:30:55 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:30:55 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:30:55 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:30:55 --> URI Class Initialized
-INFO - 2022-02-09 15:30:55 --> Router Class Initialized
-INFO - 2022-02-09 15:30:55 --> Output Class Initialized
-INFO - 2022-02-09 15:30:55 --> Security Class Initialized
-DEBUG - 2022-02-09 15:30:55 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:30:55 --> Input Class Initialized
-INFO - 2022-02-09 15:30:55 --> Language Class Initialized
-INFO - 2022-02-09 15:30:55 --> Loader Class Initialized
-INFO - 2022-02-09 15:30:55 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:30:55 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:30:55 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:30:55 --> Email Class Initialized
-INFO - 2022-02-09 15:30:55 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:30:55 --> Controller Class Initialized
-INFO - 2022-02-09 15:30:55 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:30:55 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:30:55 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:30:55 --> Model Class Initialized
-DEBUG - 2022-02-09 15:30:55 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:30:55 --> File loaded: C:\xampp\htdocs\firestation\application\views\login.php
-INFO - 2022-02-09 15:30:55 --> Final output sent to browser
-DEBUG - 2022-02-09 15:30:55 --> Total execution time: 0.0798
-INFO - 2022-02-09 15:31:13 --> Config Class Initialized
-INFO - 2022-02-09 15:31:13 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:31:13 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:31:13 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:31:13 --> URI Class Initialized
-INFO - 2022-02-09 15:31:13 --> Router Class Initialized
-INFO - 2022-02-09 15:31:13 --> Output Class Initialized
-INFO - 2022-02-09 15:31:13 --> Security Class Initialized
-DEBUG - 2022-02-09 15:31:13 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:31:13 --> Input Class Initialized
-INFO - 2022-02-09 15:31:13 --> Language Class Initialized
-INFO - 2022-02-09 15:31:13 --> Loader Class Initialized
-INFO - 2022-02-09 15:31:13 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:31:13 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:31:13 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:31:13 --> Email Class Initialized
-INFO - 2022-02-09 15:31:13 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:31:13 --> Controller Class Initialized
-INFO - 2022-02-09 15:31:13 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:31:13 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:31:13 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:31:13 --> Model Class Initialized
-DEBUG - 2022-02-09 15:31:13 --> Session class already loaded. Second attempt ignored.
-ERROR - 2022-02-09 15:31:13 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\firestation\application\models\Login_model.php 98
-ERROR - 2022-02-09 15:31:13 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\firestation\application\models\Login_model.php 102
-INFO - 2022-02-09 15:31:13 --> Config Class Initialized
-INFO - 2022-02-09 15:31:13 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:31:13 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:31:13 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:31:13 --> URI Class Initialized
-DEBUG - 2022-02-09 15:31:13 --> No URI present. Default controller set.
-INFO - 2022-02-09 15:31:13 --> Router Class Initialized
-INFO - 2022-02-09 15:31:13 --> Output Class Initialized
-INFO - 2022-02-09 15:31:13 --> Security Class Initialized
-DEBUG - 2022-02-09 15:31:13 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:31:13 --> Input Class Initialized
-INFO - 2022-02-09 15:31:13 --> Language Class Initialized
-INFO - 2022-02-09 15:31:13 --> Loader Class Initialized
-INFO - 2022-02-09 15:31:13 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:31:13 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:31:13 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:31:13 --> Email Class Initialized
-INFO - 2022-02-09 15:31:13 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:31:13 --> Controller Class Initialized
-INFO - 2022-02-09 15:31:13 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:31:13 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:31:13 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:31:13 --> Model Class Initialized
-DEBUG - 2022-02-09 15:31:13 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:31:13 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:31:13 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-INFO - 2022-02-09 15:31:13 --> File loaded: C:\xampp\htdocs\firestation\application\views\dashboard.php
-INFO - 2022-02-09 15:31:13 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
-INFO - 2022-02-09 15:31:13 --> Final output sent to browser
-DEBUG - 2022-02-09 15:31:13 --> Total execution time: 0.0904
-INFO - 2022-02-09 15:31:24 --> Config Class Initialized
-INFO - 2022-02-09 15:31:24 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:31:24 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:31:24 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:31:24 --> URI Class Initialized
-INFO - 2022-02-09 15:31:24 --> Router Class Initialized
-INFO - 2022-02-09 15:31:24 --> Output Class Initialized
-INFO - 2022-02-09 15:31:24 --> Security Class Initialized
-DEBUG - 2022-02-09 15:31:24 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:31:24 --> Input Class Initialized
-INFO - 2022-02-09 15:31:24 --> Language Class Initialized
-INFO - 2022-02-09 15:31:24 --> Loader Class Initialized
-INFO - 2022-02-09 15:31:24 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:31:24 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:31:24 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:31:24 --> Email Class Initialized
-INFO - 2022-02-09 15:31:24 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:31:24 --> Controller Class Initialized
-INFO - 2022-02-09 15:31:24 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:31:24 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:31:24 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:31:24 --> Model Class Initialized
-DEBUG - 2022-02-09 15:31:24 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:31:24 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:31:24 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-ERROR - 2022-02-09 15:31:24 --> Severity: Warning --> Undefined variable $count C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 110
-ERROR - 2022-02-09 15:31:24 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 111
-ERROR - 2022-02-09 15:31:24 --> Severity: Warning --> Undefined variable $tot C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 111
-ERROR - 2022-02-09 15:31:24 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 138
-ERROR - 2022-02-09 15:31:24 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 146
-ERROR - 2022-02-09 15:31:24 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 149
-ERROR - 2022-02-09 15:31:24 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 111
-ERROR - 2022-02-09 15:31:24 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 138
-ERROR - 2022-02-09 15:31:24 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 149
-ERROR - 2022-02-09 15:31:24 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 111
-ERROR - 2022-02-09 15:31:24 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 138
-ERROR - 2022-02-09 15:31:24 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 149
-ERROR - 2022-02-09 15:31:24 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 111
-ERROR - 2022-02-09 15:31:24 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 138
-ERROR - 2022-02-09 15:31:24 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 149
-ERROR - 2022-02-09 15:31:24 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 111
-ERROR - 2022-02-09 15:31:24 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 138
-ERROR - 2022-02-09 15:31:24 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 149
-ERROR - 2022-02-09 15:31:24 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 111
-ERROR - 2022-02-09 15:31:24 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 138
-ERROR - 2022-02-09 15:31:24 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 149
-ERROR - 2022-02-09 15:31:24 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 111
-ERROR - 2022-02-09 15:31:24 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 138
-ERROR - 2022-02-09 15:31:24 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 149
-INFO - 2022-02-09 15:31:24 --> File loaded: C:\xampp\htdocs\firestation\application\views\receieveStockReport.php
-INFO - 2022-02-09 15:31:24 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
-INFO - 2022-02-09 15:31:24 --> Final output sent to browser
-DEBUG - 2022-02-09 15:31:24 --> Total execution time: 0.1573
-INFO - 2022-02-09 15:34:27 --> Config Class Initialized
-INFO - 2022-02-09 15:34:27 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:34:27 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:34:27 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:34:27 --> URI Class Initialized
-INFO - 2022-02-09 15:34:27 --> Router Class Initialized
-INFO - 2022-02-09 15:34:27 --> Output Class Initialized
-INFO - 2022-02-09 15:34:27 --> Security Class Initialized
-DEBUG - 2022-02-09 15:34:27 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:34:27 --> Input Class Initialized
-INFO - 2022-02-09 15:34:27 --> Language Class Initialized
-INFO - 2022-02-09 15:34:27 --> Loader Class Initialized
-INFO - 2022-02-09 15:34:27 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:34:27 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:34:27 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:34:27 --> Email Class Initialized
-INFO - 2022-02-09 15:34:27 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:34:27 --> Controller Class Initialized
-INFO - 2022-02-09 15:34:27 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:34:27 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:34:27 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:34:27 --> Model Class Initialized
-DEBUG - 2022-02-09 15:34:27 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:34:27 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:34:27 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-ERROR - 2022-02-09 15:34:27 --> Severity: Warning --> Undefined variable $count C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 122
-ERROR - 2022-02-09 15:34:27 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 123
-ERROR - 2022-02-09 15:34:27 --> Severity: Warning --> Undefined variable $tot C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 123
-ERROR - 2022-02-09 15:34:27 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 150
-ERROR - 2022-02-09 15:34:27 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 158
-ERROR - 2022-02-09 15:34:27 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 161
-ERROR - 2022-02-09 15:34:27 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 123
-ERROR - 2022-02-09 15:34:27 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 150
-ERROR - 2022-02-09 15:34:27 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 161
-ERROR - 2022-02-09 15:34:27 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 123
-ERROR - 2022-02-09 15:34:27 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 150
-ERROR - 2022-02-09 15:34:27 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 161
-ERROR - 2022-02-09 15:34:27 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 123
-ERROR - 2022-02-09 15:34:27 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 150
-ERROR - 2022-02-09 15:34:27 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 161
-ERROR - 2022-02-09 15:34:27 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 123
-ERROR - 2022-02-09 15:34:27 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 150
-ERROR - 2022-02-09 15:34:27 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 161
-ERROR - 2022-02-09 15:34:27 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 123
-ERROR - 2022-02-09 15:34:27 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 150
-ERROR - 2022-02-09 15:34:27 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 161
-ERROR - 2022-02-09 15:34:27 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 123
-ERROR - 2022-02-09 15:34:27 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 150
-ERROR - 2022-02-09 15:34:27 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 161
-INFO - 2022-02-09 15:34:27 --> File loaded: C:\xampp\htdocs\firestation\application\views\receieveStockReport.php
-INFO - 2022-02-09 15:34:27 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
-INFO - 2022-02-09 15:34:27 --> Final output sent to browser
-DEBUG - 2022-02-09 15:34:27 --> Total execution time: 0.1608
-INFO - 2022-02-09 15:34:29 --> Config Class Initialized
-INFO - 2022-02-09 15:34:29 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:34:29 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:34:29 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:34:29 --> URI Class Initialized
-INFO - 2022-02-09 15:34:29 --> Router Class Initialized
-INFO - 2022-02-09 15:34:29 --> Output Class Initialized
-INFO - 2022-02-09 15:34:29 --> Security Class Initialized
-DEBUG - 2022-02-09 15:34:29 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:34:29 --> Input Class Initialized
-INFO - 2022-02-09 15:34:29 --> Language Class Initialized
-ERROR - 2022-02-09 15:34:29 --> 404 Page Not Found: Images/favicon.ico
-INFO - 2022-02-09 15:34:48 --> Config Class Initialized
-INFO - 2022-02-09 15:34:48 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:34:48 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:34:48 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:34:48 --> URI Class Initialized
-INFO - 2022-02-09 15:34:48 --> Router Class Initialized
-INFO - 2022-02-09 15:34:48 --> Output Class Initialized
-INFO - 2022-02-09 15:34:48 --> Security Class Initialized
-DEBUG - 2022-02-09 15:34:48 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:34:48 --> Input Class Initialized
-INFO - 2022-02-09 15:34:48 --> Language Class Initialized
-INFO - 2022-02-09 15:34:48 --> Loader Class Initialized
-INFO - 2022-02-09 15:34:48 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:34:48 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:34:48 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:34:48 --> Email Class Initialized
-INFO - 2022-02-09 15:34:48 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:34:48 --> Controller Class Initialized
-INFO - 2022-02-09 15:34:48 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:34:48 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:34:48 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:34:48 --> Model Class Initialized
-DEBUG - 2022-02-09 15:34:48 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:34:48 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:34:48 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-ERROR - 2022-02-09 15:34:48 --> Severity: Warning --> Undefined variable $count C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 122
-ERROR - 2022-02-09 15:34:48 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 123
-ERROR - 2022-02-09 15:34:48 --> Severity: Warning --> Undefined variable $tot C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 123
-ERROR - 2022-02-09 15:34:48 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 150
-ERROR - 2022-02-09 15:34:48 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 158
-ERROR - 2022-02-09 15:34:48 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 161
-ERROR - 2022-02-09 15:34:48 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 123
-ERROR - 2022-02-09 15:34:48 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 150
-ERROR - 2022-02-09 15:34:48 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 161
-ERROR - 2022-02-09 15:34:48 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 123
-ERROR - 2022-02-09 15:34:48 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 150
-ERROR - 2022-02-09 15:34:48 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 161
-ERROR - 2022-02-09 15:34:48 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 123
-ERROR - 2022-02-09 15:34:48 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 150
-ERROR - 2022-02-09 15:34:48 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 161
-ERROR - 2022-02-09 15:34:48 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 123
-ERROR - 2022-02-09 15:34:48 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 150
-ERROR - 2022-02-09 15:34:48 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 161
-ERROR - 2022-02-09 15:34:48 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 123
-ERROR - 2022-02-09 15:34:48 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 150
-ERROR - 2022-02-09 15:34:48 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 161
-ERROR - 2022-02-09 15:34:48 --> Severity: Warning --> Undefined array key "total_income" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 123
-ERROR - 2022-02-09 15:34:48 --> Severity: Warning --> Undefined array key "tender_id" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 150
-ERROR - 2022-02-09 15:34:48 --> Severity: Warning --> Undefined array key "description" C:\xampp\htdocs\firestation\application\views\receieveStockReport.php 161
-INFO - 2022-02-09 15:34:48 --> File loaded: C:\xampp\htdocs\firestation\application\views\receieveStockReport.php
-INFO - 2022-02-09 15:34:48 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
-INFO - 2022-02-09 15:34:48 --> Final output sent to browser
-DEBUG - 2022-02-09 15:34:48 --> Total execution time: 0.1467
-INFO - 2022-02-09 15:34:50 --> Config Class Initialized
-INFO - 2022-02-09 15:34:50 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:34:50 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:34:50 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:34:50 --> URI Class Initialized
-INFO - 2022-02-09 15:34:50 --> Router Class Initialized
-INFO - 2022-02-09 15:34:50 --> Output Class Initialized
-INFO - 2022-02-09 15:34:50 --> Security Class Initialized
-DEBUG - 2022-02-09 15:34:50 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:34:50 --> Input Class Initialized
-INFO - 2022-02-09 15:34:50 --> Language Class Initialized
-ERROR - 2022-02-09 15:34:50 --> 404 Page Not Found: Images/favicon.ico
+ERROR - 2022-02-09 15:29:50 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) C:\xampp\htdocs\firestation\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2022-02-09 15:29:50 --> Unable to connect to the database
+ERROR - 2022-02-09 15:29:50 --> Query error: Access denied for user 'root'@'localhost' (using password: YES) - Invalid query: SELECT count(*) as cnt FROM vehicleD where 1	and vhno NOT IN (select vehicleno from vehicle_allotment )
+ERROR - 2022-02-09 15:29:50 --> Severity: error --> Exception: Call to a member function row_array() on bool C:\xampp\htdocs\firestation\application\controllers\Admin.php 32
+INFO - 2022-02-09 15:31:25 --> Config Class Initialized
+INFO - 2022-02-09 15:31:25 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:31:25 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:31:25 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:31:25 --> URI Class Initialized
+DEBUG - 2022-02-09 15:31:25 --> No URI present. Default controller set.
+INFO - 2022-02-09 15:31:25 --> Router Class Initialized
+INFO - 2022-02-09 15:31:25 --> Output Class Initialized
+INFO - 2022-02-09 15:31:25 --> Security Class Initialized
+DEBUG - 2022-02-09 15:31:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:31:25 --> Input Class Initialized
+INFO - 2022-02-09 15:31:25 --> Language Class Initialized
+INFO - 2022-02-09 15:31:25 --> Loader Class Initialized
+INFO - 2022-02-09 15:31:25 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:31:25 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:31:25 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:31:25 --> Database Driver Class Initialized
+ERROR - 2022-02-09 15:31:25 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) C:\xampp\htdocs\firestation\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2022-02-09 15:31:25 --> Unable to connect to the database
+INFO - 2022-02-09 15:31:25 --> Email Class Initialized
+INFO - 2022-02-09 15:31:25 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:31:25 --> Controller Class Initialized
+INFO - 2022-02-09 15:31:25 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:31:25 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:31:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:31:25 --> Model Class Initialized
+DEBUG - 2022-02-09 15:31:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:31:25 --> Database Driver Class Initialized
+ERROR - 2022-02-09 15:31:25 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) C:\xampp\htdocs\firestation\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2022-02-09 15:31:25 --> Unable to connect to the database
+INFO - 2022-02-09 15:31:25 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
+ERROR - 2022-02-09 15:31:25 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) C:\xampp\htdocs\firestation\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2022-02-09 15:31:25 --> Unable to connect to the database
+ERROR - 2022-02-09 15:31:25 --> Query error: Access denied for user 'root'@'localhost' (using password: YES) - Invalid query: SELECT count(*) as cnt FROM vehicleD where 1	and vhno NOT IN (select vehicleno from vehicle_allotment )
+ERROR - 2022-02-09 15:31:25 --> Severity: error --> Exception: Call to a member function row_array() on bool C:\xampp\htdocs\firestation\application\controllers\Admin.php 32
+INFO - 2022-02-09 15:32:07 --> Config Class Initialized
+INFO - 2022-02-09 15:32:07 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:07 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:07 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:07 --> URI Class Initialized
+DEBUG - 2022-02-09 15:32:07 --> No URI present. Default controller set.
+INFO - 2022-02-09 15:32:07 --> Router Class Initialized
+INFO - 2022-02-09 15:32:07 --> Output Class Initialized
+INFO - 2022-02-09 15:32:07 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:07 --> Input Class Initialized
+INFO - 2022-02-09 15:32:07 --> Language Class Initialized
+INFO - 2022-02-09 15:32:07 --> Loader Class Initialized
+INFO - 2022-02-09 15:32:07 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:32:07 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:32:07 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:32:07 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:32:07 --> Email Class Initialized
+INFO - 2022-02-09 15:32:07 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:32:07 --> Controller Class Initialized
+INFO - 2022-02-09 15:32:07 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:32:07 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:32:07 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:32:07 --> Model Class Initialized
+DEBUG - 2022-02-09 15:32:07 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:32:07 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
+INFO - 2022-02-09 15:32:07 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
+INFO - 2022-02-09 15:32:07 --> File loaded: C:\xampp\htdocs\firestation\application\views\dashboard.php
+INFO - 2022-02-09 15:32:07 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
+INFO - 2022-02-09 15:32:07 --> Final output sent to browser
+DEBUG - 2022-02-09 15:32:07 --> Total execution time: 0.2666
+INFO - 2022-02-09 15:32:07 --> Config Class Initialized
+INFO - 2022-02-09 15:32:07 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:07 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:07 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:07 --> URI Class Initialized
+INFO - 2022-02-09 15:32:07 --> Config Class Initialized
+INFO - 2022-02-09 15:32:07 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:07 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:07 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:08 --> URI Class Initialized
+INFO - 2022-02-09 15:32:08 --> Router Class Initialized
+INFO - 2022-02-09 15:32:08 --> Output Class Initialized
+INFO - 2022-02-09 15:32:08 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:08 --> Input Class Initialized
+INFO - 2022-02-09 15:32:08 --> Language Class Initialized
+INFO - 2022-02-09 15:32:08 --> Router Class Initialized
+ERROR - 2022-02-09 15:32:08 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:08 --> Output Class Initialized
+INFO - 2022-02-09 15:32:08 --> Config Class Initialized
+INFO - 2022-02-09 15:32:08 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:08 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:08 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:08 --> URI Class Initialized
+INFO - 2022-02-09 15:32:08 --> Router Class Initialized
+INFO - 2022-02-09 15:32:08 --> Config Class Initialized
+INFO - 2022-02-09 15:32:08 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:08 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:08 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:08 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:08 --> URI Class Initialized
+DEBUG - 2022-02-09 15:32:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:08 --> Router Class Initialized
+INFO - 2022-02-09 15:32:08 --> Input Class Initialized
+INFO - 2022-02-09 15:32:08 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:08 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:08 --> Output Class Initialized
+INFO - 2022-02-09 15:32:08 --> Security Class Initialized
+INFO - 2022-02-09 15:32:08 --> Output Class Initialized
+DEBUG - 2022-02-09 15:32:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:08 --> Input Class Initialized
+INFO - 2022-02-09 15:32:08 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:08 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:08 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:08 --> Input Class Initialized
+INFO - 2022-02-09 15:32:08 --> Config Class Initialized
+INFO - 2022-02-09 15:32:08 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:08 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:08 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:08 --> URI Class Initialized
+INFO - 2022-02-09 15:32:08 --> Router Class Initialized
+INFO - 2022-02-09 15:32:08 --> Output Class Initialized
+INFO - 2022-02-09 15:32:08 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:08 --> Config Class Initialized
+INFO - 2022-02-09 15:32:08 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:08 --> Language Class Initialized
+DEBUG - 2022-02-09 15:32:08 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:08 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:08 --> URI Class Initialized
+INFO - 2022-02-09 15:32:08 --> Router Class Initialized
+INFO - 2022-02-09 15:32:08 --> Output Class Initialized
+INFO - 2022-02-09 15:32:08 --> Security Class Initialized
+ERROR - 2022-02-09 15:32:08 --> 404 Page Not Found: Assets/admin
+DEBUG - 2022-02-09 15:32:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:08 --> Input Class Initialized
+INFO - 2022-02-09 15:32:09 --> Language Class Initialized
+INFO - 2022-02-09 15:32:09 --> Input Class Initialized
+INFO - 2022-02-09 15:32:09 --> Config Class Initialized
+INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:09 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
+DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:09 --> Config Class Initialized
+INFO - 2022-02-09 15:32:09 --> URI Class Initialized
+INFO - 2022-02-09 15:32:09 --> Router Class Initialized
+INFO - 2022-02-09 15:32:09 --> Output Class Initialized
+INFO - 2022-02-09 15:32:09 --> Config Class Initialized
+INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:09 --> Security Class Initialized
+INFO - 2022-02-09 15:32:09 --> Config Class Initialized
+ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:09 --> URI Class Initialized
+INFO - 2022-02-09 15:32:09 --> URI Class Initialized
+INFO - 2022-02-09 15:32:09 --> Router Class Initialized
+INFO - 2022-02-09 15:32:09 --> Router Class Initialized
+INFO - 2022-02-09 15:32:09 --> Output Class Initialized
+INFO - 2022-02-09 15:32:09 --> Output Class Initialized
+INFO - 2022-02-09 15:32:09 --> Security Class Initialized
+INFO - 2022-02-09 15:32:09 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:09 --> Input Class Initialized
+DEBUG - 2022-02-09 15:32:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:09 --> Input Class Initialized
+INFO - 2022-02-09 15:32:09 --> Language Class Initialized
+INFO - 2022-02-09 15:32:09 --> Language Class Initialized
+DEBUG - 2022-02-09 15:32:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:09 --> Input Class Initialized
+INFO - 2022-02-09 15:32:09 --> Config Class Initialized
+DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:09 --> Config Class Initialized
+INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:09 --> URI Class Initialized
+ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
+DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:09 --> Language Class Initialized
+INFO - 2022-02-09 15:32:09 --> URI Class Initialized
+DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:09 --> Router Class Initialized
+INFO - 2022-02-09 15:32:09 --> URI Class Initialized
+INFO - 2022-02-09 15:32:09 --> Output Class Initialized
+INFO - 2022-02-09 15:32:09 --> Security Class Initialized
+INFO - 2022-02-09 15:32:09 --> Router Class Initialized
+ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:09 --> Config Class Initialized
+INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:09 --> Output Class Initialized
+INFO - 2022-02-09 15:32:09 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
+DEBUG - 2022-02-09 15:32:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:09 --> URI Class Initialized
+INFO - 2022-02-09 15:32:09 --> Input Class Initialized
+INFO - 2022-02-09 15:32:09 --> Language Class Initialized
+INFO - 2022-02-09 15:32:09 --> Router Class Initialized
+ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
+ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:09 --> Router Class Initialized
+INFO - 2022-02-09 15:32:09 --> Output Class Initialized
+INFO - 2022-02-09 15:32:09 --> Config Class Initialized
+INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:09 --> Output Class Initialized
+INFO - 2022-02-09 15:32:09 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
+DEBUG - 2022-02-09 15:32:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:09 --> URI Class Initialized
+INFO - 2022-02-09 15:32:09 --> Input Class Initialized
+INFO - 2022-02-09 15:32:09 --> Language Class Initialized
+INFO - 2022-02-09 15:32:09 --> Router Class Initialized
+ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:09 --> Output Class Initialized
+INFO - 2022-02-09 15:32:09 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:09 --> Input Class Initialized
+INFO - 2022-02-09 15:32:09 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:09 --> Config Class Initialized
+INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:09 --> Input Class Initialized
+INFO - 2022-02-09 15:32:09 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:09 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:09 --> URI Class Initialized
+INFO - 2022-02-09 15:32:09 --> Config Class Initialized
+INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:09 --> Router Class Initialized
+INFO - 2022-02-09 15:32:09 --> Output Class Initialized
+DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:09 --> Security Class Initialized
+INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:09 --> URI Class Initialized
+DEBUG - 2022-02-09 15:32:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:09 --> Input Class Initialized
+INFO - 2022-02-09 15:32:09 --> Language Class Initialized
+INFO - 2022-02-09 15:32:09 --> Router Class Initialized
+ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:09 --> Output Class Initialized
+DEBUG - 2022-02-09 15:32:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:09 --> Input Class Initialized
+INFO - 2022-02-09 15:32:09 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:09 --> Security Class Initialized
+INFO - 2022-02-09 15:32:09 --> Config Class Initialized
+INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:09 --> Input Class Initialized
+INFO - 2022-02-09 15:32:09 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
+DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:09 --> Config Class Initialized
+INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:09 --> Config Class Initialized
+INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:09 --> URI Class Initialized
+INFO - 2022-02-09 15:32:09 --> Router Class Initialized
+INFO - 2022-02-09 15:32:09 --> Output Class Initialized
+INFO - 2022-02-09 15:32:09 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:09 --> Input Class Initialized
+INFO - 2022-02-09 15:32:09 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:09 --> Config Class Initialized
+INFO - 2022-02-09 15:32:09 --> Config Class Initialized
+INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
+DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:09 --> URI Class Initialized
+INFO - 2022-02-09 15:32:09 --> URI Class Initialized
+INFO - 2022-02-09 15:32:09 --> Router Class Initialized
+INFO - 2022-02-09 15:32:09 --> Router Class Initialized
+INFO - 2022-02-09 15:32:09 --> Output Class Initialized
+INFO - 2022-02-09 15:32:09 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:09 --> Input Class Initialized
+INFO - 2022-02-09 15:32:09 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
+DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:09 --> Output Class Initialized
+INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:09 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:10 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:10 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:10 --> URI Class Initialized
+INFO - 2022-02-09 15:32:10 --> Router Class Initialized
+INFO - 2022-02-09 15:32:10 --> Output Class Initialized
+INFO - 2022-02-09 15:32:10 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:10 --> Input Class Initialized
+INFO - 2022-02-09 15:32:10 --> Language Class Initialized
+INFO - 2022-02-09 15:32:10 --> Config Class Initialized
+DEBUG - 2022-02-09 15:32:10 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2022-02-09 15:32:10 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:10 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:10 --> Input Class Initialized
+INFO - 2022-02-09 15:32:10 --> Language Class Initialized
+DEBUG - 2022-02-09 15:32:10 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:10 --> Utf8 Class Initialized
+ERROR - 2022-02-09 15:32:10 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:10 --> URI Class Initialized
+INFO - 2022-02-09 15:32:10 --> Router Class Initialized
+INFO - 2022-02-09 15:32:10 --> Output Class Initialized
+INFO - 2022-02-09 15:32:10 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:10 --> Input Class Initialized
+INFO - 2022-02-09 15:32:10 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:10 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:10 --> URI Class Initialized
+INFO - 2022-02-09 15:32:10 --> Config Class Initialized
+INFO - 2022-02-09 15:32:10 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:10 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:10 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:10 --> URI Class Initialized
+INFO - 2022-02-09 15:32:10 --> Router Class Initialized
+INFO - 2022-02-09 15:32:10 --> Output Class Initialized
+INFO - 2022-02-09 15:32:10 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:10 --> Router Class Initialized
+INFO - 2022-02-09 15:32:10 --> Input Class Initialized
+INFO - 2022-02-09 15:32:10 --> Config Class Initialized
+INFO - 2022-02-09 15:32:10 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:10 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:10 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:10 --> URI Class Initialized
+INFO - 2022-02-09 15:32:10 --> Router Class Initialized
+INFO - 2022-02-09 15:32:10 --> Config Class Initialized
+INFO - 2022-02-09 15:32:10 --> Language Class Initialized
+INFO - 2022-02-09 15:32:10 --> Output Class Initialized
+INFO - 2022-02-09 15:32:10 --> Config Class Initialized
+ERROR - 2022-02-09 15:32:10 --> 404 Page Not Found: Assets/vendor_components
+INFO - 2022-02-09 15:32:10 --> Output Class Initialized
+INFO - 2022-02-09 15:32:10 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:10 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:10 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:10 --> URI Class Initialized
+INFO - 2022-02-09 15:32:10 --> Security Class Initialized
+INFO - 2022-02-09 15:32:10 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:10 --> Input Class Initialized
+INFO - 2022-02-09 15:32:10 --> Language Class Initialized
+DEBUG - 2022-02-09 15:32:10 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:10 --> Utf8 Class Initialized
+ERROR - 2022-02-09 15:32:10 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:10 --> URI Class Initialized
+INFO - 2022-02-09 15:32:10 --> Router Class Initialized
+INFO - 2022-02-09 15:32:10 --> Router Class Initialized
+INFO - 2022-02-09 15:32:10 --> Output Class Initialized
+INFO - 2022-02-09 15:32:10 --> Output Class Initialized
+INFO - 2022-02-09 15:32:10 --> Security Class Initialized
+INFO - 2022-02-09 15:32:10 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:10 --> Config Class Initialized
+DEBUG - 2022-02-09 15:32:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:10 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:10 --> Input Class Initialized
+INFO - 2022-02-09 15:32:10 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:10 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:10 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:10 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:10 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:10 --> Config Class Initialized
+INFO - 2022-02-09 15:32:10 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:10 --> URI Class Initialized
+INFO - 2022-02-09 15:32:10 --> Router Class Initialized
+DEBUG - 2022-02-09 15:32:10 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:10 --> Utf8 Class Initialized
+DEBUG - 2022-02-09 15:32:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:10 --> Input Class Initialized
+INFO - 2022-02-09 15:32:10 --> Output Class Initialized
+INFO - 2022-02-09 15:32:10 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:10 --> Input Class Initialized
+INFO - 2022-02-09 15:32:10 --> Config Class Initialized
+INFO - 2022-02-09 15:32:10 --> Config Class Initialized
+INFO - 2022-02-09 15:32:10 --> Input Class Initialized
+INFO - 2022-02-09 15:32:10 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:10 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:10 --> Language Class Initialized
+DEBUG - 2022-02-09 15:32:10 --> UTF-8 Support Enabled
+DEBUG - 2022-02-09 15:32:10 --> UTF-8 Support Enabled
+ERROR - 2022-02-09 15:32:10 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:10 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:10 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:10 --> URI Class Initialized
+INFO - 2022-02-09 15:32:10 --> URI Class Initialized
+INFO - 2022-02-09 15:32:10 --> Router Class Initialized
+INFO - 2022-02-09 15:32:10 --> Router Class Initialized
+INFO - 2022-02-09 15:32:10 --> Output Class Initialized
+INFO - 2022-02-09 15:32:10 --> Output Class Initialized
+INFO - 2022-02-09 15:32:10 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:10 --> Input Class Initialized
+INFO - 2022-02-09 15:32:10 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:10 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:10 --> Language Class Initialized
+INFO - 2022-02-09 15:32:10 --> URI Class Initialized
+INFO - 2022-02-09 15:32:10 --> Security Class Initialized
+INFO - 2022-02-09 15:32:10 --> Router Class Initialized
+DEBUG - 2022-02-09 15:32:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:10 --> Input Class Initialized
+INFO - 2022-02-09 15:32:10 --> Output Class Initialized
+INFO - 2022-02-09 15:32:10 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:10 --> 404 Page Not Found: Assets/img
+INFO - 2022-02-09 15:32:10 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:10 --> Input Class Initialized
+INFO - 2022-02-09 15:32:10 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:10 --> 404 Page Not Found: Assets/img
+INFO - 2022-02-09 15:32:10 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:10 --> 404 Page Not Found: Assetsadmin/vendor_components
+ERROR - 2022-02-09 15:32:10 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:10 --> Config Class Initialized
+INFO - 2022-02-09 15:32:10 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:10 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:10 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:10 --> Config Class Initialized
+INFO - 2022-02-09 15:32:10 --> URI Class Initialized
+INFO - 2022-02-09 15:32:10 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:10 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:10 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:11 --> Config Class Initialized
+INFO - 2022-02-09 15:32:11 --> Config Class Initialized
+INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:11 --> Config Class Initialized
+INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:11 --> Router Class Initialized
+INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:11 --> URI Class Initialized
+INFO - 2022-02-09 15:32:11 --> Output Class Initialized
+INFO - 2022-02-09 15:32:11 --> Router Class Initialized
+INFO - 2022-02-09 15:32:11 --> Security Class Initialized
+INFO - 2022-02-09 15:32:11 --> Output Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:11 --> Input Class Initialized
+INFO - 2022-02-09 15:32:11 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:11 --> Language Class Initialized
+INFO - 2022-02-09 15:32:11 --> Input Class Initialized
+INFO - 2022-02-09 15:32:11 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assets/admin
+ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:11 --> URI Class Initialized
+INFO - 2022-02-09 15:32:11 --> Router Class Initialized
+INFO - 2022-02-09 15:32:11 --> URI Class Initialized
+INFO - 2022-02-09 15:32:11 --> Output Class Initialized
+INFO - 2022-02-09 15:32:11 --> Router Class Initialized
+INFO - 2022-02-09 15:32:11 --> Output Class Initialized
+INFO - 2022-02-09 15:32:11 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:11 --> Input Class Initialized
+INFO - 2022-02-09 15:32:11 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assets/admin
+DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:11 --> Security Class Initialized
+INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:11 --> Config Class Initialized
+INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:11 --> Input Class Initialized
+INFO - 2022-02-09 15:32:11 --> URI Class Initialized
+INFO - 2022-02-09 15:32:11 --> Language Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:11 --> Router Class Initialized
+INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
+ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:11 --> Output Class Initialized
+INFO - 2022-02-09 15:32:11 --> URI Class Initialized
+INFO - 2022-02-09 15:32:11 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:11 --> Input Class Initialized
+INFO - 2022-02-09 15:32:11 --> Config Class Initialized
+INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:11 --> Language Class Initialized
+INFO - 2022-02-09 15:32:11 --> Config Class Initialized
+INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:11 --> Config Class Initialized
+INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
+DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:11 --> URI Class Initialized
+INFO - 2022-02-09 15:32:11 --> URI Class Initialized
+INFO - 2022-02-09 15:32:11 --> Router Class Initialized
+INFO - 2022-02-09 15:32:11 --> Router Class Initialized
+INFO - 2022-02-09 15:32:11 --> Output Class Initialized
+INFO - 2022-02-09 15:32:11 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:11 --> Input Class Initialized
+INFO - 2022-02-09 15:32:11 --> Output Class Initialized
+INFO - 2022-02-09 15:32:11 --> Config Class Initialized
+INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:11 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:11 --> Input Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:11 --> Language Class Initialized
+INFO - 2022-02-09 15:32:11 --> URI Class Initialized
+ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:11 --> Router Class Initialized
+INFO - 2022-02-09 15:32:11 --> Router Class Initialized
+INFO - 2022-02-09 15:32:11 --> URI Class Initialized
+INFO - 2022-02-09 15:32:11 --> Output Class Initialized
+INFO - 2022-02-09 15:32:11 --> Router Class Initialized
+INFO - 2022-02-09 15:32:11 --> Language Class Initialized
+INFO - 2022-02-09 15:32:11 --> Security Class Initialized
+INFO - 2022-02-09 15:32:11 --> Output Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:11 --> Input Class Initialized
+ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:11 --> Language Class Initialized
+INFO - 2022-02-09 15:32:11 --> Security Class Initialized
+ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assetscustom/libs
+DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:11 --> Input Class Initialized
+INFO - 2022-02-09 15:32:11 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:11 --> Output Class Initialized
+INFO - 2022-02-09 15:32:11 --> Security Class Initialized
+ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:11 --> Config Class Initialized
+INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:11 --> URI Class Initialized
+INFO - 2022-02-09 15:32:11 --> Router Class Initialized
+INFO - 2022-02-09 15:32:11 --> Config Class Initialized
+INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:11 --> URI Class Initialized
+INFO - 2022-02-09 15:32:11 --> Config Class Initialized
+INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:11 --> Router Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:11 --> Output Class Initialized
+INFO - 2022-02-09 15:32:11 --> URI Class Initialized
+INFO - 2022-02-09 15:32:11 --> Input Class Initialized
+INFO - 2022-02-09 15:32:11 --> Config Class Initialized
+INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:11 --> Router Class Initialized
+INFO - 2022-02-09 15:32:11 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:11 --> Output Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:11 --> Security Class Initialized
+INFO - 2022-02-09 15:32:11 --> URI Class Initialized
+INFO - 2022-02-09 15:32:11 --> Config Class Initialized
+INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:11 --> Router Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:11 --> Output Class Initialized
+INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:11 --> Output Class Initialized
+INFO - 2022-02-09 15:32:11 --> URI Class Initialized
+INFO - 2022-02-09 15:32:11 --> Security Class Initialized
+INFO - 2022-02-09 15:32:11 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:11 --> Input Class Initialized
+INFO - 2022-02-09 15:32:11 --> Language Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:11 --> Input Class Initialized
+INFO - 2022-02-09 15:32:11 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:11 --> Security Class Initialized
+ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assetscustom/libs
+DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:11 --> Input Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:11 --> Router Class Initialized
+INFO - 2022-02-09 15:32:11 --> Input Class Initialized
+INFO - 2022-02-09 15:32:11 --> Language Class Initialized
+INFO - 2022-02-09 15:32:11 --> Output Class Initialized
+ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:11 --> Security Class Initialized
+INFO - 2022-02-09 15:32:11 --> Language Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:11 --> Input Class Initialized
+INFO - 2022-02-09 15:32:11 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assets/admin
+ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:11 --> Config Class Initialized
+INFO - 2022-02-09 15:32:11 --> Config Class Initialized
+INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:11 --> URI Class Initialized
+INFO - 2022-02-09 15:32:11 --> Config Class Initialized
+INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:11 --> URI Class Initialized
+INFO - 2022-02-09 15:32:11 --> Router Class Initialized
+INFO - 2022-02-09 15:32:11 --> Router Class Initialized
+INFO - 2022-02-09 15:32:11 --> Output Class Initialized
+INFO - 2022-02-09 15:32:11 --> Output Class Initialized
+INFO - 2022-02-09 15:32:11 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:11 --> Input Class Initialized
+INFO - 2022-02-09 15:32:11 --> Language Class Initialized
+INFO - 2022-02-09 15:32:11 --> URI Class Initialized
+ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:11 --> Router Class Initialized
+INFO - 2022-02-09 15:32:11 --> Output Class Initialized
+INFO - 2022-02-09 15:32:11 --> Security Class Initialized
+INFO - 2022-02-09 15:32:11 --> Config Class Initialized
+INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:11 --> Config Class Initialized
+INFO - 2022-02-09 15:32:11 --> URI Class Initialized
+INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:11 --> Router Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:11 --> Output Class Initialized
+INFO - 2022-02-09 15:32:11 --> URI Class Initialized
+INFO - 2022-02-09 15:32:11 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:12 --> Input Class Initialized
+INFO - 2022-02-09 15:32:12 --> Language Class Initialized
+INFO - 2022-02-09 15:32:12 --> Security Class Initialized
+ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assetscustom/libs
+DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:12 --> Config Class Initialized
+INFO - 2022-02-09 15:32:12 --> Input Class Initialized
+INFO - 2022-02-09 15:32:12 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:12 --> Language Class Initialized
+DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-02-09 15:32:12 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:12 --> Router Class Initialized
+INFO - 2022-02-09 15:32:12 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:12 --> Output Class Initialized
+ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:12 --> Security Class Initialized
+INFO - 2022-02-09 15:32:12 --> URI Class Initialized
+DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:12 --> Input Class Initialized
+INFO - 2022-02-09 15:32:12 --> Router Class Initialized
+INFO - 2022-02-09 15:32:12 --> Language Class Initialized
+INFO - 2022-02-09 15:32:12 --> Output Class Initialized
+ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:12 --> Input Class Initialized
+INFO - 2022-02-09 15:32:12 --> Language Class Initialized
+INFO - 2022-02-09 15:32:12 --> Security Class Initialized
+ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assetscustom/libs
+DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:12 --> Input Class Initialized
+INFO - 2022-02-09 15:32:12 --> Config Class Initialized
+INFO - 2022-02-09 15:32:12 --> Language Class Initialized
+INFO - 2022-02-09 15:32:12 --> Hooks Class Initialized
+ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assets/admin
+DEBUG - 2022-02-09 15:32:12 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:12 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:12 --> URI Class Initialized
+INFO - 2022-02-09 15:32:12 --> Router Class Initialized
+INFO - 2022-02-09 15:32:12 --> Output Class Initialized
+INFO - 2022-02-09 15:32:12 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:12 --> Input Class Initialized
+INFO - 2022-02-09 15:32:12 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assetscustom/js
+INFO - 2022-02-09 15:32:12 --> Config Class Initialized
+INFO - 2022-02-09 15:32:12 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:12 --> Config Class Initialized
+INFO - 2022-02-09 15:32:12 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:12 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:12 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:12 --> URI Class Initialized
+INFO - 2022-02-09 15:32:12 --> Router Class Initialized
+INFO - 2022-02-09 15:32:12 --> Output Class Initialized
+INFO - 2022-02-09 15:32:12 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:12 --> Input Class Initialized
+INFO - 2022-02-09 15:32:12 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:12 --> Config Class Initialized
+DEBUG - 2022-02-09 15:32:12 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:12 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:12 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:12 --> URI Class Initialized
+DEBUG - 2022-02-09 15:32:12 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:12 --> Router Class Initialized
+INFO - 2022-02-09 15:32:12 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:12 --> URI Class Initialized
+INFO - 2022-02-09 15:32:12 --> Output Class Initialized
+INFO - 2022-02-09 15:32:12 --> Router Class Initialized
+INFO - 2022-02-09 15:32:12 --> Output Class Initialized
+INFO - 2022-02-09 15:32:12 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:12 --> Input Class Initialized
+INFO - 2022-02-09 15:32:12 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:12 --> Config Class Initialized
+INFO - 2022-02-09 15:32:12 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:12 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:12 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:12 --> URI Class Initialized
+INFO - 2022-02-09 15:32:12 --> Router Class Initialized
+INFO - 2022-02-09 15:32:12 --> Config Class Initialized
+INFO - 2022-02-09 15:32:12 --> Output Class Initialized
+INFO - 2022-02-09 15:32:12 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:12 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:12 --> Input Class Initialized
+INFO - 2022-02-09 15:32:12 --> Security Class Initialized
+INFO - 2022-02-09 15:32:12 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assets/admin
+DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:12 --> Input Class Initialized
+INFO - 2022-02-09 15:32:12 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assetscustom/libs
+DEBUG - 2022-02-09 15:32:12 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:12 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:12 --> URI Class Initialized
+INFO - 2022-02-09 15:32:12 --> Config Class Initialized
+INFO - 2022-02-09 15:32:12 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:12 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:12 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:12 --> URI Class Initialized
+INFO - 2022-02-09 15:32:12 --> Router Class Initialized
+INFO - 2022-02-09 15:32:12 --> Router Class Initialized
+INFO - 2022-02-09 15:32:12 --> Output Class Initialized
+INFO - 2022-02-09 15:32:12 --> Security Class Initialized
+INFO - 2022-02-09 15:32:12 --> Output Class Initialized
+DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:12 --> Security Class Initialized
+INFO - 2022-02-09 15:32:12 --> Input Class Initialized
+INFO - 2022-02-09 15:32:12 --> Language Class Initialized
+DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:12 --> Input Class Initialized
+INFO - 2022-02-09 15:32:12 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:12 --> Config Class Initialized
+INFO - 2022-02-09 15:32:12 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:12 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:12 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:12 --> URI Class Initialized
+INFO - 2022-02-09 15:32:12 --> Router Class Initialized
+INFO - 2022-02-09 15:32:12 --> Output Class Initialized
+INFO - 2022-02-09 15:32:12 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:12 --> Input Class Initialized
+INFO - 2022-02-09 15:32:12 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:12 --> Config Class Initialized
+INFO - 2022-02-09 15:32:12 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:12 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:12 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:12 --> URI Class Initialized
+INFO - 2022-02-09 15:32:12 --> Router Class Initialized
+INFO - 2022-02-09 15:32:12 --> Output Class Initialized
+INFO - 2022-02-09 15:32:12 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:12 --> Input Class Initialized
+INFO - 2022-02-09 15:32:12 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:12 --> Config Class Initialized
+INFO - 2022-02-09 15:32:12 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:12 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:12 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:12 --> URI Class Initialized
+INFO - 2022-02-09 15:32:12 --> Router Class Initialized
+INFO - 2022-02-09 15:32:12 --> Output Class Initialized
+INFO - 2022-02-09 15:32:12 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:12 --> Input Class Initialized
+INFO - 2022-02-09 15:32:12 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:13 --> Config Class Initialized
+INFO - 2022-02-09 15:32:13 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:13 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:13 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:13 --> URI Class Initialized
+INFO - 2022-02-09 15:32:13 --> Router Class Initialized
+INFO - 2022-02-09 15:32:13 --> Output Class Initialized
+INFO - 2022-02-09 15:32:13 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:13 --> Input Class Initialized
+INFO - 2022-02-09 15:32:13 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:13 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:13 --> Config Class Initialized
+INFO - 2022-02-09 15:32:13 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:13 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:13 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:13 --> URI Class Initialized
+INFO - 2022-02-09 15:32:13 --> Router Class Initialized
+INFO - 2022-02-09 15:32:13 --> Output Class Initialized
+INFO - 2022-02-09 15:32:13 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:13 --> Input Class Initialized
+INFO - 2022-02-09 15:32:13 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:13 --> 404 Page Not Found: Assetsadmin/vendor_components
+INFO - 2022-02-09 15:32:13 --> Config Class Initialized
+INFO - 2022-02-09 15:32:13 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:13 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:13 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:13 --> URI Class Initialized
+INFO - 2022-02-09 15:32:13 --> Router Class Initialized
+INFO - 2022-02-09 15:32:13 --> Output Class Initialized
+INFO - 2022-02-09 15:32:13 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:13 --> Input Class Initialized
+INFO - 2022-02-09 15:32:13 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:13 --> 404 Page Not Found: Assets/vendor_components
+INFO - 2022-02-09 15:32:13 --> Config Class Initialized
+INFO - 2022-02-09 15:32:13 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:13 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:13 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:13 --> URI Class Initialized
+INFO - 2022-02-09 15:32:13 --> Router Class Initialized
+INFO - 2022-02-09 15:32:13 --> Output Class Initialized
+INFO - 2022-02-09 15:32:13 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:13 --> Input Class Initialized
+INFO - 2022-02-09 15:32:13 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:13 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:13 --> Config Class Initialized
+INFO - 2022-02-09 15:32:13 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:13 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:13 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:13 --> URI Class Initialized
+INFO - 2022-02-09 15:32:13 --> Router Class Initialized
+INFO - 2022-02-09 15:32:13 --> Output Class Initialized
+INFO - 2022-02-09 15:32:13 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:13 --> Input Class Initialized
+INFO - 2022-02-09 15:32:13 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:13 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:13 --> Config Class Initialized
+INFO - 2022-02-09 15:32:13 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:13 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:13 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:13 --> URI Class Initialized
+INFO - 2022-02-09 15:32:13 --> Router Class Initialized
+INFO - 2022-02-09 15:32:13 --> Output Class Initialized
+INFO - 2022-02-09 15:32:13 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:13 --> Input Class Initialized
+INFO - 2022-02-09 15:32:13 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:13 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:13 --> Config Class Initialized
+INFO - 2022-02-09 15:32:13 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:13 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:13 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:13 --> URI Class Initialized
+INFO - 2022-02-09 15:32:13 --> Router Class Initialized
+INFO - 2022-02-09 15:32:13 --> Output Class Initialized
+INFO - 2022-02-09 15:32:13 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:13 --> Input Class Initialized
+INFO - 2022-02-09 15:32:13 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:13 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:13 --> Config Class Initialized
+INFO - 2022-02-09 15:32:13 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:13 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:13 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:13 --> URI Class Initialized
+INFO - 2022-02-09 15:32:13 --> Router Class Initialized
+INFO - 2022-02-09 15:32:13 --> Output Class Initialized
+INFO - 2022-02-09 15:32:13 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:13 --> Input Class Initialized
+INFO - 2022-02-09 15:32:13 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:13 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:13 --> Config Class Initialized
+INFO - 2022-02-09 15:32:13 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:13 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:13 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:13 --> URI Class Initialized
+INFO - 2022-02-09 15:32:13 --> Router Class Initialized
+INFO - 2022-02-09 15:32:13 --> Output Class Initialized
+INFO - 2022-02-09 15:32:13 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:13 --> Input Class Initialized
+INFO - 2022-02-09 15:32:13 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:13 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:13 --> Config Class Initialized
+INFO - 2022-02-09 15:32:13 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:13 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:13 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:13 --> URI Class Initialized
+INFO - 2022-02-09 15:32:13 --> Router Class Initialized
+INFO - 2022-02-09 15:32:13 --> Output Class Initialized
+INFO - 2022-02-09 15:32:13 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:13 --> Input Class Initialized
+INFO - 2022-02-09 15:32:13 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:13 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:14 --> Config Class Initialized
+INFO - 2022-02-09 15:32:14 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:14 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:14 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:14 --> URI Class Initialized
+INFO - 2022-02-09 15:32:14 --> Router Class Initialized
+INFO - 2022-02-09 15:32:14 --> Output Class Initialized
+INFO - 2022-02-09 15:32:14 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:14 --> Input Class Initialized
+INFO - 2022-02-09 15:32:14 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:14 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:14 --> Config Class Initialized
+INFO - 2022-02-09 15:32:14 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:14 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:14 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:14 --> URI Class Initialized
+INFO - 2022-02-09 15:32:14 --> Router Class Initialized
+INFO - 2022-02-09 15:32:14 --> Output Class Initialized
+INFO - 2022-02-09 15:32:14 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:14 --> Input Class Initialized
+INFO - 2022-02-09 15:32:14 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:14 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:14 --> Config Class Initialized
+INFO - 2022-02-09 15:32:14 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:14 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:14 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:14 --> URI Class Initialized
+INFO - 2022-02-09 15:32:14 --> Router Class Initialized
+INFO - 2022-02-09 15:32:14 --> Output Class Initialized
+INFO - 2022-02-09 15:32:14 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:14 --> Input Class Initialized
+INFO - 2022-02-09 15:32:14 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:14 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:14 --> Config Class Initialized
+INFO - 2022-02-09 15:32:14 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:14 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:14 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:14 --> URI Class Initialized
+INFO - 2022-02-09 15:32:14 --> Router Class Initialized
+INFO - 2022-02-09 15:32:14 --> Output Class Initialized
+INFO - 2022-02-09 15:32:14 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:14 --> Input Class Initialized
+INFO - 2022-02-09 15:32:14 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:14 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:14 --> Config Class Initialized
+INFO - 2022-02-09 15:32:14 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:14 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:14 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:14 --> URI Class Initialized
+INFO - 2022-02-09 15:32:14 --> Router Class Initialized
+INFO - 2022-02-09 15:32:14 --> Output Class Initialized
+INFO - 2022-02-09 15:32:14 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:14 --> Input Class Initialized
+INFO - 2022-02-09 15:32:14 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:14 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:14 --> Config Class Initialized
+INFO - 2022-02-09 15:32:14 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:14 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:14 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:14 --> URI Class Initialized
+INFO - 2022-02-09 15:32:14 --> Router Class Initialized
+INFO - 2022-02-09 15:32:14 --> Output Class Initialized
+INFO - 2022-02-09 15:32:14 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:14 --> Input Class Initialized
+INFO - 2022-02-09 15:32:14 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:14 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:14 --> Config Class Initialized
+INFO - 2022-02-09 15:32:14 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:14 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:14 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:14 --> URI Class Initialized
+INFO - 2022-02-09 15:32:14 --> Router Class Initialized
+INFO - 2022-02-09 15:32:14 --> Output Class Initialized
+INFO - 2022-02-09 15:32:14 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:14 --> Input Class Initialized
+INFO - 2022-02-09 15:32:14 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:14 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:14 --> Config Class Initialized
+INFO - 2022-02-09 15:32:14 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:14 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:14 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:14 --> URI Class Initialized
+INFO - 2022-02-09 15:32:14 --> Router Class Initialized
+INFO - 2022-02-09 15:32:14 --> Output Class Initialized
+INFO - 2022-02-09 15:32:14 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:14 --> Input Class Initialized
+INFO - 2022-02-09 15:32:14 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:14 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:14 --> Config Class Initialized
+INFO - 2022-02-09 15:32:14 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:14 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:14 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:14 --> URI Class Initialized
+INFO - 2022-02-09 15:32:14 --> Router Class Initialized
+INFO - 2022-02-09 15:32:14 --> Output Class Initialized
+INFO - 2022-02-09 15:32:14 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:14 --> Input Class Initialized
+INFO - 2022-02-09 15:32:14 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:14 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:14 --> Config Class Initialized
+INFO - 2022-02-09 15:32:14 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:14 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:14 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:14 --> URI Class Initialized
+INFO - 2022-02-09 15:32:15 --> Router Class Initialized
+INFO - 2022-02-09 15:32:15 --> Output Class Initialized
+INFO - 2022-02-09 15:32:15 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:15 --> Input Class Initialized
+INFO - 2022-02-09 15:32:15 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:15 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:15 --> Config Class Initialized
+INFO - 2022-02-09 15:32:15 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:15 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:15 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:15 --> URI Class Initialized
+INFO - 2022-02-09 15:32:15 --> Router Class Initialized
+INFO - 2022-02-09 15:32:15 --> Output Class Initialized
+INFO - 2022-02-09 15:32:15 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:15 --> Input Class Initialized
+INFO - 2022-02-09 15:32:15 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:15 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:15 --> Config Class Initialized
+INFO - 2022-02-09 15:32:15 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:15 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:15 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:15 --> URI Class Initialized
+INFO - 2022-02-09 15:32:15 --> Router Class Initialized
+INFO - 2022-02-09 15:32:15 --> Output Class Initialized
+INFO - 2022-02-09 15:32:15 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:15 --> Input Class Initialized
+INFO - 2022-02-09 15:32:15 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:15 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:15 --> Config Class Initialized
+INFO - 2022-02-09 15:32:15 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:15 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:15 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:15 --> URI Class Initialized
+INFO - 2022-02-09 15:32:15 --> Router Class Initialized
+INFO - 2022-02-09 15:32:15 --> Output Class Initialized
+INFO - 2022-02-09 15:32:15 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:15 --> Input Class Initialized
+INFO - 2022-02-09 15:32:15 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:15 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:15 --> Config Class Initialized
+INFO - 2022-02-09 15:32:15 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:15 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:15 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:15 --> URI Class Initialized
+INFO - 2022-02-09 15:32:15 --> Router Class Initialized
+INFO - 2022-02-09 15:32:15 --> Output Class Initialized
+INFO - 2022-02-09 15:32:15 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:15 --> Input Class Initialized
+INFO - 2022-02-09 15:32:15 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:15 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:15 --> Config Class Initialized
+INFO - 2022-02-09 15:32:15 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:15 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:15 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:15 --> URI Class Initialized
+INFO - 2022-02-09 15:32:15 --> Router Class Initialized
+INFO - 2022-02-09 15:32:15 --> Output Class Initialized
+INFO - 2022-02-09 15:32:15 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:15 --> Input Class Initialized
+INFO - 2022-02-09 15:32:15 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:15 --> 404 Page Not Found: Assetscustom/js
+INFO - 2022-02-09 15:32:15 --> Config Class Initialized
+INFO - 2022-02-09 15:32:15 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:15 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:15 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:15 --> URI Class Initialized
+INFO - 2022-02-09 15:32:15 --> Router Class Initialized
+INFO - 2022-02-09 15:32:15 --> Output Class Initialized
+INFO - 2022-02-09 15:32:15 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:15 --> Input Class Initialized
+INFO - 2022-02-09 15:32:15 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:15 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:15 --> Config Class Initialized
+INFO - 2022-02-09 15:32:15 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:15 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:15 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:15 --> URI Class Initialized
+INFO - 2022-02-09 15:32:15 --> Router Class Initialized
+INFO - 2022-02-09 15:32:15 --> Output Class Initialized
+INFO - 2022-02-09 15:32:15 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:15 --> Input Class Initialized
+INFO - 2022-02-09 15:32:15 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:15 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:16 --> Config Class Initialized
+INFO - 2022-02-09 15:32:16 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:16 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:16 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:16 --> URI Class Initialized
+INFO - 2022-02-09 15:32:16 --> Router Class Initialized
+INFO - 2022-02-09 15:32:16 --> Output Class Initialized
+INFO - 2022-02-09 15:32:16 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:16 --> Input Class Initialized
+INFO - 2022-02-09 15:32:16 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:16 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:16 --> Config Class Initialized
+INFO - 2022-02-09 15:32:16 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:16 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:16 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:16 --> URI Class Initialized
+INFO - 2022-02-09 15:32:16 --> Router Class Initialized
+INFO - 2022-02-09 15:32:16 --> Output Class Initialized
+INFO - 2022-02-09 15:32:16 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:16 --> Input Class Initialized
+INFO - 2022-02-09 15:32:16 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:16 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:25 --> Config Class Initialized
+INFO - 2022-02-09 15:32:25 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:25 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:25 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:25 --> URI Class Initialized
+DEBUG - 2022-02-09 15:32:25 --> No URI present. Default controller set.
+INFO - 2022-02-09 15:32:25 --> Router Class Initialized
+INFO - 2022-02-09 15:32:25 --> Output Class Initialized
+INFO - 2022-02-09 15:32:25 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:25 --> Input Class Initialized
+INFO - 2022-02-09 15:32:25 --> Language Class Initialized
+INFO - 2022-02-09 15:32:25 --> Loader Class Initialized
+INFO - 2022-02-09 15:32:25 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:32:25 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:32:25 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:32:25 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:32:25 --> Email Class Initialized
+INFO - 2022-02-09 15:32:25 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:32:25 --> Controller Class Initialized
+INFO - 2022-02-09 15:32:25 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:32:25 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:32:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:32:25 --> Model Class Initialized
+DEBUG - 2022-02-09 15:32:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:32:25 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
+INFO - 2022-02-09 15:32:25 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
+INFO - 2022-02-09 15:32:25 --> File loaded: C:\xampp\htdocs\firestation\application\views\dashboard.php
+INFO - 2022-02-09 15:32:25 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
+INFO - 2022-02-09 15:32:25 --> Final output sent to browser
+DEBUG - 2022-02-09 15:32:25 --> Total execution time: 0.2206
+INFO - 2022-02-09 15:32:25 --> Config Class Initialized
+INFO - 2022-02-09 15:32:25 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:25 --> Config Class Initialized
+INFO - 2022-02-09 15:32:25 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:25 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:25 --> Utf8 Class Initialized
+DEBUG - 2022-02-09 15:32:26 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:26 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:26 --> Config Class Initialized
+INFO - 2022-02-09 15:32:26 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:26 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:26 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:26 --> URI Class Initialized
+INFO - 2022-02-09 15:32:26 --> Router Class Initialized
+INFO - 2022-02-09 15:32:26 --> URI Class Initialized
+INFO - 2022-02-09 15:32:26 --> Config Class Initialized
+INFO - 2022-02-09 15:32:26 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:26 --> Output Class Initialized
+INFO - 2022-02-09 15:32:26 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:26 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:26 --> Utf8 Class Initialized
+DEBUG - 2022-02-09 15:32:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:26 --> Input Class Initialized
+INFO - 2022-02-09 15:32:26 --> URI Class Initialized
+INFO - 2022-02-09 15:32:26 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:26 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:26 --> Router Class Initialized
+INFO - 2022-02-09 15:32:26 --> Output Class Initialized
+INFO - 2022-02-09 15:32:26 --> Router Class Initialized
+INFO - 2022-02-09 15:32:26 --> Security Class Initialized
+INFO - 2022-02-09 15:32:26 --> Output Class Initialized
+DEBUG - 2022-02-09 15:32:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:26 --> Input Class Initialized
+INFO - 2022-02-09 15:32:26 --> Security Class Initialized
+INFO - 2022-02-09 15:32:26 --> URI Class Initialized
+DEBUG - 2022-02-09 15:32:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:26 --> Language Class Initialized
+INFO - 2022-02-09 15:32:26 --> Input Class Initialized
+INFO - 2022-02-09 15:32:26 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:26 --> 404 Page Not Found: Assets/admin
+ERROR - 2022-02-09 15:32:26 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:26 --> Router Class Initialized
+INFO - 2022-02-09 15:32:26 --> Output Class Initialized
+INFO - 2022-02-09 15:32:26 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:26 --> Input Class Initialized
+INFO - 2022-02-09 15:32:26 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:26 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:26 --> Config Class Initialized
+INFO - 2022-02-09 15:32:26 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:26 --> Config Class Initialized
+INFO - 2022-02-09 15:32:26 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:26 --> Config Class Initialized
+INFO - 2022-02-09 15:32:26 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:26 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:26 --> Utf8 Class Initialized
+DEBUG - 2022-02-09 15:32:26 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:26 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:26 --> URI Class Initialized
+INFO - 2022-02-09 15:32:26 --> URI Class Initialized
+INFO - 2022-02-09 15:32:26 --> Router Class Initialized
+INFO - 2022-02-09 15:32:26 --> Router Class Initialized
+INFO - 2022-02-09 15:32:26 --> Output Class Initialized
+INFO - 2022-02-09 15:32:26 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:26 --> Input Class Initialized
+DEBUG - 2022-02-09 15:32:26 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:26 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:26 --> Language Class Initialized
+INFO - 2022-02-09 15:32:26 --> URI Class Initialized
+ERROR - 2022-02-09 15:32:26 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:26 --> Output Class Initialized
+INFO - 2022-02-09 15:32:26 --> Config Class Initialized
+INFO - 2022-02-09 15:32:26 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:26 --> Config Class Initialized
+INFO - 2022-02-09 15:32:26 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:26 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:26 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:26 --> Config Class Initialized
+INFO - 2022-02-09 15:32:26 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:26 --> URI Class Initialized
+INFO - 2022-02-09 15:32:26 --> Router Class Initialized
+DEBUG - 2022-02-09 15:32:26 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:26 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:26 --> Output Class Initialized
+INFO - 2022-02-09 15:32:26 --> URI Class Initialized
+INFO - 2022-02-09 15:32:26 --> Security Class Initialized
+INFO - 2022-02-09 15:32:26 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:26 --> Input Class Initialized
+INFO - 2022-02-09 15:32:26 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:26 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:26 --> Router Class Initialized
+INFO - 2022-02-09 15:32:26 --> Output Class Initialized
+INFO - 2022-02-09 15:32:26 --> Router Class Initialized
+DEBUG - 2022-02-09 15:32:26 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:26 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:26 --> Security Class Initialized
+INFO - 2022-02-09 15:32:26 --> URI Class Initialized
+INFO - 2022-02-09 15:32:26 --> Output Class Initialized
+INFO - 2022-02-09 15:32:26 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:26 --> Input Class Initialized
+INFO - 2022-02-09 15:32:26 --> Language Class Initialized
+INFO - 2022-02-09 15:32:26 --> Router Class Initialized
+INFO - 2022-02-09 15:32:26 --> Output Class Initialized
+INFO - 2022-02-09 15:32:26 --> Security Class Initialized
+ERROR - 2022-02-09 15:32:26 --> 404 Page Not Found: Assets/admin
+DEBUG - 2022-02-09 15:32:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-02-09 15:32:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:26 --> Input Class Initialized
+INFO - 2022-02-09 15:32:26 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:26 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:26 --> Input Class Initialized
+DEBUG - 2022-02-09 15:32:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:26 --> Config Class Initialized
+INFO - 2022-02-09 15:32:26 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:26 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:26 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:26 --> Config Class Initialized
+INFO - 2022-02-09 15:32:26 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:26 --> URI Class Initialized
+DEBUG - 2022-02-09 15:32:26 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:26 --> Router Class Initialized
+INFO - 2022-02-09 15:32:26 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:26 --> Output Class Initialized
+INFO - 2022-02-09 15:32:26 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:26 --> Input Class Initialized
+INFO - 2022-02-09 15:32:26 --> URI Class Initialized
+INFO - 2022-02-09 15:32:26 --> Language Class Initialized
+INFO - 2022-02-09 15:32:26 --> Router Class Initialized
+INFO - 2022-02-09 15:32:26 --> Language Class Initialized
+INFO - 2022-02-09 15:32:26 --> Input Class Initialized
+ERROR - 2022-02-09 15:32:26 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:26 --> Language Class Initialized
+INFO - 2022-02-09 15:32:26 --> Output Class Initialized
+ERROR - 2022-02-09 15:32:26 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:26 --> Security Class Initialized
+INFO - 2022-02-09 15:32:26 --> Config Class Initialized
+INFO - 2022-02-09 15:32:26 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:26 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:26 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:26 --> Config Class Initialized
+INFO - 2022-02-09 15:32:26 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:26 --> URI Class Initialized
+DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:27 --> URI Class Initialized
+INFO - 2022-02-09 15:32:27 --> Router Class Initialized
+INFO - 2022-02-09 15:32:27 --> Router Class Initialized
+INFO - 2022-02-09 15:32:27 --> Config Class Initialized
+DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:27 --> Output Class Initialized
+INFO - 2022-02-09 15:32:27 --> Output Class Initialized
+INFO - 2022-02-09 15:32:27 --> Security Class Initialized
+INFO - 2022-02-09 15:32:27 --> Security Class Initialized
+INFO - 2022-02-09 15:32:27 --> Input Class Initialized
+INFO - 2022-02-09 15:32:27 --> Language Class Initialized
+DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:27 --> Input Class Initialized
+ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:27 --> Language Class Initialized
+INFO - 2022-02-09 15:32:27 --> Hooks Class Initialized
+ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/admin
+DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
+DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:27 --> Config Class Initialized
+INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:27 --> Input Class Initialized
+INFO - 2022-02-09 15:32:27 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:27 --> Language Class Initialized
+INFO - 2022-02-09 15:32:27 --> URI Class Initialized
+INFO - 2022-02-09 15:32:27 --> Router Class Initialized
+ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/admin
+DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:27 --> Output Class Initialized
+INFO - 2022-02-09 15:32:27 --> URI Class Initialized
+INFO - 2022-02-09 15:32:27 --> Security Class Initialized
+INFO - 2022-02-09 15:32:27 --> Router Class Initialized
+INFO - 2022-02-09 15:32:27 --> Config Class Initialized
+DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:27 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:27 --> Input Class Initialized
+INFO - 2022-02-09 15:32:27 --> Output Class Initialized
+DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:27 --> Language Class Initialized
+INFO - 2022-02-09 15:32:27 --> Security Class Initialized
+ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/admin
+DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:27 --> Input Class Initialized
+INFO - 2022-02-09 15:32:27 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:27 --> URI Class Initialized
+INFO - 2022-02-09 15:32:27 --> Router Class Initialized
+INFO - 2022-02-09 15:32:27 --> Config Class Initialized
+INFO - 2022-02-09 15:32:27 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:27 --> Output Class Initialized
+INFO - 2022-02-09 15:32:27 --> Security Class Initialized
+INFO - 2022-02-09 15:32:27 --> Config Class Initialized
+INFO - 2022-02-09 15:32:27 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:27 --> Config Class Initialized
+DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:27 --> Input Class Initialized
+INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:27 --> Language Class Initialized
+INFO - 2022-02-09 15:32:27 --> URI Class Initialized
+ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:27 --> Router Class Initialized
+INFO - 2022-02-09 15:32:27 --> Output Class Initialized
+DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:27 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:27 --> URI Class Initialized
+INFO - 2022-02-09 15:32:27 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:27 --> URI Class Initialized
+DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:27 --> Input Class Initialized
+INFO - 2022-02-09 15:32:27 --> Language Class Initialized
+INFO - 2022-02-09 15:32:27 --> Config Class Initialized
+ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:27 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:27 --> URI Class Initialized
+INFO - 2022-02-09 15:32:27 --> Config Class Initialized
+INFO - 2022-02-09 15:32:27 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:27 --> URI Class Initialized
+INFO - 2022-02-09 15:32:27 --> Router Class Initialized
+INFO - 2022-02-09 15:32:27 --> Router Class Initialized
+INFO - 2022-02-09 15:32:27 --> Output Class Initialized
+INFO - 2022-02-09 15:32:27 --> Config Class Initialized
+INFO - 2022-02-09 15:32:27 --> Output Class Initialized
+INFO - 2022-02-09 15:32:27 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:27 --> Security Class Initialized
+INFO - 2022-02-09 15:32:27 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:27 --> Input Class Initialized
+DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:27 --> Input Class Initialized
+INFO - 2022-02-09 15:32:27 --> Language Class Initialized
+DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:27 --> URI Class Initialized
+ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/img
+INFO - 2022-02-09 15:32:27 --> Language Class Initialized
+INFO - 2022-02-09 15:32:27 --> Router Class Initialized
+ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:27 --> Output Class Initialized
+INFO - 2022-02-09 15:32:27 --> Router Class Initialized
+INFO - 2022-02-09 15:32:27 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:27 --> Input Class Initialized
+INFO - 2022-02-09 15:32:27 --> Output Class Initialized
+INFO - 2022-02-09 15:32:27 --> Language Class Initialized
+INFO - 2022-02-09 15:32:27 --> Security Class Initialized
+ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/admin
+DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:27 --> Input Class Initialized
+INFO - 2022-02-09 15:32:27 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:27 --> Router Class Initialized
+INFO - 2022-02-09 15:32:27 --> Config Class Initialized
+INFO - 2022-02-09 15:32:27 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:27 --> Output Class Initialized
+DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:27 --> URI Class Initialized
+INFO - 2022-02-09 15:32:27 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:27 --> Input Class Initialized
+INFO - 2022-02-09 15:32:27 --> Router Class Initialized
+INFO - 2022-02-09 15:32:27 --> Output Class Initialized
+INFO - 2022-02-09 15:32:27 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:27 --> Input Class Initialized
+INFO - 2022-02-09 15:32:27 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/img
+INFO - 2022-02-09 15:32:27 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:27 --> Config Class Initialized
+INFO - 2022-02-09 15:32:27 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:27 --> URI Class Initialized
+INFO - 2022-02-09 15:32:27 --> Router Class Initialized
+INFO - 2022-02-09 15:32:27 --> Config Class Initialized
+INFO - 2022-02-09 15:32:27 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:27 --> Config Class Initialized
+INFO - 2022-02-09 15:32:27 --> URI Class Initialized
+INFO - 2022-02-09 15:32:27 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:27 --> Router Class Initialized
+DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:27 --> Output Class Initialized
+INFO - 2022-02-09 15:32:27 --> URI Class Initialized
+INFO - 2022-02-09 15:32:27 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:27 --> Input Class Initialized
+INFO - 2022-02-09 15:32:27 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:28 --> Config Class Initialized
+INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:28 --> Config Class Initialized
+INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:28 --> Output Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:28 --> Security Class Initialized
+INFO - 2022-02-09 15:32:28 --> URI Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:28 --> Input Class Initialized
+INFO - 2022-02-09 15:32:28 --> Router Class Initialized
+INFO - 2022-02-09 15:32:28 --> Language Class Initialized
+INFO - 2022-02-09 15:32:28 --> Output Class Initialized
+ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:28 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:28 --> Input Class Initialized
+INFO - 2022-02-09 15:32:28 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assetsadmin/vendor_components
+INFO - 2022-02-09 15:32:28 --> Config Class Initialized
+INFO - 2022-02-09 15:32:28 --> Config Class Initialized
+INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
+DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:28 --> Router Class Initialized
+INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:28 --> Config Class Initialized
+INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:28 --> URI Class Initialized
+INFO - 2022-02-09 15:32:28 --> URI Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:28 --> Router Class Initialized
+INFO - 2022-02-09 15:32:28 --> Router Class Initialized
+INFO - 2022-02-09 15:32:28 --> Output Class Initialized
+INFO - 2022-02-09 15:32:28 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:28 --> Input Class Initialized
+INFO - 2022-02-09 15:32:28 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:28 --> URI Class Initialized
+INFO - 2022-02-09 15:32:28 --> Config Class Initialized
+INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:28 --> Router Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:28 --> Output Class Initialized
+INFO - 2022-02-09 15:32:28 --> URI Class Initialized
+INFO - 2022-02-09 15:32:28 --> Security Class Initialized
+INFO - 2022-02-09 15:32:28 --> Router Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:28 --> Input Class Initialized
+INFO - 2022-02-09 15:32:28 --> Language Class Initialized
+INFO - 2022-02-09 15:32:28 --> Output Class Initialized
+ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:28 --> Security Class Initialized
+INFO - 2022-02-09 15:32:28 --> Output Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:28 --> Input Class Initialized
+INFO - 2022-02-09 15:32:28 --> URI Class Initialized
+INFO - 2022-02-09 15:32:28 --> Output Class Initialized
+INFO - 2022-02-09 15:32:28 --> Language Class Initialized
+INFO - 2022-02-09 15:32:28 --> Router Class Initialized
+INFO - 2022-02-09 15:32:28 --> Security Class Initialized
+ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:28 --> Output Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:28 --> Input Class Initialized
+INFO - 2022-02-09 15:32:28 --> Security Class Initialized
+INFO - 2022-02-09 15:32:28 --> Language Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assets/vendor_components
+INFO - 2022-02-09 15:32:28 --> Input Class Initialized
+INFO - 2022-02-09 15:32:28 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:28 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:28 --> Input Class Initialized
+INFO - 2022-02-09 15:32:28 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:28 --> Config Class Initialized
+INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:28 --> Config Class Initialized
+INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:28 --> Config Class Initialized
+INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
+DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:28 --> Config Class Initialized
+INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:28 --> URI Class Initialized
+INFO - 2022-02-09 15:32:28 --> URI Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:28 --> Router Class Initialized
+INFO - 2022-02-09 15:32:28 --> URI Class Initialized
+INFO - 2022-02-09 15:32:28 --> Router Class Initialized
+INFO - 2022-02-09 15:32:28 --> Output Class Initialized
+INFO - 2022-02-09 15:32:28 --> Security Class Initialized
+INFO - 2022-02-09 15:32:28 --> Config Class Initialized
+INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:28 --> URI Class Initialized
+INFO - 2022-02-09 15:32:28 --> Router Class Initialized
+INFO - 2022-02-09 15:32:28 --> Output Class Initialized
+INFO - 2022-02-09 15:32:28 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:28 --> Input Class Initialized
+INFO - 2022-02-09 15:32:28 --> Language Class Initialized
+INFO - 2022-02-09 15:32:28 --> URI Class Initialized
+INFO - 2022-02-09 15:32:28 --> Router Class Initialized
+INFO - 2022-02-09 15:32:28 --> Config Class Initialized
+INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:28 --> Output Class Initialized
+INFO - 2022-02-09 15:32:28 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:28 --> Input Class Initialized
+INFO - 2022-02-09 15:32:28 --> Language Class Initialized
+INFO - 2022-02-09 15:32:28 --> URI Class Initialized
+ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:28 --> Router Class Initialized
+INFO - 2022-02-09 15:32:28 --> Router Class Initialized
+INFO - 2022-02-09 15:32:28 --> Output Class Initialized
+INFO - 2022-02-09 15:32:28 --> Output Class Initialized
+INFO - 2022-02-09 15:32:28 --> Security Class Initialized
+INFO - 2022-02-09 15:32:28 --> Output Class Initialized
+INFO - 2022-02-09 15:32:28 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:28 --> Input Class Initialized
+INFO - 2022-02-09 15:32:28 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:28 --> Language Class Initialized
+INFO - 2022-02-09 15:32:28 --> Input Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:28 --> Input Class Initialized
+INFO - 2022-02-09 15:32:28 --> Language Class Initialized
+INFO - 2022-02-09 15:32:28 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assets/admin
+ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assetscustom/libs
+DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:28 --> Input Class Initialized
+INFO - 2022-02-09 15:32:28 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:28 --> Config Class Initialized
+INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:28 --> URI Class Initialized
+INFO - 2022-02-09 15:32:28 --> Router Class Initialized
+INFO - 2022-02-09 15:32:28 --> Output Class Initialized
+INFO - 2022-02-09 15:32:28 --> Config Class Initialized
+INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:28 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:28 --> URI Class Initialized
+INFO - 2022-02-09 15:32:28 --> Router Class Initialized
+INFO - 2022-02-09 15:32:28 --> Output Class Initialized
+INFO - 2022-02-09 15:32:28 --> Security Class Initialized
+INFO - 2022-02-09 15:32:28 --> Config Class Initialized
+INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:28 --> Config Class Initialized
+INFO - 2022-02-09 15:32:28 --> Input Class Initialized
+INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:28 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assetscustom/libs
+DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:28 --> Config Class Initialized
+INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:28 --> URI Class Initialized
+INFO - 2022-02-09 15:32:28 --> Router Class Initialized
+INFO - 2022-02-09 15:32:28 --> Output Class Initialized
+INFO - 2022-02-09 15:32:28 --> URI Class Initialized
+INFO - 2022-02-09 15:32:28 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:28 --> Router Class Initialized
+INFO - 2022-02-09 15:32:28 --> Input Class Initialized
+INFO - 2022-02-09 15:32:29 --> Language Class Initialized
+INFO - 2022-02-09 15:32:29 --> Output Class Initialized
+ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:29 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:29 --> Input Class Initialized
+INFO - 2022-02-09 15:32:29 --> Language Class Initialized
+INFO - 2022-02-09 15:32:29 --> Input Class Initialized
+INFO - 2022-02-09 15:32:29 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assets/admin
+ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:29 --> Config Class Initialized
+INFO - 2022-02-09 15:32:29 --> Config Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:29 --> URI Class Initialized
+INFO - 2022-02-09 15:32:29 --> Router Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:29 --> Output Class Initialized
+INFO - 2022-02-09 15:32:29 --> URI Class Initialized
+INFO - 2022-02-09 15:32:29 --> Security Class Initialized
+INFO - 2022-02-09 15:32:29 --> Router Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:29 --> Config Class Initialized
+INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:29 --> Input Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:29 --> URI Class Initialized
+INFO - 2022-02-09 15:32:29 --> URI Class Initialized
+INFO - 2022-02-09 15:32:29 --> Output Class Initialized
+INFO - 2022-02-09 15:32:29 --> Router Class Initialized
+INFO - 2022-02-09 15:32:29 --> Security Class Initialized
+INFO - 2022-02-09 15:32:29 --> Output Class Initialized
+INFO - 2022-02-09 15:32:29 --> Security Class Initialized
+INFO - 2022-02-09 15:32:29 --> Language Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:29 --> Input Class Initialized
+ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:29 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/libs
+DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:29 --> Input Class Initialized
+INFO - 2022-02-09 15:32:29 --> Config Class Initialized
+INFO - 2022-02-09 15:32:29 --> Config Class Initialized
+INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:29 --> Language Class Initialized
+INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:29 --> Router Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:29 --> Output Class Initialized
+INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:29 --> Config Class Initialized
+ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:29 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:29 --> Input Class Initialized
+INFO - 2022-02-09 15:32:29 --> Language Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
+ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:29 --> URI Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:29 --> Router Class Initialized
+INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:29 --> Output Class Initialized
+INFO - 2022-02-09 15:32:29 --> URI Class Initialized
+INFO - 2022-02-09 15:32:29 --> Security Class Initialized
+INFO - 2022-02-09 15:32:29 --> Router Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:29 --> Input Class Initialized
+INFO - 2022-02-09 15:32:29 --> Config Class Initialized
+INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:29 --> URI Class Initialized
+INFO - 2022-02-09 15:32:29 --> Router Class Initialized
+INFO - 2022-02-09 15:32:29 --> Output Class Initialized
+INFO - 2022-02-09 15:32:29 --> Config Class Initialized
+INFO - 2022-02-09 15:32:29 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:29 --> Input Class Initialized
+INFO - 2022-02-09 15:32:29 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:29 --> Output Class Initialized
+INFO - 2022-02-09 15:32:29 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:29 --> Input Class Initialized
+INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:29 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/libs
+DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:29 --> Config Class Initialized
+INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:29 --> URI Class Initialized
+INFO - 2022-02-09 15:32:29 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:29 --> URI Class Initialized
+INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:29 --> Config Class Initialized
+INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:29 --> Router Class Initialized
+INFO - 2022-02-09 15:32:29 --> Output Class Initialized
+INFO - 2022-02-09 15:32:29 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:29 --> Input Class Initialized
+INFO - 2022-02-09 15:32:29 --> Config Class Initialized
+INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
+INFO - 2022-02-09 15:32:29 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/libs
+DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:29 --> URI Class Initialized
+INFO - 2022-02-09 15:32:29 --> URI Class Initialized
+INFO - 2022-02-09 15:32:29 --> Router Class Initialized
+INFO - 2022-02-09 15:32:29 --> Router Class Initialized
+INFO - 2022-02-09 15:32:29 --> Output Class Initialized
+INFO - 2022-02-09 15:32:29 --> Config Class Initialized
+INFO - 2022-02-09 15:32:29 --> Security Class Initialized
+INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:29 --> Input Class Initialized
+INFO - 2022-02-09 15:32:29 --> Language Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:29 --> Router Class Initialized
+INFO - 2022-02-09 15:32:29 --> URI Class Initialized
+INFO - 2022-02-09 15:32:29 --> Output Class Initialized
+INFO - 2022-02-09 15:32:29 --> Router Class Initialized
+INFO - 2022-02-09 15:32:29 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:29 --> Input Class Initialized
+INFO - 2022-02-09 15:32:29 --> Output Class Initialized
+INFO - 2022-02-09 15:32:29 --> Language Class Initialized
+INFO - 2022-02-09 15:32:29 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:29 --> Input Class Initialized
+INFO - 2022-02-09 15:32:29 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/libs
+DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
+ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:29 --> Output Class Initialized
+INFO - 2022-02-09 15:32:29 --> URI Class Initialized
+INFO - 2022-02-09 15:32:29 --> Config Class Initialized
+INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
+ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/js
+INFO - 2022-02-09 15:32:29 --> Router Class Initialized
+INFO - 2022-02-09 15:32:29 --> Output Class Initialized
+INFO - 2022-02-09 15:32:29 --> Security Class Initialized
+INFO - 2022-02-09 15:32:29 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:29 --> Input Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:29 --> Language Class Initialized
+INFO - 2022-02-09 15:32:29 --> Input Class Initialized
+INFO - 2022-02-09 15:32:29 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/libs
+ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/libs
+DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:29 --> URI Class Initialized
+INFO - 2022-02-09 15:32:29 --> Router Class Initialized
+INFO - 2022-02-09 15:32:29 --> Output Class Initialized
+INFO - 2022-02-09 15:32:29 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:29 --> Input Class Initialized
+INFO - 2022-02-09 15:32:29 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:29 --> Config Class Initialized
+INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:29 --> URI Class Initialized
+INFO - 2022-02-09 15:32:29 --> Router Class Initialized
+INFO - 2022-02-09 15:32:29 --> Output Class Initialized
+INFO - 2022-02-09 15:32:29 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:29 --> Input Class Initialized
+INFO - 2022-02-09 15:32:29 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:29 --> Config Class Initialized
+INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:29 --> URI Class Initialized
+INFO - 2022-02-09 15:32:29 --> Router Class Initialized
+INFO - 2022-02-09 15:32:29 --> Output Class Initialized
+INFO - 2022-02-09 15:32:29 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:29 --> Input Class Initialized
+INFO - 2022-02-09 15:32:29 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:29 --> Config Class Initialized
+INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:30 --> URI Class Initialized
+INFO - 2022-02-09 15:32:30 --> Router Class Initialized
+INFO - 2022-02-09 15:32:30 --> Output Class Initialized
+INFO - 2022-02-09 15:32:30 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:30 --> Input Class Initialized
+INFO - 2022-02-09 15:32:30 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:30 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:30 --> Config Class Initialized
+INFO - 2022-02-09 15:32:30 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:30 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:30 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:30 --> URI Class Initialized
+INFO - 2022-02-09 15:32:30 --> Router Class Initialized
+INFO - 2022-02-09 15:32:30 --> Output Class Initialized
+INFO - 2022-02-09 15:32:30 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:30 --> Input Class Initialized
+INFO - 2022-02-09 15:32:30 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:30 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:30 --> Config Class Initialized
+INFO - 2022-02-09 15:32:30 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:30 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:30 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:30 --> URI Class Initialized
+INFO - 2022-02-09 15:32:30 --> Router Class Initialized
+INFO - 2022-02-09 15:32:30 --> Output Class Initialized
+INFO - 2022-02-09 15:32:30 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:30 --> Input Class Initialized
+INFO - 2022-02-09 15:32:30 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:30 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:30 --> Config Class Initialized
+INFO - 2022-02-09 15:32:30 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:30 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:30 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:30 --> URI Class Initialized
+INFO - 2022-02-09 15:32:30 --> Router Class Initialized
+INFO - 2022-02-09 15:32:30 --> Output Class Initialized
+INFO - 2022-02-09 15:32:30 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:30 --> Input Class Initialized
+INFO - 2022-02-09 15:32:30 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:30 --> 404 Page Not Found: Assetsadmin/vendor_components
+INFO - 2022-02-09 15:32:30 --> Config Class Initialized
+INFO - 2022-02-09 15:32:30 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:30 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:30 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:30 --> URI Class Initialized
+INFO - 2022-02-09 15:32:30 --> Router Class Initialized
+INFO - 2022-02-09 15:32:30 --> Output Class Initialized
+INFO - 2022-02-09 15:32:30 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:30 --> Input Class Initialized
+INFO - 2022-02-09 15:32:30 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:30 --> 404 Page Not Found: Assets/vendor_components
+INFO - 2022-02-09 15:32:30 --> Config Class Initialized
+INFO - 2022-02-09 15:32:30 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:30 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:30 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:30 --> URI Class Initialized
+INFO - 2022-02-09 15:32:30 --> Router Class Initialized
+INFO - 2022-02-09 15:32:30 --> Output Class Initialized
+INFO - 2022-02-09 15:32:30 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:30 --> Input Class Initialized
+INFO - 2022-02-09 15:32:30 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:30 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:30 --> Config Class Initialized
+INFO - 2022-02-09 15:32:30 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:30 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:30 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:30 --> URI Class Initialized
+INFO - 2022-02-09 15:32:30 --> Router Class Initialized
+INFO - 2022-02-09 15:32:30 --> Output Class Initialized
+INFO - 2022-02-09 15:32:30 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:30 --> Input Class Initialized
+INFO - 2022-02-09 15:32:30 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:30 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:30 --> Config Class Initialized
+INFO - 2022-02-09 15:32:30 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:30 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:30 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:30 --> URI Class Initialized
+INFO - 2022-02-09 15:32:30 --> Router Class Initialized
+INFO - 2022-02-09 15:32:30 --> Output Class Initialized
+INFO - 2022-02-09 15:32:30 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:30 --> Input Class Initialized
+INFO - 2022-02-09 15:32:30 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:30 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:30 --> Config Class Initialized
+INFO - 2022-02-09 15:32:30 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:30 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:30 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:30 --> URI Class Initialized
+INFO - 2022-02-09 15:32:30 --> Router Class Initialized
+INFO - 2022-02-09 15:32:30 --> Output Class Initialized
+INFO - 2022-02-09 15:32:30 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:30 --> Input Class Initialized
+INFO - 2022-02-09 15:32:30 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:30 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:30 --> Config Class Initialized
+INFO - 2022-02-09 15:32:30 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:30 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:30 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:30 --> URI Class Initialized
+INFO - 2022-02-09 15:32:31 --> Router Class Initialized
+INFO - 2022-02-09 15:32:31 --> Output Class Initialized
+INFO - 2022-02-09 15:32:31 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:31 --> Input Class Initialized
+INFO - 2022-02-09 15:32:31 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:31 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:31 --> Config Class Initialized
+INFO - 2022-02-09 15:32:31 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:31 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:31 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:31 --> URI Class Initialized
+INFO - 2022-02-09 15:32:31 --> Router Class Initialized
+INFO - 2022-02-09 15:32:31 --> Output Class Initialized
+INFO - 2022-02-09 15:32:31 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:31 --> Input Class Initialized
+INFO - 2022-02-09 15:32:31 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:31 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:31 --> Config Class Initialized
+INFO - 2022-02-09 15:32:31 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:31 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:31 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:31 --> URI Class Initialized
+INFO - 2022-02-09 15:32:31 --> Router Class Initialized
+INFO - 2022-02-09 15:32:31 --> Output Class Initialized
+INFO - 2022-02-09 15:32:31 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:31 --> Input Class Initialized
+INFO - 2022-02-09 15:32:31 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:31 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:31 --> Config Class Initialized
+INFO - 2022-02-09 15:32:31 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:31 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:31 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:31 --> URI Class Initialized
+INFO - 2022-02-09 15:32:31 --> Router Class Initialized
+INFO - 2022-02-09 15:32:31 --> Output Class Initialized
+INFO - 2022-02-09 15:32:31 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:31 --> Input Class Initialized
+INFO - 2022-02-09 15:32:31 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:31 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:32:31 --> Config Class Initialized
+INFO - 2022-02-09 15:32:31 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:31 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:31 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:31 --> URI Class Initialized
+INFO - 2022-02-09 15:32:31 --> Router Class Initialized
+INFO - 2022-02-09 15:32:31 --> Output Class Initialized
+INFO - 2022-02-09 15:32:31 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:31 --> Input Class Initialized
+INFO - 2022-02-09 15:32:31 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:31 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:31 --> Config Class Initialized
+INFO - 2022-02-09 15:32:31 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:31 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:31 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:31 --> URI Class Initialized
+INFO - 2022-02-09 15:32:31 --> Router Class Initialized
+INFO - 2022-02-09 15:32:31 --> Output Class Initialized
+INFO - 2022-02-09 15:32:31 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:31 --> Input Class Initialized
+INFO - 2022-02-09 15:32:31 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:31 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:31 --> Config Class Initialized
+INFO - 2022-02-09 15:32:31 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:31 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:31 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:31 --> URI Class Initialized
+INFO - 2022-02-09 15:32:31 --> Router Class Initialized
+INFO - 2022-02-09 15:32:31 --> Output Class Initialized
+INFO - 2022-02-09 15:32:31 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:31 --> Input Class Initialized
+INFO - 2022-02-09 15:32:31 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:31 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:31 --> Config Class Initialized
+INFO - 2022-02-09 15:32:31 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:31 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:31 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:31 --> URI Class Initialized
+INFO - 2022-02-09 15:32:31 --> Router Class Initialized
+INFO - 2022-02-09 15:32:31 --> Output Class Initialized
+INFO - 2022-02-09 15:32:31 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:31 --> Input Class Initialized
+INFO - 2022-02-09 15:32:31 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:31 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:31 --> Config Class Initialized
+INFO - 2022-02-09 15:32:31 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:31 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:31 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:31 --> URI Class Initialized
+INFO - 2022-02-09 15:32:31 --> Router Class Initialized
+INFO - 2022-02-09 15:32:31 --> Output Class Initialized
+INFO - 2022-02-09 15:32:31 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:31 --> Input Class Initialized
+INFO - 2022-02-09 15:32:31 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:31 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:31 --> Config Class Initialized
+INFO - 2022-02-09 15:32:31 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:31 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:31 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:31 --> URI Class Initialized
+INFO - 2022-02-09 15:32:31 --> Router Class Initialized
+INFO - 2022-02-09 15:32:31 --> Output Class Initialized
+INFO - 2022-02-09 15:32:31 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:31 --> Input Class Initialized
+INFO - 2022-02-09 15:32:31 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:31 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:32 --> Config Class Initialized
+INFO - 2022-02-09 15:32:32 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:32 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:32 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:32 --> URI Class Initialized
+INFO - 2022-02-09 15:32:32 --> Router Class Initialized
+INFO - 2022-02-09 15:32:32 --> Output Class Initialized
+INFO - 2022-02-09 15:32:32 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:32 --> Input Class Initialized
+INFO - 2022-02-09 15:32:32 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:32 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:32 --> Config Class Initialized
+INFO - 2022-02-09 15:32:32 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:32 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:32 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:32 --> URI Class Initialized
+INFO - 2022-02-09 15:32:32 --> Router Class Initialized
+INFO - 2022-02-09 15:32:32 --> Output Class Initialized
+INFO - 2022-02-09 15:32:32 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:32 --> Input Class Initialized
+INFO - 2022-02-09 15:32:32 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:32 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:32 --> Config Class Initialized
+INFO - 2022-02-09 15:32:32 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:32 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:32 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:32 --> URI Class Initialized
+INFO - 2022-02-09 15:32:32 --> Router Class Initialized
+INFO - 2022-02-09 15:32:32 --> Output Class Initialized
+INFO - 2022-02-09 15:32:32 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:32 --> Input Class Initialized
+INFO - 2022-02-09 15:32:32 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:32 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:32 --> Config Class Initialized
+INFO - 2022-02-09 15:32:32 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:32 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:32 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:32 --> URI Class Initialized
+INFO - 2022-02-09 15:32:32 --> Router Class Initialized
+INFO - 2022-02-09 15:32:32 --> Output Class Initialized
+INFO - 2022-02-09 15:32:32 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:32 --> Input Class Initialized
+INFO - 2022-02-09 15:32:32 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:32 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:32 --> Config Class Initialized
+INFO - 2022-02-09 15:32:32 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:32 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:32 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:32 --> URI Class Initialized
+INFO - 2022-02-09 15:32:32 --> Router Class Initialized
+INFO - 2022-02-09 15:32:32 --> Output Class Initialized
+INFO - 2022-02-09 15:32:32 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:32 --> Input Class Initialized
+INFO - 2022-02-09 15:32:32 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:32 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:32 --> Config Class Initialized
+INFO - 2022-02-09 15:32:32 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:32 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:32 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:32 --> URI Class Initialized
+INFO - 2022-02-09 15:32:32 --> Router Class Initialized
+INFO - 2022-02-09 15:32:32 --> Output Class Initialized
+INFO - 2022-02-09 15:32:32 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:32 --> Input Class Initialized
+INFO - 2022-02-09 15:32:32 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:32 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:32 --> Config Class Initialized
+INFO - 2022-02-09 15:32:32 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:32 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:32 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:32 --> URI Class Initialized
+INFO - 2022-02-09 15:32:32 --> Router Class Initialized
+INFO - 2022-02-09 15:32:32 --> Output Class Initialized
+INFO - 2022-02-09 15:32:32 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:32 --> Input Class Initialized
+INFO - 2022-02-09 15:32:32 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:32 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:32 --> Config Class Initialized
+INFO - 2022-02-09 15:32:32 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:32 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:32 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:32 --> URI Class Initialized
+INFO - 2022-02-09 15:32:32 --> Router Class Initialized
+INFO - 2022-02-09 15:32:32 --> Output Class Initialized
+INFO - 2022-02-09 15:32:32 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:32 --> Input Class Initialized
+INFO - 2022-02-09 15:32:32 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:32 --> 404 Page Not Found: Assetscustom/js
+INFO - 2022-02-09 15:32:32 --> Config Class Initialized
+INFO - 2022-02-09 15:32:32 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:32 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:32 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:32 --> URI Class Initialized
+INFO - 2022-02-09 15:32:33 --> Router Class Initialized
+INFO - 2022-02-09 15:32:33 --> Output Class Initialized
+INFO - 2022-02-09 15:32:33 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:33 --> Input Class Initialized
+INFO - 2022-02-09 15:32:33 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:33 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:33 --> Config Class Initialized
+INFO - 2022-02-09 15:32:33 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:33 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:33 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:33 --> URI Class Initialized
+INFO - 2022-02-09 15:32:33 --> Router Class Initialized
+INFO - 2022-02-09 15:32:33 --> Output Class Initialized
+INFO - 2022-02-09 15:32:33 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:33 --> Input Class Initialized
+INFO - 2022-02-09 15:32:33 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:33 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:33 --> Config Class Initialized
+INFO - 2022-02-09 15:32:33 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:33 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:33 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:33 --> URI Class Initialized
+INFO - 2022-02-09 15:32:33 --> Router Class Initialized
+INFO - 2022-02-09 15:32:33 --> Output Class Initialized
+INFO - 2022-02-09 15:32:33 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:33 --> Input Class Initialized
+INFO - 2022-02-09 15:32:33 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:33 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:32:33 --> Config Class Initialized
+INFO - 2022-02-09 15:32:33 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:32:33 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:32:33 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:32:33 --> URI Class Initialized
+INFO - 2022-02-09 15:32:33 --> Router Class Initialized
+INFO - 2022-02-09 15:32:33 --> Output Class Initialized
+INFO - 2022-02-09 15:32:33 --> Security Class Initialized
+DEBUG - 2022-02-09 15:32:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:32:33 --> Input Class Initialized
+INFO - 2022-02-09 15:32:33 --> Language Class Initialized
+ERROR - 2022-02-09 15:32:33 --> 404 Page Not Found: Assetscustom/libs
+INFO - 2022-02-09 15:33:04 --> Config Class Initialized
+INFO - 2022-02-09 15:33:04 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:33:04 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:33:04 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:33:04 --> URI Class Initialized
+DEBUG - 2022-02-09 15:33:04 --> No URI present. Default controller set.
+INFO - 2022-02-09 15:33:04 --> Router Class Initialized
+INFO - 2022-02-09 15:33:04 --> Output Class Initialized
+INFO - 2022-02-09 15:33:04 --> Security Class Initialized
+DEBUG - 2022-02-09 15:33:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:33:04 --> Input Class Initialized
+INFO - 2022-02-09 15:33:04 --> Language Class Initialized
+INFO - 2022-02-09 15:33:04 --> Loader Class Initialized
+INFO - 2022-02-09 15:33:04 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:33:04 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:33:04 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:33:04 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:33:04 --> Email Class Initialized
+INFO - 2022-02-09 15:33:04 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:33:04 --> Controller Class Initialized
+INFO - 2022-02-09 15:33:04 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:33:04 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:33:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:33:04 --> Model Class Initialized
+DEBUG - 2022-02-09 15:33:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:33:04 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
+INFO - 2022-02-09 15:33:04 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
+INFO - 2022-02-09 15:33:04 --> File loaded: C:\xampp\htdocs\firestation\application\views\dashboard.php
+INFO - 2022-02-09 15:33:04 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
+INFO - 2022-02-09 15:33:04 --> Final output sent to browser
+DEBUG - 2022-02-09 15:33:04 --> Total execution time: 0.3118
+INFO - 2022-02-09 15:34:06 --> Config Class Initialized
+INFO - 2022-02-09 15:34:06 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:34:06 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:34:06 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:34:06 --> URI Class Initialized
+INFO - 2022-02-09 15:34:06 --> Router Class Initialized
+INFO - 2022-02-09 15:34:06 --> Output Class Initialized
+INFO - 2022-02-09 15:34:06 --> Security Class Initialized
+DEBUG - 2022-02-09 15:34:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:34:06 --> Input Class Initialized
+INFO - 2022-02-09 15:34:06 --> Language Class Initialized
+INFO - 2022-02-09 15:34:06 --> Loader Class Initialized
+INFO - 2022-02-09 15:34:06 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:34:06 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:34:06 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:34:06 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:34:06 --> Email Class Initialized
+INFO - 2022-02-09 15:34:06 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:34:06 --> Controller Class Initialized
+INFO - 2022-02-09 15:34:06 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:34:06 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:34:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:34:06 --> Model Class Initialized
+DEBUG - 2022-02-09 15:34:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:34:06 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
+INFO - 2022-02-09 15:34:06 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
+INFO - 2022-02-09 15:34:06 --> File loaded: C:\xampp\htdocs\firestation\application\views\exitingvhlistsfs.php
+INFO - 2022-02-09 15:34:06 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
+INFO - 2022-02-09 15:34:06 --> Final output sent to browser
+DEBUG - 2022-02-09 15:34:06 --> Total execution time: 0.3463
+INFO - 2022-02-09 15:35:44 --> Config Class Initialized
+INFO - 2022-02-09 15:35:44 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:35:44 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:35:44 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:35:44 --> URI Class Initialized
+DEBUG - 2022-02-09 15:35:44 --> No URI present. Default controller set.
+INFO - 2022-02-09 15:35:44 --> Router Class Initialized
+INFO - 2022-02-09 15:35:44 --> Output Class Initialized
+INFO - 2022-02-09 15:35:44 --> Security Class Initialized
+DEBUG - 2022-02-09 15:35:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:35:44 --> Input Class Initialized
+INFO - 2022-02-09 15:35:44 --> Language Class Initialized
+INFO - 2022-02-09 15:35:44 --> Loader Class Initialized
+INFO - 2022-02-09 15:35:44 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:35:44 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:35:44 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:35:44 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:35:44 --> Email Class Initialized
+INFO - 2022-02-09 15:35:44 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:35:44 --> Controller Class Initialized
+INFO - 2022-02-09 15:35:44 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:35:44 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:35:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:35:44 --> Model Class Initialized
+DEBUG - 2022-02-09 15:35:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:35:44 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
+INFO - 2022-02-09 15:35:44 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
+INFO - 2022-02-09 15:35:44 --> File loaded: C:\xampp\htdocs\firestation\application\views\dashboard.php
+INFO - 2022-02-09 15:35:44 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
+INFO - 2022-02-09 15:35:44 --> Final output sent to browser
+DEBUG - 2022-02-09 15:35:44 --> Total execution time: 0.2048
+INFO - 2022-02-09 15:35:45 --> Config Class Initialized
+INFO - 2022-02-09 15:35:45 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:35:45 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:35:45 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:35:45 --> URI Class Initialized
+DEBUG - 2022-02-09 15:35:45 --> No URI present. Default controller set.
+INFO - 2022-02-09 15:35:45 --> Router Class Initialized
+INFO - 2022-02-09 15:35:45 --> Output Class Initialized
+INFO - 2022-02-09 15:35:45 --> Security Class Initialized
+DEBUG - 2022-02-09 15:35:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:35:45 --> Input Class Initialized
+INFO - 2022-02-09 15:35:45 --> Language Class Initialized
+INFO - 2022-02-09 15:35:45 --> Loader Class Initialized
+INFO - 2022-02-09 15:35:45 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:35:45 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:35:45 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:35:45 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:35:45 --> Email Class Initialized
+INFO - 2022-02-09 15:35:45 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:35:45 --> Controller Class Initialized
+INFO - 2022-02-09 15:35:45 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:35:45 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:35:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:35:45 --> Model Class Initialized
+DEBUG - 2022-02-09 15:35:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:35:45 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
+INFO - 2022-02-09 15:35:45 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
+INFO - 2022-02-09 15:35:45 --> File loaded: C:\xampp\htdocs\firestation\application\views\dashboard.php
+INFO - 2022-02-09 15:35:45 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
+INFO - 2022-02-09 15:35:45 --> Final output sent to browser
+DEBUG - 2022-02-09 15:35:45 --> Total execution time: 0.3197
+INFO - 2022-02-09 15:36:12 --> Config Class Initialized
+INFO - 2022-02-09 15:36:12 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:36:12 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:36:12 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:36:12 --> URI Class Initialized
+INFO - 2022-02-09 15:36:12 --> Router Class Initialized
+INFO - 2022-02-09 15:36:12 --> Output Class Initialized
+INFO - 2022-02-09 15:36:12 --> Security Class Initialized
+DEBUG - 2022-02-09 15:36:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:36:12 --> Input Class Initialized
+INFO - 2022-02-09 15:36:12 --> Language Class Initialized
+INFO - 2022-02-09 15:36:12 --> Loader Class Initialized
+INFO - 2022-02-09 15:36:12 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:36:12 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:36:12 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:36:12 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:36:12 --> Email Class Initialized
+INFO - 2022-02-09 15:36:12 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:36:12 --> Controller Class Initialized
+INFO - 2022-02-09 15:36:12 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:36:12 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:36:12 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:36:12 --> Model Class Initialized
+DEBUG - 2022-02-09 15:36:12 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:36:12 --> File loaded: C:\xampp\htdocs\firestation\application\views\login.php
+INFO - 2022-02-09 15:36:12 --> Final output sent to browser
+DEBUG - 2022-02-09 15:36:12 --> Total execution time: 0.1672
+INFO - 2022-02-09 15:37:46 --> Config Class Initialized
+INFO - 2022-02-09 15:37:46 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:37:46 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:37:46 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:37:46 --> URI Class Initialized
+INFO - 2022-02-09 15:37:46 --> Router Class Initialized
+INFO - 2022-02-09 15:37:46 --> Output Class Initialized
+INFO - 2022-02-09 15:37:46 --> Security Class Initialized
+DEBUG - 2022-02-09 15:37:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:37:46 --> Input Class Initialized
+INFO - 2022-02-09 15:37:46 --> Language Class Initialized
+INFO - 2022-02-09 15:37:46 --> Loader Class Initialized
+INFO - 2022-02-09 15:37:46 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:37:46 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:37:46 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:37:46 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:37:46 --> Email Class Initialized
+INFO - 2022-02-09 15:37:46 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:37:46 --> Controller Class Initialized
+INFO - 2022-02-09 15:37:46 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:37:46 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:37:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:37:46 --> Model Class Initialized
+DEBUG - 2022-02-09 15:37:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:37:46 --> File loaded: C:\xampp\htdocs\firestation\application\views\login.php
+INFO - 2022-02-09 15:37:46 --> Final output sent to browser
+DEBUG - 2022-02-09 15:37:46 --> Total execution time: 0.1944
+INFO - 2022-02-09 15:38:35 --> Config Class Initialized
+INFO - 2022-02-09 15:38:35 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:38:35 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:38:35 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:38:35 --> URI Class Initialized
+INFO - 2022-02-09 15:38:35 --> Router Class Initialized
+INFO - 2022-02-09 15:38:35 --> Output Class Initialized
+INFO - 2022-02-09 15:38:35 --> Security Class Initialized
+DEBUG - 2022-02-09 15:38:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:38:35 --> Input Class Initialized
+INFO - 2022-02-09 15:38:35 --> Language Class Initialized
+INFO - 2022-02-09 15:38:35 --> Loader Class Initialized
+INFO - 2022-02-09 15:38:35 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:38:35 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:38:35 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:38:35 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:38:35 --> Email Class Initialized
+INFO - 2022-02-09 15:38:35 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:38:35 --> Controller Class Initialized
+INFO - 2022-02-09 15:38:35 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:38:35 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:38:35 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:38:35 --> Model Class Initialized
+DEBUG - 2022-02-09 15:38:35 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:38:35 --> Config Class Initialized
+INFO - 2022-02-09 15:38:35 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:38:35 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:38:35 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:38:35 --> URI Class Initialized
+DEBUG - 2022-02-09 15:38:35 --> No URI present. Default controller set.
+INFO - 2022-02-09 15:38:35 --> Router Class Initialized
+INFO - 2022-02-09 15:38:35 --> Output Class Initialized
+INFO - 2022-02-09 15:38:35 --> Security Class Initialized
+DEBUG - 2022-02-09 15:38:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:38:35 --> Input Class Initialized
+INFO - 2022-02-09 15:38:35 --> Language Class Initialized
+INFO - 2022-02-09 15:38:35 --> Loader Class Initialized
+INFO - 2022-02-09 15:38:35 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:38:35 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:38:35 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:38:35 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:38:35 --> Email Class Initialized
+INFO - 2022-02-09 15:38:35 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:38:35 --> Controller Class Initialized
+INFO - 2022-02-09 15:38:35 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:38:35 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:38:35 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:38:35 --> Model Class Initialized
+DEBUG - 2022-02-09 15:38:35 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:38:35 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
+INFO - 2022-02-09 15:38:35 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
+INFO - 2022-02-09 15:38:35 --> File loaded: C:\xampp\htdocs\firestation\application\views\dashboard.php
+INFO - 2022-02-09 15:38:35 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
+INFO - 2022-02-09 15:38:35 --> Final output sent to browser
+DEBUG - 2022-02-09 15:38:35 --> Total execution time: 0.2089
+INFO - 2022-02-09 15:39:05 --> Config Class Initialized
+INFO - 2022-02-09 15:39:05 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:39:05 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:39:05 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:39:05 --> URI Class Initialized
+INFO - 2022-02-09 15:39:05 --> Router Class Initialized
+INFO - 2022-02-09 15:39:05 --> Output Class Initialized
+INFO - 2022-02-09 15:39:05 --> Security Class Initialized
+DEBUG - 2022-02-09 15:39:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:39:05 --> Input Class Initialized
+INFO - 2022-02-09 15:39:05 --> Language Class Initialized
+INFO - 2022-02-09 15:39:05 --> Loader Class Initialized
+INFO - 2022-02-09 15:39:05 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:39:05 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:39:05 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:39:05 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:39:05 --> Email Class Initialized
+INFO - 2022-02-09 15:39:05 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:39:05 --> Controller Class Initialized
+INFO - 2022-02-09 15:39:05 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:39:05 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:39:05 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:39:05 --> Model Class Initialized
+DEBUG - 2022-02-09 15:39:05 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:39:05 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
+INFO - 2022-02-09 15:39:05 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
+INFO - 2022-02-09 15:39:05 --> File loaded: C:\xampp\htdocs\firestation\application\views\exitingvhlistsfs.php
+INFO - 2022-02-09 15:39:05 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
+INFO - 2022-02-09 15:39:05 --> Final output sent to browser
+DEBUG - 2022-02-09 15:39:05 --> Total execution time: 0.2609
+INFO - 2022-02-09 15:43:08 --> Config Class Initialized
+INFO - 2022-02-09 15:43:08 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:43:08 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:43:08 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:43:08 --> URI Class Initialized
+INFO - 2022-02-09 15:43:08 --> Router Class Initialized
+INFO - 2022-02-09 15:43:08 --> Output Class Initialized
+INFO - 2022-02-09 15:43:08 --> Security Class Initialized
+DEBUG - 2022-02-09 15:43:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:43:08 --> Input Class Initialized
+INFO - 2022-02-09 15:43:08 --> Language Class Initialized
+INFO - 2022-02-09 15:43:08 --> Loader Class Initialized
+INFO - 2022-02-09 15:43:08 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:43:08 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:43:08 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:43:08 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:43:08 --> Email Class Initialized
+INFO - 2022-02-09 15:43:08 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:43:08 --> Controller Class Initialized
+INFO - 2022-02-09 15:43:08 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:43:08 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:43:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:43:08 --> Model Class Initialized
+DEBUG - 2022-02-09 15:43:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:43:08 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
+INFO - 2022-02-09 15:43:08 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
+INFO - 2022-02-09 15:43:08 --> File loaded: C:\xampp\htdocs\firestation\application\views\exitingvhlistsfs.php
+INFO - 2022-02-09 15:43:08 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
+INFO - 2022-02-09 15:43:08 --> Final output sent to browser
+DEBUG - 2022-02-09 15:43:08 --> Total execution time: 0.4287
+INFO - 2022-02-09 15:43:09 --> Config Class Initialized
+INFO - 2022-02-09 15:43:09 --> Hooks Class Initialized
+INFO - 2022-02-09 15:43:09 --> Config Class Initialized
+DEBUG - 2022-02-09 15:43:09 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:43:09 --> Hooks Class Initialized
+INFO - 2022-02-09 15:43:09 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:43:09 --> URI Class Initialized
+DEBUG - 2022-02-09 15:43:09 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:43:09 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:43:10 --> URI Class Initialized
+INFO - 2022-02-09 15:43:10 --> Router Class Initialized
+INFO - 2022-02-09 15:43:10 --> Router Class Initialized
+INFO - 2022-02-09 15:43:10 --> Output Class Initialized
+INFO - 2022-02-09 15:43:10 --> Output Class Initialized
+INFO - 2022-02-09 15:43:10 --> Security Class Initialized
+INFO - 2022-02-09 15:43:10 --> Security Class Initialized
+DEBUG - 2022-02-09 15:43:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:43:10 --> Input Class Initialized
+DEBUG - 2022-02-09 15:43:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:43:10 --> Input Class Initialized
+INFO - 2022-02-09 15:43:10 --> Language Class Initialized
+INFO - 2022-02-09 15:43:10 --> Language Class Initialized
+ERROR - 2022-02-09 15:43:10 --> 404 Page Not Found: Assetsadmin/vendor_components
+ERROR - 2022-02-09 15:43:10 --> 404 Page Not Found: Assets/vendor_components
+INFO - 2022-02-09 15:43:11 --> Config Class Initialized
+INFO - 2022-02-09 15:43:11 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:43:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:43:11 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:43:12 --> URI Class Initialized
+INFO - 2022-02-09 15:43:12 --> Router Class Initialized
+INFO - 2022-02-09 15:43:12 --> Output Class Initialized
+INFO - 2022-02-09 15:43:12 --> Security Class Initialized
+DEBUG - 2022-02-09 15:43:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:43:12 --> Input Class Initialized
+INFO - 2022-02-09 15:43:12 --> Language Class Initialized
+ERROR - 2022-02-09 15:43:12 --> 404 Page Not Found: Assets/images
+INFO - 2022-02-09 15:43:13 --> Config Class Initialized
+INFO - 2022-02-09 15:43:13 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:43:13 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:43:13 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:43:13 --> URI Class Initialized
+INFO - 2022-02-09 15:43:13 --> Router Class Initialized
+INFO - 2022-02-09 15:43:13 --> Output Class Initialized
+INFO - 2022-02-09 15:43:13 --> Security Class Initialized
+DEBUG - 2022-02-09 15:43:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:43:13 --> Input Class Initialized
+INFO - 2022-02-09 15:43:13 --> Language Class Initialized
+ERROR - 2022-02-09 15:43:13 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:43:13 --> Config Class Initialized
+INFO - 2022-02-09 15:43:13 --> Hooks Class Initialized
+INFO - 2022-02-09 15:43:13 --> Config Class Initialized
+INFO - 2022-02-09 15:43:13 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:43:13 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:43:13 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:43:13 --> URI Class Initialized
+DEBUG - 2022-02-09 15:43:13 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:43:13 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:43:13 --> URI Class Initialized
+INFO - 2022-02-09 15:43:13 --> Router Class Initialized
+INFO - 2022-02-09 15:43:13 --> Router Class Initialized
+INFO - 2022-02-09 15:43:13 --> Output Class Initialized
+INFO - 2022-02-09 15:43:13 --> Output Class Initialized
+INFO - 2022-02-09 15:43:13 --> Security Class Initialized
+INFO - 2022-02-09 15:43:13 --> Security Class Initialized
+DEBUG - 2022-02-09 15:43:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:43:13 --> Input Class Initialized
+INFO - 2022-02-09 15:43:13 --> Language Class Initialized
+ERROR - 2022-02-09 15:43:13 --> 404 Page Not Found: Assetsadmin/vendor_components
+DEBUG - 2022-02-09 15:43:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:43:13 --> Input Class Initialized
+INFO - 2022-02-09 15:43:13 --> Language Class Initialized
+ERROR - 2022-02-09 15:43:13 --> 404 Page Not Found: Assets/admin
+INFO - 2022-02-09 15:43:14 --> Config Class Initialized
+INFO - 2022-02-09 15:43:14 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:43:14 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:43:14 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:43:14 --> URI Class Initialized
+INFO - 2022-02-09 15:43:14 --> Router Class Initialized
+INFO - 2022-02-09 15:43:14 --> Output Class Initialized
+INFO - 2022-02-09 15:43:14 --> Security Class Initialized
+DEBUG - 2022-02-09 15:43:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:43:14 --> Input Class Initialized
+INFO - 2022-02-09 15:43:14 --> Language Class Initialized
+ERROR - 2022-02-09 15:43:14 --> 404 Page Not Found: Assets/vendor_components
+INFO - 2022-02-09 15:43:19 --> Config Class Initialized
+INFO - 2022-02-09 15:43:19 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:43:19 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:43:19 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:43:19 --> URI Class Initialized
+INFO - 2022-02-09 15:43:19 --> Router Class Initialized
+INFO - 2022-02-09 15:43:19 --> Output Class Initialized
+INFO - 2022-02-09 15:43:19 --> Security Class Initialized
+DEBUG - 2022-02-09 15:43:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:43:19 --> Input Class Initialized
+INFO - 2022-02-09 15:43:19 --> Language Class Initialized
+INFO - 2022-02-09 15:43:19 --> Loader Class Initialized
+INFO - 2022-02-09 15:43:19 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:43:19 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:43:19 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:43:19 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:43:19 --> Email Class Initialized
+INFO - 2022-02-09 15:43:19 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:43:19 --> Controller Class Initialized
+INFO - 2022-02-09 15:43:19 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:43:19 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:43:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:43:19 --> Model Class Initialized
+DEBUG - 2022-02-09 15:43:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:43:19 --> Final output sent to browser
+DEBUG - 2022-02-09 15:43:19 --> Total execution time: 0.1372
+INFO - 2022-02-09 15:43:22 --> Config Class Initialized
+INFO - 2022-02-09 15:43:22 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:43:22 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:43:22 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:43:22 --> URI Class Initialized
+INFO - 2022-02-09 15:43:22 --> Router Class Initialized
+INFO - 2022-02-09 15:43:22 --> Output Class Initialized
+INFO - 2022-02-09 15:43:22 --> Security Class Initialized
+DEBUG - 2022-02-09 15:43:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:43:22 --> Input Class Initialized
+INFO - 2022-02-09 15:43:22 --> Language Class Initialized
+INFO - 2022-02-09 15:43:22 --> Loader Class Initialized
+INFO - 2022-02-09 15:43:22 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:43:22 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:43:22 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:43:22 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:43:22 --> Email Class Initialized
+INFO - 2022-02-09 15:43:22 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:43:22 --> Controller Class Initialized
+INFO - 2022-02-09 15:43:22 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:43:22 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:43:22 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:43:22 --> Model Class Initialized
+DEBUG - 2022-02-09 15:43:22 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:43:22 --> Final output sent to browser
+DEBUG - 2022-02-09 15:43:22 --> Total execution time: 0.1892
+INFO - 2022-02-09 15:43:40 --> Config Class Initialized
+INFO - 2022-02-09 15:43:40 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:43:40 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:43:40 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:43:40 --> URI Class Initialized
+INFO - 2022-02-09 15:43:40 --> Router Class Initialized
+INFO - 2022-02-09 15:43:40 --> Output Class Initialized
+INFO - 2022-02-09 15:43:40 --> Security Class Initialized
+DEBUG - 2022-02-09 15:43:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:43:40 --> Input Class Initialized
+INFO - 2022-02-09 15:43:40 --> Language Class Initialized
+INFO - 2022-02-09 15:43:40 --> Loader Class Initialized
+INFO - 2022-02-09 15:43:40 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:43:40 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:43:40 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:43:40 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:43:40 --> Email Class Initialized
+INFO - 2022-02-09 15:43:40 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:43:40 --> Controller Class Initialized
+INFO - 2022-02-09 15:43:40 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:43:40 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:43:40 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:43:40 --> Model Class Initialized
+DEBUG - 2022-02-09 15:43:40 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:43:40 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
+INFO - 2022-02-09 15:43:40 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
+INFO - 2022-02-09 15:43:40 --> File loaded: C:\xampp\htdocs\firestation\application\views\exitingvhlistsfs.php
+INFO - 2022-02-09 15:43:40 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
+INFO - 2022-02-09 15:43:40 --> Final output sent to browser
+DEBUG - 2022-02-09 15:43:40 --> Total execution time: 0.3249
+INFO - 2022-02-09 15:43:41 --> Config Class Initialized
+INFO - 2022-02-09 15:43:41 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:43:41 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:43:41 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:43:41 --> URI Class Initialized
+INFO - 2022-02-09 15:43:41 --> Router Class Initialized
+INFO - 2022-02-09 15:43:41 --> Config Class Initialized
+INFO - 2022-02-09 15:43:41 --> Output Class Initialized
+INFO - 2022-02-09 15:43:41 --> Security Class Initialized
+INFO - 2022-02-09 15:43:41 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:43:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:43:41 --> Input Class Initialized
+DEBUG - 2022-02-09 15:43:41 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:43:41 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:43:41 --> URI Class Initialized
+INFO - 2022-02-09 15:43:41 --> Router Class Initialized
+INFO - 2022-02-09 15:43:41 --> Output Class Initialized
+INFO - 2022-02-09 15:43:41 --> Language Class Initialized
+ERROR - 2022-02-09 15:43:41 --> 404 Page Not Found: Assets/vendor_components
+INFO - 2022-02-09 15:43:42 --> Security Class Initialized
+DEBUG - 2022-02-09 15:43:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:43:42 --> Input Class Initialized
+INFO - 2022-02-09 15:43:42 --> Language Class Initialized
+ERROR - 2022-02-09 15:43:42 --> 404 Page Not Found: Assetsadmin/vendor_components
+INFO - 2022-02-09 15:43:42 --> Config Class Initialized
+INFO - 2022-02-09 15:43:42 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:43:42 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:43:42 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:43:42 --> URI Class Initialized
+INFO - 2022-02-09 15:43:42 --> Router Class Initialized
+INFO - 2022-02-09 15:43:42 --> Output Class Initialized
+INFO - 2022-02-09 15:43:42 --> Security Class Initialized
+DEBUG - 2022-02-09 15:43:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:43:42 --> Input Class Initialized
+INFO - 2022-02-09 15:43:42 --> Language Class Initialized
+ERROR - 2022-02-09 15:43:42 --> 404 Page Not Found: Assets/images
+INFO - 2022-02-09 15:43:43 --> Config Class Initialized
+INFO - 2022-02-09 15:43:43 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:43:43 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:43:43 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:43:43 --> URI Class Initialized
+INFO - 2022-02-09 15:43:43 --> Router Class Initialized
+INFO - 2022-02-09 15:43:43 --> Output Class Initialized
+INFO - 2022-02-09 15:43:43 --> Security Class Initialized
+DEBUG - 2022-02-09 15:43:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:43:43 --> Input Class Initialized
+INFO - 2022-02-09 15:43:43 --> Language Class Initialized
+ERROR - 2022-02-09 15:43:43 --> 404 Page Not Found: Assetsadmin/vendor_components
+INFO - 2022-02-09 15:43:43 --> Config Class Initialized
+INFO - 2022-02-09 15:43:43 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:43:43 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:43:43 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:43:43 --> URI Class Initialized
+INFO - 2022-02-09 15:43:44 --> Router Class Initialized
+INFO - 2022-02-09 15:43:44 --> Output Class Initialized
+INFO - 2022-02-09 15:43:44 --> Security Class Initialized
+DEBUG - 2022-02-09 15:43:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:43:44 --> Input Class Initialized
+INFO - 2022-02-09 15:43:44 --> Language Class Initialized
+ERROR - 2022-02-09 15:43:44 --> 404 Page Not Found: Assets/vendor_components
+INFO - 2022-02-09 15:43:49 --> Config Class Initialized
+INFO - 2022-02-09 15:43:49 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:43:49 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:43:49 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:43:49 --> URI Class Initialized
+INFO - 2022-02-09 15:43:49 --> Router Class Initialized
+INFO - 2022-02-09 15:43:49 --> Output Class Initialized
+INFO - 2022-02-09 15:43:49 --> Security Class Initialized
+DEBUG - 2022-02-09 15:43:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:43:49 --> Input Class Initialized
+INFO - 2022-02-09 15:43:49 --> Language Class Initialized
+INFO - 2022-02-09 15:43:49 --> Loader Class Initialized
+INFO - 2022-02-09 15:43:49 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:43:49 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:43:49 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:43:49 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:43:49 --> Email Class Initialized
+INFO - 2022-02-09 15:43:49 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:43:49 --> Controller Class Initialized
+INFO - 2022-02-09 15:43:49 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:43:49 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:43:49 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:43:49 --> Model Class Initialized
+DEBUG - 2022-02-09 15:43:49 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:43:49 --> Final output sent to browser
+DEBUG - 2022-02-09 15:43:49 --> Total execution time: 0.3178
+INFO - 2022-02-09 15:43:54 --> Config Class Initialized
+INFO - 2022-02-09 15:43:54 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:43:54 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:43:54 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:43:54 --> URI Class Initialized
+INFO - 2022-02-09 15:43:54 --> Router Class Initialized
+INFO - 2022-02-09 15:43:54 --> Output Class Initialized
+INFO - 2022-02-09 15:43:54 --> Security Class Initialized
+DEBUG - 2022-02-09 15:43:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:43:54 --> Input Class Initialized
+INFO - 2022-02-09 15:43:54 --> Language Class Initialized
+INFO - 2022-02-09 15:43:54 --> Loader Class Initialized
+INFO - 2022-02-09 15:43:54 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:43:54 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:43:54 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:43:54 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:43:54 --> Email Class Initialized
+INFO - 2022-02-09 15:43:54 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:43:54 --> Controller Class Initialized
+INFO - 2022-02-09 15:43:54 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:43:54 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:43:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:43:54 --> Model Class Initialized
+DEBUG - 2022-02-09 15:43:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:43:54 --> Final output sent to browser
+DEBUG - 2022-02-09 15:43:54 --> Total execution time: 0.1722
+INFO - 2022-02-09 15:44:25 --> Config Class Initialized
+INFO - 2022-02-09 15:44:25 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:44:25 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:44:25 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:44:25 --> URI Class Initialized
+INFO - 2022-02-09 15:44:25 --> Router Class Initialized
+INFO - 2022-02-09 15:44:25 --> Output Class Initialized
+INFO - 2022-02-09 15:44:25 --> Security Class Initialized
+DEBUG - 2022-02-09 15:44:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:44:25 --> Input Class Initialized
+INFO - 2022-02-09 15:44:25 --> Language Class Initialized
+INFO - 2022-02-09 15:44:25 --> Loader Class Initialized
+INFO - 2022-02-09 15:44:25 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:44:25 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:44:25 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:44:25 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:44:25 --> Email Class Initialized
+INFO - 2022-02-09 15:44:25 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:44:25 --> Controller Class Initialized
+INFO - 2022-02-09 15:44:25 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:44:25 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:44:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:44:25 --> Model Class Initialized
+DEBUG - 2022-02-09 15:44:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:44:25 --> Config Class Initialized
+INFO - 2022-02-09 15:44:25 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:44:25 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:44:25 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:44:25 --> URI Class Initialized
+INFO - 2022-02-09 15:44:25 --> Router Class Initialized
+INFO - 2022-02-09 15:44:25 --> Output Class Initialized
+INFO - 2022-02-09 15:44:25 --> Security Class Initialized
+DEBUG - 2022-02-09 15:44:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:44:25 --> Input Class Initialized
+INFO - 2022-02-09 15:44:25 --> Language Class Initialized
+INFO - 2022-02-09 15:44:25 --> Loader Class Initialized
+INFO - 2022-02-09 15:44:25 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:44:25 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:44:25 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:44:25 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:44:25 --> Email Class Initialized
+INFO - 2022-02-09 15:44:25 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:44:25 --> Controller Class Initialized
+INFO - 2022-02-09 15:44:25 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:44:25 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:44:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:44:25 --> Model Class Initialized
+DEBUG - 2022-02-09 15:44:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:44:25 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
+INFO - 2022-02-09 15:44:25 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
+INFO - 2022-02-09 15:44:25 --> File loaded: C:\xampp\htdocs\firestation\application\views\exitingvhlistsfs.php
+INFO - 2022-02-09 15:44:25 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
+INFO - 2022-02-09 15:44:25 --> Final output sent to browser
+DEBUG - 2022-02-09 15:44:25 --> Total execution time: 0.2443
+INFO - 2022-02-09 15:44:26 --> Config Class Initialized
+INFO - 2022-02-09 15:44:26 --> Hooks Class Initialized
+INFO - 2022-02-09 15:44:26 --> Config Class Initialized
+INFO - 2022-02-09 15:44:26 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:44:26 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:44:26 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:44:26 --> URI Class Initialized
+INFO - 2022-02-09 15:44:26 --> Router Class Initialized
+INFO - 2022-02-09 15:44:26 --> Output Class Initialized
+DEBUG - 2022-02-09 15:44:26 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:44:26 --> Security Class Initialized
+DEBUG - 2022-02-09 15:44:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:44:26 --> Input Class Initialized
+INFO - 2022-02-09 15:44:26 --> Language Class Initialized
+ERROR - 2022-02-09 15:44:26 --> 404 Page Not Found: Assetsadmin/vendor_components
+INFO - 2022-02-09 15:44:26 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:44:26 --> URI Class Initialized
+INFO - 2022-02-09 15:44:26 --> Config Class Initialized
+INFO - 2022-02-09 15:44:26 --> Hooks Class Initialized
+INFO - 2022-02-09 15:44:26 --> Router Class Initialized
+INFO - 2022-02-09 15:44:26 --> Output Class Initialized
+INFO - 2022-02-09 15:44:26 --> Security Class Initialized
+DEBUG - 2022-02-09 15:44:26 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:44:26 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:44:26 --> URI Class Initialized
+INFO - 2022-02-09 15:44:26 --> Router Class Initialized
+INFO - 2022-02-09 15:44:26 --> Output Class Initialized
+INFO - 2022-02-09 15:44:26 --> Security Class Initialized
+DEBUG - 2022-02-09 15:44:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-02-09 15:44:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:44:26 --> Input Class Initialized
+INFO - 2022-02-09 15:44:26 --> Language Class Initialized
+ERROR - 2022-02-09 15:44:26 --> 404 Page Not Found: Assets/images
+INFO - 2022-02-09 15:44:26 --> Input Class Initialized
+INFO - 2022-02-09 15:44:26 --> Language Class Initialized
+ERROR - 2022-02-09 15:44:26 --> 404 Page Not Found: Assets/vendor_components
+INFO - 2022-02-09 15:44:27 --> Config Class Initialized
+INFO - 2022-02-09 15:44:27 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:44:27 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:44:27 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:44:27 --> URI Class Initialized
+INFO - 2022-02-09 15:44:27 --> Router Class Initialized
+INFO - 2022-02-09 15:44:27 --> Output Class Initialized
+INFO - 2022-02-09 15:44:27 --> Security Class Initialized
+DEBUG - 2022-02-09 15:44:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:44:27 --> Input Class Initialized
+INFO - 2022-02-09 15:44:27 --> Language Class Initialized
+ERROR - 2022-02-09 15:44:27 --> 404 Page Not Found: Assets/vendor_components
+INFO - 2022-02-09 15:46:30 --> Config Class Initialized
+INFO - 2022-02-09 15:46:30 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:46:30 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:46:30 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:46:30 --> URI Class Initialized
+INFO - 2022-02-09 15:46:30 --> Router Class Initialized
+INFO - 2022-02-09 15:46:30 --> Output Class Initialized
+INFO - 2022-02-09 15:46:30 --> Security Class Initialized
+DEBUG - 2022-02-09 15:46:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:46:30 --> Input Class Initialized
+INFO - 2022-02-09 15:46:30 --> Language Class Initialized
+INFO - 2022-02-09 15:46:30 --> Loader Class Initialized
+INFO - 2022-02-09 15:46:30 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:46:30 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:46:30 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:46:30 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:46:30 --> Email Class Initialized
+INFO - 2022-02-09 15:46:30 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:46:30 --> Controller Class Initialized
+INFO - 2022-02-09 15:46:30 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:46:30 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:46:30 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:46:30 --> Model Class Initialized
+DEBUG - 2022-02-09 15:46:30 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:46:30 --> Final output sent to browser
+DEBUG - 2022-02-09 15:46:30 --> Total execution time: 0.1263
+INFO - 2022-02-09 15:46:33 --> Config Class Initialized
+INFO - 2022-02-09 15:46:33 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:46:33 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:46:33 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:46:33 --> URI Class Initialized
+INFO - 2022-02-09 15:46:33 --> Router Class Initialized
+INFO - 2022-02-09 15:46:33 --> Output Class Initialized
+INFO - 2022-02-09 15:46:33 --> Security Class Initialized
+DEBUG - 2022-02-09 15:46:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:46:33 --> Input Class Initialized
+INFO - 2022-02-09 15:46:33 --> Language Class Initialized
+INFO - 2022-02-09 15:46:33 --> Loader Class Initialized
+INFO - 2022-02-09 15:46:33 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:46:33 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:46:33 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:46:33 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:46:33 --> Email Class Initialized
+INFO - 2022-02-09 15:46:34 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:46:34 --> Controller Class Initialized
+INFO - 2022-02-09 15:46:34 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:46:34 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:46:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:46:34 --> Model Class Initialized
+DEBUG - 2022-02-09 15:46:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:46:34 --> Final output sent to browser
+DEBUG - 2022-02-09 15:46:34 --> Total execution time: 0.1269
+INFO - 2022-02-09 15:47:12 --> Config Class Initialized
+INFO - 2022-02-09 15:47:12 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:47:12 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:47:12 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:47:12 --> URI Class Initialized
+INFO - 2022-02-09 15:47:12 --> Router Class Initialized
+INFO - 2022-02-09 15:47:12 --> Output Class Initialized
+INFO - 2022-02-09 15:47:12 --> Security Class Initialized
+DEBUG - 2022-02-09 15:47:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:47:12 --> Input Class Initialized
+INFO - 2022-02-09 15:47:12 --> Language Class Initialized
+INFO - 2022-02-09 15:47:12 --> Loader Class Initialized
+INFO - 2022-02-09 15:47:12 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:47:12 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:47:12 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:47:12 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:47:12 --> Email Class Initialized
+INFO - 2022-02-09 15:47:12 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:47:12 --> Controller Class Initialized
+INFO - 2022-02-09 15:47:12 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:47:12 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:47:12 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:47:12 --> Model Class Initialized
+DEBUG - 2022-02-09 15:47:12 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:47:12 --> Config Class Initialized
+INFO - 2022-02-09 15:47:12 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:47:12 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:47:12 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:47:12 --> URI Class Initialized
+INFO - 2022-02-09 15:47:12 --> Router Class Initialized
+INFO - 2022-02-09 15:47:12 --> Output Class Initialized
+INFO - 2022-02-09 15:47:12 --> Security Class Initialized
+DEBUG - 2022-02-09 15:47:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:47:12 --> Input Class Initialized
+INFO - 2022-02-09 15:47:12 --> Language Class Initialized
+INFO - 2022-02-09 15:47:12 --> Loader Class Initialized
+INFO - 2022-02-09 15:47:12 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:47:12 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:47:12 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:47:12 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:47:12 --> Email Class Initialized
+INFO - 2022-02-09 15:47:12 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:47:12 --> Controller Class Initialized
+INFO - 2022-02-09 15:47:12 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:47:12 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:47:12 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:47:12 --> Model Class Initialized
+DEBUG - 2022-02-09 15:47:12 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:47:12 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
+INFO - 2022-02-09 15:47:12 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
+INFO - 2022-02-09 15:47:12 --> File loaded: C:\xampp\htdocs\firestation\application\views\exitingvhlistsfs.php
+INFO - 2022-02-09 15:47:12 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
+INFO - 2022-02-09 15:47:12 --> Final output sent to browser
+DEBUG - 2022-02-09 15:47:12 --> Total execution time: 0.2342
+INFO - 2022-02-09 15:47:13 --> Config Class Initialized
+INFO - 2022-02-09 15:47:13 --> Hooks Class Initialized
+INFO - 2022-02-09 15:47:13 --> Config Class Initialized
+INFO - 2022-02-09 15:47:13 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:47:13 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:47:13 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:47:13 --> URI Class Initialized
+INFO - 2022-02-09 15:47:14 --> Router Class Initialized
+INFO - 2022-02-09 15:47:14 --> Output Class Initialized
+INFO - 2022-02-09 15:47:14 --> Security Class Initialized
+DEBUG - 2022-02-09 15:47:14 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:47:14 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:47:14 --> URI Class Initialized
+INFO - 2022-02-09 15:47:14 --> Router Class Initialized
+DEBUG - 2022-02-09 15:47:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:47:14 --> Output Class Initialized
+INFO - 2022-02-09 15:47:14 --> Input Class Initialized
+INFO - 2022-02-09 15:47:14 --> Language Class Initialized
+INFO - 2022-02-09 15:47:14 --> Security Class Initialized
+ERROR - 2022-02-09 15:47:14 --> 404 Page Not Found: Assets/vendor_components
+DEBUG - 2022-02-09 15:47:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:47:14 --> Input Class Initialized
+INFO - 2022-02-09 15:47:14 --> Language Class Initialized
+ERROR - 2022-02-09 15:47:14 --> 404 Page Not Found: Assetsadmin/vendor_components
+INFO - 2022-02-09 15:47:14 --> Config Class Initialized
+INFO - 2022-02-09 15:47:14 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:47:14 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:47:14 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:47:14 --> URI Class Initialized
+INFO - 2022-02-09 15:47:14 --> Router Class Initialized
+INFO - 2022-02-09 15:47:14 --> Output Class Initialized
+INFO - 2022-02-09 15:47:14 --> Security Class Initialized
+DEBUG - 2022-02-09 15:47:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:47:14 --> Input Class Initialized
+INFO - 2022-02-09 15:47:14 --> Language Class Initialized
+ERROR - 2022-02-09 15:47:14 --> 404 Page Not Found: Assets/images
+INFO - 2022-02-09 15:47:15 --> Config Class Initialized
+INFO - 2022-02-09 15:47:15 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:47:15 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:47:15 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:47:15 --> URI Class Initialized
+INFO - 2022-02-09 15:47:15 --> Router Class Initialized
+INFO - 2022-02-09 15:47:15 --> Output Class Initialized
+INFO - 2022-02-09 15:47:15 --> Security Class Initialized
+DEBUG - 2022-02-09 15:47:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:47:15 --> Input Class Initialized
+INFO - 2022-02-09 15:47:15 --> Language Class Initialized
+ERROR - 2022-02-09 15:47:15 --> 404 Page Not Found: Assetsadmin/vendor_components
+INFO - 2022-02-09 15:47:15 --> Config Class Initialized
+INFO - 2022-02-09 15:47:15 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:47:15 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:47:15 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:47:15 --> URI Class Initialized
+INFO - 2022-02-09 15:47:15 --> Router Class Initialized
+INFO - 2022-02-09 15:47:15 --> Output Class Initialized
+INFO - 2022-02-09 15:47:15 --> Security Class Initialized
+DEBUG - 2022-02-09 15:47:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:47:15 --> Input Class Initialized
+INFO - 2022-02-09 15:47:15 --> Language Class Initialized
+ERROR - 2022-02-09 15:47:15 --> 404 Page Not Found: Assets/vendor_components
+INFO - 2022-02-09 15:51:50 --> Config Class Initialized
+INFO - 2022-02-09 15:51:50 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:51:50 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:51:50 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:51:50 --> URI Class Initialized
+INFO - 2022-02-09 15:51:50 --> Router Class Initialized
+INFO - 2022-02-09 15:51:50 --> Output Class Initialized
+INFO - 2022-02-09 15:51:50 --> Security Class Initialized
+DEBUG - 2022-02-09 15:51:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:51:50 --> Input Class Initialized
+INFO - 2022-02-09 15:51:50 --> Language Class Initialized
+INFO - 2022-02-09 15:51:50 --> Loader Class Initialized
+INFO - 2022-02-09 15:51:50 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:51:50 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:51:50 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:51:50 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:51:50 --> Email Class Initialized
+INFO - 2022-02-09 15:51:50 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:51:50 --> Controller Class Initialized
+INFO - 2022-02-09 15:51:50 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:51:50 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:51:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:51:50 --> Model Class Initialized
+DEBUG - 2022-02-09 15:51:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:51:50 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
+INFO - 2022-02-09 15:51:50 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
+INFO - 2022-02-09 15:51:50 --> File loaded: C:\xampp\htdocs\firestation\application\views\exitingvhlists.php
+INFO - 2022-02-09 15:51:50 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
+INFO - 2022-02-09 15:51:50 --> Final output sent to browser
+DEBUG - 2022-02-09 15:51:50 --> Total execution time: 0.2588
+INFO - 2022-02-09 15:51:51 --> Config Class Initialized
+INFO - 2022-02-09 15:51:51 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:51:51 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:51:51 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:51:51 --> URI Class Initialized
+INFO - 2022-02-09 15:51:51 --> Router Class Initialized
+INFO - 2022-02-09 15:51:51 --> Config Class Initialized
+INFO - 2022-02-09 15:51:51 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:51:51 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:51:51 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:51:51 --> Output Class Initialized
+INFO - 2022-02-09 15:51:51 --> Security Class Initialized
+DEBUG - 2022-02-09 15:51:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:51:51 --> Input Class Initialized
+INFO - 2022-02-09 15:51:51 --> Language Class Initialized
+ERROR - 2022-02-09 15:51:51 --> 404 Page Not Found: Assetsadmin/vendor_components
+INFO - 2022-02-09 15:51:51 --> URI Class Initialized
+INFO - 2022-02-09 15:51:52 --> Config Class Initialized
+INFO - 2022-02-09 15:51:52 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:51:52 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:51:52 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:51:52 --> URI Class Initialized
+INFO - 2022-02-09 15:51:52 --> Router Class Initialized
+INFO - 2022-02-09 15:51:52 --> Output Class Initialized
+INFO - 2022-02-09 15:51:52 --> Router Class Initialized
+INFO - 2022-02-09 15:51:52 --> Security Class Initialized
+INFO - 2022-02-09 15:51:52 --> Output Class Initialized
+DEBUG - 2022-02-09 15:51:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:51:52 --> Security Class Initialized
+INFO - 2022-02-09 15:51:52 --> Input Class Initialized
+DEBUG - 2022-02-09 15:51:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:51:52 --> Input Class Initialized
+INFO - 2022-02-09 15:51:52 --> Language Class Initialized
+ERROR - 2022-02-09 15:51:52 --> 404 Page Not Found: Assets/vendor_components
+INFO - 2022-02-09 15:51:52 --> Language Class Initialized
+ERROR - 2022-02-09 15:51:52 --> 404 Page Not Found: Assets/images
+INFO - 2022-02-09 15:51:52 --> Config Class Initialized
+INFO - 2022-02-09 15:51:52 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:51:52 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:51:52 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:51:52 --> URI Class Initialized
+INFO - 2022-02-09 15:51:52 --> Router Class Initialized
+INFO - 2022-02-09 15:51:52 --> Output Class Initialized
+INFO - 2022-02-09 15:51:53 --> Security Class Initialized
+DEBUG - 2022-02-09 15:51:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:51:53 --> Input Class Initialized
+INFO - 2022-02-09 15:51:53 --> Language Class Initialized
+ERROR - 2022-02-09 15:51:53 --> 404 Page Not Found: Assetsadmin/vendor_components
+INFO - 2022-02-09 15:51:53 --> Config Class Initialized
+INFO - 2022-02-09 15:51:53 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:51:53 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:51:53 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:51:53 --> URI Class Initialized
+INFO - 2022-02-09 15:51:53 --> Router Class Initialized
+INFO - 2022-02-09 15:51:53 --> Output Class Initialized
+INFO - 2022-02-09 15:51:53 --> Security Class Initialized
+DEBUG - 2022-02-09 15:51:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:51:53 --> Input Class Initialized
+INFO - 2022-02-09 15:51:53 --> Language Class Initialized
+ERROR - 2022-02-09 15:51:53 --> 404 Page Not Found: Assets/vendor_components
+INFO - 2022-02-09 15:56:57 --> Config Class Initialized
+INFO - 2022-02-09 15:56:57 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:56:57 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:56:57 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:56:57 --> URI Class Initialized
+INFO - 2022-02-09 15:56:57 --> Router Class Initialized
+INFO - 2022-02-09 15:56:57 --> Output Class Initialized
+INFO - 2022-02-09 15:56:57 --> Security Class Initialized
+DEBUG - 2022-02-09 15:56:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:56:57 --> Input Class Initialized
+INFO - 2022-02-09 15:56:57 --> Language Class Initialized
+INFO - 2022-02-09 15:56:57 --> Loader Class Initialized
+INFO - 2022-02-09 15:56:57 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:56:57 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:56:57 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:56:57 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:56:57 --> Email Class Initialized
+INFO - 2022-02-09 15:56:57 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:56:57 --> Controller Class Initialized
+INFO - 2022-02-09 15:56:57 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:56:57 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:56:57 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:56:57 --> Model Class Initialized
+DEBUG - 2022-02-09 15:56:57 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:56:57 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
+INFO - 2022-02-09 15:56:57 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
+INFO - 2022-02-09 15:56:57 --> File loaded: C:\xampp\htdocs\firestation\application\views\exitingvhlists.php
+INFO - 2022-02-09 15:56:57 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
+INFO - 2022-02-09 15:56:57 --> Final output sent to browser
+DEBUG - 2022-02-09 15:56:57 --> Total execution time: 0.2603
+INFO - 2022-02-09 15:56:58 --> Config Class Initialized
+INFO - 2022-02-09 15:56:58 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:56:58 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:56:58 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:56:58 --> URI Class Initialized
+INFO - 2022-02-09 15:56:58 --> Router Class Initialized
+INFO - 2022-02-09 15:56:58 --> Output Class Initialized
+INFO - 2022-02-09 15:56:58 --> Security Class Initialized
+DEBUG - 2022-02-09 15:56:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:56:59 --> Input Class Initialized
+INFO - 2022-02-09 15:56:59 --> Language Class Initialized
+ERROR - 2022-02-09 15:56:59 --> 404 Page Not Found: Assetsadmin/vendor_components
+INFO - 2022-02-09 15:56:59 --> Config Class Initialized
+INFO - 2022-02-09 15:56:59 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:56:59 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:56:59 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:56:59 --> URI Class Initialized
+INFO - 2022-02-09 15:56:59 --> Router Class Initialized
+INFO - 2022-02-09 15:56:59 --> Output Class Initialized
+INFO - 2022-02-09 15:56:59 --> Security Class Initialized
+DEBUG - 2022-02-09 15:56:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:56:59 --> Input Class Initialized
+INFO - 2022-02-09 15:56:59 --> Language Class Initialized
+ERROR - 2022-02-09 15:56:59 --> 404 Page Not Found: Assets/vendor_components
+INFO - 2022-02-09 15:56:59 --> Config Class Initialized
+INFO - 2022-02-09 15:56:59 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:56:59 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:56:59 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:56:59 --> URI Class Initialized
+INFO - 2022-02-09 15:56:59 --> Router Class Initialized
+INFO - 2022-02-09 15:56:59 --> Output Class Initialized
+INFO - 2022-02-09 15:56:59 --> Security Class Initialized
+DEBUG - 2022-02-09 15:56:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:56:59 --> Input Class Initialized
+INFO - 2022-02-09 15:56:59 --> Language Class Initialized
+ERROR - 2022-02-09 15:56:59 --> 404 Page Not Found: Assets/images
+INFO - 2022-02-09 15:57:00 --> Config Class Initialized
+INFO - 2022-02-09 15:57:00 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:57:00 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:57:00 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:57:00 --> URI Class Initialized
+INFO - 2022-02-09 15:57:00 --> Router Class Initialized
+INFO - 2022-02-09 15:57:00 --> Output Class Initialized
+INFO - 2022-02-09 15:57:00 --> Security Class Initialized
+DEBUG - 2022-02-09 15:57:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:57:00 --> Input Class Initialized
+INFO - 2022-02-09 15:57:00 --> Language Class Initialized
+ERROR - 2022-02-09 15:57:00 --> 404 Page Not Found: Assetsadmin/vendor_components
+INFO - 2022-02-09 15:57:00 --> Config Class Initialized
+INFO - 2022-02-09 15:57:00 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:57:00 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:57:00 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:57:00 --> URI Class Initialized
+INFO - 2022-02-09 15:57:00 --> Router Class Initialized
+INFO - 2022-02-09 15:57:00 --> Output Class Initialized
+INFO - 2022-02-09 15:57:00 --> Security Class Initialized
+DEBUG - 2022-02-09 15:57:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:57:00 --> Input Class Initialized
+INFO - 2022-02-09 15:57:00 --> Language Class Initialized
+ERROR - 2022-02-09 15:57:00 --> 404 Page Not Found: Assets/vendor_components
+INFO - 2022-02-09 15:57:19 --> Config Class Initialized
+INFO - 2022-02-09 15:57:19 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:57:19 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:57:19 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:57:19 --> URI Class Initialized
+INFO - 2022-02-09 15:57:19 --> Router Class Initialized
+INFO - 2022-02-09 15:57:19 --> Output Class Initialized
+INFO - 2022-02-09 15:57:19 --> Security Class Initialized
+DEBUG - 2022-02-09 15:57:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:57:19 --> Input Class Initialized
+INFO - 2022-02-09 15:57:19 --> Language Class Initialized
+INFO - 2022-02-09 15:57:19 --> Loader Class Initialized
+INFO - 2022-02-09 15:57:19 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:57:19 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:57:19 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:57:19 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:57:19 --> Email Class Initialized
+INFO - 2022-02-09 15:57:19 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:57:19 --> Controller Class Initialized
+INFO - 2022-02-09 15:57:19 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:57:19 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:57:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:57:19 --> Model Class Initialized
+DEBUG - 2022-02-09 15:57:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:57:19 --> Final output sent to browser
+DEBUG - 2022-02-09 15:57:19 --> Total execution time: 0.1189
+INFO - 2022-02-09 15:57:20 --> Config Class Initialized
+INFO - 2022-02-09 15:57:20 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:57:20 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:57:20 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:57:20 --> URI Class Initialized
+INFO - 2022-02-09 15:57:20 --> Router Class Initialized
+INFO - 2022-02-09 15:57:20 --> Output Class Initialized
+INFO - 2022-02-09 15:57:20 --> Security Class Initialized
+DEBUG - 2022-02-09 15:57:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:57:20 --> Input Class Initialized
+INFO - 2022-02-09 15:57:20 --> Language Class Initialized
+INFO - 2022-02-09 15:57:20 --> Loader Class Initialized
+INFO - 2022-02-09 15:57:20 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:57:20 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:57:20 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:57:20 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:57:20 --> Email Class Initialized
+INFO - 2022-02-09 15:57:20 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:57:20 --> Controller Class Initialized
+INFO - 2022-02-09 15:57:20 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:57:20 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:57:20 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:57:20 --> Model Class Initialized
+DEBUG - 2022-02-09 15:57:20 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:57:20 --> Final output sent to browser
+DEBUG - 2022-02-09 15:57:20 --> Total execution time: 0.1241
+INFO - 2022-02-09 15:57:59 --> Config Class Initialized
+INFO - 2022-02-09 15:57:59 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:57:59 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:57:59 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:57:59 --> URI Class Initialized
+INFO - 2022-02-09 15:57:59 --> Router Class Initialized
+INFO - 2022-02-09 15:57:59 --> Output Class Initialized
+INFO - 2022-02-09 15:57:59 --> Security Class Initialized
+DEBUG - 2022-02-09 15:57:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:57:59 --> Input Class Initialized
+INFO - 2022-02-09 15:57:59 --> Language Class Initialized
+INFO - 2022-02-09 15:57:59 --> Loader Class Initialized
+INFO - 2022-02-09 15:57:59 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:57:59 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:57:59 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:57:59 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:57:59 --> Email Class Initialized
+INFO - 2022-02-09 15:57:59 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:57:59 --> Controller Class Initialized
+INFO - 2022-02-09 15:57:59 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:57:59 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:57:59 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:58:00 --> Model Class Initialized
+DEBUG - 2022-02-09 15:58:00 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:58:00 --> Final output sent to browser
+DEBUG - 2022-02-09 15:58:00 --> Total execution time: 0.1286
+INFO - 2022-02-09 15:58:09 --> Config Class Initialized
+INFO - 2022-02-09 15:58:09 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:58:09 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:58:09 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:58:09 --> URI Class Initialized
+INFO - 2022-02-09 15:58:09 --> Router Class Initialized
+INFO - 2022-02-09 15:58:09 --> Output Class Initialized
+INFO - 2022-02-09 15:58:09 --> Security Class Initialized
+DEBUG - 2022-02-09 15:58:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:58:09 --> Input Class Initialized
+INFO - 2022-02-09 15:58:09 --> Language Class Initialized
+INFO - 2022-02-09 15:58:09 --> Loader Class Initialized
+INFO - 2022-02-09 15:58:09 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:58:09 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:58:09 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:58:09 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:58:09 --> Email Class Initialized
+INFO - 2022-02-09 15:58:09 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:58:09 --> Controller Class Initialized
+INFO - 2022-02-09 15:58:09 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:58:09 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:58:09 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:58:09 --> Model Class Initialized
+DEBUG - 2022-02-09 15:58:09 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:58:09 --> Config Class Initialized
+INFO - 2022-02-09 15:58:09 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:58:09 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:58:09 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:58:09 --> URI Class Initialized
+INFO - 2022-02-09 15:58:09 --> Router Class Initialized
+INFO - 2022-02-09 15:58:09 --> Output Class Initialized
+INFO - 2022-02-09 15:58:09 --> Security Class Initialized
+DEBUG - 2022-02-09 15:58:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:58:09 --> Input Class Initialized
+INFO - 2022-02-09 15:58:09 --> Language Class Initialized
+INFO - 2022-02-09 15:58:09 --> Loader Class Initialized
+INFO - 2022-02-09 15:58:09 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:58:09 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:58:09 --> Helper loaded: idex_helper
+INFO - 2022-02-09 15:58:09 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:58:09 --> Email Class Initialized
+INFO - 2022-02-09 15:58:09 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:58:09 --> Controller Class Initialized
+INFO - 2022-02-09 15:58:09 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:58:09 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:58:09 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:58:09 --> Model Class Initialized
+DEBUG - 2022-02-09 15:58:09 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:58:09 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
+INFO - 2022-02-09 15:58:09 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
+INFO - 2022-02-09 15:58:10 --> File loaded: C:\xampp\htdocs\firestation\application\views\exitingvhlists.php
+INFO - 2022-02-09 15:58:10 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
+INFO - 2022-02-09 15:58:10 --> Final output sent to browser
+DEBUG - 2022-02-09 15:58:10 --> Total execution time: 0.2313
+INFO - 2022-02-09 15:58:10 --> Config Class Initialized
+INFO - 2022-02-09 15:58:10 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:58:10 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:58:10 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:58:10 --> URI Class Initialized
+INFO - 2022-02-09 15:58:10 --> Router Class Initialized
+INFO - 2022-02-09 15:58:10 --> Output Class Initialized
+INFO - 2022-02-09 15:58:10 --> Security Class Initialized
+DEBUG - 2022-02-09 15:58:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:58:10 --> Input Class Initialized
+INFO - 2022-02-09 15:58:10 --> Language Class Initialized
+ERROR - 2022-02-09 15:58:10 --> 404 Page Not Found: Assetsadmin/vendor_components
+INFO - 2022-02-09 15:58:10 --> Config Class Initialized
+INFO - 2022-02-09 15:58:10 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:58:10 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:58:11 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:58:11 --> URI Class Initialized
+INFO - 2022-02-09 15:58:11 --> Router Class Initialized
+INFO - 2022-02-09 15:58:11 --> Output Class Initialized
+INFO - 2022-02-09 15:58:11 --> Security Class Initialized
+DEBUG - 2022-02-09 15:58:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:58:11 --> Input Class Initialized
+INFO - 2022-02-09 15:58:11 --> Language Class Initialized
+ERROR - 2022-02-09 15:58:11 --> 404 Page Not Found: Assets/vendor_components
+INFO - 2022-02-09 15:58:11 --> Config Class Initialized
+INFO - 2022-02-09 15:58:11 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:58:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:58:11 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:58:11 --> URI Class Initialized
+INFO - 2022-02-09 15:58:11 --> Router Class Initialized
+INFO - 2022-02-09 15:58:11 --> Output Class Initialized
+INFO - 2022-02-09 15:58:11 --> Security Class Initialized
+DEBUG - 2022-02-09 15:58:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:58:11 --> Input Class Initialized
+INFO - 2022-02-09 15:58:11 --> Language Class Initialized
+ERROR - 2022-02-09 15:58:11 --> 404 Page Not Found: Assets/images

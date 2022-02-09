@@ -85,6 +85,10 @@ class Exitingvhlists extends CI_Controller {
 
 //$insertData["rc_book"] = $target_filerc_book ; 
 //$insertData["survey_letter"] = $target_filesurvey_letter ; 		
+        if($_FILES['rc_upload']){
+            $ufile = uploadfile($_FILES['rc_upload']['tmp_name'],$_FILES['rc_upload']['name']);
+            $insertData['rc_upload'] = $ufile['folder'].'/'.$ufile['file'];
+        }
 		$insert = $this->db->insert('vehicleD',$insertData);	
 		$this->session->set_flashdata('message', '<div class="alert alert-success alert-dismissible"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button><h4><i class="icon fa fa-check"></i><b>Record has been updated Sucessfully !</b></h4></div>');
 		redirect('Exitingvhlists');
