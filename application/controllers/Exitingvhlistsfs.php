@@ -21,7 +21,7 @@ class Exitingvhlistsfs extends CI_Controller {
 	}
 	
 	public function index($id=0)
-	{ 
+	{  
 		$data['breadcomeName']='DashBoard';
 		$this->load->view('includes/header',$data);
 		$this->load->view('includes/leftmenu');	
