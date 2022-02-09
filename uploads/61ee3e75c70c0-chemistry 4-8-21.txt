@@ -1,0 +1,40 @@
+                          photo electric effect 
+               
+                total  E = threshold energy + K.E
+                       E = E*o + K.E
+                      hv = hv*o + 1/2mv^2
+                      hv - hv*o = 1/2 mv^2
+                      1/2mv^2 = h(v-v*o)
+                       v is grater that v knot = e-
+                       v is less than v knot =/ e-
+                       v = v knot , K.E = 0
+
+          stopping potential : at what potential the veocity of photo electrons will be zero ev*o
+                      dual nature of light 
+                      1) newton - particle 
+                      2) EMR - continous release 
+                      3) planks - disccontinous - particle 
+                             debroglie - light - dual character 
+                                                   | 
+                                                 particle wave
+
+                            worksheet - III
+                                   JEE MAINS 
+       1)A
+       2)C
+       3)B
+       4)C
+       5)C
+       6)D
+       7)A
+       8)C
+       9)C
+      10)B
+      11)B
+      12)B
+      13)
+      14)
+      15)
+      16)
+      17)
+      18)
