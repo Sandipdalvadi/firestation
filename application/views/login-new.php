@@ -298,7 +298,7 @@
     }
 
     body {
-        background-image: url(<?php echo base_url('assets/img/login-background.png'); ?>);
+        background-image: url(<?php echo base_url('assets/img/logback.jpeg'); ?>);
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
