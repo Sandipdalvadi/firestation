@@ -14,7 +14,7 @@
   <div id="wb_Image2" style="position:absolute;left:130px;top:86px;width:130px;height:128px;z-index:2;"> <img src="<?php echo base_url()?>assets/img/ep31mnxph4.png" id="Image2" alt="" width="130" height="128"></div>
   <div id="wb_Image3" style="position:absolute;left:760px;top:77px;width:110px;height:147px;z-index:3;"> <img src="<?php echo base_url()?>assets/img/iby5uve1hy.png" id="Image3" alt="" width="110" height="147"></div>
   <div id="wb_Image4" style="position:absolute;left:379px;top:137px;width:252px;height:144px;z-index:4;"> <img src="<?php echo base_url()?>assets/img/fmrqs7sr5h.png" id="Image4" alt="" width="252" height="145"></div>
-  <form action="<?php echo base_url(); ?>login/check_login" method="post">
+  <form action="<?php echo base_url(); ?>login/check_login" method="post"> 
   
   
   
