@@ -3452,2365 +3452,2189 @@ INFO - 2022-02-09 13:55:33 --> Form Validation Class Initialized
 DEBUG - 2022-02-09 13:55:33 --> Session class already loaded. Second attempt ignored.
 INFO - 2022-02-09 13:55:33 --> Model Class Initialized
 DEBUG - 2022-02-09 13:55:33 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:29:50 --> Config Class Initialized
-INFO - 2022-02-09 15:29:50 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:29:50 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:29:50 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:29:50 --> URI Class Initialized
-DEBUG - 2022-02-09 15:29:50 --> No URI present. Default controller set.
-INFO - 2022-02-09 15:29:50 --> Router Class Initialized
-INFO - 2022-02-09 15:29:50 --> Output Class Initialized
-INFO - 2022-02-09 15:29:50 --> Security Class Initialized
-DEBUG - 2022-02-09 15:29:50 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:29:50 --> Input Class Initialized
-INFO - 2022-02-09 15:29:50 --> Language Class Initialized
-INFO - 2022-02-09 15:29:50 --> Loader Class Initialized
-INFO - 2022-02-09 15:29:50 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:29:50 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:29:50 --> Helper loaded: idex_helper
-INFO - 2022-02-09 15:29:50 --> Database Driver Class Initialized
-ERROR - 2022-02-09 15:29:50 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) C:\xampp\htdocs\firestation\system\database\drivers\mysqli\mysqli_driver.php 201
-ERROR - 2022-02-09 15:29:50 --> Unable to connect to the database
-INFO - 2022-02-09 15:29:50 --> Email Class Initialized
-INFO - 2022-02-09 15:29:50 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:29:50 --> Controller Class Initialized
-INFO - 2022-02-09 15:29:50 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:29:50 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:29:50 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:29:50 --> Model Class Initialized
-DEBUG - 2022-02-09 15:29:50 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:29:50 --> Database Driver Class Initialized
-ERROR - 2022-02-09 15:29:50 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) C:\xampp\htdocs\firestation\system\database\drivers\mysqli\mysqli_driver.php 201
-ERROR - 2022-02-09 15:29:50 --> Unable to connect to the database
-INFO - 2022-02-09 15:29:50 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-ERROR - 2022-02-09 15:29:50 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) C:\xampp\htdocs\firestation\system\database\drivers\mysqli\mysqli_driver.php 201
-ERROR - 2022-02-09 15:29:50 --> Unable to connect to the database
-ERROR - 2022-02-09 15:29:50 --> Query error: Access denied for user 'root'@'localhost' (using password: YES) - Invalid query: SELECT count(*) as cnt FROM vehicleD where 1	and vhno NOT IN (select vehicleno from vehicle_allotment )
-ERROR - 2022-02-09 15:29:50 --> Severity: error --> Exception: Call to a member function row_array() on bool C:\xampp\htdocs\firestation\application\controllers\Admin.php 32
-INFO - 2022-02-09 15:31:25 --> Config Class Initialized
-INFO - 2022-02-09 15:31:25 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:31:25 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:31:25 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:31:25 --> URI Class Initialized
-DEBUG - 2022-02-09 15:31:25 --> No URI present. Default controller set.
-INFO - 2022-02-09 15:31:25 --> Router Class Initialized
-INFO - 2022-02-09 15:31:25 --> Output Class Initialized
-INFO - 2022-02-09 15:31:25 --> Security Class Initialized
-DEBUG - 2022-02-09 15:31:25 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:31:25 --> Input Class Initialized
-INFO - 2022-02-09 15:31:25 --> Language Class Initialized
-INFO - 2022-02-09 15:31:25 --> Loader Class Initialized
-INFO - 2022-02-09 15:31:25 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:31:25 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:31:25 --> Helper loaded: idex_helper
-INFO - 2022-02-09 15:31:25 --> Database Driver Class Initialized
-ERROR - 2022-02-09 15:31:25 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) C:\xampp\htdocs\firestation\system\database\drivers\mysqli\mysqli_driver.php 201
-ERROR - 2022-02-09 15:31:25 --> Unable to connect to the database
-INFO - 2022-02-09 15:31:25 --> Email Class Initialized
-INFO - 2022-02-09 15:31:25 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:31:25 --> Controller Class Initialized
-INFO - 2022-02-09 15:31:25 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:31:25 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:31:25 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:31:25 --> Model Class Initialized
-DEBUG - 2022-02-09 15:31:25 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:31:25 --> Database Driver Class Initialized
-ERROR - 2022-02-09 15:31:25 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) C:\xampp\htdocs\firestation\system\database\drivers\mysqli\mysqli_driver.php 201
-ERROR - 2022-02-09 15:31:25 --> Unable to connect to the database
-INFO - 2022-02-09 15:31:25 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-ERROR - 2022-02-09 15:31:25 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) C:\xampp\htdocs\firestation\system\database\drivers\mysqli\mysqli_driver.php 201
-ERROR - 2022-02-09 15:31:25 --> Unable to connect to the database
-ERROR - 2022-02-09 15:31:25 --> Query error: Access denied for user 'root'@'localhost' (using password: YES) - Invalid query: SELECT count(*) as cnt FROM vehicleD where 1	and vhno NOT IN (select vehicleno from vehicle_allotment )
-ERROR - 2022-02-09 15:31:25 --> Severity: error --> Exception: Call to a member function row_array() on bool C:\xampp\htdocs\firestation\application\controllers\Admin.php 32
-INFO - 2022-02-09 15:32:07 --> Config Class Initialized
-INFO - 2022-02-09 15:32:07 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:07 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:07 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:07 --> URI Class Initialized
-DEBUG - 2022-02-09 15:32:07 --> No URI present. Default controller set.
-INFO - 2022-02-09 15:32:07 --> Router Class Initialized
-INFO - 2022-02-09 15:32:07 --> Output Class Initialized
-INFO - 2022-02-09 15:32:07 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:07 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:07 --> Input Class Initialized
-INFO - 2022-02-09 15:32:07 --> Language Class Initialized
-INFO - 2022-02-09 15:32:07 --> Loader Class Initialized
-INFO - 2022-02-09 15:32:07 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:32:07 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:32:07 --> Helper loaded: idex_helper
-INFO - 2022-02-09 15:32:07 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:32:07 --> Email Class Initialized
-INFO - 2022-02-09 15:32:07 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:32:07 --> Controller Class Initialized
-INFO - 2022-02-09 15:32:07 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:32:07 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:32:07 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:32:07 --> Model Class Initialized
-DEBUG - 2022-02-09 15:32:07 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:32:07 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:32:07 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-INFO - 2022-02-09 15:32:07 --> File loaded: C:\xampp\htdocs\firestation\application\views\dashboard.php
-INFO - 2022-02-09 15:32:07 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
-INFO - 2022-02-09 15:32:07 --> Final output sent to browser
-DEBUG - 2022-02-09 15:32:07 --> Total execution time: 0.2666
-INFO - 2022-02-09 15:32:07 --> Config Class Initialized
-INFO - 2022-02-09 15:32:07 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:07 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:07 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:07 --> URI Class Initialized
-INFO - 2022-02-09 15:32:07 --> Config Class Initialized
-INFO - 2022-02-09 15:32:07 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:07 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:07 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:08 --> URI Class Initialized
-INFO - 2022-02-09 15:32:08 --> Router Class Initialized
-INFO - 2022-02-09 15:32:08 --> Output Class Initialized
-INFO - 2022-02-09 15:32:08 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:08 --> Input Class Initialized
-INFO - 2022-02-09 15:32:08 --> Language Class Initialized
-INFO - 2022-02-09 15:32:08 --> Router Class Initialized
-ERROR - 2022-02-09 15:32:08 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:08 --> Output Class Initialized
-INFO - 2022-02-09 15:32:08 --> Config Class Initialized
-INFO - 2022-02-09 15:32:08 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:08 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:08 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:08 --> URI Class Initialized
-INFO - 2022-02-09 15:32:08 --> Router Class Initialized
-INFO - 2022-02-09 15:32:08 --> Config Class Initialized
-INFO - 2022-02-09 15:32:08 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:08 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:08 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:08 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:08 --> URI Class Initialized
-DEBUG - 2022-02-09 15:32:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:08 --> Router Class Initialized
-INFO - 2022-02-09 15:32:08 --> Input Class Initialized
-INFO - 2022-02-09 15:32:08 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:08 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:08 --> Output Class Initialized
-INFO - 2022-02-09 15:32:08 --> Security Class Initialized
-INFO - 2022-02-09 15:32:08 --> Output Class Initialized
-DEBUG - 2022-02-09 15:32:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:08 --> Input Class Initialized
-INFO - 2022-02-09 15:32:08 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:08 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:08 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:08 --> Input Class Initialized
-INFO - 2022-02-09 15:32:08 --> Config Class Initialized
-INFO - 2022-02-09 15:32:08 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:08 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:08 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:08 --> URI Class Initialized
-INFO - 2022-02-09 15:32:08 --> Router Class Initialized
-INFO - 2022-02-09 15:32:08 --> Output Class Initialized
-INFO - 2022-02-09 15:32:08 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:08 --> Config Class Initialized
-INFO - 2022-02-09 15:32:08 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:08 --> Language Class Initialized
-DEBUG - 2022-02-09 15:32:08 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:08 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:08 --> URI Class Initialized
-INFO - 2022-02-09 15:32:08 --> Router Class Initialized
-INFO - 2022-02-09 15:32:08 --> Output Class Initialized
-INFO - 2022-02-09 15:32:08 --> Security Class Initialized
-ERROR - 2022-02-09 15:32:08 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:32:08 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:08 --> Input Class Initialized
-INFO - 2022-02-09 15:32:09 --> Language Class Initialized
-INFO - 2022-02-09 15:32:09 --> Input Class Initialized
-INFO - 2022-02-09 15:32:09 --> Config Class Initialized
-INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:09 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:09 --> Config Class Initialized
-INFO - 2022-02-09 15:32:09 --> URI Class Initialized
-INFO - 2022-02-09 15:32:09 --> Router Class Initialized
-INFO - 2022-02-09 15:32:09 --> Output Class Initialized
-INFO - 2022-02-09 15:32:09 --> Config Class Initialized
-INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:09 --> Security Class Initialized
-INFO - 2022-02-09 15:32:09 --> Config Class Initialized
-ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:09 --> URI Class Initialized
-INFO - 2022-02-09 15:32:09 --> URI Class Initialized
-INFO - 2022-02-09 15:32:09 --> Router Class Initialized
-INFO - 2022-02-09 15:32:09 --> Router Class Initialized
-INFO - 2022-02-09 15:32:09 --> Output Class Initialized
-INFO - 2022-02-09 15:32:09 --> Output Class Initialized
-INFO - 2022-02-09 15:32:09 --> Security Class Initialized
-INFO - 2022-02-09 15:32:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:09 --> Input Class Initialized
-DEBUG - 2022-02-09 15:32:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:09 --> Input Class Initialized
-INFO - 2022-02-09 15:32:09 --> Language Class Initialized
-INFO - 2022-02-09 15:32:09 --> Language Class Initialized
-DEBUG - 2022-02-09 15:32:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:09 --> Input Class Initialized
-INFO - 2022-02-09 15:32:09 --> Config Class Initialized
-DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:09 --> Config Class Initialized
-INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:09 --> URI Class Initialized
-ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:09 --> Language Class Initialized
-INFO - 2022-02-09 15:32:09 --> URI Class Initialized
-DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:09 --> Router Class Initialized
-INFO - 2022-02-09 15:32:09 --> URI Class Initialized
-INFO - 2022-02-09 15:32:09 --> Output Class Initialized
-INFO - 2022-02-09 15:32:09 --> Security Class Initialized
-INFO - 2022-02-09 15:32:09 --> Router Class Initialized
-ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:09 --> Config Class Initialized
-INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:09 --> Output Class Initialized
-INFO - 2022-02-09 15:32:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:32:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:09 --> URI Class Initialized
-INFO - 2022-02-09 15:32:09 --> Input Class Initialized
-INFO - 2022-02-09 15:32:09 --> Language Class Initialized
-INFO - 2022-02-09 15:32:09 --> Router Class Initialized
-ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
-ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:09 --> Router Class Initialized
-INFO - 2022-02-09 15:32:09 --> Output Class Initialized
-INFO - 2022-02-09 15:32:09 --> Config Class Initialized
-INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:09 --> Output Class Initialized
-INFO - 2022-02-09 15:32:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:32:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:09 --> URI Class Initialized
-INFO - 2022-02-09 15:32:09 --> Input Class Initialized
-INFO - 2022-02-09 15:32:09 --> Language Class Initialized
-INFO - 2022-02-09 15:32:09 --> Router Class Initialized
-ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:09 --> Output Class Initialized
-INFO - 2022-02-09 15:32:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:09 --> Input Class Initialized
-INFO - 2022-02-09 15:32:09 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:09 --> Config Class Initialized
-INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:09 --> Input Class Initialized
-INFO - 2022-02-09 15:32:09 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:09 --> URI Class Initialized
-INFO - 2022-02-09 15:32:09 --> Config Class Initialized
-INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:09 --> Router Class Initialized
-INFO - 2022-02-09 15:32:09 --> Output Class Initialized
-DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:09 --> Security Class Initialized
-INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:09 --> URI Class Initialized
-DEBUG - 2022-02-09 15:32:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:09 --> Input Class Initialized
-INFO - 2022-02-09 15:32:09 --> Language Class Initialized
-INFO - 2022-02-09 15:32:09 --> Router Class Initialized
-ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:09 --> Output Class Initialized
-DEBUG - 2022-02-09 15:32:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:09 --> Input Class Initialized
-INFO - 2022-02-09 15:32:09 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:09 --> Security Class Initialized
-INFO - 2022-02-09 15:32:09 --> Config Class Initialized
-INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:09 --> Input Class Initialized
-INFO - 2022-02-09 15:32:09 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:09 --> Config Class Initialized
-INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:09 --> Config Class Initialized
-INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:09 --> URI Class Initialized
-INFO - 2022-02-09 15:32:09 --> Router Class Initialized
-INFO - 2022-02-09 15:32:09 --> Output Class Initialized
-INFO - 2022-02-09 15:32:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:09 --> Input Class Initialized
-INFO - 2022-02-09 15:32:09 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:09 --> Config Class Initialized
-INFO - 2022-02-09 15:32:09 --> Config Class Initialized
-INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:09 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:09 --> URI Class Initialized
-INFO - 2022-02-09 15:32:09 --> URI Class Initialized
-INFO - 2022-02-09 15:32:09 --> Router Class Initialized
-INFO - 2022-02-09 15:32:09 --> Router Class Initialized
-INFO - 2022-02-09 15:32:09 --> Output Class Initialized
-INFO - 2022-02-09 15:32:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:09 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:09 --> Input Class Initialized
-INFO - 2022-02-09 15:32:09 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:09 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:32:09 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:09 --> Output Class Initialized
-INFO - 2022-02-09 15:32:09 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:09 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:10 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:10 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:10 --> URI Class Initialized
-INFO - 2022-02-09 15:32:10 --> Router Class Initialized
-INFO - 2022-02-09 15:32:10 --> Output Class Initialized
-INFO - 2022-02-09 15:32:10 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:10 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:10 --> Input Class Initialized
-INFO - 2022-02-09 15:32:10 --> Language Class Initialized
-INFO - 2022-02-09 15:32:10 --> Config Class Initialized
-DEBUG - 2022-02-09 15:32:10 --> Global POST, GET and COOKIE data sanitized
-ERROR - 2022-02-09 15:32:10 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:10 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:10 --> Input Class Initialized
-INFO - 2022-02-09 15:32:10 --> Language Class Initialized
-DEBUG - 2022-02-09 15:32:10 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:10 --> Utf8 Class Initialized
-ERROR - 2022-02-09 15:32:10 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:10 --> URI Class Initialized
-INFO - 2022-02-09 15:32:10 --> Router Class Initialized
-INFO - 2022-02-09 15:32:10 --> Output Class Initialized
-INFO - 2022-02-09 15:32:10 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:10 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:10 --> Input Class Initialized
-INFO - 2022-02-09 15:32:10 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:10 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:10 --> URI Class Initialized
-INFO - 2022-02-09 15:32:10 --> Config Class Initialized
-INFO - 2022-02-09 15:32:10 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:10 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:10 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:10 --> URI Class Initialized
-INFO - 2022-02-09 15:32:10 --> Router Class Initialized
-INFO - 2022-02-09 15:32:10 --> Output Class Initialized
-INFO - 2022-02-09 15:32:10 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:10 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:10 --> Router Class Initialized
-INFO - 2022-02-09 15:32:10 --> Input Class Initialized
-INFO - 2022-02-09 15:32:10 --> Config Class Initialized
-INFO - 2022-02-09 15:32:10 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:10 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:10 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:10 --> URI Class Initialized
-INFO - 2022-02-09 15:32:10 --> Router Class Initialized
-INFO - 2022-02-09 15:32:10 --> Config Class Initialized
-INFO - 2022-02-09 15:32:10 --> Language Class Initialized
-INFO - 2022-02-09 15:32:10 --> Output Class Initialized
-INFO - 2022-02-09 15:32:10 --> Config Class Initialized
-ERROR - 2022-02-09 15:32:10 --> 404 Page Not Found: Assets/vendor_components
-INFO - 2022-02-09 15:32:10 --> Output Class Initialized
-INFO - 2022-02-09 15:32:10 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:10 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:10 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:10 --> URI Class Initialized
-INFO - 2022-02-09 15:32:10 --> Security Class Initialized
-INFO - 2022-02-09 15:32:10 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:10 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:10 --> Input Class Initialized
-INFO - 2022-02-09 15:32:10 --> Language Class Initialized
-DEBUG - 2022-02-09 15:32:10 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:10 --> Utf8 Class Initialized
-ERROR - 2022-02-09 15:32:10 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:10 --> URI Class Initialized
-INFO - 2022-02-09 15:32:10 --> Router Class Initialized
-INFO - 2022-02-09 15:32:10 --> Router Class Initialized
-INFO - 2022-02-09 15:32:10 --> Output Class Initialized
-INFO - 2022-02-09 15:32:10 --> Output Class Initialized
-INFO - 2022-02-09 15:32:10 --> Security Class Initialized
-INFO - 2022-02-09 15:32:10 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:10 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:10 --> Config Class Initialized
-DEBUG - 2022-02-09 15:32:10 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:10 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:10 --> Input Class Initialized
-INFO - 2022-02-09 15:32:10 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:10 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:10 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:10 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:10 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:10 --> Config Class Initialized
-INFO - 2022-02-09 15:32:10 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:10 --> URI Class Initialized
-INFO - 2022-02-09 15:32:10 --> Router Class Initialized
-DEBUG - 2022-02-09 15:32:10 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:10 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:32:10 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:10 --> Input Class Initialized
-INFO - 2022-02-09 15:32:10 --> Output Class Initialized
-INFO - 2022-02-09 15:32:10 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:10 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:10 --> Input Class Initialized
-INFO - 2022-02-09 15:32:10 --> Config Class Initialized
-INFO - 2022-02-09 15:32:10 --> Config Class Initialized
-INFO - 2022-02-09 15:32:10 --> Input Class Initialized
-INFO - 2022-02-09 15:32:10 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:10 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:10 --> Language Class Initialized
-DEBUG - 2022-02-09 15:32:10 --> UTF-8 Support Enabled
-DEBUG - 2022-02-09 15:32:10 --> UTF-8 Support Enabled
-ERROR - 2022-02-09 15:32:10 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:10 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:10 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:10 --> URI Class Initialized
-INFO - 2022-02-09 15:32:10 --> URI Class Initialized
-INFO - 2022-02-09 15:32:10 --> Router Class Initialized
-INFO - 2022-02-09 15:32:10 --> Router Class Initialized
-INFO - 2022-02-09 15:32:10 --> Output Class Initialized
-INFO - 2022-02-09 15:32:10 --> Output Class Initialized
-INFO - 2022-02-09 15:32:10 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:10 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:10 --> Input Class Initialized
-INFO - 2022-02-09 15:32:10 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:10 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:10 --> Language Class Initialized
-INFO - 2022-02-09 15:32:10 --> URI Class Initialized
-INFO - 2022-02-09 15:32:10 --> Security Class Initialized
-INFO - 2022-02-09 15:32:10 --> Router Class Initialized
-DEBUG - 2022-02-09 15:32:10 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:10 --> Input Class Initialized
-INFO - 2022-02-09 15:32:10 --> Output Class Initialized
-INFO - 2022-02-09 15:32:10 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:10 --> 404 Page Not Found: Assets/img
-INFO - 2022-02-09 15:32:10 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:10 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:10 --> Input Class Initialized
-INFO - 2022-02-09 15:32:10 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:10 --> 404 Page Not Found: Assets/img
-INFO - 2022-02-09 15:32:10 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:10 --> 404 Page Not Found: Assetsadmin/vendor_components
-ERROR - 2022-02-09 15:32:10 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:10 --> Config Class Initialized
-INFO - 2022-02-09 15:32:10 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:10 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:10 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:10 --> Config Class Initialized
-INFO - 2022-02-09 15:32:10 --> URI Class Initialized
-INFO - 2022-02-09 15:32:10 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:10 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:10 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:11 --> Config Class Initialized
-INFO - 2022-02-09 15:32:11 --> Config Class Initialized
-INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:11 --> Config Class Initialized
-INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:11 --> Router Class Initialized
-INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:11 --> URI Class Initialized
-INFO - 2022-02-09 15:32:11 --> Output Class Initialized
-INFO - 2022-02-09 15:32:11 --> Router Class Initialized
-INFO - 2022-02-09 15:32:11 --> Security Class Initialized
-INFO - 2022-02-09 15:32:11 --> Output Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:11 --> Input Class Initialized
-INFO - 2022-02-09 15:32:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:11 --> Language Class Initialized
-INFO - 2022-02-09 15:32:11 --> Input Class Initialized
-INFO - 2022-02-09 15:32:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assets/admin
-ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:11 --> URI Class Initialized
-INFO - 2022-02-09 15:32:11 --> Router Class Initialized
-INFO - 2022-02-09 15:32:11 --> URI Class Initialized
-INFO - 2022-02-09 15:32:11 --> Output Class Initialized
-INFO - 2022-02-09 15:32:11 --> Router Class Initialized
-INFO - 2022-02-09 15:32:11 --> Output Class Initialized
-INFO - 2022-02-09 15:32:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:11 --> Input Class Initialized
-INFO - 2022-02-09 15:32:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:11 --> Security Class Initialized
-INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:11 --> Config Class Initialized
-INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:11 --> Input Class Initialized
-INFO - 2022-02-09 15:32:11 --> URI Class Initialized
-INFO - 2022-02-09 15:32:11 --> Language Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:11 --> Router Class Initialized
-INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
-ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:11 --> Output Class Initialized
-INFO - 2022-02-09 15:32:11 --> URI Class Initialized
-INFO - 2022-02-09 15:32:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:11 --> Input Class Initialized
-INFO - 2022-02-09 15:32:11 --> Config Class Initialized
-INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:11 --> Language Class Initialized
-INFO - 2022-02-09 15:32:11 --> Config Class Initialized
-INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:11 --> Config Class Initialized
-INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
-DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:11 --> URI Class Initialized
-INFO - 2022-02-09 15:32:11 --> URI Class Initialized
-INFO - 2022-02-09 15:32:11 --> Router Class Initialized
-INFO - 2022-02-09 15:32:11 --> Router Class Initialized
-INFO - 2022-02-09 15:32:11 --> Output Class Initialized
-INFO - 2022-02-09 15:32:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:11 --> Input Class Initialized
-INFO - 2022-02-09 15:32:11 --> Output Class Initialized
-INFO - 2022-02-09 15:32:11 --> Config Class Initialized
-INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:11 --> Input Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:11 --> Language Class Initialized
-INFO - 2022-02-09 15:32:11 --> URI Class Initialized
-ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:11 --> Router Class Initialized
-INFO - 2022-02-09 15:32:11 --> Router Class Initialized
-INFO - 2022-02-09 15:32:11 --> URI Class Initialized
-INFO - 2022-02-09 15:32:11 --> Output Class Initialized
-INFO - 2022-02-09 15:32:11 --> Router Class Initialized
-INFO - 2022-02-09 15:32:11 --> Language Class Initialized
-INFO - 2022-02-09 15:32:11 --> Security Class Initialized
-INFO - 2022-02-09 15:32:11 --> Output Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:11 --> Input Class Initialized
-ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:11 --> Language Class Initialized
-INFO - 2022-02-09 15:32:11 --> Security Class Initialized
-ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:11 --> Input Class Initialized
-INFO - 2022-02-09 15:32:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:11 --> Output Class Initialized
-INFO - 2022-02-09 15:32:11 --> Security Class Initialized
-ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:11 --> Config Class Initialized
-INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
-DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:11 --> URI Class Initialized
-INFO - 2022-02-09 15:32:11 --> Router Class Initialized
-INFO - 2022-02-09 15:32:11 --> Config Class Initialized
-INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:11 --> URI Class Initialized
-INFO - 2022-02-09 15:32:11 --> Config Class Initialized
-INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:11 --> Router Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:11 --> Output Class Initialized
-INFO - 2022-02-09 15:32:11 --> URI Class Initialized
-INFO - 2022-02-09 15:32:11 --> Input Class Initialized
-INFO - 2022-02-09 15:32:11 --> Config Class Initialized
-INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:11 --> Router Class Initialized
-INFO - 2022-02-09 15:32:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:11 --> Output Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:11 --> Security Class Initialized
-INFO - 2022-02-09 15:32:11 --> URI Class Initialized
-INFO - 2022-02-09 15:32:11 --> Config Class Initialized
-INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:11 --> Router Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:11 --> Output Class Initialized
-INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:11 --> Output Class Initialized
-INFO - 2022-02-09 15:32:11 --> URI Class Initialized
-INFO - 2022-02-09 15:32:11 --> Security Class Initialized
-INFO - 2022-02-09 15:32:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:11 --> Input Class Initialized
-INFO - 2022-02-09 15:32:11 --> Language Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:11 --> Input Class Initialized
-INFO - 2022-02-09 15:32:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:11 --> Security Class Initialized
-ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:11 --> Input Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:11 --> Router Class Initialized
-INFO - 2022-02-09 15:32:11 --> Input Class Initialized
-INFO - 2022-02-09 15:32:11 --> Language Class Initialized
-INFO - 2022-02-09 15:32:11 --> Output Class Initialized
-ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:11 --> Security Class Initialized
-INFO - 2022-02-09 15:32:11 --> Language Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:11 --> Input Class Initialized
-INFO - 2022-02-09 15:32:11 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assets/admin
-ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:11 --> Config Class Initialized
-INFO - 2022-02-09 15:32:11 --> Config Class Initialized
-INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:11 --> URI Class Initialized
-INFO - 2022-02-09 15:32:11 --> Config Class Initialized
-INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:11 --> URI Class Initialized
-INFO - 2022-02-09 15:32:11 --> Router Class Initialized
-INFO - 2022-02-09 15:32:11 --> Router Class Initialized
-INFO - 2022-02-09 15:32:11 --> Output Class Initialized
-INFO - 2022-02-09 15:32:11 --> Output Class Initialized
-INFO - 2022-02-09 15:32:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:11 --> Input Class Initialized
-INFO - 2022-02-09 15:32:11 --> Language Class Initialized
-INFO - 2022-02-09 15:32:11 --> URI Class Initialized
-ERROR - 2022-02-09 15:32:11 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:11 --> Router Class Initialized
-INFO - 2022-02-09 15:32:11 --> Output Class Initialized
-INFO - 2022-02-09 15:32:11 --> Security Class Initialized
-INFO - 2022-02-09 15:32:11 --> Config Class Initialized
-INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:11 --> Config Class Initialized
-INFO - 2022-02-09 15:32:11 --> URI Class Initialized
-INFO - 2022-02-09 15:32:11 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:11 --> Router Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:11 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:11 --> Output Class Initialized
-INFO - 2022-02-09 15:32:11 --> URI Class Initialized
-INFO - 2022-02-09 15:32:11 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:11 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:12 --> Input Class Initialized
-INFO - 2022-02-09 15:32:12 --> Language Class Initialized
-INFO - 2022-02-09 15:32:12 --> Security Class Initialized
-ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:12 --> Config Class Initialized
-INFO - 2022-02-09 15:32:12 --> Input Class Initialized
-INFO - 2022-02-09 15:32:12 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:12 --> Language Class Initialized
-DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
-DEBUG - 2022-02-09 15:32:12 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:12 --> Router Class Initialized
-INFO - 2022-02-09 15:32:12 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:12 --> Output Class Initialized
-ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:12 --> Security Class Initialized
-INFO - 2022-02-09 15:32:12 --> URI Class Initialized
-DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:12 --> Input Class Initialized
-INFO - 2022-02-09 15:32:12 --> Router Class Initialized
-INFO - 2022-02-09 15:32:12 --> Language Class Initialized
-INFO - 2022-02-09 15:32:12 --> Output Class Initialized
-ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:12 --> Input Class Initialized
-INFO - 2022-02-09 15:32:12 --> Language Class Initialized
-INFO - 2022-02-09 15:32:12 --> Security Class Initialized
-ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:12 --> Input Class Initialized
-INFO - 2022-02-09 15:32:12 --> Config Class Initialized
-INFO - 2022-02-09 15:32:12 --> Language Class Initialized
-INFO - 2022-02-09 15:32:12 --> Hooks Class Initialized
-ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:32:12 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:12 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:12 --> URI Class Initialized
-INFO - 2022-02-09 15:32:12 --> Router Class Initialized
-INFO - 2022-02-09 15:32:12 --> Output Class Initialized
-INFO - 2022-02-09 15:32:12 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:12 --> Input Class Initialized
-INFO - 2022-02-09 15:32:12 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assetscustom/js
-INFO - 2022-02-09 15:32:12 --> Config Class Initialized
-INFO - 2022-02-09 15:32:12 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:12 --> Config Class Initialized
-INFO - 2022-02-09 15:32:12 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:12 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:12 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:12 --> URI Class Initialized
-INFO - 2022-02-09 15:32:12 --> Router Class Initialized
-INFO - 2022-02-09 15:32:12 --> Output Class Initialized
-INFO - 2022-02-09 15:32:12 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:12 --> Input Class Initialized
-INFO - 2022-02-09 15:32:12 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:12 --> Config Class Initialized
-DEBUG - 2022-02-09 15:32:12 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:12 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:12 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:12 --> URI Class Initialized
-DEBUG - 2022-02-09 15:32:12 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:12 --> Router Class Initialized
-INFO - 2022-02-09 15:32:12 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:12 --> URI Class Initialized
-INFO - 2022-02-09 15:32:12 --> Output Class Initialized
-INFO - 2022-02-09 15:32:12 --> Router Class Initialized
-INFO - 2022-02-09 15:32:12 --> Output Class Initialized
-INFO - 2022-02-09 15:32:12 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:12 --> Input Class Initialized
-INFO - 2022-02-09 15:32:12 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:12 --> Config Class Initialized
-INFO - 2022-02-09 15:32:12 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:12 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:12 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:12 --> URI Class Initialized
-INFO - 2022-02-09 15:32:12 --> Router Class Initialized
-INFO - 2022-02-09 15:32:12 --> Config Class Initialized
-INFO - 2022-02-09 15:32:12 --> Output Class Initialized
-INFO - 2022-02-09 15:32:12 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:12 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:12 --> Input Class Initialized
-INFO - 2022-02-09 15:32:12 --> Security Class Initialized
-INFO - 2022-02-09 15:32:12 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:12 --> Input Class Initialized
-INFO - 2022-02-09 15:32:12 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:32:12 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:12 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:12 --> URI Class Initialized
-INFO - 2022-02-09 15:32:12 --> Config Class Initialized
-INFO - 2022-02-09 15:32:12 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:12 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:12 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:12 --> URI Class Initialized
-INFO - 2022-02-09 15:32:12 --> Router Class Initialized
-INFO - 2022-02-09 15:32:12 --> Router Class Initialized
-INFO - 2022-02-09 15:32:12 --> Output Class Initialized
-INFO - 2022-02-09 15:32:12 --> Security Class Initialized
-INFO - 2022-02-09 15:32:12 --> Output Class Initialized
-DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:12 --> Security Class Initialized
-INFO - 2022-02-09 15:32:12 --> Input Class Initialized
-INFO - 2022-02-09 15:32:12 --> Language Class Initialized
-DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
-ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:12 --> Input Class Initialized
-INFO - 2022-02-09 15:32:12 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:12 --> Config Class Initialized
-INFO - 2022-02-09 15:32:12 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:12 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:12 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:12 --> URI Class Initialized
-INFO - 2022-02-09 15:32:12 --> Router Class Initialized
-INFO - 2022-02-09 15:32:12 --> Output Class Initialized
-INFO - 2022-02-09 15:32:12 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:12 --> Input Class Initialized
-INFO - 2022-02-09 15:32:12 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:12 --> Config Class Initialized
-INFO - 2022-02-09 15:32:12 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:12 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:12 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:12 --> URI Class Initialized
-INFO - 2022-02-09 15:32:12 --> Router Class Initialized
-INFO - 2022-02-09 15:32:12 --> Output Class Initialized
-INFO - 2022-02-09 15:32:12 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:12 --> Input Class Initialized
-INFO - 2022-02-09 15:32:12 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:12 --> Config Class Initialized
-INFO - 2022-02-09 15:32:12 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:12 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:12 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:12 --> URI Class Initialized
-INFO - 2022-02-09 15:32:12 --> Router Class Initialized
-INFO - 2022-02-09 15:32:12 --> Output Class Initialized
-INFO - 2022-02-09 15:32:12 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:12 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:12 --> Input Class Initialized
-INFO - 2022-02-09 15:32:12 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:12 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:13 --> Config Class Initialized
-INFO - 2022-02-09 15:32:13 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:13 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:13 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:13 --> URI Class Initialized
-INFO - 2022-02-09 15:32:13 --> Router Class Initialized
-INFO - 2022-02-09 15:32:13 --> Output Class Initialized
-INFO - 2022-02-09 15:32:13 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:13 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:13 --> Input Class Initialized
-INFO - 2022-02-09 15:32:13 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:13 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:13 --> Config Class Initialized
-INFO - 2022-02-09 15:32:13 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:13 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:13 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:13 --> URI Class Initialized
-INFO - 2022-02-09 15:32:13 --> Router Class Initialized
-INFO - 2022-02-09 15:32:13 --> Output Class Initialized
-INFO - 2022-02-09 15:32:13 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:13 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:13 --> Input Class Initialized
-INFO - 2022-02-09 15:32:13 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:13 --> 404 Page Not Found: Assetsadmin/vendor_components
-INFO - 2022-02-09 15:32:13 --> Config Class Initialized
-INFO - 2022-02-09 15:32:13 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:13 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:13 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:13 --> URI Class Initialized
-INFO - 2022-02-09 15:32:13 --> Router Class Initialized
-INFO - 2022-02-09 15:32:13 --> Output Class Initialized
-INFO - 2022-02-09 15:32:13 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:13 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:13 --> Input Class Initialized
-INFO - 2022-02-09 15:32:13 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:13 --> 404 Page Not Found: Assets/vendor_components
-INFO - 2022-02-09 15:32:13 --> Config Class Initialized
-INFO - 2022-02-09 15:32:13 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:13 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:13 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:13 --> URI Class Initialized
-INFO - 2022-02-09 15:32:13 --> Router Class Initialized
-INFO - 2022-02-09 15:32:13 --> Output Class Initialized
-INFO - 2022-02-09 15:32:13 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:13 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:13 --> Input Class Initialized
-INFO - 2022-02-09 15:32:13 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:13 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:13 --> Config Class Initialized
-INFO - 2022-02-09 15:32:13 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:13 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:13 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:13 --> URI Class Initialized
-INFO - 2022-02-09 15:32:13 --> Router Class Initialized
-INFO - 2022-02-09 15:32:13 --> Output Class Initialized
-INFO - 2022-02-09 15:32:13 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:13 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:13 --> Input Class Initialized
-INFO - 2022-02-09 15:32:13 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:13 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:13 --> Config Class Initialized
-INFO - 2022-02-09 15:32:13 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:13 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:13 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:13 --> URI Class Initialized
-INFO - 2022-02-09 15:32:13 --> Router Class Initialized
-INFO - 2022-02-09 15:32:13 --> Output Class Initialized
-INFO - 2022-02-09 15:32:13 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:13 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:13 --> Input Class Initialized
-INFO - 2022-02-09 15:32:13 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:13 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:13 --> Config Class Initialized
-INFO - 2022-02-09 15:32:13 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:13 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:13 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:13 --> URI Class Initialized
-INFO - 2022-02-09 15:32:13 --> Router Class Initialized
-INFO - 2022-02-09 15:32:13 --> Output Class Initialized
-INFO - 2022-02-09 15:32:13 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:13 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:13 --> Input Class Initialized
-INFO - 2022-02-09 15:32:13 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:13 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:13 --> Config Class Initialized
-INFO - 2022-02-09 15:32:13 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:13 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:13 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:13 --> URI Class Initialized
-INFO - 2022-02-09 15:32:13 --> Router Class Initialized
-INFO - 2022-02-09 15:32:13 --> Output Class Initialized
-INFO - 2022-02-09 15:32:13 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:13 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:13 --> Input Class Initialized
-INFO - 2022-02-09 15:32:13 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:13 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:13 --> Config Class Initialized
-INFO - 2022-02-09 15:32:13 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:13 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:13 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:13 --> URI Class Initialized
-INFO - 2022-02-09 15:32:13 --> Router Class Initialized
-INFO - 2022-02-09 15:32:13 --> Output Class Initialized
-INFO - 2022-02-09 15:32:13 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:13 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:13 --> Input Class Initialized
-INFO - 2022-02-09 15:32:13 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:13 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:13 --> Config Class Initialized
-INFO - 2022-02-09 15:32:13 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:13 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:13 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:13 --> URI Class Initialized
-INFO - 2022-02-09 15:32:13 --> Router Class Initialized
-INFO - 2022-02-09 15:32:13 --> Output Class Initialized
-INFO - 2022-02-09 15:32:13 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:13 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:13 --> Input Class Initialized
-INFO - 2022-02-09 15:32:13 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:13 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:14 --> Config Class Initialized
-INFO - 2022-02-09 15:32:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:14 --> URI Class Initialized
-INFO - 2022-02-09 15:32:14 --> Router Class Initialized
-INFO - 2022-02-09 15:32:14 --> Output Class Initialized
-INFO - 2022-02-09 15:32:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:14 --> Input Class Initialized
-INFO - 2022-02-09 15:32:14 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:14 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:14 --> Config Class Initialized
-INFO - 2022-02-09 15:32:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:14 --> URI Class Initialized
-INFO - 2022-02-09 15:32:14 --> Router Class Initialized
-INFO - 2022-02-09 15:32:14 --> Output Class Initialized
-INFO - 2022-02-09 15:32:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:14 --> Input Class Initialized
-INFO - 2022-02-09 15:32:14 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:14 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:14 --> Config Class Initialized
-INFO - 2022-02-09 15:32:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:14 --> URI Class Initialized
-INFO - 2022-02-09 15:32:14 --> Router Class Initialized
-INFO - 2022-02-09 15:32:14 --> Output Class Initialized
-INFO - 2022-02-09 15:32:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:14 --> Input Class Initialized
-INFO - 2022-02-09 15:32:14 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:14 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:14 --> Config Class Initialized
-INFO - 2022-02-09 15:32:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:14 --> URI Class Initialized
-INFO - 2022-02-09 15:32:14 --> Router Class Initialized
-INFO - 2022-02-09 15:32:14 --> Output Class Initialized
-INFO - 2022-02-09 15:32:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:14 --> Input Class Initialized
-INFO - 2022-02-09 15:32:14 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:14 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:14 --> Config Class Initialized
-INFO - 2022-02-09 15:32:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:14 --> URI Class Initialized
-INFO - 2022-02-09 15:32:14 --> Router Class Initialized
-INFO - 2022-02-09 15:32:14 --> Output Class Initialized
-INFO - 2022-02-09 15:32:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:14 --> Input Class Initialized
-INFO - 2022-02-09 15:32:14 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:14 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:14 --> Config Class Initialized
-INFO - 2022-02-09 15:32:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:14 --> URI Class Initialized
-INFO - 2022-02-09 15:32:14 --> Router Class Initialized
-INFO - 2022-02-09 15:32:14 --> Output Class Initialized
-INFO - 2022-02-09 15:32:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:14 --> Input Class Initialized
-INFO - 2022-02-09 15:32:14 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:14 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:14 --> Config Class Initialized
-INFO - 2022-02-09 15:32:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:14 --> URI Class Initialized
-INFO - 2022-02-09 15:32:14 --> Router Class Initialized
-INFO - 2022-02-09 15:32:14 --> Output Class Initialized
-INFO - 2022-02-09 15:32:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:14 --> Input Class Initialized
-INFO - 2022-02-09 15:32:14 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:14 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:14 --> Config Class Initialized
-INFO - 2022-02-09 15:32:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:14 --> URI Class Initialized
-INFO - 2022-02-09 15:32:14 --> Router Class Initialized
-INFO - 2022-02-09 15:32:14 --> Output Class Initialized
-INFO - 2022-02-09 15:32:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:14 --> Input Class Initialized
-INFO - 2022-02-09 15:32:14 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:14 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:14 --> Config Class Initialized
-INFO - 2022-02-09 15:32:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:14 --> URI Class Initialized
-INFO - 2022-02-09 15:32:14 --> Router Class Initialized
-INFO - 2022-02-09 15:32:14 --> Output Class Initialized
-INFO - 2022-02-09 15:32:14 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:14 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:14 --> Input Class Initialized
-INFO - 2022-02-09 15:32:14 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:14 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:14 --> Config Class Initialized
-INFO - 2022-02-09 15:32:14 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:14 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:14 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:14 --> URI Class Initialized
-INFO - 2022-02-09 15:32:15 --> Router Class Initialized
-INFO - 2022-02-09 15:32:15 --> Output Class Initialized
-INFO - 2022-02-09 15:32:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:15 --> Input Class Initialized
-INFO - 2022-02-09 15:32:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:15 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:15 --> Config Class Initialized
-INFO - 2022-02-09 15:32:15 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:15 --> URI Class Initialized
-INFO - 2022-02-09 15:32:15 --> Router Class Initialized
-INFO - 2022-02-09 15:32:15 --> Output Class Initialized
-INFO - 2022-02-09 15:32:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:15 --> Input Class Initialized
-INFO - 2022-02-09 15:32:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:15 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:15 --> Config Class Initialized
-INFO - 2022-02-09 15:32:15 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:15 --> URI Class Initialized
-INFO - 2022-02-09 15:32:15 --> Router Class Initialized
-INFO - 2022-02-09 15:32:15 --> Output Class Initialized
-INFO - 2022-02-09 15:32:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:15 --> Input Class Initialized
-INFO - 2022-02-09 15:32:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:15 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:15 --> Config Class Initialized
-INFO - 2022-02-09 15:32:15 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:15 --> URI Class Initialized
-INFO - 2022-02-09 15:32:15 --> Router Class Initialized
-INFO - 2022-02-09 15:32:15 --> Output Class Initialized
-INFO - 2022-02-09 15:32:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:15 --> Input Class Initialized
-INFO - 2022-02-09 15:32:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:15 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:15 --> Config Class Initialized
-INFO - 2022-02-09 15:32:15 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:15 --> URI Class Initialized
-INFO - 2022-02-09 15:32:15 --> Router Class Initialized
-INFO - 2022-02-09 15:32:15 --> Output Class Initialized
-INFO - 2022-02-09 15:32:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:15 --> Input Class Initialized
-INFO - 2022-02-09 15:32:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:15 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:15 --> Config Class Initialized
-INFO - 2022-02-09 15:32:15 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:15 --> URI Class Initialized
-INFO - 2022-02-09 15:32:15 --> Router Class Initialized
-INFO - 2022-02-09 15:32:15 --> Output Class Initialized
-INFO - 2022-02-09 15:32:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:15 --> Input Class Initialized
-INFO - 2022-02-09 15:32:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:15 --> 404 Page Not Found: Assetscustom/js
-INFO - 2022-02-09 15:32:15 --> Config Class Initialized
-INFO - 2022-02-09 15:32:15 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:15 --> URI Class Initialized
-INFO - 2022-02-09 15:32:15 --> Router Class Initialized
-INFO - 2022-02-09 15:32:15 --> Output Class Initialized
-INFO - 2022-02-09 15:32:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:15 --> Input Class Initialized
-INFO - 2022-02-09 15:32:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:15 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:15 --> Config Class Initialized
-INFO - 2022-02-09 15:32:15 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:15 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:15 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:15 --> URI Class Initialized
-INFO - 2022-02-09 15:32:15 --> Router Class Initialized
-INFO - 2022-02-09 15:32:15 --> Output Class Initialized
-INFO - 2022-02-09 15:32:15 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:15 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:15 --> Input Class Initialized
-INFO - 2022-02-09 15:32:15 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:15 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:16 --> Config Class Initialized
-INFO - 2022-02-09 15:32:16 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:16 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:16 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:16 --> URI Class Initialized
-INFO - 2022-02-09 15:32:16 --> Router Class Initialized
-INFO - 2022-02-09 15:32:16 --> Output Class Initialized
-INFO - 2022-02-09 15:32:16 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:16 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:16 --> Input Class Initialized
-INFO - 2022-02-09 15:32:16 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:16 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:16 --> Config Class Initialized
-INFO - 2022-02-09 15:32:16 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:16 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:16 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:16 --> URI Class Initialized
-INFO - 2022-02-09 15:32:16 --> Router Class Initialized
-INFO - 2022-02-09 15:32:16 --> Output Class Initialized
-INFO - 2022-02-09 15:32:16 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:16 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:16 --> Input Class Initialized
-INFO - 2022-02-09 15:32:16 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:16 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:25 --> Config Class Initialized
-INFO - 2022-02-09 15:32:25 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:25 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:25 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:25 --> URI Class Initialized
-DEBUG - 2022-02-09 15:32:25 --> No URI present. Default controller set.
-INFO - 2022-02-09 15:32:25 --> Router Class Initialized
-INFO - 2022-02-09 15:32:25 --> Output Class Initialized
-INFO - 2022-02-09 15:32:25 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:25 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:25 --> Input Class Initialized
-INFO - 2022-02-09 15:32:25 --> Language Class Initialized
-INFO - 2022-02-09 15:32:25 --> Loader Class Initialized
-INFO - 2022-02-09 15:32:25 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:32:25 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:32:25 --> Helper loaded: idex_helper
-INFO - 2022-02-09 15:32:25 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:32:25 --> Email Class Initialized
-INFO - 2022-02-09 15:32:25 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:32:25 --> Controller Class Initialized
-INFO - 2022-02-09 15:32:25 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:32:25 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:32:25 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:32:25 --> Model Class Initialized
-DEBUG - 2022-02-09 15:32:25 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:32:25 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:32:25 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-INFO - 2022-02-09 15:32:25 --> File loaded: C:\xampp\htdocs\firestation\application\views\dashboard.php
-INFO - 2022-02-09 15:32:25 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
-INFO - 2022-02-09 15:32:25 --> Final output sent to browser
-DEBUG - 2022-02-09 15:32:25 --> Total execution time: 0.2206
-INFO - 2022-02-09 15:32:25 --> Config Class Initialized
-INFO - 2022-02-09 15:32:25 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:25 --> Config Class Initialized
-INFO - 2022-02-09 15:32:25 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:25 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:25 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:32:26 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:26 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:26 --> Config Class Initialized
-INFO - 2022-02-09 15:32:26 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:26 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:26 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:26 --> URI Class Initialized
-INFO - 2022-02-09 15:32:26 --> Router Class Initialized
-INFO - 2022-02-09 15:32:26 --> URI Class Initialized
-INFO - 2022-02-09 15:32:26 --> Config Class Initialized
-INFO - 2022-02-09 15:32:26 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:26 --> Output Class Initialized
-INFO - 2022-02-09 15:32:26 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:26 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:26 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:32:26 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:26 --> Input Class Initialized
-INFO - 2022-02-09 15:32:26 --> URI Class Initialized
-INFO - 2022-02-09 15:32:26 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:26 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:26 --> Router Class Initialized
-INFO - 2022-02-09 15:32:26 --> Output Class Initialized
-INFO - 2022-02-09 15:32:26 --> Router Class Initialized
-INFO - 2022-02-09 15:32:26 --> Security Class Initialized
-INFO - 2022-02-09 15:32:26 --> Output Class Initialized
-DEBUG - 2022-02-09 15:32:26 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:26 --> Input Class Initialized
-INFO - 2022-02-09 15:32:26 --> Security Class Initialized
-INFO - 2022-02-09 15:32:26 --> URI Class Initialized
-DEBUG - 2022-02-09 15:32:26 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:26 --> Language Class Initialized
-INFO - 2022-02-09 15:32:26 --> Input Class Initialized
-INFO - 2022-02-09 15:32:26 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:26 --> 404 Page Not Found: Assets/admin
-ERROR - 2022-02-09 15:32:26 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:26 --> Router Class Initialized
-INFO - 2022-02-09 15:32:26 --> Output Class Initialized
-INFO - 2022-02-09 15:32:26 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:26 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:26 --> Input Class Initialized
-INFO - 2022-02-09 15:32:26 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:26 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:26 --> Config Class Initialized
-INFO - 2022-02-09 15:32:26 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:26 --> Config Class Initialized
-INFO - 2022-02-09 15:32:26 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:26 --> Config Class Initialized
-INFO - 2022-02-09 15:32:26 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:26 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:26 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:32:26 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:26 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:26 --> URI Class Initialized
-INFO - 2022-02-09 15:32:26 --> URI Class Initialized
-INFO - 2022-02-09 15:32:26 --> Router Class Initialized
-INFO - 2022-02-09 15:32:26 --> Router Class Initialized
-INFO - 2022-02-09 15:32:26 --> Output Class Initialized
-INFO - 2022-02-09 15:32:26 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:26 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:26 --> Input Class Initialized
-DEBUG - 2022-02-09 15:32:26 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:26 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:26 --> Language Class Initialized
-INFO - 2022-02-09 15:32:26 --> URI Class Initialized
-ERROR - 2022-02-09 15:32:26 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:26 --> Output Class Initialized
-INFO - 2022-02-09 15:32:26 --> Config Class Initialized
-INFO - 2022-02-09 15:32:26 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:26 --> Config Class Initialized
-INFO - 2022-02-09 15:32:26 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:26 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:26 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:26 --> Config Class Initialized
-INFO - 2022-02-09 15:32:26 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:26 --> URI Class Initialized
-INFO - 2022-02-09 15:32:26 --> Router Class Initialized
-DEBUG - 2022-02-09 15:32:26 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:26 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:26 --> Output Class Initialized
-INFO - 2022-02-09 15:32:26 --> URI Class Initialized
-INFO - 2022-02-09 15:32:26 --> Security Class Initialized
-INFO - 2022-02-09 15:32:26 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:26 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:26 --> Input Class Initialized
-INFO - 2022-02-09 15:32:26 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:26 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:26 --> Router Class Initialized
-INFO - 2022-02-09 15:32:26 --> Output Class Initialized
-INFO - 2022-02-09 15:32:26 --> Router Class Initialized
-DEBUG - 2022-02-09 15:32:26 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:26 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:26 --> Security Class Initialized
-INFO - 2022-02-09 15:32:26 --> URI Class Initialized
-INFO - 2022-02-09 15:32:26 --> Output Class Initialized
-INFO - 2022-02-09 15:32:26 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:26 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:26 --> Input Class Initialized
-INFO - 2022-02-09 15:32:26 --> Language Class Initialized
-INFO - 2022-02-09 15:32:26 --> Router Class Initialized
-INFO - 2022-02-09 15:32:26 --> Output Class Initialized
-INFO - 2022-02-09 15:32:26 --> Security Class Initialized
-ERROR - 2022-02-09 15:32:26 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:32:26 --> Global POST, GET and COOKIE data sanitized
-DEBUG - 2022-02-09 15:32:26 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:26 --> Input Class Initialized
-INFO - 2022-02-09 15:32:26 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:26 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:26 --> Input Class Initialized
-DEBUG - 2022-02-09 15:32:26 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:26 --> Config Class Initialized
-INFO - 2022-02-09 15:32:26 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:26 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:26 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:26 --> Config Class Initialized
-INFO - 2022-02-09 15:32:26 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:26 --> URI Class Initialized
-DEBUG - 2022-02-09 15:32:26 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:26 --> Router Class Initialized
-INFO - 2022-02-09 15:32:26 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:26 --> Output Class Initialized
-INFO - 2022-02-09 15:32:26 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:26 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:26 --> Input Class Initialized
-INFO - 2022-02-09 15:32:26 --> URI Class Initialized
-INFO - 2022-02-09 15:32:26 --> Language Class Initialized
-INFO - 2022-02-09 15:32:26 --> Router Class Initialized
-INFO - 2022-02-09 15:32:26 --> Language Class Initialized
-INFO - 2022-02-09 15:32:26 --> Input Class Initialized
-ERROR - 2022-02-09 15:32:26 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:26 --> Language Class Initialized
-INFO - 2022-02-09 15:32:26 --> Output Class Initialized
-ERROR - 2022-02-09 15:32:26 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:26 --> Security Class Initialized
-INFO - 2022-02-09 15:32:26 --> Config Class Initialized
-INFO - 2022-02-09 15:32:26 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:26 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:26 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:26 --> Config Class Initialized
-INFO - 2022-02-09 15:32:26 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:26 --> URI Class Initialized
-DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:27 --> URI Class Initialized
-INFO - 2022-02-09 15:32:27 --> Router Class Initialized
-INFO - 2022-02-09 15:32:27 --> Router Class Initialized
-INFO - 2022-02-09 15:32:27 --> Config Class Initialized
-DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
-ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:27 --> Output Class Initialized
-INFO - 2022-02-09 15:32:27 --> Output Class Initialized
-INFO - 2022-02-09 15:32:27 --> Security Class Initialized
-INFO - 2022-02-09 15:32:27 --> Security Class Initialized
-INFO - 2022-02-09 15:32:27 --> Input Class Initialized
-INFO - 2022-02-09 15:32:27 --> Language Class Initialized
-DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:27 --> Input Class Initialized
-ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:27 --> Language Class Initialized
-INFO - 2022-02-09 15:32:27 --> Hooks Class Initialized
-ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
-DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:27 --> Config Class Initialized
-INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:27 --> Input Class Initialized
-INFO - 2022-02-09 15:32:27 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:27 --> Language Class Initialized
-INFO - 2022-02-09 15:32:27 --> URI Class Initialized
-INFO - 2022-02-09 15:32:27 --> Router Class Initialized
-ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:27 --> Output Class Initialized
-INFO - 2022-02-09 15:32:27 --> URI Class Initialized
-INFO - 2022-02-09 15:32:27 --> Security Class Initialized
-INFO - 2022-02-09 15:32:27 --> Router Class Initialized
-INFO - 2022-02-09 15:32:27 --> Config Class Initialized
-DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:27 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:27 --> Input Class Initialized
-INFO - 2022-02-09 15:32:27 --> Output Class Initialized
-DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:27 --> Language Class Initialized
-INFO - 2022-02-09 15:32:27 --> Security Class Initialized
-ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:27 --> Input Class Initialized
-INFO - 2022-02-09 15:32:27 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:27 --> URI Class Initialized
-INFO - 2022-02-09 15:32:27 --> Router Class Initialized
-INFO - 2022-02-09 15:32:27 --> Config Class Initialized
-INFO - 2022-02-09 15:32:27 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:27 --> Output Class Initialized
-INFO - 2022-02-09 15:32:27 --> Security Class Initialized
-INFO - 2022-02-09 15:32:27 --> Config Class Initialized
-INFO - 2022-02-09 15:32:27 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:27 --> Config Class Initialized
-DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
-DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:27 --> Input Class Initialized
-INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:27 --> Language Class Initialized
-INFO - 2022-02-09 15:32:27 --> URI Class Initialized
-ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:27 --> Router Class Initialized
-INFO - 2022-02-09 15:32:27 --> Output Class Initialized
-DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:27 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:27 --> URI Class Initialized
-INFO - 2022-02-09 15:32:27 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:27 --> URI Class Initialized
-DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:27 --> Input Class Initialized
-INFO - 2022-02-09 15:32:27 --> Language Class Initialized
-INFO - 2022-02-09 15:32:27 --> Config Class Initialized
-ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:27 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:27 --> URI Class Initialized
-INFO - 2022-02-09 15:32:27 --> Config Class Initialized
-INFO - 2022-02-09 15:32:27 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:27 --> URI Class Initialized
-INFO - 2022-02-09 15:32:27 --> Router Class Initialized
-INFO - 2022-02-09 15:32:27 --> Router Class Initialized
-INFO - 2022-02-09 15:32:27 --> Output Class Initialized
-INFO - 2022-02-09 15:32:27 --> Config Class Initialized
-INFO - 2022-02-09 15:32:27 --> Output Class Initialized
-INFO - 2022-02-09 15:32:27 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:27 --> Security Class Initialized
-INFO - 2022-02-09 15:32:27 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:27 --> Input Class Initialized
-DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:27 --> Input Class Initialized
-INFO - 2022-02-09 15:32:27 --> Language Class Initialized
-DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:27 --> URI Class Initialized
-ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/img
-INFO - 2022-02-09 15:32:27 --> Language Class Initialized
-INFO - 2022-02-09 15:32:27 --> Router Class Initialized
-ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:27 --> Output Class Initialized
-INFO - 2022-02-09 15:32:27 --> Router Class Initialized
-INFO - 2022-02-09 15:32:27 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:27 --> Input Class Initialized
-INFO - 2022-02-09 15:32:27 --> Output Class Initialized
-INFO - 2022-02-09 15:32:27 --> Language Class Initialized
-INFO - 2022-02-09 15:32:27 --> Security Class Initialized
-ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/admin
-DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:27 --> Input Class Initialized
-INFO - 2022-02-09 15:32:27 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:27 --> Router Class Initialized
-INFO - 2022-02-09 15:32:27 --> Config Class Initialized
-INFO - 2022-02-09 15:32:27 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:27 --> Output Class Initialized
-DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:27 --> URI Class Initialized
-INFO - 2022-02-09 15:32:27 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:27 --> Input Class Initialized
-INFO - 2022-02-09 15:32:27 --> Router Class Initialized
-INFO - 2022-02-09 15:32:27 --> Output Class Initialized
-INFO - 2022-02-09 15:32:27 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:27 --> Input Class Initialized
-INFO - 2022-02-09 15:32:27 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/img
-INFO - 2022-02-09 15:32:27 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:27 --> Config Class Initialized
-INFO - 2022-02-09 15:32:27 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:27 --> URI Class Initialized
-INFO - 2022-02-09 15:32:27 --> Router Class Initialized
-INFO - 2022-02-09 15:32:27 --> Config Class Initialized
-INFO - 2022-02-09 15:32:27 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:27 --> Config Class Initialized
-INFO - 2022-02-09 15:32:27 --> URI Class Initialized
-INFO - 2022-02-09 15:32:27 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:27 --> Router Class Initialized
-DEBUG - 2022-02-09 15:32:27 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:27 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:27 --> Output Class Initialized
-INFO - 2022-02-09 15:32:27 --> URI Class Initialized
-INFO - 2022-02-09 15:32:27 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:27 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:27 --> Input Class Initialized
-INFO - 2022-02-09 15:32:27 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:27 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:28 --> Config Class Initialized
-INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:28 --> Config Class Initialized
-INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:28 --> Output Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:28 --> Security Class Initialized
-INFO - 2022-02-09 15:32:28 --> URI Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:28 --> Input Class Initialized
-INFO - 2022-02-09 15:32:28 --> Router Class Initialized
-INFO - 2022-02-09 15:32:28 --> Language Class Initialized
-INFO - 2022-02-09 15:32:28 --> Output Class Initialized
-ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:28 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:28 --> Input Class Initialized
-INFO - 2022-02-09 15:32:28 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assetsadmin/vendor_components
-INFO - 2022-02-09 15:32:28 --> Config Class Initialized
-INFO - 2022-02-09 15:32:28 --> Config Class Initialized
-INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
-DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:28 --> Router Class Initialized
-INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:28 --> Config Class Initialized
-INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:28 --> URI Class Initialized
-INFO - 2022-02-09 15:32:28 --> URI Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:28 --> Router Class Initialized
-INFO - 2022-02-09 15:32:28 --> Router Class Initialized
-INFO - 2022-02-09 15:32:28 --> Output Class Initialized
-INFO - 2022-02-09 15:32:28 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:28 --> Input Class Initialized
-INFO - 2022-02-09 15:32:28 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:28 --> URI Class Initialized
-INFO - 2022-02-09 15:32:28 --> Config Class Initialized
-INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:28 --> Router Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:28 --> Output Class Initialized
-INFO - 2022-02-09 15:32:28 --> URI Class Initialized
-INFO - 2022-02-09 15:32:28 --> Security Class Initialized
-INFO - 2022-02-09 15:32:28 --> Router Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:28 --> Input Class Initialized
-INFO - 2022-02-09 15:32:28 --> Language Class Initialized
-INFO - 2022-02-09 15:32:28 --> Output Class Initialized
-ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:28 --> Security Class Initialized
-INFO - 2022-02-09 15:32:28 --> Output Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:28 --> Input Class Initialized
-INFO - 2022-02-09 15:32:28 --> URI Class Initialized
-INFO - 2022-02-09 15:32:28 --> Output Class Initialized
-INFO - 2022-02-09 15:32:28 --> Language Class Initialized
-INFO - 2022-02-09 15:32:28 --> Router Class Initialized
-INFO - 2022-02-09 15:32:28 --> Security Class Initialized
-ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:28 --> Output Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:28 --> Input Class Initialized
-INFO - 2022-02-09 15:32:28 --> Security Class Initialized
-INFO - 2022-02-09 15:32:28 --> Language Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
-ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assets/vendor_components
-INFO - 2022-02-09 15:32:28 --> Input Class Initialized
-INFO - 2022-02-09 15:32:28 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:28 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:28 --> Input Class Initialized
-INFO - 2022-02-09 15:32:28 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:28 --> Config Class Initialized
-INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:28 --> Config Class Initialized
-INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:28 --> Config Class Initialized
-INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
-DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:28 --> Config Class Initialized
-INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:28 --> URI Class Initialized
-INFO - 2022-02-09 15:32:28 --> URI Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:28 --> Router Class Initialized
-INFO - 2022-02-09 15:32:28 --> URI Class Initialized
-INFO - 2022-02-09 15:32:28 --> Router Class Initialized
-INFO - 2022-02-09 15:32:28 --> Output Class Initialized
-INFO - 2022-02-09 15:32:28 --> Security Class Initialized
-INFO - 2022-02-09 15:32:28 --> Config Class Initialized
-INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:28 --> URI Class Initialized
-INFO - 2022-02-09 15:32:28 --> Router Class Initialized
-INFO - 2022-02-09 15:32:28 --> Output Class Initialized
-INFO - 2022-02-09 15:32:28 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:28 --> Input Class Initialized
-INFO - 2022-02-09 15:32:28 --> Language Class Initialized
-INFO - 2022-02-09 15:32:28 --> URI Class Initialized
-INFO - 2022-02-09 15:32:28 --> Router Class Initialized
-INFO - 2022-02-09 15:32:28 --> Config Class Initialized
-INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:28 --> Output Class Initialized
-INFO - 2022-02-09 15:32:28 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:28 --> Input Class Initialized
-INFO - 2022-02-09 15:32:28 --> Language Class Initialized
-INFO - 2022-02-09 15:32:28 --> URI Class Initialized
-ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:28 --> Router Class Initialized
-INFO - 2022-02-09 15:32:28 --> Router Class Initialized
-INFO - 2022-02-09 15:32:28 --> Output Class Initialized
-INFO - 2022-02-09 15:32:28 --> Output Class Initialized
-INFO - 2022-02-09 15:32:28 --> Security Class Initialized
-INFO - 2022-02-09 15:32:28 --> Output Class Initialized
-INFO - 2022-02-09 15:32:28 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:28 --> Input Class Initialized
-INFO - 2022-02-09 15:32:28 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:28 --> Language Class Initialized
-INFO - 2022-02-09 15:32:28 --> Input Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
-ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:28 --> Input Class Initialized
-INFO - 2022-02-09 15:32:28 --> Language Class Initialized
-INFO - 2022-02-09 15:32:28 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assets/admin
-ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
-ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:28 --> Input Class Initialized
-INFO - 2022-02-09 15:32:28 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:28 --> Config Class Initialized
-INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:28 --> URI Class Initialized
-INFO - 2022-02-09 15:32:28 --> Router Class Initialized
-INFO - 2022-02-09 15:32:28 --> Output Class Initialized
-INFO - 2022-02-09 15:32:28 --> Config Class Initialized
-INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:28 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
-DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:28 --> URI Class Initialized
-INFO - 2022-02-09 15:32:28 --> Router Class Initialized
-INFO - 2022-02-09 15:32:28 --> Output Class Initialized
-INFO - 2022-02-09 15:32:28 --> Security Class Initialized
-INFO - 2022-02-09 15:32:28 --> Config Class Initialized
-INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:28 --> Config Class Initialized
-INFO - 2022-02-09 15:32:28 --> Input Class Initialized
-INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:28 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:28 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:28 --> Config Class Initialized
-INFO - 2022-02-09 15:32:28 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:28 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:28 --> URI Class Initialized
-INFO - 2022-02-09 15:32:28 --> Router Class Initialized
-INFO - 2022-02-09 15:32:28 --> Output Class Initialized
-INFO - 2022-02-09 15:32:28 --> URI Class Initialized
-INFO - 2022-02-09 15:32:28 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:28 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:28 --> Router Class Initialized
-INFO - 2022-02-09 15:32:28 --> Input Class Initialized
-INFO - 2022-02-09 15:32:29 --> Language Class Initialized
-INFO - 2022-02-09 15:32:29 --> Output Class Initialized
-ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:29 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:29 --> Input Class Initialized
-INFO - 2022-02-09 15:32:29 --> Language Class Initialized
-INFO - 2022-02-09 15:32:29 --> Input Class Initialized
-INFO - 2022-02-09 15:32:29 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assets/admin
-ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:29 --> Config Class Initialized
-INFO - 2022-02-09 15:32:29 --> Config Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:29 --> URI Class Initialized
-INFO - 2022-02-09 15:32:29 --> Router Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:29 --> Output Class Initialized
-INFO - 2022-02-09 15:32:29 --> URI Class Initialized
-INFO - 2022-02-09 15:32:29 --> Security Class Initialized
-INFO - 2022-02-09 15:32:29 --> Router Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:29 --> Config Class Initialized
-INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:29 --> Input Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:29 --> URI Class Initialized
-INFO - 2022-02-09 15:32:29 --> URI Class Initialized
-INFO - 2022-02-09 15:32:29 --> Output Class Initialized
-INFO - 2022-02-09 15:32:29 --> Router Class Initialized
-INFO - 2022-02-09 15:32:29 --> Security Class Initialized
-INFO - 2022-02-09 15:32:29 --> Output Class Initialized
-INFO - 2022-02-09 15:32:29 --> Security Class Initialized
-INFO - 2022-02-09 15:32:29 --> Language Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:29 --> Input Class Initialized
-ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:29 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:29 --> Input Class Initialized
-INFO - 2022-02-09 15:32:29 --> Config Class Initialized
-INFO - 2022-02-09 15:32:29 --> Config Class Initialized
-INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:29 --> Language Class Initialized
-INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:29 --> Router Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:29 --> Output Class Initialized
-INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:29 --> Config Class Initialized
-ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:29 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:29 --> Input Class Initialized
-INFO - 2022-02-09 15:32:29 --> Language Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
-ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:29 --> URI Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:29 --> Router Class Initialized
-INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:29 --> Output Class Initialized
-INFO - 2022-02-09 15:32:29 --> URI Class Initialized
-INFO - 2022-02-09 15:32:29 --> Security Class Initialized
-INFO - 2022-02-09 15:32:29 --> Router Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:29 --> Input Class Initialized
-INFO - 2022-02-09 15:32:29 --> Config Class Initialized
-INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:29 --> URI Class Initialized
-INFO - 2022-02-09 15:32:29 --> Router Class Initialized
-INFO - 2022-02-09 15:32:29 --> Output Class Initialized
-INFO - 2022-02-09 15:32:29 --> Config Class Initialized
-INFO - 2022-02-09 15:32:29 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:29 --> Input Class Initialized
-INFO - 2022-02-09 15:32:29 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:29 --> Output Class Initialized
-INFO - 2022-02-09 15:32:29 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:29 --> Input Class Initialized
-INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:29 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:29 --> Config Class Initialized
-INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:29 --> URI Class Initialized
-INFO - 2022-02-09 15:32:29 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:29 --> URI Class Initialized
-INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:29 --> Config Class Initialized
-INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:29 --> Router Class Initialized
-INFO - 2022-02-09 15:32:29 --> Output Class Initialized
-INFO - 2022-02-09 15:32:29 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:29 --> Input Class Initialized
-INFO - 2022-02-09 15:32:29 --> Config Class Initialized
-INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
-INFO - 2022-02-09 15:32:29 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:29 --> URI Class Initialized
-INFO - 2022-02-09 15:32:29 --> URI Class Initialized
-INFO - 2022-02-09 15:32:29 --> Router Class Initialized
-INFO - 2022-02-09 15:32:29 --> Router Class Initialized
-INFO - 2022-02-09 15:32:29 --> Output Class Initialized
-INFO - 2022-02-09 15:32:29 --> Config Class Initialized
-INFO - 2022-02-09 15:32:29 --> Security Class Initialized
-INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:29 --> Input Class Initialized
-INFO - 2022-02-09 15:32:29 --> Language Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:29 --> Router Class Initialized
-INFO - 2022-02-09 15:32:29 --> URI Class Initialized
-INFO - 2022-02-09 15:32:29 --> Output Class Initialized
-INFO - 2022-02-09 15:32:29 --> Router Class Initialized
-INFO - 2022-02-09 15:32:29 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:29 --> Input Class Initialized
-INFO - 2022-02-09 15:32:29 --> Output Class Initialized
-INFO - 2022-02-09 15:32:29 --> Language Class Initialized
-INFO - 2022-02-09 15:32:29 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:29 --> Input Class Initialized
-INFO - 2022-02-09 15:32:29 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
-ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:29 --> Output Class Initialized
-INFO - 2022-02-09 15:32:29 --> URI Class Initialized
-INFO - 2022-02-09 15:32:29 --> Config Class Initialized
-INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
-ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/js
-INFO - 2022-02-09 15:32:29 --> Router Class Initialized
-INFO - 2022-02-09 15:32:29 --> Output Class Initialized
-INFO - 2022-02-09 15:32:29 --> Security Class Initialized
-INFO - 2022-02-09 15:32:29 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:29 --> Input Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:29 --> Language Class Initialized
-INFO - 2022-02-09 15:32:29 --> Input Class Initialized
-INFO - 2022-02-09 15:32:29 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/libs
-ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assetscustom/libs
-DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:29 --> URI Class Initialized
-INFO - 2022-02-09 15:32:29 --> Router Class Initialized
-INFO - 2022-02-09 15:32:29 --> Output Class Initialized
-INFO - 2022-02-09 15:32:29 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:29 --> Input Class Initialized
-INFO - 2022-02-09 15:32:29 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:29 --> Config Class Initialized
-INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:29 --> URI Class Initialized
-INFO - 2022-02-09 15:32:29 --> Router Class Initialized
-INFO - 2022-02-09 15:32:29 --> Output Class Initialized
-INFO - 2022-02-09 15:32:29 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:29 --> Input Class Initialized
-INFO - 2022-02-09 15:32:29 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:29 --> Config Class Initialized
-INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:29 --> URI Class Initialized
-INFO - 2022-02-09 15:32:29 --> Router Class Initialized
-INFO - 2022-02-09 15:32:29 --> Output Class Initialized
-INFO - 2022-02-09 15:32:29 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:29 --> Input Class Initialized
-INFO - 2022-02-09 15:32:29 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:29 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:29 --> Config Class Initialized
-INFO - 2022-02-09 15:32:29 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:29 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:29 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:30 --> URI Class Initialized
-INFO - 2022-02-09 15:32:30 --> Router Class Initialized
-INFO - 2022-02-09 15:32:30 --> Output Class Initialized
-INFO - 2022-02-09 15:32:30 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:30 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:30 --> Input Class Initialized
-INFO - 2022-02-09 15:32:30 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:30 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:30 --> Config Class Initialized
-INFO - 2022-02-09 15:32:30 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:30 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:30 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:30 --> URI Class Initialized
-INFO - 2022-02-09 15:32:30 --> Router Class Initialized
-INFO - 2022-02-09 15:32:30 --> Output Class Initialized
-INFO - 2022-02-09 15:32:30 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:30 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:30 --> Input Class Initialized
-INFO - 2022-02-09 15:32:30 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:30 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:30 --> Config Class Initialized
-INFO - 2022-02-09 15:32:30 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:30 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:30 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:30 --> URI Class Initialized
-INFO - 2022-02-09 15:32:30 --> Router Class Initialized
-INFO - 2022-02-09 15:32:30 --> Output Class Initialized
-INFO - 2022-02-09 15:32:30 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:30 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:30 --> Input Class Initialized
-INFO - 2022-02-09 15:32:30 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:30 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:30 --> Config Class Initialized
-INFO - 2022-02-09 15:32:30 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:30 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:30 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:30 --> URI Class Initialized
-INFO - 2022-02-09 15:32:30 --> Router Class Initialized
-INFO - 2022-02-09 15:32:30 --> Output Class Initialized
-INFO - 2022-02-09 15:32:30 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:30 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:30 --> Input Class Initialized
-INFO - 2022-02-09 15:32:30 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:30 --> 404 Page Not Found: Assetsadmin/vendor_components
-INFO - 2022-02-09 15:32:30 --> Config Class Initialized
-INFO - 2022-02-09 15:32:30 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:30 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:30 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:30 --> URI Class Initialized
-INFO - 2022-02-09 15:32:30 --> Router Class Initialized
-INFO - 2022-02-09 15:32:30 --> Output Class Initialized
-INFO - 2022-02-09 15:32:30 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:30 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:30 --> Input Class Initialized
-INFO - 2022-02-09 15:32:30 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:30 --> 404 Page Not Found: Assets/vendor_components
-INFO - 2022-02-09 15:32:30 --> Config Class Initialized
-INFO - 2022-02-09 15:32:30 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:30 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:30 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:30 --> URI Class Initialized
-INFO - 2022-02-09 15:32:30 --> Router Class Initialized
-INFO - 2022-02-09 15:32:30 --> Output Class Initialized
-INFO - 2022-02-09 15:32:30 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:30 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:30 --> Input Class Initialized
-INFO - 2022-02-09 15:32:30 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:30 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:30 --> Config Class Initialized
-INFO - 2022-02-09 15:32:30 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:30 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:30 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:30 --> URI Class Initialized
-INFO - 2022-02-09 15:32:30 --> Router Class Initialized
-INFO - 2022-02-09 15:32:30 --> Output Class Initialized
-INFO - 2022-02-09 15:32:30 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:30 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:30 --> Input Class Initialized
-INFO - 2022-02-09 15:32:30 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:30 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:30 --> Config Class Initialized
-INFO - 2022-02-09 15:32:30 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:30 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:30 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:30 --> URI Class Initialized
-INFO - 2022-02-09 15:32:30 --> Router Class Initialized
-INFO - 2022-02-09 15:32:30 --> Output Class Initialized
-INFO - 2022-02-09 15:32:30 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:30 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:30 --> Input Class Initialized
-INFO - 2022-02-09 15:32:30 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:30 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:30 --> Config Class Initialized
-INFO - 2022-02-09 15:32:30 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:30 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:30 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:30 --> URI Class Initialized
-INFO - 2022-02-09 15:32:30 --> Router Class Initialized
-INFO - 2022-02-09 15:32:30 --> Output Class Initialized
-INFO - 2022-02-09 15:32:30 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:30 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:30 --> Input Class Initialized
-INFO - 2022-02-09 15:32:30 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:30 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:30 --> Config Class Initialized
-INFO - 2022-02-09 15:32:30 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:30 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:30 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:30 --> URI Class Initialized
-INFO - 2022-02-09 15:32:31 --> Router Class Initialized
-INFO - 2022-02-09 15:32:31 --> Output Class Initialized
-INFO - 2022-02-09 15:32:31 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:31 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:31 --> Input Class Initialized
-INFO - 2022-02-09 15:32:31 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:31 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:31 --> Config Class Initialized
-INFO - 2022-02-09 15:32:31 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:31 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:31 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:31 --> URI Class Initialized
-INFO - 2022-02-09 15:32:31 --> Router Class Initialized
-INFO - 2022-02-09 15:32:31 --> Output Class Initialized
-INFO - 2022-02-09 15:32:31 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:31 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:31 --> Input Class Initialized
-INFO - 2022-02-09 15:32:31 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:31 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:31 --> Config Class Initialized
-INFO - 2022-02-09 15:32:31 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:31 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:31 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:31 --> URI Class Initialized
-INFO - 2022-02-09 15:32:31 --> Router Class Initialized
-INFO - 2022-02-09 15:32:31 --> Output Class Initialized
-INFO - 2022-02-09 15:32:31 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:31 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:31 --> Input Class Initialized
-INFO - 2022-02-09 15:32:31 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:31 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:31 --> Config Class Initialized
-INFO - 2022-02-09 15:32:31 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:31 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:31 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:31 --> URI Class Initialized
-INFO - 2022-02-09 15:32:31 --> Router Class Initialized
-INFO - 2022-02-09 15:32:31 --> Output Class Initialized
-INFO - 2022-02-09 15:32:31 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:31 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:31 --> Input Class Initialized
-INFO - 2022-02-09 15:32:31 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:31 --> 404 Page Not Found: Assets/admin
-INFO - 2022-02-09 15:32:31 --> Config Class Initialized
-INFO - 2022-02-09 15:32:31 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:31 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:31 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:31 --> URI Class Initialized
-INFO - 2022-02-09 15:32:31 --> Router Class Initialized
-INFO - 2022-02-09 15:32:31 --> Output Class Initialized
-INFO - 2022-02-09 15:32:31 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:31 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:31 --> Input Class Initialized
-INFO - 2022-02-09 15:32:31 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:31 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:31 --> Config Class Initialized
-INFO - 2022-02-09 15:32:31 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:31 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:31 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:31 --> URI Class Initialized
-INFO - 2022-02-09 15:32:31 --> Router Class Initialized
-INFO - 2022-02-09 15:32:31 --> Output Class Initialized
-INFO - 2022-02-09 15:32:31 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:31 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:31 --> Input Class Initialized
-INFO - 2022-02-09 15:32:31 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:31 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:31 --> Config Class Initialized
-INFO - 2022-02-09 15:32:31 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:31 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:31 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:31 --> URI Class Initialized
-INFO - 2022-02-09 15:32:31 --> Router Class Initialized
-INFO - 2022-02-09 15:32:31 --> Output Class Initialized
-INFO - 2022-02-09 15:32:31 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:31 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:31 --> Input Class Initialized
-INFO - 2022-02-09 15:32:31 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:31 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:31 --> Config Class Initialized
-INFO - 2022-02-09 15:32:31 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:31 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:31 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:31 --> URI Class Initialized
-INFO - 2022-02-09 15:32:31 --> Router Class Initialized
-INFO - 2022-02-09 15:32:31 --> Output Class Initialized
-INFO - 2022-02-09 15:32:31 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:31 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:31 --> Input Class Initialized
-INFO - 2022-02-09 15:32:31 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:31 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:31 --> Config Class Initialized
-INFO - 2022-02-09 15:32:31 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:31 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:31 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:31 --> URI Class Initialized
-INFO - 2022-02-09 15:32:31 --> Router Class Initialized
-INFO - 2022-02-09 15:32:31 --> Output Class Initialized
-INFO - 2022-02-09 15:32:31 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:31 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:31 --> Input Class Initialized
-INFO - 2022-02-09 15:32:31 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:31 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:31 --> Config Class Initialized
-INFO - 2022-02-09 15:32:31 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:31 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:31 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:31 --> URI Class Initialized
-INFO - 2022-02-09 15:32:31 --> Router Class Initialized
-INFO - 2022-02-09 15:32:31 --> Output Class Initialized
-INFO - 2022-02-09 15:32:31 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:31 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:31 --> Input Class Initialized
-INFO - 2022-02-09 15:32:31 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:31 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:32 --> Config Class Initialized
-INFO - 2022-02-09 15:32:32 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:32 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:32 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:32 --> URI Class Initialized
-INFO - 2022-02-09 15:32:32 --> Router Class Initialized
-INFO - 2022-02-09 15:32:32 --> Output Class Initialized
-INFO - 2022-02-09 15:32:32 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:32 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:32 --> Input Class Initialized
-INFO - 2022-02-09 15:32:32 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:32 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:32 --> Config Class Initialized
-INFO - 2022-02-09 15:32:32 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:32 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:32 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:32 --> URI Class Initialized
-INFO - 2022-02-09 15:32:32 --> Router Class Initialized
-INFO - 2022-02-09 15:32:32 --> Output Class Initialized
-INFO - 2022-02-09 15:32:32 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:32 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:32 --> Input Class Initialized
-INFO - 2022-02-09 15:32:32 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:32 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:32 --> Config Class Initialized
-INFO - 2022-02-09 15:32:32 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:32 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:32 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:32 --> URI Class Initialized
-INFO - 2022-02-09 15:32:32 --> Router Class Initialized
-INFO - 2022-02-09 15:32:32 --> Output Class Initialized
-INFO - 2022-02-09 15:32:32 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:32 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:32 --> Input Class Initialized
-INFO - 2022-02-09 15:32:32 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:32 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:32 --> Config Class Initialized
-INFO - 2022-02-09 15:32:32 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:32 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:32 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:32 --> URI Class Initialized
-INFO - 2022-02-09 15:32:32 --> Router Class Initialized
-INFO - 2022-02-09 15:32:32 --> Output Class Initialized
-INFO - 2022-02-09 15:32:32 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:32 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:32 --> Input Class Initialized
-INFO - 2022-02-09 15:32:32 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:32 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:32 --> Config Class Initialized
-INFO - 2022-02-09 15:32:32 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:32 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:32 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:32 --> URI Class Initialized
-INFO - 2022-02-09 15:32:32 --> Router Class Initialized
-INFO - 2022-02-09 15:32:32 --> Output Class Initialized
-INFO - 2022-02-09 15:32:32 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:32 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:32 --> Input Class Initialized
-INFO - 2022-02-09 15:32:32 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:32 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:32 --> Config Class Initialized
-INFO - 2022-02-09 15:32:32 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:32 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:32 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:32 --> URI Class Initialized
-INFO - 2022-02-09 15:32:32 --> Router Class Initialized
-INFO - 2022-02-09 15:32:32 --> Output Class Initialized
-INFO - 2022-02-09 15:32:32 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:32 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:32 --> Input Class Initialized
-INFO - 2022-02-09 15:32:32 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:32 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:32 --> Config Class Initialized
-INFO - 2022-02-09 15:32:32 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:32 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:32 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:32 --> URI Class Initialized
-INFO - 2022-02-09 15:32:32 --> Router Class Initialized
-INFO - 2022-02-09 15:32:32 --> Output Class Initialized
-INFO - 2022-02-09 15:32:32 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:32 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:32 --> Input Class Initialized
-INFO - 2022-02-09 15:32:32 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:32 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:32 --> Config Class Initialized
-INFO - 2022-02-09 15:32:32 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:32 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:32 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:32 --> URI Class Initialized
-INFO - 2022-02-09 15:32:32 --> Router Class Initialized
-INFO - 2022-02-09 15:32:32 --> Output Class Initialized
-INFO - 2022-02-09 15:32:32 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:32 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:32 --> Input Class Initialized
-INFO - 2022-02-09 15:32:32 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:32 --> 404 Page Not Found: Assetscustom/js
-INFO - 2022-02-09 15:32:32 --> Config Class Initialized
-INFO - 2022-02-09 15:32:32 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:32 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:32 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:32 --> URI Class Initialized
-INFO - 2022-02-09 15:32:33 --> Router Class Initialized
-INFO - 2022-02-09 15:32:33 --> Output Class Initialized
-INFO - 2022-02-09 15:32:33 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:33 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:33 --> Input Class Initialized
-INFO - 2022-02-09 15:32:33 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:33 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:33 --> Config Class Initialized
-INFO - 2022-02-09 15:32:33 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:33 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:33 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:33 --> URI Class Initialized
-INFO - 2022-02-09 15:32:33 --> Router Class Initialized
-INFO - 2022-02-09 15:32:33 --> Output Class Initialized
-INFO - 2022-02-09 15:32:33 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:33 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:33 --> Input Class Initialized
-INFO - 2022-02-09 15:32:33 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:33 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:33 --> Config Class Initialized
-INFO - 2022-02-09 15:32:33 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:33 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:33 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:33 --> URI Class Initialized
-INFO - 2022-02-09 15:32:33 --> Router Class Initialized
-INFO - 2022-02-09 15:32:33 --> Output Class Initialized
-INFO - 2022-02-09 15:32:33 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:33 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:33 --> Input Class Initialized
-INFO - 2022-02-09 15:32:33 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:33 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:32:33 --> Config Class Initialized
-INFO - 2022-02-09 15:32:33 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:32:33 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:32:33 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:32:33 --> URI Class Initialized
-INFO - 2022-02-09 15:32:33 --> Router Class Initialized
-INFO - 2022-02-09 15:32:33 --> Output Class Initialized
-INFO - 2022-02-09 15:32:33 --> Security Class Initialized
-DEBUG - 2022-02-09 15:32:33 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:32:33 --> Input Class Initialized
-INFO - 2022-02-09 15:32:33 --> Language Class Initialized
-ERROR - 2022-02-09 15:32:33 --> 404 Page Not Found: Assetscustom/libs
-INFO - 2022-02-09 15:33:04 --> Config Class Initialized
-INFO - 2022-02-09 15:33:04 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:33:04 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:33:04 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:33:04 --> URI Class Initialized
-DEBUG - 2022-02-09 15:33:04 --> No URI present. Default controller set.
-INFO - 2022-02-09 15:33:04 --> Router Class Initialized
-INFO - 2022-02-09 15:33:04 --> Output Class Initialized
-INFO - 2022-02-09 15:33:04 --> Security Class Initialized
-DEBUG - 2022-02-09 15:33:04 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:33:04 --> Input Class Initialized
-INFO - 2022-02-09 15:33:04 --> Language Class Initialized
-INFO - 2022-02-09 15:33:04 --> Loader Class Initialized
-INFO - 2022-02-09 15:33:04 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:33:04 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:33:04 --> Helper loaded: idex_helper
-INFO - 2022-02-09 15:33:04 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:33:04 --> Email Class Initialized
-INFO - 2022-02-09 15:33:04 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:33:04 --> Controller Class Initialized
-INFO - 2022-02-09 15:33:04 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:33:04 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:33:04 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:33:04 --> Model Class Initialized
-DEBUG - 2022-02-09 15:33:04 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:33:04 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:33:04 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-INFO - 2022-02-09 15:33:04 --> File loaded: C:\xampp\htdocs\firestation\application\views\dashboard.php
-INFO - 2022-02-09 15:33:04 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
-INFO - 2022-02-09 15:33:04 --> Final output sent to browser
-DEBUG - 2022-02-09 15:33:04 --> Total execution time: 0.3118
-INFO - 2022-02-09 15:34:06 --> Config Class Initialized
-INFO - 2022-02-09 15:34:06 --> Hooks Class Initialized
-DEBUG - 2022-02-09 15:34:06 --> UTF-8 Support Enabled
-INFO - 2022-02-09 15:34:06 --> Utf8 Class Initialized
-INFO - 2022-02-09 15:34:06 --> URI Class Initialized
-INFO - 2022-02-09 15:34:06 --> Router Class Initialized
-INFO - 2022-02-09 15:34:06 --> Output Class Initialized
-INFO - 2022-02-09 15:34:06 --> Security Class Initialized
-DEBUG - 2022-02-09 15:34:06 --> Global POST, GET and COOKIE data sanitized
-INFO - 2022-02-09 15:34:06 --> Input Class Initialized
-INFO - 2022-02-09 15:34:06 --> Language Class Initialized
-INFO - 2022-02-09 15:34:06 --> Loader Class Initialized
-INFO - 2022-02-09 15:34:06 --> Helper loaded: url_helper
-INFO - 2022-02-09 15:34:06 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:34:06 --> Helper loaded: idex_helper
-INFO - 2022-02-09 15:34:06 --> Database Driver Class Initialized
-INFO - 2022-02-09 15:34:06 --> Email Class Initialized
-INFO - 2022-02-09 15:34:06 --> Session: Class initialized using 'files' driver.
-INFO - 2022-02-09 15:34:06 --> Controller Class Initialized
-INFO - 2022-02-09 15:34:06 --> Helper loaded: form_helper
-INFO - 2022-02-09 15:34:06 --> Form Validation Class Initialized
-DEBUG - 2022-02-09 15:34:06 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:34:06 --> Model Class Initialized
-DEBUG - 2022-02-09 15:34:06 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:34:06 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:34:06 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-INFO - 2022-02-09 15:34:06 --> File loaded: C:\xampp\htdocs\firestation\application\views\exitingvhlistsfs.php
-INFO - 2022-02-09 15:34:06 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
-INFO - 2022-02-09 15:34:06 --> Final output sent to browser
-DEBUG - 2022-02-09 15:34:06 --> Total execution time: 0.3463
+INFO - 2022-02-09 15:02:14 --> Config Class Initialized
+INFO - 2022-02-09 15:02:14 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:14 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:14 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:14 --> URI Class Initialized
+INFO - 2022-02-09 15:02:14 --> Router Class Initialized
+INFO - 2022-02-09 15:02:14 --> Output Class Initialized
+INFO - 2022-02-09 15:02:14 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:14 --> Input Class Initialized
+INFO - 2022-02-09 15:02:14 --> Language Class Initialized
+INFO - 2022-02-09 15:02:14 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:14 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:14 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:14 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:14 --> Email Class Initialized
+INFO - 2022-02-09 15:02:14 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:14 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:14 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:14 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:14 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:14 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:14 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:14 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:14 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:25 --> Config Class Initialized
+INFO - 2022-02-09 15:02:25 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:25 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:25 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:25 --> URI Class Initialized
+INFO - 2022-02-09 15:02:25 --> Router Class Initialized
+INFO - 2022-02-09 15:02:25 --> Output Class Initialized
+INFO - 2022-02-09 15:02:25 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:25 --> Input Class Initialized
+INFO - 2022-02-09 15:02:25 --> Language Class Initialized
+INFO - 2022-02-09 15:02:25 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:25 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:25 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:25 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:25 --> Email Class Initialized
+INFO - 2022-02-09 15:02:25 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:25 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:25 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:25 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:25 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:25 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:25 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:25 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:25 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:47 --> Config Class Initialized
+INFO - 2022-02-09 15:02:47 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:47 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:47 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:47 --> URI Class Initialized
+INFO - 2022-02-09 15:02:47 --> Router Class Initialized
+INFO - 2022-02-09 15:02:47 --> Output Class Initialized
+INFO - 2022-02-09 15:02:47 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:47 --> Input Class Initialized
+INFO - 2022-02-09 15:02:47 --> Language Class Initialized
+INFO - 2022-02-09 15:02:47 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:47 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:47 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:47 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:47 --> Email Class Initialized
+INFO - 2022-02-09 15:02:47 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:47 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:47 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:47 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:47 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:47 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:47 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:47 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:47 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:47 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:47 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:48 --> Config Class Initialized
+INFO - 2022-02-09 15:02:48 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:48 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:48 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:48 --> URI Class Initialized
+INFO - 2022-02-09 15:02:48 --> Router Class Initialized
+INFO - 2022-02-09 15:02:48 --> Output Class Initialized
+INFO - 2022-02-09 15:02:48 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:48 --> Input Class Initialized
+INFO - 2022-02-09 15:02:48 --> Language Class Initialized
+INFO - 2022-02-09 15:02:48 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:48 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:48 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:48 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:48 --> Email Class Initialized
+INFO - 2022-02-09 15:02:48 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:48 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:48 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:48 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:48 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:48 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:48 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:48 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:48 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:48 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:48 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:50 --> Config Class Initialized
+INFO - 2022-02-09 15:02:50 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:50 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:50 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:50 --> URI Class Initialized
+INFO - 2022-02-09 15:02:50 --> Router Class Initialized
+INFO - 2022-02-09 15:02:50 --> Output Class Initialized
+INFO - 2022-02-09 15:02:50 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:50 --> Input Class Initialized
+INFO - 2022-02-09 15:02:50 --> Language Class Initialized
+INFO - 2022-02-09 15:02:50 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:50 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:50 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:50 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:50 --> Email Class Initialized
+INFO - 2022-02-09 15:02:50 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:50 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:50 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:50 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:50 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:50 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:50 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:50 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:50 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:50 --> Config Class Initialized
+INFO - 2022-02-09 15:02:50 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:50 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:50 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:50 --> URI Class Initialized
+INFO - 2022-02-09 15:02:50 --> Router Class Initialized
+INFO - 2022-02-09 15:02:50 --> Output Class Initialized
+INFO - 2022-02-09 15:02:50 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:50 --> Input Class Initialized
+INFO - 2022-02-09 15:02:50 --> Language Class Initialized
+INFO - 2022-02-09 15:02:50 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:50 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:50 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:50 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:50 --> Email Class Initialized
+INFO - 2022-02-09 15:02:50 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:50 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:50 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:50 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:50 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:50 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:50 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:50 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:50 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:51 --> Config Class Initialized
+INFO - 2022-02-09 15:02:51 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:51 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:51 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:51 --> URI Class Initialized
+INFO - 2022-02-09 15:02:51 --> Router Class Initialized
+INFO - 2022-02-09 15:02:51 --> Output Class Initialized
+INFO - 2022-02-09 15:02:51 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:51 --> Input Class Initialized
+INFO - 2022-02-09 15:02:51 --> Language Class Initialized
+INFO - 2022-02-09 15:02:51 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:51 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:51 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:51 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:51 --> Email Class Initialized
+INFO - 2022-02-09 15:02:51 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:51 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:51 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:51 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:51 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:51 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:51 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:51 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:51 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:51 --> Config Class Initialized
+INFO - 2022-02-09 15:02:51 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:51 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:51 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:51 --> URI Class Initialized
+INFO - 2022-02-09 15:02:51 --> Router Class Initialized
+INFO - 2022-02-09 15:02:51 --> Output Class Initialized
+INFO - 2022-02-09 15:02:51 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:51 --> Input Class Initialized
+INFO - 2022-02-09 15:02:51 --> Language Class Initialized
+INFO - 2022-02-09 15:02:51 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:51 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:51 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:51 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:51 --> Email Class Initialized
+INFO - 2022-02-09 15:02:51 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:51 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:51 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:51 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:51 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:51 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:51 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:51 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:51 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:51 --> Config Class Initialized
+INFO - 2022-02-09 15:02:51 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:51 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:51 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:51 --> URI Class Initialized
+INFO - 2022-02-09 15:02:51 --> Router Class Initialized
+INFO - 2022-02-09 15:02:51 --> Output Class Initialized
+INFO - 2022-02-09 15:02:51 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:51 --> Input Class Initialized
+INFO - 2022-02-09 15:02:51 --> Language Class Initialized
+INFO - 2022-02-09 15:02:51 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:51 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:51 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:51 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:51 --> Email Class Initialized
+INFO - 2022-02-09 15:02:51 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:51 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:51 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:51 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:51 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:51 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:51 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:51 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:51 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:51 --> Config Class Initialized
+INFO - 2022-02-09 15:02:51 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:51 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:51 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:51 --> URI Class Initialized
+INFO - 2022-02-09 15:02:51 --> Router Class Initialized
+INFO - 2022-02-09 15:02:51 --> Output Class Initialized
+INFO - 2022-02-09 15:02:51 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:51 --> Input Class Initialized
+INFO - 2022-02-09 15:02:51 --> Language Class Initialized
+INFO - 2022-02-09 15:02:51 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:51 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:51 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:51 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:51 --> Email Class Initialized
+INFO - 2022-02-09 15:02:51 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:51 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:51 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:51 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:51 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:51 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:51 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:51 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:51 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:52 --> Config Class Initialized
+INFO - 2022-02-09 15:02:52 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:52 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:52 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:52 --> URI Class Initialized
+INFO - 2022-02-09 15:02:52 --> Router Class Initialized
+INFO - 2022-02-09 15:02:52 --> Output Class Initialized
+INFO - 2022-02-09 15:02:52 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:52 --> Input Class Initialized
+INFO - 2022-02-09 15:02:52 --> Language Class Initialized
+INFO - 2022-02-09 15:02:52 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:52 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:52 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:52 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:52 --> Email Class Initialized
+INFO - 2022-02-09 15:02:52 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:52 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:52 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:52 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:52 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:52 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:52 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:52 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:52 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:52 --> Config Class Initialized
+INFO - 2022-02-09 15:02:52 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:52 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:52 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:52 --> URI Class Initialized
+INFO - 2022-02-09 15:02:52 --> Router Class Initialized
+INFO - 2022-02-09 15:02:52 --> Output Class Initialized
+INFO - 2022-02-09 15:02:52 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:52 --> Input Class Initialized
+INFO - 2022-02-09 15:02:52 --> Language Class Initialized
+INFO - 2022-02-09 15:02:52 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:52 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:52 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:52 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:52 --> Email Class Initialized
+INFO - 2022-02-09 15:02:52 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:52 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:52 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:52 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:52 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:52 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:52 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:52 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:52 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:52 --> Config Class Initialized
+INFO - 2022-02-09 15:02:52 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:52 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:52 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:52 --> URI Class Initialized
+INFO - 2022-02-09 15:02:52 --> Router Class Initialized
+INFO - 2022-02-09 15:02:52 --> Output Class Initialized
+INFO - 2022-02-09 15:02:52 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:52 --> Input Class Initialized
+INFO - 2022-02-09 15:02:52 --> Language Class Initialized
+INFO - 2022-02-09 15:02:52 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:52 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:52 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:52 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:52 --> Email Class Initialized
+INFO - 2022-02-09 15:02:52 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:52 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:52 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:52 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:52 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:52 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:53 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:53 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:53 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:53 --> Config Class Initialized
+INFO - 2022-02-09 15:02:53 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:53 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:53 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:53 --> URI Class Initialized
+INFO - 2022-02-09 15:02:53 --> Router Class Initialized
+INFO - 2022-02-09 15:02:53 --> Output Class Initialized
+INFO - 2022-02-09 15:02:53 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:53 --> Input Class Initialized
+INFO - 2022-02-09 15:02:53 --> Language Class Initialized
+INFO - 2022-02-09 15:02:53 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:53 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:53 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:53 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:53 --> Email Class Initialized
+INFO - 2022-02-09 15:02:53 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:53 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:53 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:53 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:53 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:53 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:53 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:53 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:53 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:53 --> Config Class Initialized
+INFO - 2022-02-09 15:02:53 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:53 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:53 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:53 --> URI Class Initialized
+INFO - 2022-02-09 15:02:53 --> Router Class Initialized
+INFO - 2022-02-09 15:02:53 --> Output Class Initialized
+INFO - 2022-02-09 15:02:53 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:53 --> Input Class Initialized
+INFO - 2022-02-09 15:02:53 --> Language Class Initialized
+INFO - 2022-02-09 15:02:53 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:53 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:53 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:53 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:53 --> Email Class Initialized
+INFO - 2022-02-09 15:02:53 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:53 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:53 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:53 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:53 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:53 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:53 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:53 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:53 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:53 --> Config Class Initialized
+INFO - 2022-02-09 15:02:53 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:53 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:53 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:53 --> URI Class Initialized
+INFO - 2022-02-09 15:02:53 --> Router Class Initialized
+INFO - 2022-02-09 15:02:53 --> Output Class Initialized
+INFO - 2022-02-09 15:02:53 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:53 --> Input Class Initialized
+INFO - 2022-02-09 15:02:53 --> Language Class Initialized
+INFO - 2022-02-09 15:02:53 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:53 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:53 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:53 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:53 --> Email Class Initialized
+INFO - 2022-02-09 15:02:53 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:53 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:53 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:53 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:53 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:53 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:53 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:53 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:53 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:53 --> Config Class Initialized
+INFO - 2022-02-09 15:02:53 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:53 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:53 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:53 --> URI Class Initialized
+INFO - 2022-02-09 15:02:53 --> Router Class Initialized
+INFO - 2022-02-09 15:02:53 --> Output Class Initialized
+INFO - 2022-02-09 15:02:53 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:53 --> Input Class Initialized
+INFO - 2022-02-09 15:02:53 --> Language Class Initialized
+INFO - 2022-02-09 15:02:53 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:53 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:53 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:53 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:53 --> Email Class Initialized
+INFO - 2022-02-09 15:02:53 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:53 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:53 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:53 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:53 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:53 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:53 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:53 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:53 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:54 --> Config Class Initialized
+INFO - 2022-02-09 15:02:54 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:54 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:54 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:54 --> URI Class Initialized
+INFO - 2022-02-09 15:02:54 --> Router Class Initialized
+INFO - 2022-02-09 15:02:54 --> Output Class Initialized
+INFO - 2022-02-09 15:02:54 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:54 --> Input Class Initialized
+INFO - 2022-02-09 15:02:54 --> Language Class Initialized
+INFO - 2022-02-09 15:02:54 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:54 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:54 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:54 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:54 --> Email Class Initialized
+INFO - 2022-02-09 15:02:54 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:54 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:54 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:54 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:54 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:54 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:54 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:54 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:54 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:54 --> Config Class Initialized
+INFO - 2022-02-09 15:02:54 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:54 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:54 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:54 --> URI Class Initialized
+INFO - 2022-02-09 15:02:54 --> Router Class Initialized
+INFO - 2022-02-09 15:02:54 --> Output Class Initialized
+INFO - 2022-02-09 15:02:54 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:54 --> Input Class Initialized
+INFO - 2022-02-09 15:02:54 --> Language Class Initialized
+INFO - 2022-02-09 15:02:54 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:54 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:54 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:54 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:54 --> Email Class Initialized
+INFO - 2022-02-09 15:02:54 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:54 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:54 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:54 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:54 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:54 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:54 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:54 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:54 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:54 --> Config Class Initialized
+INFO - 2022-02-09 15:02:54 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:54 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:54 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:54 --> URI Class Initialized
+INFO - 2022-02-09 15:02:54 --> Router Class Initialized
+INFO - 2022-02-09 15:02:54 --> Output Class Initialized
+INFO - 2022-02-09 15:02:54 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:54 --> Input Class Initialized
+INFO - 2022-02-09 15:02:54 --> Language Class Initialized
+INFO - 2022-02-09 15:02:54 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:54 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:54 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:54 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:54 --> Email Class Initialized
+INFO - 2022-02-09 15:02:54 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:54 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:54 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:54 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:54 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:54 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:54 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:54 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:54 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:54 --> Config Class Initialized
+INFO - 2022-02-09 15:02:54 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:54 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:54 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:54 --> URI Class Initialized
+INFO - 2022-02-09 15:02:54 --> Router Class Initialized
+INFO - 2022-02-09 15:02:54 --> Output Class Initialized
+INFO - 2022-02-09 15:02:54 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:54 --> Input Class Initialized
+INFO - 2022-02-09 15:02:54 --> Language Class Initialized
+INFO - 2022-02-09 15:02:54 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:54 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:54 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:54 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:54 --> Email Class Initialized
+INFO - 2022-02-09 15:02:54 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:54 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:54 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:54 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:54 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:54 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:54 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:54 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:54 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:54 --> Config Class Initialized
+INFO - 2022-02-09 15:02:54 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:54 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:54 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:54 --> URI Class Initialized
+INFO - 2022-02-09 15:02:54 --> Router Class Initialized
+INFO - 2022-02-09 15:02:54 --> Output Class Initialized
+INFO - 2022-02-09 15:02:54 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:54 --> Input Class Initialized
+INFO - 2022-02-09 15:02:54 --> Language Class Initialized
+INFO - 2022-02-09 15:02:54 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:54 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:54 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:54 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:54 --> Email Class Initialized
+INFO - 2022-02-09 15:02:54 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:54 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:54 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:54 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:54 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:54 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:54 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:54 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:54 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:55 --> Config Class Initialized
+INFO - 2022-02-09 15:02:55 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:55 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:55 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:55 --> URI Class Initialized
+INFO - 2022-02-09 15:02:55 --> Router Class Initialized
+INFO - 2022-02-09 15:02:55 --> Output Class Initialized
+INFO - 2022-02-09 15:02:55 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:55 --> Input Class Initialized
+INFO - 2022-02-09 15:02:55 --> Language Class Initialized
+INFO - 2022-02-09 15:02:55 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:55 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:55 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:55 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:55 --> Email Class Initialized
+INFO - 2022-02-09 15:02:55 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:55 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:55 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:55 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:55 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:55 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:55 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:55 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:55 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:55 --> Config Class Initialized
+INFO - 2022-02-09 15:02:55 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:55 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:55 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:55 --> URI Class Initialized
+INFO - 2022-02-09 15:02:55 --> Router Class Initialized
+INFO - 2022-02-09 15:02:55 --> Output Class Initialized
+INFO - 2022-02-09 15:02:55 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:55 --> Input Class Initialized
+INFO - 2022-02-09 15:02:55 --> Language Class Initialized
+INFO - 2022-02-09 15:02:55 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:55 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:55 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:55 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:55 --> Email Class Initialized
+INFO - 2022-02-09 15:02:55 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:55 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:55 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:55 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:55 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:55 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:55 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:55 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:55 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:55 --> Config Class Initialized
+INFO - 2022-02-09 15:02:55 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:55 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:55 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:55 --> URI Class Initialized
+INFO - 2022-02-09 15:02:55 --> Router Class Initialized
+INFO - 2022-02-09 15:02:55 --> Output Class Initialized
+INFO - 2022-02-09 15:02:55 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:55 --> Input Class Initialized
+INFO - 2022-02-09 15:02:55 --> Language Class Initialized
+INFO - 2022-02-09 15:02:55 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:55 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:55 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:55 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:55 --> Email Class Initialized
+INFO - 2022-02-09 15:02:55 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:55 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:55 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:55 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:55 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:55 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:55 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:55 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:55 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:55 --> Config Class Initialized
+INFO - 2022-02-09 15:02:55 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:55 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:55 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:55 --> URI Class Initialized
+INFO - 2022-02-09 15:02:55 --> Router Class Initialized
+INFO - 2022-02-09 15:02:55 --> Output Class Initialized
+INFO - 2022-02-09 15:02:55 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:55 --> Input Class Initialized
+INFO - 2022-02-09 15:02:55 --> Language Class Initialized
+INFO - 2022-02-09 15:02:55 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:55 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:55 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:55 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:55 --> Email Class Initialized
+INFO - 2022-02-09 15:02:55 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:55 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:55 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:55 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:55 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:55 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:55 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:55 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:55 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:56 --> Config Class Initialized
+INFO - 2022-02-09 15:02:56 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:56 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:56 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:56 --> URI Class Initialized
+INFO - 2022-02-09 15:02:56 --> Router Class Initialized
+INFO - 2022-02-09 15:02:56 --> Output Class Initialized
+INFO - 2022-02-09 15:02:56 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:56 --> Input Class Initialized
+INFO - 2022-02-09 15:02:56 --> Language Class Initialized
+INFO - 2022-02-09 15:02:56 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:56 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:56 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:56 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:56 --> Email Class Initialized
+INFO - 2022-02-09 15:02:56 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:56 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:56 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:56 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:56 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:56 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:56 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:56 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:56 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:56 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:56 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:56 --> Config Class Initialized
+INFO - 2022-02-09 15:02:56 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:56 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:56 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:56 --> URI Class Initialized
+INFO - 2022-02-09 15:02:56 --> Router Class Initialized
+INFO - 2022-02-09 15:02:56 --> Output Class Initialized
+INFO - 2022-02-09 15:02:56 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:56 --> Input Class Initialized
+INFO - 2022-02-09 15:02:56 --> Language Class Initialized
+INFO - 2022-02-09 15:02:56 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:56 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:56 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:56 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:56 --> Email Class Initialized
+INFO - 2022-02-09 15:02:56 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:56 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:56 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:56 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:56 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:56 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:56 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:56 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:56 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:56 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:56 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:56 --> Config Class Initialized
+INFO - 2022-02-09 15:02:56 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:56 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:56 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:56 --> URI Class Initialized
+INFO - 2022-02-09 15:02:56 --> Router Class Initialized
+INFO - 2022-02-09 15:02:56 --> Output Class Initialized
+INFO - 2022-02-09 15:02:56 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:56 --> Input Class Initialized
+INFO - 2022-02-09 15:02:56 --> Language Class Initialized
+INFO - 2022-02-09 15:02:56 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:56 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:56 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:56 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:56 --> Email Class Initialized
+INFO - 2022-02-09 15:02:56 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:56 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:56 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:56 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:56 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:56 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:56 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:56 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:56 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:56 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:56 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:02:56 --> Config Class Initialized
+INFO - 2022-02-09 15:02:56 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:02:56 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:02:56 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:02:56 --> URI Class Initialized
+INFO - 2022-02-09 15:02:56 --> Router Class Initialized
+INFO - 2022-02-09 15:02:56 --> Output Class Initialized
+INFO - 2022-02-09 15:02:56 --> Security Class Initialized
+DEBUG - 2022-02-09 15:02:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:02:56 --> Input Class Initialized
+INFO - 2022-02-09 15:02:56 --> Language Class Initialized
+INFO - 2022-02-09 15:02:56 --> Loader Class Initialized
+INFO - 2022-02-09 15:02:56 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:02:56 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:02:56 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:02:56 --> Email Class Initialized
+INFO - 2022-02-09 15:02:56 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:02:56 --> Controller Class Initialized
+INFO - 2022-02-09 15:02:56 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:02:56 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:02:56 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:56 --> Model Class Initialized
+DEBUG - 2022-02-09 15:02:56 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:02:56 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:02:56 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:02:56 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:02:56 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:03:18 --> Config Class Initialized
+INFO - 2022-02-09 15:03:18 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:03:18 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:03:18 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:03:18 --> URI Class Initialized
+INFO - 2022-02-09 15:03:18 --> Router Class Initialized
+INFO - 2022-02-09 15:03:18 --> Output Class Initialized
+INFO - 2022-02-09 15:03:18 --> Security Class Initialized
+DEBUG - 2022-02-09 15:03:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:03:18 --> Input Class Initialized
+INFO - 2022-02-09 15:03:18 --> Language Class Initialized
+INFO - 2022-02-09 15:03:18 --> Loader Class Initialized
+INFO - 2022-02-09 15:03:18 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:03:18 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:03:18 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:03:18 --> Email Class Initialized
+INFO - 2022-02-09 15:03:18 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:03:18 --> Controller Class Initialized
+INFO - 2022-02-09 15:03:18 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:03:18 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:03:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:03:18 --> Model Class Initialized
+DEBUG - 2022-02-09 15:03:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:03:18 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:03:18 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:03:18 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:03:18 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:03:19 --> Config Class Initialized
+INFO - 2022-02-09 15:03:19 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:03:19 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:03:19 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:03:19 --> URI Class Initialized
+INFO - 2022-02-09 15:03:19 --> Router Class Initialized
+INFO - 2022-02-09 15:03:19 --> Output Class Initialized
+INFO - 2022-02-09 15:03:19 --> Security Class Initialized
+DEBUG - 2022-02-09 15:03:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:03:19 --> Input Class Initialized
+INFO - 2022-02-09 15:03:19 --> Language Class Initialized
+INFO - 2022-02-09 15:03:19 --> Loader Class Initialized
+INFO - 2022-02-09 15:03:19 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:03:19 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:03:19 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:03:19 --> Email Class Initialized
+INFO - 2022-02-09 15:03:19 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:03:19 --> Controller Class Initialized
+INFO - 2022-02-09 15:03:19 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:03:19 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:03:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:03:19 --> Model Class Initialized
+DEBUG - 2022-02-09 15:03:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:03:19 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:03:19 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:03:19 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:03:19 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:03:19 --> Config Class Initialized
+INFO - 2022-02-09 15:03:19 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:03:19 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:03:19 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:03:19 --> URI Class Initialized
+INFO - 2022-02-09 15:03:19 --> Router Class Initialized
+INFO - 2022-02-09 15:03:19 --> Output Class Initialized
+INFO - 2022-02-09 15:03:19 --> Security Class Initialized
+DEBUG - 2022-02-09 15:03:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:03:19 --> Input Class Initialized
+INFO - 2022-02-09 15:03:19 --> Language Class Initialized
+INFO - 2022-02-09 15:03:19 --> Loader Class Initialized
+INFO - 2022-02-09 15:03:19 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:03:19 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:03:19 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:03:19 --> Email Class Initialized
+INFO - 2022-02-09 15:03:19 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:03:19 --> Controller Class Initialized
+INFO - 2022-02-09 15:03:19 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:03:19 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:03:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:03:19 --> Model Class Initialized
+DEBUG - 2022-02-09 15:03:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:03:19 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:03:19 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:03:19 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:03:19 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:03:19 --> Config Class Initialized
+INFO - 2022-02-09 15:03:19 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:03:19 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:03:19 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:03:19 --> URI Class Initialized
+INFO - 2022-02-09 15:03:19 --> Router Class Initialized
+INFO - 2022-02-09 15:03:19 --> Output Class Initialized
+INFO - 2022-02-09 15:03:19 --> Security Class Initialized
+DEBUG - 2022-02-09 15:03:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:03:19 --> Input Class Initialized
+INFO - 2022-02-09 15:03:19 --> Language Class Initialized
+INFO - 2022-02-09 15:03:19 --> Loader Class Initialized
+INFO - 2022-02-09 15:03:19 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:03:19 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:03:19 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:03:19 --> Email Class Initialized
+INFO - 2022-02-09 15:03:19 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:03:19 --> Controller Class Initialized
+INFO - 2022-02-09 15:03:19 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:03:19 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:03:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:03:19 --> Model Class Initialized
+DEBUG - 2022-02-09 15:03:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:03:19 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:03:19 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:03:19 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:03:19 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:03:20 --> Config Class Initialized
+INFO - 2022-02-09 15:03:20 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:03:20 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:03:20 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:03:20 --> URI Class Initialized
+INFO - 2022-02-09 15:03:20 --> Router Class Initialized
+INFO - 2022-02-09 15:03:20 --> Output Class Initialized
+INFO - 2022-02-09 15:03:20 --> Security Class Initialized
+DEBUG - 2022-02-09 15:03:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:03:20 --> Input Class Initialized
+INFO - 2022-02-09 15:03:20 --> Language Class Initialized
+INFO - 2022-02-09 15:03:20 --> Loader Class Initialized
+INFO - 2022-02-09 15:03:20 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:03:20 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:03:20 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:03:20 --> Email Class Initialized
+INFO - 2022-02-09 15:03:20 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:03:20 --> Controller Class Initialized
+INFO - 2022-02-09 15:03:20 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:03:20 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:03:20 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:03:20 --> Model Class Initialized
+DEBUG - 2022-02-09 15:03:20 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:03:20 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:03:20 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:03:20 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:03:20 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:03:34 --> Config Class Initialized
+INFO - 2022-02-09 15:03:34 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:03:34 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:03:34 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:03:34 --> URI Class Initialized
+INFO - 2022-02-09 15:03:34 --> Router Class Initialized
+INFO - 2022-02-09 15:03:34 --> Output Class Initialized
+INFO - 2022-02-09 15:03:34 --> Security Class Initialized
+DEBUG - 2022-02-09 15:03:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:03:34 --> Input Class Initialized
+INFO - 2022-02-09 15:03:34 --> Language Class Initialized
+INFO - 2022-02-09 15:03:34 --> Loader Class Initialized
+INFO - 2022-02-09 15:03:34 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:03:34 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:03:34 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:03:34 --> Email Class Initialized
+INFO - 2022-02-09 15:03:34 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:03:34 --> Controller Class Initialized
+INFO - 2022-02-09 15:03:34 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:03:34 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:03:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:03:34 --> Model Class Initialized
+DEBUG - 2022-02-09 15:03:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:03:34 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:03:34 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:03:34 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:03:34 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:03:51 --> Config Class Initialized
+INFO - 2022-02-09 15:03:51 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:03:51 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:03:51 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:03:51 --> URI Class Initialized
+DEBUG - 2022-02-09 15:03:51 --> No URI present. Default controller set.
+INFO - 2022-02-09 15:03:51 --> Router Class Initialized
+INFO - 2022-02-09 15:03:51 --> Output Class Initialized
+INFO - 2022-02-09 15:03:51 --> Security Class Initialized
+DEBUG - 2022-02-09 15:03:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:03:51 --> Input Class Initialized
+INFO - 2022-02-09 15:03:51 --> Language Class Initialized
+INFO - 2022-02-09 15:03:51 --> Loader Class Initialized
+INFO - 2022-02-09 15:03:51 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:03:51 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:03:51 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:03:51 --> Email Class Initialized
+INFO - 2022-02-09 15:03:51 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:03:51 --> Controller Class Initialized
+INFO - 2022-02-09 15:03:51 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:03:51 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:03:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:03:51 --> Model Class Initialized
+DEBUG - 2022-02-09 15:03:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:03:51 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:03:51 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+INFO - 2022-02-09 15:03:51 --> File loaded: /var/www/html/firestation/application/views/dashboard.php
+INFO - 2022-02-09 15:03:51 --> File loaded: /var/www/html/firestation/application/views/includes/footer.php
+INFO - 2022-02-09 15:03:51 --> Final output sent to browser
+DEBUG - 2022-02-09 15:03:51 --> Total execution time: 0.0168
+INFO - 2022-02-09 15:03:52 --> Config Class Initialized
+INFO - 2022-02-09 15:03:52 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:03:52 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:03:52 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:03:52 --> URI Class Initialized
+INFO - 2022-02-09 15:03:52 --> Router Class Initialized
+INFO - 2022-02-09 15:03:52 --> Output Class Initialized
+INFO - 2022-02-09 15:03:52 --> Security Class Initialized
+DEBUG - 2022-02-09 15:03:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:03:52 --> Input Class Initialized
+INFO - 2022-02-09 15:03:52 --> Language Class Initialized
+ERROR - 2022-02-09 15:03:52 --> 404 Page Not Found: Images/favicon.ico
+INFO - 2022-02-09 15:03:59 --> Config Class Initialized
+INFO - 2022-02-09 15:03:59 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:03:59 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:03:59 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:03:59 --> URI Class Initialized
+DEBUG - 2022-02-09 15:03:59 --> No URI present. Default controller set.
+INFO - 2022-02-09 15:03:59 --> Router Class Initialized
+INFO - 2022-02-09 15:03:59 --> Output Class Initialized
+INFO - 2022-02-09 15:03:59 --> Security Class Initialized
+DEBUG - 2022-02-09 15:03:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:03:59 --> Input Class Initialized
+INFO - 2022-02-09 15:03:59 --> Language Class Initialized
+INFO - 2022-02-09 15:03:59 --> Loader Class Initialized
+INFO - 2022-02-09 15:03:59 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:03:59 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:03:59 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:03:59 --> Email Class Initialized
+INFO - 2022-02-09 15:03:59 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:03:59 --> Controller Class Initialized
+INFO - 2022-02-09 15:03:59 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:03:59 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:03:59 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:03:59 --> Model Class Initialized
+DEBUG - 2022-02-09 15:03:59 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:03:59 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:03:59 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+INFO - 2022-02-09 15:03:59 --> File loaded: /var/www/html/firestation/application/views/dashboard.php
+INFO - 2022-02-09 15:03:59 --> File loaded: /var/www/html/firestation/application/views/includes/footer.php
+INFO - 2022-02-09 15:03:59 --> Final output sent to browser
+DEBUG - 2022-02-09 15:03:59 --> Total execution time: 0.0148
+INFO - 2022-02-09 15:06:26 --> Config Class Initialized
+INFO - 2022-02-09 15:06:26 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:06:26 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:06:26 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:06:26 --> URI Class Initialized
+INFO - 2022-02-09 15:06:26 --> Router Class Initialized
+INFO - 2022-02-09 15:06:26 --> Output Class Initialized
+INFO - 2022-02-09 15:06:26 --> Security Class Initialized
+DEBUG - 2022-02-09 15:06:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:06:26 --> Input Class Initialized
+INFO - 2022-02-09 15:06:26 --> Language Class Initialized
+INFO - 2022-02-09 15:06:26 --> Loader Class Initialized
+INFO - 2022-02-09 15:06:26 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:06:26 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:06:26 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:06:26 --> Email Class Initialized
+INFO - 2022-02-09 15:06:26 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:06:26 --> Controller Class Initialized
+INFO - 2022-02-09 15:06:26 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:06:26 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:06:26 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:06:26 --> Model Class Initialized
+DEBUG - 2022-02-09 15:06:26 --> Session class already loaded. Second attempt ignored.
+ERROR - 2022-02-09 15:06:26 --> Query error: Table 'tsp_logistics.login_history' doesn't exist - Invalid query: UPDATE `login_history` SET `logout_time` = '2022-02-09 15:06:26'
+WHERE (login_id='1' AND emp_id='1')
+INFO - 2022-02-09 15:06:26 --> Config Class Initialized
+INFO - 2022-02-09 15:06:26 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:06:26 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:06:26 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:06:26 --> URI Class Initialized
+DEBUG - 2022-02-09 15:06:26 --> No URI present. Default controller set.
+INFO - 2022-02-09 15:06:26 --> Router Class Initialized
+INFO - 2022-02-09 15:06:26 --> Output Class Initialized
+INFO - 2022-02-09 15:06:26 --> Security Class Initialized
+DEBUG - 2022-02-09 15:06:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:06:26 --> Input Class Initialized
+INFO - 2022-02-09 15:06:26 --> Language Class Initialized
+INFO - 2022-02-09 15:06:26 --> Loader Class Initialized
+INFO - 2022-02-09 15:06:26 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:06:26 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:06:26 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:06:26 --> Email Class Initialized
+INFO - 2022-02-09 15:06:26 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:06:26 --> Controller Class Initialized
+INFO - 2022-02-09 15:06:26 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:06:26 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:06:26 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:06:26 --> Model Class Initialized
+DEBUG - 2022-02-09 15:06:26 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:06:26 --> Config Class Initialized
+INFO - 2022-02-09 15:06:26 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:06:26 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:06:26 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:06:26 --> URI Class Initialized
+INFO - 2022-02-09 15:06:26 --> Router Class Initialized
+INFO - 2022-02-09 15:06:26 --> Output Class Initialized
+INFO - 2022-02-09 15:06:26 --> Security Class Initialized
+DEBUG - 2022-02-09 15:06:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:06:26 --> Input Class Initialized
+INFO - 2022-02-09 15:06:26 --> Language Class Initialized
+INFO - 2022-02-09 15:06:26 --> Loader Class Initialized
+INFO - 2022-02-09 15:06:26 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:06:26 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:06:26 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:06:26 --> Email Class Initialized
+INFO - 2022-02-09 15:06:26 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:06:26 --> Controller Class Initialized
+INFO - 2022-02-09 15:06:26 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:06:26 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:06:26 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:06:26 --> Model Class Initialized
+DEBUG - 2022-02-09 15:06:26 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:06:26 --> File loaded: /var/www/html/firestation/application/views/login.php
+INFO - 2022-02-09 15:06:26 --> Final output sent to browser
+DEBUG - 2022-02-09 15:06:26 --> Total execution time: 0.0027
+INFO - 2022-02-09 15:12:52 --> Config Class Initialized
+INFO - 2022-02-09 15:12:52 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:12:52 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:12:52 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:12:52 --> URI Class Initialized
+INFO - 2022-02-09 15:12:52 --> Router Class Initialized
+INFO - 2022-02-09 15:12:52 --> Output Class Initialized
+INFO - 2022-02-09 15:12:52 --> Security Class Initialized
+DEBUG - 2022-02-09 15:12:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:12:52 --> Input Class Initialized
+INFO - 2022-02-09 15:12:52 --> Language Class Initialized
+INFO - 2022-02-09 15:12:52 --> Loader Class Initialized
+INFO - 2022-02-09 15:12:52 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:12:52 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:12:52 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:12:52 --> Email Class Initialized
+INFO - 2022-02-09 15:12:52 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:12:52 --> Controller Class Initialized
+INFO - 2022-02-09 15:12:52 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:12:52 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:12:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:12:52 --> Model Class Initialized
+DEBUG - 2022-02-09 15:12:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:12:52 --> File loaded: /var/www/html/firestation/application/views/login.php
+INFO - 2022-02-09 15:12:52 --> Final output sent to browser
+DEBUG - 2022-02-09 15:12:52 --> Total execution time: 0.0039
+INFO - 2022-02-09 15:13:19 --> Config Class Initialized
+INFO - 2022-02-09 15:13:19 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:13:19 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:13:19 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:13:19 --> URI Class Initialized
+INFO - 2022-02-09 15:13:19 --> Router Class Initialized
+INFO - 2022-02-09 15:13:19 --> Output Class Initialized
+INFO - 2022-02-09 15:13:19 --> Security Class Initialized
+DEBUG - 2022-02-09 15:13:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:13:19 --> Input Class Initialized
+INFO - 2022-02-09 15:13:19 --> Language Class Initialized
+INFO - 2022-02-09 15:13:19 --> Loader Class Initialized
+INFO - 2022-02-09 15:13:19 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:13:19 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:13:19 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:13:19 --> Email Class Initialized
+INFO - 2022-02-09 15:13:19 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:13:19 --> Controller Class Initialized
+INFO - 2022-02-09 15:13:19 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:13:19 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:13:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:13:19 --> Model Class Initialized
+DEBUG - 2022-02-09 15:13:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:13:19 --> Config Class Initialized
+INFO - 2022-02-09 15:13:19 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:13:19 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:13:19 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:13:19 --> URI Class Initialized
+INFO - 2022-02-09 15:13:19 --> Router Class Initialized
+INFO - 2022-02-09 15:13:19 --> Output Class Initialized
+INFO - 2022-02-09 15:13:19 --> Security Class Initialized
+DEBUG - 2022-02-09 15:13:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:13:19 --> Input Class Initialized
+INFO - 2022-02-09 15:13:19 --> Language Class Initialized
+INFO - 2022-02-09 15:13:19 --> Loader Class Initialized
+INFO - 2022-02-09 15:13:19 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:13:19 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:13:19 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:13:19 --> Email Class Initialized
+INFO - 2022-02-09 15:13:19 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:13:19 --> Controller Class Initialized
+INFO - 2022-02-09 15:13:19 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:13:19 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:13:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:13:19 --> Model Class Initialized
+DEBUG - 2022-02-09 15:13:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:13:19 --> File loaded: /var/www/html/firestation/application/views/login.php
+INFO - 2022-02-09 15:13:19 --> Final output sent to browser
+DEBUG - 2022-02-09 15:13:19 --> Total execution time: 0.0026
+INFO - 2022-02-09 15:14:27 --> Config Class Initialized
+INFO - 2022-02-09 15:14:27 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:14:27 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:14:27 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:14:27 --> URI Class Initialized
+INFO - 2022-02-09 15:14:27 --> Router Class Initialized
+INFO - 2022-02-09 15:14:27 --> Output Class Initialized
+INFO - 2022-02-09 15:14:27 --> Security Class Initialized
+DEBUG - 2022-02-09 15:14:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:14:27 --> Input Class Initialized
+INFO - 2022-02-09 15:14:27 --> Language Class Initialized
+INFO - 2022-02-09 15:14:27 --> Loader Class Initialized
+INFO - 2022-02-09 15:14:27 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:14:27 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:14:27 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:14:27 --> Email Class Initialized
+INFO - 2022-02-09 15:14:27 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:14:27 --> Controller Class Initialized
+INFO - 2022-02-09 15:14:27 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:14:27 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:14:27 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:14:27 --> Model Class Initialized
+DEBUG - 2022-02-09 15:14:27 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:14:27 --> Config Class Initialized
+INFO - 2022-02-09 15:14:27 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:14:27 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:14:27 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:14:27 --> URI Class Initialized
+INFO - 2022-02-09 15:14:27 --> Router Class Initialized
+INFO - 2022-02-09 15:14:27 --> Output Class Initialized
+INFO - 2022-02-09 15:14:27 --> Security Class Initialized
+DEBUG - 2022-02-09 15:14:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:14:27 --> Input Class Initialized
+INFO - 2022-02-09 15:14:27 --> Language Class Initialized
+INFO - 2022-02-09 15:14:27 --> Loader Class Initialized
+INFO - 2022-02-09 15:14:27 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:14:27 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:14:27 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:14:27 --> Email Class Initialized
+INFO - 2022-02-09 15:14:27 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:14:27 --> Controller Class Initialized
+INFO - 2022-02-09 15:14:27 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:14:27 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:14:27 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:14:27 --> Model Class Initialized
+DEBUG - 2022-02-09 15:14:27 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:14:27 --> File loaded: /var/www/html/firestation/application/views/login.php
+INFO - 2022-02-09 15:14:27 --> Final output sent to browser
+DEBUG - 2022-02-09 15:14:27 --> Total execution time: 0.0029
+INFO - 2022-02-09 15:14:46 --> Config Class Initialized
+INFO - 2022-02-09 15:14:46 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:14:46 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:14:46 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:14:46 --> URI Class Initialized
+INFO - 2022-02-09 15:14:46 --> Router Class Initialized
+INFO - 2022-02-09 15:14:46 --> Output Class Initialized
+INFO - 2022-02-09 15:14:46 --> Security Class Initialized
+DEBUG - 2022-02-09 15:14:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:14:46 --> Input Class Initialized
+INFO - 2022-02-09 15:14:46 --> Language Class Initialized
+INFO - 2022-02-09 15:14:46 --> Loader Class Initialized
+INFO - 2022-02-09 15:14:46 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:14:46 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:14:46 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:14:46 --> Email Class Initialized
+INFO - 2022-02-09 15:14:46 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:14:46 --> Controller Class Initialized
+INFO - 2022-02-09 15:14:46 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:14:46 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:14:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:14:46 --> Model Class Initialized
+DEBUG - 2022-02-09 15:14:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:14:46 --> Config Class Initialized
+INFO - 2022-02-09 15:14:46 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:14:46 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:14:46 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:14:46 --> URI Class Initialized
+INFO - 2022-02-09 15:14:46 --> Router Class Initialized
+INFO - 2022-02-09 15:14:46 --> Output Class Initialized
+INFO - 2022-02-09 15:14:46 --> Security Class Initialized
+DEBUG - 2022-02-09 15:14:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:14:46 --> Input Class Initialized
+INFO - 2022-02-09 15:14:46 --> Language Class Initialized
+INFO - 2022-02-09 15:14:46 --> Loader Class Initialized
+INFO - 2022-02-09 15:14:46 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:14:46 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:14:46 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:14:46 --> Email Class Initialized
+INFO - 2022-02-09 15:14:46 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:14:46 --> Controller Class Initialized
+INFO - 2022-02-09 15:14:46 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:14:46 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:14:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:14:46 --> Model Class Initialized
+DEBUG - 2022-02-09 15:14:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:14:46 --> File loaded: /var/www/html/firestation/application/views/login.php
+INFO - 2022-02-09 15:14:46 --> Final output sent to browser
+DEBUG - 2022-02-09 15:14:46 --> Total execution time: 0.0029
+INFO - 2022-02-09 15:16:40 --> Config Class Initialized
+INFO - 2022-02-09 15:16:40 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:16:40 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:16:40 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:16:40 --> URI Class Initialized
+INFO - 2022-02-09 15:16:40 --> Router Class Initialized
+INFO - 2022-02-09 15:16:40 --> Output Class Initialized
+INFO - 2022-02-09 15:16:40 --> Security Class Initialized
+DEBUG - 2022-02-09 15:16:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:16:40 --> Input Class Initialized
+INFO - 2022-02-09 15:16:40 --> Language Class Initialized
+INFO - 2022-02-09 15:16:40 --> Loader Class Initialized
+INFO - 2022-02-09 15:16:40 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:16:40 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:16:40 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:16:40 --> Email Class Initialized
+INFO - 2022-02-09 15:16:40 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:16:40 --> Controller Class Initialized
+INFO - 2022-02-09 15:16:40 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:16:40 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:16:40 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:16:40 --> Model Class Initialized
+DEBUG - 2022-02-09 15:16:40 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:16:40 --> File loaded: /var/www/html/firestation/application/views/login.php
+INFO - 2022-02-09 15:16:40 --> Final output sent to browser
+DEBUG - 2022-02-09 15:16:40 --> Total execution time: 0.0043
+INFO - 2022-02-09 15:16:57 --> Config Class Initialized
+INFO - 2022-02-09 15:16:57 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:16:57 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:16:57 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:16:57 --> URI Class Initialized
+INFO - 2022-02-09 15:16:57 --> Router Class Initialized
+INFO - 2022-02-09 15:16:57 --> Output Class Initialized
+INFO - 2022-02-09 15:16:57 --> Security Class Initialized
+DEBUG - 2022-02-09 15:16:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:16:57 --> Input Class Initialized
+INFO - 2022-02-09 15:16:57 --> Language Class Initialized
+INFO - 2022-02-09 15:16:57 --> Loader Class Initialized
+INFO - 2022-02-09 15:16:57 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:16:57 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:16:57 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:16:57 --> Email Class Initialized
+INFO - 2022-02-09 15:16:57 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:16:57 --> Controller Class Initialized
+INFO - 2022-02-09 15:16:57 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:16:57 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:16:57 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:16:57 --> Model Class Initialized
+DEBUG - 2022-02-09 15:16:57 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:16:57 --> Config Class Initialized
+INFO - 2022-02-09 15:16:57 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:16:57 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:16:57 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:16:57 --> URI Class Initialized
+DEBUG - 2022-02-09 15:16:57 --> No URI present. Default controller set.
+INFO - 2022-02-09 15:16:57 --> Router Class Initialized
+INFO - 2022-02-09 15:16:57 --> Output Class Initialized
+INFO - 2022-02-09 15:16:57 --> Security Class Initialized
+DEBUG - 2022-02-09 15:16:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:16:57 --> Input Class Initialized
+INFO - 2022-02-09 15:16:57 --> Language Class Initialized
+INFO - 2022-02-09 15:16:57 --> Loader Class Initialized
+INFO - 2022-02-09 15:16:57 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:16:57 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:16:57 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:16:57 --> Email Class Initialized
+INFO - 2022-02-09 15:16:57 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:16:57 --> Controller Class Initialized
+INFO - 2022-02-09 15:16:57 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:16:57 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:16:57 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:16:57 --> Model Class Initialized
+DEBUG - 2022-02-09 15:16:57 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:16:57 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:16:57 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+INFO - 2022-02-09 15:16:57 --> File loaded: /var/www/html/firestation/application/views/dashboard.php
+INFO - 2022-02-09 15:16:57 --> File loaded: /var/www/html/firestation/application/views/includes/footer.php
+INFO - 2022-02-09 15:16:57 --> Final output sent to browser
+DEBUG - 2022-02-09 15:16:57 --> Total execution time: 0.0161
+INFO - 2022-02-09 15:17:13 --> Config Class Initialized
+INFO - 2022-02-09 15:17:13 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:17:13 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:17:13 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:17:13 --> URI Class Initialized
+INFO - 2022-02-09 15:17:13 --> Router Class Initialized
+INFO - 2022-02-09 15:17:13 --> Output Class Initialized
+INFO - 2022-02-09 15:17:13 --> Security Class Initialized
+DEBUG - 2022-02-09 15:17:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:17:13 --> Input Class Initialized
+INFO - 2022-02-09 15:17:13 --> Language Class Initialized
+INFO - 2022-02-09 15:17:13 --> Loader Class Initialized
+INFO - 2022-02-09 15:17:13 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:17:13 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:17:13 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:17:13 --> Email Class Initialized
+INFO - 2022-02-09 15:17:13 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:17:13 --> Controller Class Initialized
+INFO - 2022-02-09 15:17:13 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:17:13 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:17:13 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:17:13 --> Model Class Initialized
+DEBUG - 2022-02-09 15:17:13 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:17:13 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:17:13 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:17:13 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  and  to_transfer_id='299' and to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:17:13 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:18:51 --> Config Class Initialized
+INFO - 2022-02-09 15:18:51 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:18:51 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:18:51 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:18:51 --> URI Class Initialized
+INFO - 2022-02-09 15:18:51 --> Router Class Initialized
+INFO - 2022-02-09 15:18:51 --> Output Class Initialized
+INFO - 2022-02-09 15:18:51 --> Security Class Initialized
+DEBUG - 2022-02-09 15:18:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:18:51 --> Input Class Initialized
+INFO - 2022-02-09 15:18:51 --> Language Class Initialized
+INFO - 2022-02-09 15:18:51 --> Loader Class Initialized
+INFO - 2022-02-09 15:18:51 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:18:51 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:18:51 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:18:51 --> Email Class Initialized
+INFO - 2022-02-09 15:18:51 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:18:51 --> Controller Class Initialized
+INFO - 2022-02-09 15:18:51 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:18:51 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:18:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:18:51 --> Model Class Initialized
+DEBUG - 2022-02-09 15:18:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:18:51 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:18:51 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:18:51 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  and  to_transfer_id='299' and to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:18:51 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:20:10 --> Config Class Initialized
+INFO - 2022-02-09 15:20:10 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:20:10 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:20:10 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:20:10 --> URI Class Initialized
+INFO - 2022-02-09 15:20:10 --> Router Class Initialized
+INFO - 2022-02-09 15:20:10 --> Output Class Initialized
+INFO - 2022-02-09 15:20:10 --> Security Class Initialized
+DEBUG - 2022-02-09 15:20:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:20:10 --> Input Class Initialized
+INFO - 2022-02-09 15:20:10 --> Language Class Initialized
+INFO - 2022-02-09 15:20:10 --> Loader Class Initialized
+INFO - 2022-02-09 15:20:10 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:20:10 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:20:10 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:20:10 --> Email Class Initialized
+INFO - 2022-02-09 15:20:10 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:20:10 --> Controller Class Initialized
+INFO - 2022-02-09 15:20:10 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:20:10 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:20:10 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:20:10 --> Model Class Initialized
+DEBUG - 2022-02-09 15:20:10 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:20:10 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:20:10 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:20:10 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  and  to_transfer_id='299' and to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:20:10 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 252
+INFO - 2022-02-09 15:20:11 --> Config Class Initialized
+INFO - 2022-02-09 15:20:11 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:20:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:20:11 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:20:11 --> URI Class Initialized
+INFO - 2022-02-09 15:20:11 --> Router Class Initialized
+INFO - 2022-02-09 15:20:11 --> Output Class Initialized
+INFO - 2022-02-09 15:20:11 --> Security Class Initialized
+DEBUG - 2022-02-09 15:20:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:20:11 --> Input Class Initialized
+INFO - 2022-02-09 15:20:11 --> Language Class Initialized
+INFO - 2022-02-09 15:20:11 --> Loader Class Initialized
+INFO - 2022-02-09 15:20:11 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:20:11 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:20:11 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:20:11 --> Email Class Initialized
+INFO - 2022-02-09 15:20:11 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:20:11 --> Controller Class Initialized
+INFO - 2022-02-09 15:20:11 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:20:11 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:20:11 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:20:11 --> Model Class Initialized
+DEBUG - 2022-02-09 15:20:11 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:20:11 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:20:11 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:20:11 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  and  to_transfer_id='299' and to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:20:11 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 252
+INFO - 2022-02-09 15:20:11 --> Config Class Initialized
+INFO - 2022-02-09 15:20:11 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:20:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:20:11 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:20:11 --> URI Class Initialized
+INFO - 2022-02-09 15:20:11 --> Router Class Initialized
+INFO - 2022-02-09 15:20:11 --> Output Class Initialized
+INFO - 2022-02-09 15:20:11 --> Security Class Initialized
+DEBUG - 2022-02-09 15:20:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:20:11 --> Input Class Initialized
+INFO - 2022-02-09 15:20:11 --> Language Class Initialized
+INFO - 2022-02-09 15:20:11 --> Loader Class Initialized
+INFO - 2022-02-09 15:20:11 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:20:11 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:20:11 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:20:11 --> Email Class Initialized
+INFO - 2022-02-09 15:20:11 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:20:11 --> Controller Class Initialized
+INFO - 2022-02-09 15:20:11 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:20:11 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:20:11 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:20:11 --> Model Class Initialized
+DEBUG - 2022-02-09 15:20:11 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:20:11 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:20:11 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:20:11 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  and  to_transfer_id='299' and to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:20:11 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 252
+INFO - 2022-02-09 15:20:11 --> Config Class Initialized
+INFO - 2022-02-09 15:20:11 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:20:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:20:11 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:20:11 --> URI Class Initialized
+INFO - 2022-02-09 15:20:11 --> Router Class Initialized
+INFO - 2022-02-09 15:20:11 --> Output Class Initialized
+INFO - 2022-02-09 15:20:11 --> Security Class Initialized
+DEBUG - 2022-02-09 15:20:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:20:11 --> Input Class Initialized
+INFO - 2022-02-09 15:20:11 --> Language Class Initialized
+INFO - 2022-02-09 15:20:11 --> Loader Class Initialized
+INFO - 2022-02-09 15:20:11 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:20:11 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:20:11 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:20:11 --> Email Class Initialized
+INFO - 2022-02-09 15:20:11 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:20:11 --> Controller Class Initialized
+INFO - 2022-02-09 15:20:11 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:20:11 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:20:11 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:20:11 --> Model Class Initialized
+DEBUG - 2022-02-09 15:20:11 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:20:11 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:20:11 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:20:11 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  and  to_transfer_id='299' and to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:20:11 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 252
+INFO - 2022-02-09 15:21:44 --> Config Class Initialized
+INFO - 2022-02-09 15:21:44 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:21:44 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:21:44 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:21:44 --> URI Class Initialized
+INFO - 2022-02-09 15:21:44 --> Router Class Initialized
+INFO - 2022-02-09 15:21:44 --> Output Class Initialized
+INFO - 2022-02-09 15:21:44 --> Security Class Initialized
+DEBUG - 2022-02-09 15:21:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:21:44 --> Input Class Initialized
+INFO - 2022-02-09 15:21:44 --> Language Class Initialized
+INFO - 2022-02-09 15:21:44 --> Loader Class Initialized
+INFO - 2022-02-09 15:21:44 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:21:44 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:21:44 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:21:44 --> Email Class Initialized
+INFO - 2022-02-09 15:21:44 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:21:44 --> Controller Class Initialized
+INFO - 2022-02-09 15:21:44 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:21:44 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:21:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:21:44 --> Model Class Initialized
+DEBUG - 2022-02-09 15:21:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:21:44 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:21:44 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:21:44 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  and  to_transfer_id='299' and to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:21:44 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 209
+INFO - 2022-02-09 15:24:30 --> Config Class Initialized
+INFO - 2022-02-09 15:24:30 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:24:30 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:24:30 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:24:30 --> URI Class Initialized
+INFO - 2022-02-09 15:24:30 --> Router Class Initialized
+INFO - 2022-02-09 15:24:30 --> Output Class Initialized
+INFO - 2022-02-09 15:24:30 --> Security Class Initialized
+DEBUG - 2022-02-09 15:24:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:24:30 --> Input Class Initialized
+INFO - 2022-02-09 15:24:30 --> Language Class Initialized
+INFO - 2022-02-09 15:24:30 --> Loader Class Initialized
+INFO - 2022-02-09 15:24:30 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:24:30 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:24:30 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:24:30 --> Email Class Initialized
+INFO - 2022-02-09 15:24:30 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:24:30 --> Controller Class Initialized
+INFO - 2022-02-09 15:24:30 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:24:30 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:24:30 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:24:30 --> Model Class Initialized
+DEBUG - 2022-02-09 15:24:30 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:24:30 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:24:30 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:24:30 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  and  to_transfer_id='299' and to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:24:30 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:24:31 --> Config Class Initialized
+INFO - 2022-02-09 15:24:31 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:24:31 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:24:31 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:24:31 --> URI Class Initialized
+INFO - 2022-02-09 15:24:31 --> Router Class Initialized
+INFO - 2022-02-09 15:24:31 --> Output Class Initialized
+INFO - 2022-02-09 15:24:31 --> Security Class Initialized
+DEBUG - 2022-02-09 15:24:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:24:31 --> Input Class Initialized
+INFO - 2022-02-09 15:24:31 --> Language Class Initialized
+INFO - 2022-02-09 15:24:31 --> Loader Class Initialized
+INFO - 2022-02-09 15:24:31 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:24:31 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:24:31 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:24:31 --> Email Class Initialized
+INFO - 2022-02-09 15:24:31 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:24:31 --> Controller Class Initialized
+INFO - 2022-02-09 15:24:31 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:24:31 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:24:31 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:24:31 --> Model Class Initialized
+DEBUG - 2022-02-09 15:24:31 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:24:31 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:24:31 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:24:31 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  and  to_transfer_id='299' and to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:24:31 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:24:32 --> Config Class Initialized
+INFO - 2022-02-09 15:24:32 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:24:32 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:24:32 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:24:32 --> URI Class Initialized
+INFO - 2022-02-09 15:24:32 --> Router Class Initialized
+INFO - 2022-02-09 15:24:32 --> Output Class Initialized
+INFO - 2022-02-09 15:24:32 --> Security Class Initialized
+DEBUG - 2022-02-09 15:24:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:24:32 --> Input Class Initialized
+INFO - 2022-02-09 15:24:32 --> Language Class Initialized
+INFO - 2022-02-09 15:24:32 --> Loader Class Initialized
+INFO - 2022-02-09 15:24:32 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:24:32 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:24:32 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:24:32 --> Email Class Initialized
+INFO - 2022-02-09 15:24:32 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:24:32 --> Controller Class Initialized
+INFO - 2022-02-09 15:24:32 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:24:32 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:24:32 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:24:32 --> Model Class Initialized
+DEBUG - 2022-02-09 15:24:32 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:24:32 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:24:32 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:24:32 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  and  to_transfer_id='299' and to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:24:32 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:24:32 --> Config Class Initialized
+INFO - 2022-02-09 15:24:32 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:24:32 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:24:32 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:24:32 --> URI Class Initialized
+INFO - 2022-02-09 15:24:32 --> Router Class Initialized
+INFO - 2022-02-09 15:24:32 --> Output Class Initialized
+INFO - 2022-02-09 15:24:32 --> Security Class Initialized
+DEBUG - 2022-02-09 15:24:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:24:33 --> Input Class Initialized
+INFO - 2022-02-09 15:24:33 --> Language Class Initialized
+INFO - 2022-02-09 15:24:33 --> Loader Class Initialized
+INFO - 2022-02-09 15:24:33 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:24:33 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:24:33 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:24:33 --> Email Class Initialized
+INFO - 2022-02-09 15:24:33 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:24:33 --> Controller Class Initialized
+INFO - 2022-02-09 15:24:33 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:24:33 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:24:33 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:24:33 --> Model Class Initialized
+DEBUG - 2022-02-09 15:24:33 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:24:33 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:24:33 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:24:33 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  and  to_transfer_id='299' and to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:24:33 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:24:34 --> Config Class Initialized
+INFO - 2022-02-09 15:24:34 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:24:34 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:24:34 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:24:34 --> URI Class Initialized
+INFO - 2022-02-09 15:24:34 --> Router Class Initialized
+INFO - 2022-02-09 15:24:34 --> Output Class Initialized
+INFO - 2022-02-09 15:24:34 --> Security Class Initialized
+DEBUG - 2022-02-09 15:24:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:24:34 --> Input Class Initialized
+INFO - 2022-02-09 15:24:34 --> Language Class Initialized
+INFO - 2022-02-09 15:24:34 --> Loader Class Initialized
+INFO - 2022-02-09 15:24:34 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:24:34 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:24:34 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:24:34 --> Email Class Initialized
+INFO - 2022-02-09 15:24:34 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:24:34 --> Controller Class Initialized
+INFO - 2022-02-09 15:24:34 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:24:34 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:24:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:24:34 --> Model Class Initialized
+DEBUG - 2022-02-09 15:24:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:24:34 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:24:34 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:24:34 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  and  to_transfer_id='299' and to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:24:34 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:24:34 --> Config Class Initialized
+INFO - 2022-02-09 15:24:34 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:24:34 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:24:34 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:24:34 --> URI Class Initialized
+INFO - 2022-02-09 15:24:34 --> Router Class Initialized
+INFO - 2022-02-09 15:24:34 --> Output Class Initialized
+INFO - 2022-02-09 15:24:34 --> Security Class Initialized
+DEBUG - 2022-02-09 15:24:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:24:34 --> Input Class Initialized
+INFO - 2022-02-09 15:24:34 --> Language Class Initialized
+INFO - 2022-02-09 15:24:34 --> Loader Class Initialized
+INFO - 2022-02-09 15:24:34 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:24:34 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:24:34 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:24:34 --> Email Class Initialized
+INFO - 2022-02-09 15:24:34 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:24:34 --> Controller Class Initialized
+INFO - 2022-02-09 15:24:34 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:24:34 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:24:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:24:34 --> Model Class Initialized
+DEBUG - 2022-02-09 15:24:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:24:34 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:24:34 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:24:34 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  and  to_transfer_id='299' and to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:24:34 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:24:34 --> Config Class Initialized
+INFO - 2022-02-09 15:24:34 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:24:34 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:24:34 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:24:34 --> URI Class Initialized
+INFO - 2022-02-09 15:24:34 --> Router Class Initialized
+INFO - 2022-02-09 15:24:34 --> Output Class Initialized
+INFO - 2022-02-09 15:24:34 --> Security Class Initialized
+DEBUG - 2022-02-09 15:24:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:24:34 --> Input Class Initialized
+INFO - 2022-02-09 15:24:34 --> Language Class Initialized
+INFO - 2022-02-09 15:24:34 --> Loader Class Initialized
+INFO - 2022-02-09 15:24:34 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:24:34 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:24:34 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:24:34 --> Email Class Initialized
+INFO - 2022-02-09 15:24:34 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:24:34 --> Controller Class Initialized
+INFO - 2022-02-09 15:24:34 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:24:34 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:24:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:24:34 --> Model Class Initialized
+DEBUG - 2022-02-09 15:24:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:24:34 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:24:34 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:24:34 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  and  to_transfer_id='299' and to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:24:34 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:24:35 --> Config Class Initialized
+INFO - 2022-02-09 15:24:35 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:24:35 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:24:35 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:24:35 --> URI Class Initialized
+INFO - 2022-02-09 15:24:35 --> Router Class Initialized
+INFO - 2022-02-09 15:24:35 --> Output Class Initialized
+INFO - 2022-02-09 15:24:35 --> Security Class Initialized
+DEBUG - 2022-02-09 15:24:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:24:35 --> Input Class Initialized
+INFO - 2022-02-09 15:24:35 --> Language Class Initialized
+INFO - 2022-02-09 15:24:35 --> Loader Class Initialized
+INFO - 2022-02-09 15:24:35 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:24:35 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:24:35 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:24:35 --> Email Class Initialized
+INFO - 2022-02-09 15:24:35 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:24:35 --> Controller Class Initialized
+INFO - 2022-02-09 15:24:35 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:24:35 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:24:35 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:24:35 --> Model Class Initialized
+DEBUG - 2022-02-09 15:24:35 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:24:35 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:24:35 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:24:35 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  and  to_transfer_id='299' and to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:24:35 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:24:35 --> Config Class Initialized
+INFO - 2022-02-09 15:24:35 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:24:35 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:24:35 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:24:35 --> URI Class Initialized
+INFO - 2022-02-09 15:24:35 --> Router Class Initialized
+INFO - 2022-02-09 15:24:35 --> Output Class Initialized
+INFO - 2022-02-09 15:24:35 --> Security Class Initialized
+DEBUG - 2022-02-09 15:24:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:24:35 --> Input Class Initialized
+INFO - 2022-02-09 15:24:35 --> Language Class Initialized
+INFO - 2022-02-09 15:24:35 --> Loader Class Initialized
+INFO - 2022-02-09 15:24:35 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:24:35 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:24:35 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:24:35 --> Email Class Initialized
+INFO - 2022-02-09 15:24:35 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:24:35 --> Controller Class Initialized
+INFO - 2022-02-09 15:24:35 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:24:35 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:24:35 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:24:35 --> Model Class Initialized
+DEBUG - 2022-02-09 15:24:35 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:24:35 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:24:35 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:24:35 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  and  to_transfer_id='299' and to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:24:35 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:24:35 --> Config Class Initialized
+INFO - 2022-02-09 15:24:35 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:24:35 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:24:35 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:24:35 --> URI Class Initialized
+INFO - 2022-02-09 15:24:35 --> Router Class Initialized
+INFO - 2022-02-09 15:24:35 --> Output Class Initialized
+INFO - 2022-02-09 15:24:35 --> Security Class Initialized
+DEBUG - 2022-02-09 15:24:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:24:35 --> Input Class Initialized
+INFO - 2022-02-09 15:24:35 --> Language Class Initialized
+INFO - 2022-02-09 15:24:35 --> Loader Class Initialized
+INFO - 2022-02-09 15:24:35 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:24:35 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:24:35 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:24:35 --> Email Class Initialized
+INFO - 2022-02-09 15:24:35 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:24:35 --> Controller Class Initialized
+INFO - 2022-02-09 15:24:35 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:24:35 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:24:35 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:24:35 --> Model Class Initialized
+DEBUG - 2022-02-09 15:24:35 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:24:35 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:24:35 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:24:35 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  and  to_transfer_id='299' and to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:24:35 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:25:47 --> Config Class Initialized
+INFO - 2022-02-09 15:25:47 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:25:47 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:25:47 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:25:47 --> URI Class Initialized
+INFO - 2022-02-09 15:25:47 --> Router Class Initialized
+INFO - 2022-02-09 15:25:47 --> Output Class Initialized
+INFO - 2022-02-09 15:25:47 --> Security Class Initialized
+DEBUG - 2022-02-09 15:25:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:25:47 --> Input Class Initialized
+INFO - 2022-02-09 15:25:47 --> Language Class Initialized
+INFO - 2022-02-09 15:25:47 --> Loader Class Initialized
+INFO - 2022-02-09 15:25:47 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:25:47 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:25:47 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:25:47 --> Email Class Initialized
+INFO - 2022-02-09 15:25:47 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:25:47 --> Controller Class Initialized
+INFO - 2022-02-09 15:25:47 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:25:47 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:25:47 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:25:47 --> Model Class Initialized
+DEBUG - 2022-02-09 15:25:47 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:25:47 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:25:47 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+INFO - 2022-02-09 15:25:47 --> File loaded: /var/www/html/firestation/application/views/fsavailableStock.php
+INFO - 2022-02-09 15:25:47 --> File loaded: /var/www/html/firestation/application/views/includes/footer.php
+INFO - 2022-02-09 15:25:47 --> Final output sent to browser
+DEBUG - 2022-02-09 15:25:47 --> Total execution time: 0.0111
+INFO - 2022-02-09 15:25:48 --> Config Class Initialized
+INFO - 2022-02-09 15:25:48 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:25:48 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:25:48 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:25:48 --> URI Class Initialized
+INFO - 2022-02-09 15:25:48 --> Router Class Initialized
+INFO - 2022-02-09 15:25:48 --> Output Class Initialized
+INFO - 2022-02-09 15:25:48 --> Security Class Initialized
+DEBUG - 2022-02-09 15:25:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:25:48 --> Input Class Initialized
+INFO - 2022-02-09 15:25:48 --> Language Class Initialized
+ERROR - 2022-02-09 15:25:48 --> 404 Page Not Found: Images/favicon.ico
+INFO - 2022-02-09 15:26:08 --> Config Class Initialized
+INFO - 2022-02-09 15:26:08 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:26:08 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:26:08 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:26:08 --> URI Class Initialized
+INFO - 2022-02-09 15:26:08 --> Router Class Initialized
+INFO - 2022-02-09 15:26:08 --> Output Class Initialized
+INFO - 2022-02-09 15:26:08 --> Security Class Initialized
+DEBUG - 2022-02-09 15:26:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:26:08 --> Input Class Initialized
+INFO - 2022-02-09 15:26:08 --> Language Class Initialized
+INFO - 2022-02-09 15:26:08 --> Loader Class Initialized
+INFO - 2022-02-09 15:26:08 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:26:08 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:26:08 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:26:08 --> Email Class Initialized
+INFO - 2022-02-09 15:26:08 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:26:08 --> Controller Class Initialized
+INFO - 2022-02-09 15:26:08 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:26:08 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:26:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:26:08 --> Model Class Initialized
+DEBUG - 2022-02-09 15:26:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:26:08 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:26:08 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:26:08 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  and  to_transfer_id='299' and to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:26:08 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:27:00 --> Config Class Initialized
+INFO - 2022-02-09 15:27:00 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:27:00 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:27:00 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:27:00 --> URI Class Initialized
+INFO - 2022-02-09 15:27:00 --> Router Class Initialized
+INFO - 2022-02-09 15:27:00 --> Output Class Initialized
+INFO - 2022-02-09 15:27:00 --> Security Class Initialized
+DEBUG - 2022-02-09 15:27:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:27:00 --> Input Class Initialized
+INFO - 2022-02-09 15:27:00 --> Language Class Initialized
+INFO - 2022-02-09 15:27:00 --> Loader Class Initialized
+INFO - 2022-02-09 15:27:00 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:27:00 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:27:00 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:27:00 --> Email Class Initialized
+INFO - 2022-02-09 15:27:00 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:27:00 --> Controller Class Initialized
+INFO - 2022-02-09 15:27:00 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:27:00 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:27:00 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:27:00 --> Model Class Initialized
+DEBUG - 2022-02-09 15:27:00 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:27:00 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:27:00 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:27:00 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  and  to_transfer_id='299' and to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:27:00 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+INFO - 2022-02-09 15:27:01 --> Config Class Initialized
+INFO - 2022-02-09 15:27:01 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:27:01 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:27:01 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:27:01 --> URI Class Initialized
+INFO - 2022-02-09 15:27:01 --> Router Class Initialized
+INFO - 2022-02-09 15:27:01 --> Output Class Initialized
+INFO - 2022-02-09 15:27:01 --> Security Class Initialized
+DEBUG - 2022-02-09 15:27:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:27:01 --> Input Class Initialized
+INFO - 2022-02-09 15:27:01 --> Language Class Initialized
+INFO - 2022-02-09 15:27:01 --> Loader Class Initialized
+INFO - 2022-02-09 15:27:01 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:27:01 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:27:01 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:27:01 --> Email Class Initialized
+INFO - 2022-02-09 15:27:01 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:27:01 --> Controller Class Initialized
+INFO - 2022-02-09 15:27:01 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:27:01 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:27:01 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:27:01 --> Model Class Initialized
+DEBUG - 2022-02-09 15:27:01 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:27:01 --> File loaded: /var/www/html/firestation/application/views/includes/header.php
+INFO - 2022-02-09 15:27:01 --> File loaded: /var/www/html/firestation/application/views/includes/leftmenu.php
+ERROR - 2022-02-09 15:27:01 --> Query error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'tsp_logistics.recivestockbytender_new.tender_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by - Invalid query: SELECT MAX(stock_id) as stock_id,item_id,tender_id,from_transfer_id,to_transfer_id FROM recivestockbytender_new where from_transfer_type='District' AND to_transfer_type='FS'  and  to_transfer_id='299' and to_transfer_type='FS'  group by item_id ,to_transfer_id  
+ERROR - 2022-02-09 15:27:01 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/firestation/application/views/fsavailableStock.php 271
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          INFO - 2022-02-09 15:33:10 --> Config Class Initialized
+INFO - 2022-02-09 15:33:10 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:33:10 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:33:10 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:33:10 --> URI Class Initialized
+INFO - 2022-02-09 15:33:10 --> Router Class Initialized
+INFO - 2022-02-09 15:33:10 --> Output Class Initialized
+INFO - 2022-02-09 15:33:10 --> Security Class Initialized
+DEBUG - 2022-02-09 15:33:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:33:10 --> Input Class Initialized
+INFO - 2022-02-09 15:33:10 --> Language Class Initialized
+INFO - 2022-02-09 15:33:10 --> Loader Class Initialized
+INFO - 2022-02-09 15:33:10 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:33:10 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:33:10 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:33:10 --> Email Class Initialized
+INFO - 2022-02-09 15:33:10 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:33:10 --> Controller Class Initialized
+INFO - 2022-02-09 15:33:10 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:33:10 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:33:10 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:33:10 --> Model Class Initialized
+DEBUG - 2022-02-09 15:33:10 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:33:10 --> Config Class Initialized
+INFO - 2022-02-09 15:33:10 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:33:10 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:33:10 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:33:10 --> URI Class Initialized
+INFO - 2022-02-09 15:33:10 --> Router Class Initialized
+INFO - 2022-02-09 15:33:10 --> Output Class Initialized
+INFO - 2022-02-09 15:33:10 --> Security Class Initialized
+DEBUG - 2022-02-09 15:33:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:33:10 --> Input Class Initialized
+INFO - 2022-02-09 15:33:10 --> Language Class Initialized
+INFO - 2022-02-09 15:33:10 --> Loader Class Initialized
+INFO - 2022-02-09 15:33:10 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:33:10 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:33:10 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:33:10 --> Email Class Initialized
+INFO - 2022-02-09 15:33:10 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:33:10 --> Controller Class Initialized
+INFO - 2022-02-09 15:33:10 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:33:10 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:33:10 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:33:10 --> Model Class Initialized
+DEBUG - 2022-02-09 15:33:10 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:33:10 --> File loaded: /var/www/html/firestation/application/views/login.php
+INFO - 2022-02-09 15:33:10 --> Final output sent to browser
+DEBUG - 2022-02-09 15:33:10 --> Total execution time: 0.0081
+INFO - 2022-02-09 15:33:14 --> Config Class Initialized
+INFO - 2022-02-09 15:33:14 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:33:14 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:33:14 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:33:14 --> URI Class Initialized
+INFO - 2022-02-09 15:33:14 --> Router Class Initialized
+INFO - 2022-02-09 15:33:14 --> Output Class Initialized
+INFO - 2022-02-09 15:33:14 --> Security Class Initialized
+DEBUG - 2022-02-09 15:33:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:33:14 --> Input Class Initialized
+INFO - 2022-02-09 15:33:14 --> Language Class Initialized
+INFO - 2022-02-09 15:33:14 --> Loader Class Initialized
+INFO - 2022-02-09 15:33:14 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:33:14 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:33:14 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:33:14 --> Email Class Initialized
+INFO - 2022-02-09 15:33:14 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:33:14 --> Controller Class Initialized
+INFO - 2022-02-09 15:33:14 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:33:14 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:33:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:33:14 --> Model Class Initialized
+DEBUG - 2022-02-09 15:33:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:33:14 --> Config Class Initialized
+INFO - 2022-02-09 15:33:14 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:33:14 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:33:14 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:33:14 --> URI Class Initialized
+INFO - 2022-02-09 15:33:14 --> Router Class Initialized
+INFO - 2022-02-09 15:33:14 --> Output Class Initialized
+INFO - 2022-02-09 15:33:14 --> Security Class Initialized
+DEBUG - 2022-02-09 15:33:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:33:14 --> Input Class Initialized
+INFO - 2022-02-09 15:33:14 --> Language Class Initialized
+INFO - 2022-02-09 15:33:14 --> Loader Class Initialized
+INFO - 2022-02-09 15:33:14 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:33:14 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:33:14 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:33:14 --> Email Class Initialized
+INFO - 2022-02-09 15:33:14 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:33:14 --> Controller Class Initialized
+INFO - 2022-02-09 15:33:14 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:33:14 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:33:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:33:14 --> Model Class Initialized
+DEBUG - 2022-02-09 15:33:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:33:14 --> File loaded: /var/www/html/firestation/application/views/login.php
+INFO - 2022-02-09 15:33:14 --> Final output sent to browser
+DEBUG - 2022-02-09 15:33:14 --> Total execution time: 0.0031
+INFO - 2022-02-09 15:33:21 --> Config Class Initialized
+INFO - 2022-02-09 15:33:21 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:33:21 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:33:21 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:33:21 --> URI Class Initialized
+INFO - 2022-02-09 15:33:21 --> Router Class Initialized
+INFO - 2022-02-09 15:33:21 --> Output Class Initialized
+INFO - 2022-02-09 15:33:21 --> Security Class Initialized
+DEBUG - 2022-02-09 15:33:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:33:21 --> Input Class Initialized
+INFO - 2022-02-09 15:33:21 --> Language Class Initialized
+INFO - 2022-02-09 15:33:21 --> Loader Class Initialized
+INFO - 2022-02-09 15:33:21 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:33:21 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:33:21 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:33:21 --> Email Class Initialized
+INFO - 2022-02-09 15:33:21 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:33:21 --> Controller Class Initialized
+INFO - 2022-02-09 15:33:21 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:33:21 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:33:21 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:33:21 --> Model Class Initialized
+DEBUG - 2022-02-09 15:33:21 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:33:21 --> File loaded: /var/www/html/firestation/application/views/login.php
+INFO - 2022-02-09 15:33:21 --> Final output sent to browser
+DEBUG - 2022-02-09 15:33:21 --> Total execution time: 0.0089
+INFO - 2022-02-09 15:33:42 --> Config Class Initialized
+INFO - 2022-02-09 15:33:42 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:33:42 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:33:42 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:33:42 --> URI Class Initialized
+INFO - 2022-02-09 15:33:42 --> Router Class Initialized
+INFO - 2022-02-09 15:33:42 --> Output Class Initialized
+INFO - 2022-02-09 15:33:42 --> Security Class Initialized
+DEBUG - 2022-02-09 15:33:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:33:42 --> Input Class Initialized
+INFO - 2022-02-09 15:33:42 --> Language Class Initialized
+INFO - 2022-02-09 15:33:42 --> Loader Class Initialized
+INFO - 2022-02-09 15:33:42 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:33:42 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:33:42 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:33:42 --> Email Class Initialized
+INFO - 2022-02-09 15:33:42 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:33:42 --> Controller Class Initialized
+INFO - 2022-02-09 15:33:42 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:33:42 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:33:42 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:33:42 --> Model Class Initialized
+DEBUG - 2022-02-09 15:33:42 --> Session class already loaded. Second attempt ignored.
+ERROR - 2022-02-09 15:33:42 --> Query error: Incorrect file format 'units_masters' - Invalid query: select * from units_masters  WHERE  id = ''
+ERROR - 2022-02-09 15:33:42 --> Severity: error --> Exception: Call to a member function row_array() on bool /var/www/html/firestation/application/models/Login_model.php 91
+INFO - 2022-02-09 15:33:49 --> Config Class Initialized
+INFO - 2022-02-09 15:33:49 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:33:49 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:33:49 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:33:49 --> URI Class Initialized
+INFO - 2022-02-09 15:33:49 --> Router Class Initialized
+INFO - 2022-02-09 15:33:49 --> Output Class Initialized
+INFO - 2022-02-09 15:33:49 --> Security Class Initialized
+DEBUG - 2022-02-09 15:33:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:33:49 --> Input Class Initialized
+INFO - 2022-02-09 15:33:49 --> Language Class Initialized
+INFO - 2022-02-09 15:33:49 --> Loader Class Initialized
+INFO - 2022-02-09 15:33:49 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:33:49 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:33:49 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:33:49 --> Email Class Initialized
+INFO - 2022-02-09 15:33:49 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:33:49 --> Controller Class Initialized
+INFO - 2022-02-09 15:33:49 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:33:49 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:33:49 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:33:49 --> Model Class Initialized
+DEBUG - 2022-02-09 15:33:49 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:33:49 --> File loaded: /var/www/html/firestation/application/views/login.php
+INFO - 2022-02-09 15:33:49 --> Final output sent to browser
+DEBUG - 2022-02-09 15:33:49 --> Total execution time: 0.0038
+INFO - 2022-02-09 15:34:19 --> Config Class Initialized
+INFO - 2022-02-09 15:34:19 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:34:19 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:34:19 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:34:19 --> URI Class Initialized
+INFO - 2022-02-09 15:34:19 --> Router Class Initialized
+INFO - 2022-02-09 15:34:19 --> Output Class Initialized
+INFO - 2022-02-09 15:34:19 --> Security Class Initialized
+DEBUG - 2022-02-09 15:34:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:34:19 --> Input Class Initialized
+INFO - 2022-02-09 15:34:19 --> Language Class Initialized
+INFO - 2022-02-09 15:34:19 --> Loader Class Initialized
+INFO - 2022-02-09 15:34:19 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:34:19 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:34:19 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:34:19 --> Email Class Initialized
+INFO - 2022-02-09 15:34:19 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:34:19 --> Controller Class Initialized
+INFO - 2022-02-09 15:34:19 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:34:19 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:34:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:34:19 --> Model Class Initialized
+DEBUG - 2022-02-09 15:34:19 --> Session class already loaded. Second attempt ignored.
+ERROR - 2022-02-09 15:34:19 --> Query error: Incorrect file format 'units_masters' - Invalid query: select * from units_masters  WHERE  id = ''
+ERROR - 2022-02-09 15:34:19 --> Severity: error --> Exception: Call to a member function row_array() on bool /var/www/html/firestation/application/models/Login_model.php 91
+INFO - 2022-02-09 15:34:42 --> Config Class Initialized
+INFO - 2022-02-09 15:34:42 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:34:42 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:34:42 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:34:42 --> URI Class Initialized
+INFO - 2022-02-09 15:34:42 --> Router Class Initialized
+INFO - 2022-02-09 15:34:42 --> Output Class Initialized
+INFO - 2022-02-09 15:34:42 --> Security Class Initialized
+DEBUG - 2022-02-09 15:34:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:34:42 --> Input Class Initialized
+INFO - 2022-02-09 15:34:42 --> Language Class Initialized
+INFO - 2022-02-09 15:34:42 --> Loader Class Initialized
+INFO - 2022-02-09 15:34:42 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:34:42 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:34:42 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:34:42 --> Email Class Initialized
+INFO - 2022-02-09 15:34:42 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:34:42 --> Controller Class Initialized
+INFO - 2022-02-09 15:34:42 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:34:42 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:34:42 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:34:42 --> Model Class Initialized
+DEBUG - 2022-02-09 15:34:42 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:34:42 --> File loaded: /var/www/html/firestation/application/views/login.php
+INFO - 2022-02-09 15:34:42 --> Final output sent to browser
+DEBUG - 2022-02-09 15:34:42 --> Total execution time: 0.0033
 INFO - 2022-02-09 15:35:44 --> Config Class Initialized
 INFO - 2022-02-09 15:35:44 --> Hooks Class Initialized
 DEBUG - 2022-02-09 15:35:44 --> UTF-8 Support Enabled
 INFO - 2022-02-09 15:35:44 --> Utf8 Class Initialized
 INFO - 2022-02-09 15:35:44 --> URI Class Initialized
-DEBUG - 2022-02-09 15:35:44 --> No URI present. Default controller set.
 INFO - 2022-02-09 15:35:44 --> Router Class Initialized
 INFO - 2022-02-09 15:35:44 --> Output Class Initialized
 INFO - 2022-02-09 15:35:44 --> Security Class Initialized
@@ -5820,7 +5644,6 @@ INFO - 2022-02-09 15:35:44 --> Language Class Initialized
 INFO - 2022-02-09 15:35:44 --> Loader Class Initialized
 INFO - 2022-02-09 15:35:44 --> Helper loaded: url_helper
 INFO - 2022-02-09 15:35:44 --> Helper loaded: file_helper
-INFO - 2022-02-09 15:35:44 --> Helper loaded: idex_helper
 INFO - 2022-02-09 15:35:44 --> Database Driver Class Initialized
 INFO - 2022-02-09 15:35:44 --> Email Class Initialized
 INFO - 2022-02-09 15:35:44 --> Session: Class initialized using 'files' driver.
@@ -5830,11 +5653,32 @@ INFO - 2022-02-09 15:35:44 --> Form Validation Class Initialized
 DEBUG - 2022-02-09 15:35:44 --> Session class already loaded. Second attempt ignored.
 INFO - 2022-02-09 15:35:44 --> Model Class Initialized
 DEBUG - 2022-02-09 15:35:44 --> Session class already loaded. Second attempt ignored.
-INFO - 2022-02-09 15:35:44 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/header.php
-INFO - 2022-02-09 15:35:44 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/leftmenu.php
-INFO - 2022-02-09 15:35:44 --> File loaded: C:\xampp\htdocs\firestation\application\views\dashboard.php
-INFO - 2022-02-09 15:35:44 --> File loaded: C:\xampp\htdocs\firestation\application\views\includes/footer.php
+INFO - 2022-02-09 15:35:44 --> Config Class Initialized
+INFO - 2022-02-09 15:35:44 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:35:44 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:35:44 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:35:44 --> URI Class Initialized
+INFO - 2022-02-09 15:35:44 --> Router Class Initialized
+INFO - 2022-02-09 15:35:44 --> Output Class Initialized
+INFO - 2022-02-09 15:35:44 --> Security Class Initialized
+DEBUG - 2022-02-09 15:35:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:35:44 --> Input Class Initialized
+INFO - 2022-02-09 15:35:44 --> Language Class Initialized
+INFO - 2022-02-09 15:35:44 --> Loader Class Initialized
+INFO - 2022-02-09 15:35:44 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:35:44 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:35:44 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:35:44 --> Email Class Initialized
+INFO - 2022-02-09 15:35:44 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:35:44 --> Controller Class Initialized
+INFO - 2022-02-09 15:35:44 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:35:44 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:35:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:35:44 --> Model Class Initialized
+DEBUG - 2022-02-09 15:35:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:35:44 --> File loaded: /var/www/html/firestation/application/views/login.php
 INFO - 2022-02-09 15:35:44 --> Final output sent to browser
+<<<<<<< HEAD
 DEBUG - 2022-02-09 15:35:44 --> Total execution time: 0.2048
 INFO - 2022-02-09 15:35:45 --> Config Class Initialized
 INFO - 2022-02-09 15:35:45 --> Hooks Class Initialized
@@ -7393,3 +7237,82 @@ DEBUG - 2022-02-09 16:08:40 --> Global POST, GET and COOKIE data sanitized
 INFO - 2022-02-09 16:08:40 --> Input Class Initialized
 INFO - 2022-02-09 16:08:40 --> Language Class Initialized
 ERROR - 2022-02-09 16:08:40 --> 404 Page Not Found: Assets/img
+=======
+DEBUG - 2022-02-09 15:35:44 --> Total execution time: 0.0034
+INFO - 2022-02-09 15:36:03 --> Config Class Initialized
+INFO - 2022-02-09 15:36:03 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:36:03 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:36:03 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:36:03 --> URI Class Initialized
+INFO - 2022-02-09 15:36:03 --> Router Class Initialized
+INFO - 2022-02-09 15:36:03 --> Output Class Initialized
+INFO - 2022-02-09 15:36:03 --> Security Class Initialized
+DEBUG - 2022-02-09 15:36:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:36:03 --> Input Class Initialized
+INFO - 2022-02-09 15:36:03 --> Language Class Initialized
+INFO - 2022-02-09 15:36:03 --> Loader Class Initialized
+INFO - 2022-02-09 15:36:03 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:36:03 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:36:03 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:36:03 --> Email Class Initialized
+INFO - 2022-02-09 15:36:03 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:36:03 --> Controller Class Initialized
+INFO - 2022-02-09 15:36:03 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:36:03 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:36:03 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:36:03 --> Model Class Initialized
+DEBUG - 2022-02-09 15:36:03 --> Session class already loaded. Second attempt ignored.
+ERROR - 2022-02-09 15:36:03 --> Query error: Incorrect file format 'units_masters' - Invalid query: select * from units_masters  WHERE  id = ''
+ERROR - 2022-02-09 15:36:03 --> Severity: error --> Exception: Call to a member function row_array() on bool /var/www/html/firestation/application/models/Login_model.php 91
+INFO - 2022-02-09 15:38:46 --> Config Class Initialized
+INFO - 2022-02-09 15:38:46 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:38:46 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:38:46 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:38:46 --> URI Class Initialized
+INFO - 2022-02-09 15:38:46 --> Router Class Initialized
+INFO - 2022-02-09 15:38:46 --> Output Class Initialized
+INFO - 2022-02-09 15:38:46 --> Security Class Initialized
+DEBUG - 2022-02-09 15:38:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:38:46 --> Input Class Initialized
+INFO - 2022-02-09 15:38:46 --> Language Class Initialized
+INFO - 2022-02-09 15:38:46 --> Loader Class Initialized
+INFO - 2022-02-09 15:38:46 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:38:46 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:38:46 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:38:46 --> Email Class Initialized
+INFO - 2022-02-09 15:38:46 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:38:46 --> Controller Class Initialized
+INFO - 2022-02-09 15:38:46 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:38:46 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:38:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:38:46 --> Model Class Initialized
+DEBUG - 2022-02-09 15:38:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:38:46 --> File loaded: /var/www/html/firestation/application/views/login.php
+INFO - 2022-02-09 15:38:46 --> Final output sent to browser
+DEBUG - 2022-02-09 15:38:46 --> Total execution time: 0.0029
+INFO - 2022-02-09 15:39:06 --> Config Class Initialized
+INFO - 2022-02-09 15:39:06 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:39:06 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:39:06 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:39:06 --> URI Class Initialized
+INFO - 2022-02-09 15:39:06 --> Router Class Initialized
+INFO - 2022-02-09 15:39:06 --> Output Class Initialized
+INFO - 2022-02-09 15:39:06 --> Security Class Initialized
+DEBUG - 2022-02-09 15:39:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:39:06 --> Input Class Initialized
+INFO - 2022-02-09 15:39:06 --> Language Class Initialized
+INFO - 2022-02-09 15:39:06 --> Loader Class Initialized
+INFO - 2022-02-09 15:39:06 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:39:06 --> Helper loaded: file_helper
+INFO - 2022-02-09 15:39:06 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:39:06 --> Email Class Initialized
+INFO - 2022-02-09 15:39:06 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-09 15:39:06 --> Controller Class Initialized
+INFO - 2022-02-09 15:39:06 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:39:06 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:39:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-02-09 15:39:06 --> Model Class Initialized
+DEBUG - 2022-02-09 15:39:06 --> Session class already loaded. Second attempt ignored.
+ERROR - 2022-02-09 15:39:06 --> Query error: Incorrect file format 'units_masters' - Invalid query: select * from units_masters  WHERE  id = ''
+ERROR - 2022-02-09 15:39:06 --> Severity: error --> Exception: Call to a member function row_array() on bool /var/www/html/firestation/application/models/Login_model.php 91
+>>>>>>> d88836f61acf67ccfabee41c9e093a526b2932d4

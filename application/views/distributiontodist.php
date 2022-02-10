@@ -31,6 +31,7 @@
 				},
 				cache: false,
 				success: function(dataResult){
+					$('#qty_recieved'+classno).val(dataResult);
 					$(".qtyrec"+classno).attr({
        "max" : dataResult,        // substitute your own
        "min" : 1          // values (or variables) here
@@ -147,7 +148,7 @@
                
                
                  <td><input type="text"  required class="form-control " placeholder="D. ORDER NO" min="0" max="0" value="<?php //echo $row['distribution_order_no']; ?>" name="distribution_order_no"></td>
-                <td><input type="number" style="width:70px;" required class="form-control qtyrec<?php echo $count?>" placeholder="Qty " value="" min="1" max="1" required name="qty_recieved" id="qty_recieved" > <!--onchange="check()"-->
+                <td><input type="number" style="width:70px;" required class="form-control qtyrec<?php echo $count?>" placeholder="Qty " value="" min="1" max="1" required name="qty_recieved" id="qty_recieved<?php echo $count?>" > <!--onchange="check()"-->
                 
                 <input type="hidden" class="form-control" placeholder="IV No" value="<?php echo $row['qty_recieved']; ?>" name="qty_recieved_old" id="qty_recieved_old">
                 </td>
